@@ -8,12 +8,11 @@ from models.base_model import BaseModel
 
 
 class Word2VecModel(nn.Module):
-    def __init__(self, context_size: int = 2):
+    def __init__(self, vocab_size: int, context_size: int = 2):
         super().__init__()
 
         self.context_size = context_size
 
-        vocab_size = 3000000
         embedding_dim = 300
 
         self.model = nn.Sequential(
@@ -47,6 +46,6 @@ class Word2VecModel(nn.Module):
         return self.loss_fn(model_output, index_gt)
 
 
-if __name__ == '__main__':
-    obj = Word2VecModel()
-    # print(obj.complete_ngram(['this', 'is']))
+# if __name__ == '__main__':
+#     obj = Word2VecModel()
+#     # print(obj.complete_ngram(['this', 'is']))

@@ -12,6 +12,7 @@ from nltk.corpus import stopwords
 from torch.utils.data import Dataset
 
 import helper.data_processing as data_processing
+import helper.w2v as w2v
 
 
 class EmbeddedCommentsDataset(Dataset):
@@ -54,7 +55,7 @@ class EmbeddedCommentsDataset(Dataset):
         npy_path = os.path.join(base_path, subreddit+'.npy')
         raw_data = np.load(npy_path)
 
-        # process the taw data into sentences
+        # process the raw data into sentences
 
         sentences = functools.reduce(
             operator.iconcat, [tokenizer.tokenize(inp) for inp in raw_data], [])
@@ -63,6 +64,11 @@ class EmbeddedCommentsDataset(Dataset):
                              filter(lambda x: x !=
                                     '[removed]', sentences)
                              ))
+
+        # get the vocab from sentences
+        dataset_vocab = data_processing.get_vocab_set(sentences)
+
+        w2v.restrict_w2v(self.word2vec_model, dataset_vocab)
 
         # convert the sentences to ngrams, and embed them
         self.data = []
@@ -81,6 +87,9 @@ class EmbeddedCommentsDataset(Dataset):
                         (context_embedding, torch.LongTensor([target_label]))
                     )
 
+    def get_vocab_size(self):
+        return len(self.word2vec_model.wv.vocab)
+
     def __len__(self):
         return len(self.data)
 
@@ -91,11 +100,11 @@ class EmbeddedCommentsDataset(Dataset):
         return self.data[idx]
 
 
-if __name__ == '__main__':
-    obj = CommentsDataset('../dataset/small',
-                          'the_donald', remove_stopwords=True)
+# if __name__ == '__main__':
+#     obj = CommentsDataset('../dataset/small',
+#                           'the_donald', remove_stopwords=True)
 
-    print(obj.__len__())
+#     print(obj.__len__())
 
-    for i in range(10):
-        print(obj.__getitem__(i))
+#     for i in range(10):
+#         print(obj.__getitem__(i))

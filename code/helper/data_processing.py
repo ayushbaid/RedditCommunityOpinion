@@ -1,10 +1,21 @@
-from typing import List
+from typing import List, Set
 
 import torch
 import numpy as np
 
 from nltk.util import everygrams
 from nltk.tokenize import wordpunct_tokenize
+
+
+def get_vocab_set(inp: List[str]) -> Set[str]:
+    # break the sentences to word
+    vocab_set = set()
+
+    for inp_sentence in inp:
+        for word in wordpunct_tokenize(inp_sentence):
+            vocab_set.add(word)
+
+    return vocab_set
 
 
 def convert_sentence_to_ngrams(inp_sentence: str, n_param=3) -> List[str]:

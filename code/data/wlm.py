@@ -35,7 +35,7 @@ class Dictionary(object):
 
 
 class WLMCorpus:
-    def __init__(self, base_path: str, subreddit: str, inp_length: int, eos_token='<eos>'):
+    def __init__(self, base_path: str, subreddit: str, eos_token='<eos>'):
         super().__init__()
 
         self.dictionary = Dictionary()
@@ -44,9 +44,6 @@ class WLMCorpus:
         self.dictionary.add_word(self.eos_token)
 
         self.eos_id = self.dictionary.word2idx[self.eos_token]
-
-        # length of the input (the bptt value)
-        self.input_length = inp_length
 
         tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 

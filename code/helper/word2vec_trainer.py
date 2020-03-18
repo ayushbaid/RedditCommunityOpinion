@@ -39,6 +39,8 @@ if __name__ == '__main__':
 
         if epoch % 5 == 0:
             # test on dummy phrase
+            if len(loss_history):
+                print('Loss: {}'.format(loss_history[-1]))
             with torch.no_grad():
                 try:
                     context = embed_words(
@@ -61,8 +63,8 @@ if __name__ == '__main__':
 
         for batch_idx, (X, y) in enumerate(dataloader):
 
-            if batch_idx % 250 == 0:
-                print('\t{}  batches processed'.format(batch_idx))
+            # if batch_idx % 250 == 0:
+            #     print('\t{}  batches processed'.format(batch_idx))
 
             model.zero_grad()
 

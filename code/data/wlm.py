@@ -35,11 +35,13 @@ class Dictionary(object):
 
 
 class WLMCorpus:
-    def __init__(self, base_path: str, subreddit: str, eos_token='<eos>'):
+    def __init__(self, base_path: str, subreddit: str, max_sentence_length: int, eos_token='<eos>'):
         super().__init__()
 
         self.dictionary = Dictionary()
         self.eos_token = eos_token
+
+        self.max_sentence_length = max_sentence_length
 
         self.dictionary.add_word(self.eos_token)
 
@@ -87,10 +89,11 @@ class WLMCorpus:
         # Tokenize the sentences
         idss = []
         for line in sentences:
+
+            words = line.split()
+
             if add_eos_token:
-                words = line.split() + [self.eos_token]
-            else:
-                words = line.split()
+                words = words + [self.eos_token]
 
             # # padd the sentence so that it is divisible by the input_length
             # num_fill = len(words) % self.input_length

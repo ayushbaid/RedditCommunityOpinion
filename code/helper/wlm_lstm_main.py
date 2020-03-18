@@ -21,16 +21,18 @@ class WLMRunner():
         self.clip = 0.25  # gradient clipping
         self.num_epochs = 40  # upper epoch limit
         self.batch_size = 20  # batch size
-        self.bptt = 5  # bptt sequence length
+        self.bptt = 10  # bptt sequence length
 
-        self.max_recon = 15
+        self.max_recon = 10
 
         self.is_cuda = True and torch.cuda.is_available()
         self.device = torch.device('cuda' if self.is_cuda else 'cpu')
 
         self.model_path = '../models/wlm_lstm/{}.pt'.format(subreddit)
 
-        self.corpus = WLMCorpus('../dataset/100k/', subreddit)
+        self.corpus = WLMCorpus(
+            '../dataset/5k/', subreddit, max_sentence_length=self.bptt
+        )
 
         # load the sample phrases for evaluation
         with open('../config/questions.txt') as f:

@@ -1,6 +1,7 @@
 import os
 import math
 import time
+import sys
 
 import torch
 
@@ -251,9 +252,16 @@ class WLMRunner():
 
 
 if __name__ == '__main__':
-    # import pdb
-    # pdb.set_trace()
+    argv = sys.argv
 
-    obj = WLMRunner('the_donald', load_from_disk=False)
+    if len(argv) > 1:
+        subreddit = argv[1]
+    else:
+        raise AttributeError('Subreddit name missing')
+
+    if len(argv) > 2:
+        is_load_from_disk = argv[2] == '1'
+
+    obj = WLMRunner(subreddit, load_from_disk=is_load_from_disk)
 
     obj.train()

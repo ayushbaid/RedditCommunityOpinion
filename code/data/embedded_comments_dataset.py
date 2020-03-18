@@ -100,11 +100,11 @@ class EmbeddedCommentsDataset(Dataset):
         return self.data[idx]
 
 
-# if __name__ == '__main__':
-#     obj = CommentsDataset('../dataset/small',
-#                           'the_donald', remove_stopwords=True)
+if __name__ == '__main__':
+    obj = EmbeddedCommentsDataset('../dataset/small',
+                                  'the_donald', remove_stopwords=False)
 
-#     print(obj.__len__())
+    print(obj.__len__())
 
-#     for i in range(10):
-#         print(obj.__getitem__(i))
+    for i in range(10):
+        print(obj.__getitem__(i))

@@ -12,24 +12,10 @@ from torch.utils.data import Dataset
 
 
 class CommentsDataset(Dataset):
-    def __format_sentences(self, inp: str) -> str:
-        # format the sentences to remove special characters
-
-        # removing subreddit and user links
-        clean_review = re.sub(r'/?(r|u)/\w+/?', '', inp)
-
-        clean_review = re.sub('[^a-zA-Z]', ' ', clean_review)
-
-        # convert to lower case
-        clean_review = clean_review.lower()
-
-        if self.remove_stopwords:
-            return ' '.join([word for word in clean_review.split() if word not in self.stop_words])
-        else:
-            return clean_review
-
-    def __init__(self, base_path, subreddit, remove_stopwords=False):
+    def __init__(self, base_path, subreddit, remove_stopwords=False, eos_token=None):
         super().__init__()
+
+        self.eos_token = eos_token
 
         nltk.download('stopwords')
 
@@ -52,6 +38,22 @@ class CommentsDataset(Dataset):
                                          '[removed]', self.sentences)
                                   ))
 
+    def __format_sentences(self, inp: str) -> str:
+        # format the sentences to remove special characters
+
+        # removing subreddit and user links
+        clean_review = re.sub(r'/?(r|u)/\w+/?', '', inp)
+
+        clean_review = re.sub('[^a-zA-Z]', ' ', clean_review)
+
+        # convert to lower case
+        clean_review = clean_review.lower()
+
+        if self.remove_stopwords:
+            return ' '.join([word for word in clean_review.split() if word not in self.stop_words])
+        else:
+            return clean_review
+
     def __len__(self):
         return len(self.sentences)
 
@@ -59,7 +61,10 @@ class CommentsDataset(Dataset):
         if torch.is_tensor(idx):
             idx = idx.tolist()
 
-        return self.sentences[idx]
+        if self.eos_token is None:
+            return self.sentences[idx]
+
+        return self.sentences[idx] + ' ' + self.eos_token
 
     def get_training_set(self):
         return self.sentences
@@ -67,7 +72,9 @@ class CommentsDataset(Dataset):
 
 if __name__ == '__main__':
     obj = CommentsDataset('../dataset/small',
-                          'the_donald', remove_stopwords=True)
+                          'the_donald',
+                          remove_stopwords=True,
+                          eos_token='</s>')
 
     print(obj.__len__())
 

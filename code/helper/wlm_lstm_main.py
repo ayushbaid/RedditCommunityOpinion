@@ -1,3 +1,4 @@
+import os
 import math
 import time
 
@@ -12,7 +13,7 @@ class WLMRunner():
     Runner for wlm_lstm model, providing train and test code
     '''
 
-    def __init__(self):
+    def __init__(self, subreddit, load_from_disk=True):
         self.emsize = 200  # size of word embeddings
         self.nlayers = 1  # number of layers in the RNN module
         self.lr = 20  # initial learning rate
@@ -21,14 +22,14 @@ class WLMRunner():
         self.batch_size = 20  # batch size
         self.bptt = 5  # bptt sequence length
 
-        self.max_recon = 10
+        self.max_recon = 15
 
         self.is_cuda = True and torch.cuda.is_available()
         self.device = torch.device('cuda' if self.is_cuda else 'cpu')
 
-        self.model_path = '../models/wlm_lstm.pt'
+        self.model_path = '../models/wlm_lstm/{}.pt'.format(subreddit)
 
-        self.corpus = WLMCorpus('../dataset/small/', 'the_donald', self.bptt)
+        self.corpus = WLMCorpus('../dataset/100k/', subreddit)
 
         # load the sample phrases for evaluation
         with open('../config/questions.txt') as f:
@@ -46,11 +47,25 @@ class WLMRunner():
         self.model = LSTMModel(self.ntokens, self.emsize).to(self.device)
 
         self.train_data = self.batchify(self.corpus.data_ids, self.batch_size)
-        print(self.train_data.shape)
 
-        self.log_interval = 100  # log after # batches
+        self.log_interval = 5000  # log after # batches
 
         self.criterion = torch.nn.NLLLoss()
+
+        # load the model from disk if it exists
+        if os.path.exists(self.model_path) and load_from_disk:
+            checkpoint = torch.load(self.model_path, map_location=self.device)
+
+            # TODO: just storing the model for now
+            self.model.load_state_dict(checkpoint['model_state_dict'])
+
+        if not os.path.exists(os.path.dirname(self.model_path)):
+            os.makedirs(os.path.dirname(self.model_path))
+
+    def save_model(self):
+        torch.save({
+            'model_state_dict': self.model.state_dict()
+        }, self.model_path)
 
     def batchify(self, data, bsz):
         # Starting from sequential data, batchify arranges the dataset into columns.
@@ -159,14 +174,17 @@ class WLMRunner():
 
     def train(self):
         # try:
-        for epoch in range(1, self.num_epochs+1):
-            self.evaluate_phrases()
+        for epoch in range(self.num_epochs):
             epoch_start_time = time.time()
-            self.train_iter(epoch)
-            print('-' * 89)
-            print('| end of epoch {:3d} | time: {:5.2f}s | '.format(
-                epoch, (time.time() - epoch_start_time)))
-            print('-' * 89)
+            self.train_iter(epoch+1)
+            self.save_model()
+
+            if epoch % 5 == 0:
+                print('-' * 89)
+                self.evaluate_phrases()
+                print('| end of epoch {:3d} | time: {:5.2f}s | '.format(
+                    epoch+1, (time.time() - epoch_start_time)))
+                print('-' * 89)
             # Save the model if the validation loss is the best we've seen so far.
             # if not best_val_loss or val_loss < best_val_loss:
             #     with open(args.save, 'wb') as f:
@@ -174,7 +192,9 @@ class WLMRunner():
             #     best_val_loss = val_loss
             # else:
             #     # Anneal the learning rate if no improvement has been seen in the validation dataset.
-            #     lr /= 4.0
+            if epoch % 2 == 0 and epoch > 0:
+                # Anneal the learning rate
+                self.lr /= 4.0
         # except:
         #     pass
 
@@ -234,6 +254,6 @@ if __name__ == '__main__':
     # import pdb
     # pdb.set_trace()
 
-    obj = WLMRunner()
+    obj = WLMRunner('the_donald', load_from_disk=False)
 
     obj.train()

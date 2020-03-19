@@ -7,6 +7,7 @@ https://github.com/pytorch/examples/tree/master/word_language_model
 import functools
 import operator
 import os
+import pickle
 import re
 
 from typing import List
@@ -35,10 +36,15 @@ class Dictionary(object):
 
 
 class WLMCorpus:
-    def __init__(self, base_path: str, subreddit: str, max_sentence_length: int, eos_token='<eos>'):
+    def __init__(self, base_path: str, subreddit: str, max_sentence_length: int, eos_token='<eos>', dictionary_init: dict = None):
         super().__init__()
 
         self.dictionary = Dictionary()
+
+        if dictionary_init is not None:
+            self.dictionary.word2idx = dictionary_init['word2idx']
+            self.dictionary.idx2word = dictionary_init['idx2word']
+
         self.eos_token = eos_token
 
         self.max_sentence_length = max_sentence_length
@@ -130,3 +136,10 @@ class WLMCorpus:
 
     def lookup_word(self, id: int) -> str:
         return self.dictionary.idx2word[id]
+
+    def save_dictionary(self, save_path):
+        with open(save_path, 'wb') as f:
+            pickle.dump({
+                'word2idx': self.dictionary.word2idx,
+                'idx2word': self.dictionary.idx2word
+            }, f)

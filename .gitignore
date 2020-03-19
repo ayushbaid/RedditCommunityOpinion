@@ -152,6 +152,7 @@ dmypy.json
 
 ### VisualStudioCode ###
 */.vscode/*
+*/.metals/*
 #!.vscode/settings.json
 #!.vscode/tasks.json
 #!.vscode/launch.json
@@ -170,3 +171,6 @@ dmypy.json
 
 ### Ignoring the dataset files
 /dataset/
+
+### Ignoring ipynb checkpoints
+.ipynb_checkpoints/

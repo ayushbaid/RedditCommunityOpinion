@@ -6,8 +6,9 @@ import sys
 
 import torch
 
-from data.wlm import WLMCorpus
 from models.wlm_lstm import LSTMModel
+from data.wlm import WLMCorpus
+
 
 
 class WLMRunner():
@@ -20,9 +21,10 @@ class WLMRunner():
         self.nlayers = 1  # number of layers in the RNN module
         self.lr = 20  # initial learning rate
         self.clip = 0.25  # gradient clipping
-        self.num_epochs = 40  # upper epoch limit
+        self.num_epochs = 2  # upper epoch limit
         self.batch_size = 20  # batch size
         self.bptt = 10  # bptt sequence length
+        self.best_val_loss = None
 
         self.max_recon = 10
 
@@ -30,6 +32,7 @@ class WLMRunner():
         self.device = torch.device('cuda' if self.is_cuda else 'cpu')
 
         self.model_path = '../models/wlm_lstm/{}.pt'.format(subreddit)
+        self.best_model_path = '../models/wlm_lstm/{}_best.pt'.format(subreddit)
         self.dictionary_path = '../models/wlm_lstm/{}_dictionary.pickle'.format(
             subreddit
         )
@@ -40,7 +43,7 @@ class WLMRunner():
                 dictionary_init = pickle.load(f)
 
         self.corpus = WLMCorpus(
-            '../dataset/100k/',
+            '../dataset/5k/',
             subreddit,
             max_sentence_length=self.bptt,
             dictionary_init=dictionary_init
@@ -61,7 +64,9 @@ class WLMRunner():
 
         self.model = LSTMModel(self.ntokens, self.emsize).to(self.device)
 
-        self.train_data = self.batchify(self.corpus.data_ids, self.batch_size)
+        self.train_data = self.batchify(self.corpus.train_data_ids, self.batch_size)
+
+        self.val_data = self.batchify(self.corpus.val_data_ids, self.batch_size)
 
         self.log_interval = 5000  # log after # batches
 
@@ -76,14 +81,22 @@ class WLMRunner():
 
             # TODO: just storing the model for now
             self.model.load_state_dict(checkpoint['model_state_dict'])
+            self.lr = checkpoint['lr']
 
         if not os.path.exists(os.path.dirname(self.model_path)):
             os.makedirs(os.path.dirname(self.model_path))
 
-    def save_model(self):
+    def save_model(self, is_best = False):
+        if is_best:
+            model_name = self.best_model_path
+        else:
+            model_name = self.model_path
+
+        print ("Saving Model to ", model_name)
         torch.save({
-            'model_state_dict': self.model.state_dict()
-        }, self.model_path)
+            'model_state_dict': self.model.state_dict(),
+            'lr':self.lr
+        }, model_name)
 
     def batchify(self, data, bsz):
         # Starting from sequential data, batchify arranges the dataset into columns.
@@ -114,23 +127,28 @@ class WLMRunner():
         else:
             return tuple(self.repackage_hidden(v) for v in h)
 
-    # def evaluate(self, data_source):
-    #     # Turn on evaluation mode which disables dropout.
-    #     self.model.eval()
-    #     total_loss = 0.
-    #     ntokens = len(self.corpus.dictionary)
+    def evaluate(self, data_source):
+        # Turn on evaluation mode which disables dropout.
+        self.model.eval()
+        total_loss = 0.
+        ntokens = len(self.corpus.dictionary)
 
-    #     hidden = self.model.init_hidden(eval_batch_size)
-    #     with torch.no_grad():
-    #         for i in range(0, data_source.size(0) - 1, self.bptt):
-    #             data, targets = get_batch(data_source, i)
+        hidden = self.model.init_hidden(self.batch_size)
+        with torch.no_grad():
+            for i in range(0, data_source.size(0) - 1, self.bptt):
+                data, targets = self.get_batch(data_source, i)
 
-    #             output, hidden = model(data, hidden)
-    #             hidden = repackage_hidden(hidden)
-    #             output_flat = output.view(-1, ntokens)
-    #             total_loss += len(data) * \
-    #                 criterion(output_flat, targets).item()
-    #     return total_loss / (len(data_source) - 1)s
+                output, hidden = self.model(data, hidden)
+                hidden = self.repackage_hidden(hidden)
+                output_flat = output.view(-1, ntokens)
+                total_loss += len(data) * \
+                    self.criterion(output_flat, targets).item()
+        try:
+           result = total_loss / (len(data_source) - 1)
+        except ZeroDivisionError:
+            print ("Validation set too small, with len = "(data_source))
+        
+        return result
 
     def get_batch(self, source, i):
         # get_batch subdivides the source data into chunks of length args.bptt.
@@ -172,7 +190,7 @@ class WLMRunner():
 
             loss.backward()
 
-            torch.nn.utils.clip_grad_norm(self.model.parameters(), self.clip)
+            torch.nn.utils.clip_grad_norm_(self.model.parameters(), self.clip)
 
             for p in self.model.parameters():
                 p.data.add_(-self.lr, p.grad.data)
@@ -197,21 +215,21 @@ class WLMRunner():
             self.train_iter(epoch+1)
             self.save_model()
 
+            val_loss = self.evaluate(self.val_data)
+
             if epoch % 5 == 0:
                 print('-' * 89)
                 self.evaluate_phrases()
-                print('| end of epoch {:3d} | time: {:5.2f}s | '.format(
-                    epoch+1, (time.time() - epoch_start_time)))
+                print('| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.2f} | '
+                'valid ppl {:8.2f}'.format(epoch, (time.time() - epoch_start_time),
+                                           val_loss, math.exp(val_loss)))
                 print('-' * 89)
             # Save the model if the validation loss is the best we've seen so far.
-            # if not best_val_loss or val_loss < best_val_loss:
-            #     with open(args.save, 'wb') as f:
-            #         torch.save(model, f)
-            #     best_val_loss = val_loss
-            # else:
-            #     # Anneal the learning rate if no improvement has been seen in the validation dataset.
-            if epoch % 2 == 0 and epoch > 0:
-                # Anneal the learning rate
+            if not self.best_val_loss or val_loss < self.best_val_loss:
+                self.save_model(is_best=True)
+                self.best_val_loss = val_loss
+            else:
+                # Anneal the learning rate if no improvement has been seen in the validation dataset.
                 self.lr /= 4.0
         # except:
         #     pass
@@ -275,6 +293,8 @@ if __name__ == '__main__':
         subreddit = argv[1]
     else:
         raise AttributeError('Subreddit name missing')
+    
+    is_load_from_disk = False
 
     if len(argv) > 2:
         is_load_from_disk = argv[2] == '1'

@@ -1,4 +1,5 @@
 import os
+import pickle
 import math
 import time
 import sys
@@ -29,9 +30,20 @@ class WLMRunner():
         self.device = torch.device('cuda' if self.is_cuda else 'cpu')
 
         self.model_path = '../models/wlm_lstm/{}.pt'.format(subreddit)
+        self.dictionary_path = '../models/wlm_lstm/{}_dictionary.pickle'.format(
+            subreddit
+        )
+
+        dictionary_init = None
+        if load_from_disk:
+            with open(self.dictionary_path, 'rb') as f:
+                dictionary_init = pickle.load(f)
 
         self.corpus = WLMCorpus(
-            '../dataset/5k/', subreddit, max_sentence_length=self.bptt
+            '../dataset/100k/',
+            subreddit,
+            max_sentence_length=self.bptt,
+            dictionary_init=dictionary_init
         )
 
         # load the sample phrases for evaluation
@@ -54,6 +66,9 @@ class WLMRunner():
         self.log_interval = 5000  # log after # batches
 
         self.criterion = torch.nn.NLLLoss()
+
+        # save the corpus on disk
+        self.corpus.save_dictionary(self.dictionary_path)
 
         # load the model from disk if it exists
         if os.path.exists(self.model_path) and load_from_disk:

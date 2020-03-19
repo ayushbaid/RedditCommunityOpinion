@@ -59,7 +59,7 @@ class WLMCorpus:
         npy_path = os.path.join(base_path, subreddit+'.npy')
         raw_data = np.load(npy_path)
 
-        # process the taw data into sentences
+        # process the raw data into sentences
 
         sentences = functools.reduce(
             operator.iconcat, [tokenizer.tokenize(inp) for inp in raw_data], [])
@@ -69,7 +69,20 @@ class WLMCorpus:
                                     '[removed]', sentences)
                              ))
 
-        self.data_ids = self.tokenize_as_ngrams(sentences)
+        # limit sentences while debugging
+        sentences = sentences[:500]
+
+        num_train = int(0.7*len(sentences))
+        train_sentences = sentences[:num_train]
+        val_sentences = sentences[num_train:]
+
+        self.train_data_ids = self.tokenize_as_ngrams(train_sentences)
+        self.val_data_ids = self.tokenize_as_ngrams(val_sentences)
+
+        print ("-"*89)
+        print ("Total training sentences = ", num_train)
+        print ("Total validation sentences = ", len(sentences) - num_train)
+        print ("-"*89)
 
     def __format_sentences(self, inp: str) -> str:
         # format the sentences to remove special characters
@@ -138,6 +151,7 @@ class WLMCorpus:
         return self.dictionary.idx2word[id]
 
     def save_dictionary(self, save_path):
+        print ("Saving dictionary to ", save_path)
         with open(save_path, 'wb') as f:
             pickle.dump({
                 'word2idx': self.dictionary.word2idx,

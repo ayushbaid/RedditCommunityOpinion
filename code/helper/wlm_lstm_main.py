@@ -16,12 +16,12 @@ class WLMRunner():
     Runner for wlm_lstm model, providing train and test code
     '''
 
-    def __init__(self, subreddit, load_from_disk=True):
+    def __init__(self, subreddit, load_from_disk=True, init_from_w2v=False):
         self.emsize = 200  # size of word embeddings
         self.nlayers = 1  # number of layers in the RNN module
         self.lr = 20  # initial learning rate
         self.clip = 0.25  # gradient clipping
-        self.num_epochs = 2  # upper epoch limit
+        self.num_epochs = 40  # upper epoch limit
         self.batch_size = 20  # batch size
         self.bptt = 10  # bptt sequence length
         self.best_val_loss = None
@@ -43,7 +43,7 @@ class WLMRunner():
                 dictionary_init = pickle.load(f)
 
         self.corpus = WLMCorpus(
-            '../dataset/5k/',
+            '../dataset/100k/',
             subreddit,
             max_sentence_length=self.bptt,
             dictionary_init=dictionary_init
@@ -62,7 +62,12 @@ class WLMRunner():
 
         self.ntokens = len(self.corpus.dictionary)
 
-        self.model = LSTMModel(self.ntokens, self.emsize).to(self.device)
+        if init_from_w2v:
+            self.model = LSTMModel(self.ntokens, self.emsize, 
+                embeddings_init = self.corpus.dictionary.load_w2v_embeddings('../models/GoogleNews-vectors-negative300.bin.gz')
+            ).to(self.device)
+        else:
+            self.model = LSTMModel(self.ntokens, self.emsize).to(self.device)
 
         self.train_data = self.batchify(self.corpus.train_data_ids, self.batch_size)
 
@@ -193,7 +198,8 @@ class WLMRunner():
             torch.nn.utils.clip_grad_norm_(self.model.parameters(), self.clip)
 
             for p in self.model.parameters():
-                p.data.add_(-self.lr, p.grad.data)
+                if p.requires_grad:
+                    p.data.add_(-self.lr, p.grad.data)
 
             total_loss += loss.item()
 
@@ -299,6 +305,6 @@ if __name__ == '__main__':
     if len(argv) > 2:
         is_load_from_disk = argv[2] == '1'
 
-    obj = WLMRunner(subreddit, load_from_disk=is_load_from_disk)
+    obj = WLMRunner(subreddit, load_from_disk=is_load_from_disk, init_from_w2v=False)
 
     obj.train()

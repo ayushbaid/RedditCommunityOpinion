@@ -13,7 +13,7 @@ import torch.nn.functional as F
 class LSTMModel(nn.Module):
     """Container module with an encoder, a recurrent module, and a decoder."""
 
-    def __init__(self, ntoken, ninput, nlayers=1):  # dropout=0.5
+    def __init__(self, ntoken, ninput, nlayers=1, embeddings_init=None):  # dropout=0.5
         super().__init__()
 
         self.ntoken = ntoken
@@ -29,8 +29,14 @@ class LSTMModel(nn.Module):
 
         self.init_weights()
 
+        # Init the emcoder weight using initialization prodived
+        if embeddings_init is not None:
+            self.encoder.weight.data = embeddings_init.clone()
+            #self.encoder.weight.requires_grad = False
+
         # tying the encoder and decoder weights
         self.decoder.weight = self.encoder.weight
+
 
     def init_weights(self):
         initrange = 0.1

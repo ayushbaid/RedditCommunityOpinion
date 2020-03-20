@@ -17,6 +17,7 @@ import nltk
 import numpy as np
 import torch
 
+from gensim.models import KeyedVectors
 from nltk.util import ngrams
 
 
@@ -34,6 +35,23 @@ class Dictionary(object):
     def __len__(self):
         return len(self.idx2word)
 
+    def load_w2v_embeddings(self, word2vec_path):
+        word2vec_model = KeyedVectors.load_word2vec_format(
+            word2vec_path,
+            binary=True
+        )
+
+        num_words = len(self.idx2word)
+
+        embeddings = np.random.rand(num_words, 300) * 0.2 - 0.1
+
+        for idx, word in enumerate(self.idx2word):
+            try: 
+                embeddings[idx] = word2vec_model[word]
+            except KeyError:
+                pass
+        
+        return torch.from_numpy(embeddings).float()
 
 class WLMCorpus:
     def __init__(self, base_path: str, subreddit: str, max_sentence_length: int, eos_token='<eos>', dictionary_init: dict = None):
@@ -70,7 +88,7 @@ class WLMCorpus:
                              ))
 
         # limit sentences while debugging
-        sentences = sentences[:500]
+        # sentences = sentences[:500]
 
         num_train = int(0.7*len(sentences))
         train_sentences = sentences[:num_train]

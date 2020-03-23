@@ -10,7 +10,6 @@ from models.wlm_lstm import LSTMModel
 from data.wlm import WLMCorpus
 
 
-
 class WLMRunner():
     '''
     Runner for wlm_lstm model, providing train and test code
@@ -32,7 +31,8 @@ class WLMRunner():
         self.device = torch.device('cuda' if self.is_cuda else 'cpu')
 
         self.model_path = '../models/wlm_lstm/{}.pt'.format(subreddit)
-        self.best_model_path = '../models/wlm_lstm/{}_best.pt'.format(subreddit)
+        self.best_model_path = '../models/wlm_lstm/{}_best.pt'.format(
+            subreddit)
         self.dictionary_path = '../models/wlm_lstm/{}_dictionary.pickle'.format(
             subreddit
         )
@@ -43,7 +43,7 @@ class WLMRunner():
                 dictionary_init = pickle.load(f)
 
         self.corpus = WLMCorpus(
-            '../dataset/100k/',
+            '../dataset/',
             subreddit,
             max_sentence_length=self.bptt,
             dictionary_init=dictionary_init
@@ -63,15 +63,18 @@ class WLMRunner():
         self.ntokens = len(self.corpus.dictionary)
 
         if init_from_w2v:
-            self.model = LSTMModel(self.ntokens, self.emsize, 
-                embeddings_init = self.corpus.dictionary.load_w2v_embeddings('../models/GoogleNews-vectors-negative300.bin.gz')
-            ).to(self.device)
+            self.model = LSTMModel(self.ntokens, self.emsize,
+                                   embeddings_init=self.corpus.dictionary.load_w2v_embeddings(
+                                       '../models/GoogleNews-vectors-negative300.bin.gz')
+                                   ).to(self.device)
         else:
             self.model = LSTMModel(self.ntokens, self.emsize).to(self.device)
 
-        self.train_data = self.batchify(self.corpus.train_data_ids, self.batch_size)
+        self.train_data = self.batchify(
+            self.corpus.train_data_ids, self.batch_size)
 
-        self.val_data = self.batchify(self.corpus.val_data_ids, self.batch_size)
+        self.val_data = self.batchify(
+            self.corpus.val_data_ids, self.batch_size)
 
         self.log_interval = 5000  # log after # batches
 
@@ -91,16 +94,16 @@ class WLMRunner():
         if not os.path.exists(os.path.dirname(self.model_path)):
             os.makedirs(os.path.dirname(self.model_path))
 
-    def save_model(self, is_best = False):
+    def save_model(self, is_best=False):
         if is_best:
             model_name = self.best_model_path
         else:
             model_name = self.model_path
 
-        print ("Saving Model to ", model_name)
+        print("Saving Model to ", model_name)
         torch.save({
             'model_state_dict': self.model.state_dict(),
-            'lr':self.lr
+            'lr': self.lr
         }, model_name)
 
     def batchify(self, data, bsz):
@@ -149,10 +152,10 @@ class WLMRunner():
                 total_loss += len(data) * \
                     self.criterion(output_flat, targets).item()
         try:
-           result = total_loss / (len(data_source) - 1)
+            result = total_loss / (len(data_source) - 1)
         except ZeroDivisionError:
-            print ("Validation set too small, with len = "(data_source))
-        
+            print("Validation set too small, with len = "(data_source))
+
         return result
 
     def get_batch(self, source, i):
@@ -227,8 +230,8 @@ class WLMRunner():
                 print('-' * 89)
                 self.evaluate_phrases()
                 print('| end of epoch {:3d} | time: {:5.2f}s | valid loss {:5.2f} | '
-                'valid ppl {:8.2f}'.format(epoch, (time.time() - epoch_start_time),
-                                           val_loss, math.exp(val_loss)))
+                      'valid ppl {:8.2f}'.format(epoch, (time.time() - epoch_start_time),
+                                                 val_loss, math.exp(val_loss)))
                 print('-' * 89)
             # Save the model if the validation loss is the best we've seen so far.
             if not self.best_val_loss or val_loss < self.best_val_loss:
@@ -299,12 +302,13 @@ if __name__ == '__main__':
         subreddit = argv[1]
     else:
         raise AttributeError('Subreddit name missing')
-    
+
     is_load_from_disk = False
 
     if len(argv) > 2:
         is_load_from_disk = argv[2] == '1'
 
-    obj = WLMRunner(subreddit, load_from_disk=is_load_from_disk, init_from_w2v=False)
+    obj = WLMRunner(subreddit, load_from_disk=is_load_from_disk,
+                    init_from_w2v=False)
 
     obj.train()

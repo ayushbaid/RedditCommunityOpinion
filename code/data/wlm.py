@@ -8,6 +8,7 @@ import functools
 import operator
 import os
 import pickle
+import glob
 import re
 
 from typing import List
@@ -18,7 +19,6 @@ import numpy as np
 import torch
 
 from gensim.models import KeyedVectors
-from nltk.util import ngrams
 
 
 class Dictionary(object):
@@ -46,12 +46,13 @@ class Dictionary(object):
         embeddings = np.random.rand(num_words, 300) * 0.2 - 0.1
 
         for idx, word in enumerate(self.idx2word):
-            try: 
+            try:
                 embeddings[idx] = word2vec_model[word]
             except KeyError:
                 pass
-        
+
         return torch.from_numpy(embeddings).float()
+
 
 class WLMCorpus:
     def __init__(self, base_path: str, subreddit: str, max_sentence_length: int, eos_token='<eos>', dictionary_init: dict = None):
@@ -71,36 +72,47 @@ class WLMCorpus:
 
         self.eos_id = self.dictionary.word2idx[self.eos_token]
 
-        tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+        self.tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
-        # load the full numpy array
-        npy_path = os.path.join(base_path, subreddit+'.npy')
+        train_file_template = os.path.join(
+            base_path, '{}_train_part*.npy'.format(subreddit))
+        val_file_template = os.path.join(
+            base_path, '{}_val_part*.npy'.format(subreddit))
+
+        print('Train path: ', train_file_template)
+        print('Val path: ', val_file_template)
+
+        train_files = glob.glob(train_file_template)
+        val_files = glob.glob(val_file_template)
+
+        train_sentences = []
+        for file_name in train_files:
+            train_sentences += self.__load_file(file_name)
+
+        val_sentences = []
+        for file_name in val_files:
+            val_sentences += self.__load_file(file_name)
+
+        self.train_data_ids = self.tokenize(train_sentences)
+        self.val_data_ids = self.tokenize(val_sentences)
+
+        print("-"*89)
+        print("Total training sentences = ", len(train_sentences))
+        print("Total validation sentences = ", len(val_sentences))
+        print("-"*89)
+
+    def __load_file(self, npy_path):
         raw_data = np.load(npy_path)
 
-        # process the raw data into sentences
-
         sentences = functools.reduce(
-            operator.iconcat, [tokenizer.tokenize(inp) for inp in raw_data], [])
+            operator.iconcat, [self.tokenizer.tokenize(inp) for inp in raw_data], [])
 
         sentences = list(map(self.__format_sentences,
                              filter(lambda x: x !=
                                     '[removed]', sentences)
                              ))
 
-        # limit sentences while debugging
-        # sentences = sentences[:500]
-
-        num_train = int(0.7*len(sentences))
-        train_sentences = sentences[:num_train]
-        val_sentences = sentences[num_train:]
-
-        self.train_data_ids = self.tokenize_as_ngrams(train_sentences)
-        self.val_data_ids = self.tokenize_as_ngrams(val_sentences)
-
-        print ("-"*89)
-        print ("Total training sentences = ", num_train)
-        print ("Total validation sentences = ", len(sentences) - num_train)
-        print ("-"*89)
+        return sentences
 
     def __format_sentences(self, inp: str) -> str:
         # format the sentences to remove special characters
@@ -115,7 +127,7 @@ class WLMCorpus:
 
         return clean_review
 
-    def tokenize_as_ngrams(self, sentences, add_eos_token=True):
+    def tokenize(self, sentences, add_eos_token=True):
 
         # Add words to the dictionary
         for line in sentences:
@@ -169,7 +181,7 @@ class WLMCorpus:
         return self.dictionary.idx2word[id]
 
     def save_dictionary(self, save_path):
-        print ("Saving dictionary to ", save_path)
+        print("Saving dictionary to ", save_path)
         with open(save_path, 'wb') as f:
             pickle.dump({
                 'word2idx': self.dictionary.word2idx,

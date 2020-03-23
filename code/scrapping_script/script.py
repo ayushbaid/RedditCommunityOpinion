@@ -82,7 +82,9 @@ def wrapper(n, subreddit_name):
         if os.path.exists(val_path):
             # skip download if already exists
             temp = np.load(val_path)
+            total_len += temp.shape[0]
 
+            temp = np.load(train_path)
             total_len += temp.shape[0]
             temp = None
 
@@ -130,4 +132,7 @@ if __name__ == '__main__':
 
 for subreddit in subreddits:
     print(subreddit)
-    wrapper(num_comments, subreddit)
+    try:
+        wrapper(num_comments, subreddit)
+    except Exception as e:
+        print(str(e))

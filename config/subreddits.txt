@@ -1,0 +1,15 @@
+aww_100000
+conservative_100000
+democrat_100000
+elizabethwarren_100000
+impeach_trump_100000
+libertarian_100000
+news_100000
+ourpresident_100000
+politics_100000
+sandersforpresident_100000
+soccer_100000
+the_donald_100000
+the_mueller_100000
+yangforpresidenthq_100000
+

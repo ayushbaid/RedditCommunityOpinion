@@ -1,3 +1,5 @@
+from typing import List, Tuple
+
 import os
 import pickle
 import math
@@ -50,15 +52,22 @@ class WLMRunner():
         )
 
         # load the sample phrases for evaluation
-        with open('../config/questions.txt') as f:
+        with open('../config/questions_large.txt') as f:
             # get the phrases
             phrases = [x.strip() for x in f.readlines()]
-
+            phrases = list(map(self.corpus.format_sentences, phrases))
             phrases = list(filter(None, phrases))
 
-        # add to the corpus
-        self.phrase_ids = list(map(self.corpus.tokenize_normal, phrases))
-        # self.phrase_ids = self.corpus.tokenize_normal()
+        # convert to IDs
+        self.phrase_ids = []
+        for inp in phrases:
+            temp = self.corpus.tokenize_normal(inp)
+
+            if temp is not None:
+                self.phrase_ids.append(temp)
+
+        print('Can process {} phrases based on the training data'.format(
+            len(self.phrase_ids)))
 
         self.ntokens = len(self.corpus.dictionary)
 
@@ -242,6 +251,90 @@ class WLMRunner():
                 self.lr /= 4.0
         # except:
         #     pass
+
+    def beam_search(self, sentences: List[Tuple[List[str], float]], num_entries=5) -> List[Tuple[List[str], float]]:
+        '''
+        Performs the beam search till the bptt
+
+        Args:
+            sentences: List of where each entry is a tuple of predicted string and the probability
+        Returns:
+            sentences: the same entry after the full beam search
+        '''
+
+        new_space = list()
+        for curr_prediction, probability in sentences:
+            if len(curr_prediction) < self.max_recon and len(curr_prediction) > 0 and curr_prediction[-1] != '<eos>':
+                # do more predictions on it
+                next_predictions = self.get_next_word(
+                    curr_prediction, num_output=num_entries)
+
+                for pred, probab in next_predictions:
+                    new_space.append(
+                        (pred, probability+probab, True)
+                    )
+            else:
+                new_space.append(
+                    (curr_prediction, probability, False)
+                )
+
+        # Select top 5 entries only
+        new_space = sorted(new_space, key=lambda x: x[1], reverse=True)[
+            :num_entries]
+
+        # process the newly generated entries in the space even more
+        result = []
+        next_input = []
+        for entry in new_space:
+            if entry[2] == True:
+                next_input.append((entry[0], entry[1]))
+            else:
+                result.append((entry[0], entry[1]))
+
+        # process the next input more
+        if len(result) < num_entries and len(next_input) > 0:
+            next_input = self.beam_search(next_input, num_entries-len(result))
+            result = result + next_input
+
+        result = sorted(result, key=lambda x: x[1], reverse=True)[
+            :num_entries]
+
+        return result
+
+    def get_next_word(self,
+                      curr_input: List[str],
+                      num_output: int = 5
+                      ):
+        self.model.eval()
+
+        reconstructions = []
+
+        with torch.no_grad():
+            hidden = self.model.init_hidden(1)
+
+            # convert the input to ids
+            inp_ids = [self.corpus.dictionary.word2idx[x] for x in curr_input]
+            inp_ids = torch.tensor(inp_ids).type(torch.int64)
+            for id in inp_ids:
+                output, hidden = self.model.forward(
+                    id.to(self.device).view(1, 1), hidden
+                )
+
+            # extract the top k outputs
+            top_k_vals, top_k_ids = torch.topk(
+                output.squeeze(dim=0).detach().cpu(),
+                k=num_output
+            )
+
+            for output_idx in range(top_k_ids.shape[0]):
+                reconstructions.append((
+                    curr_input + [
+                        self.corpus.lookup_word(top_k_ids[output_idx].item())
+                    ],
+                    top_k_vals[output_idx].item()
+                ))
+
+        return reconstructions
 
     def evaluate_phrases(self):
         self.model.eval()

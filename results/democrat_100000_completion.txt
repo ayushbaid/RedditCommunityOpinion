@@ -1,0 +1,1206 @@
+sentence,log_probability
+trump <eos>,-1.5800724029541016
+trump will not be legal <eos>,-9.499826431274414
+trump is a right wing platform <eos>,-10.707923412322998
+trump is a right wing fake news website <eos>,-11.260287761688232
+trump is a right wing fake news <eos>,-12.223689556121826
+trump is <eos>,-3.5978941917419434
+trump is a right <eos>,-5.732288360595703
+trump is not a democrat <eos>,-7.192742347717285
+trump is a right wing fake news website <eos>,-8.449542999267578
+trump is a right wing fake news <eos>,-9.412944793701172
+trump is a republican <eos>,-4.004277229309082
+trump is a right <eos>,-4.213559150695801
+trump is a democrat <eos>,-4.3026041984558105
+trump is a racist <eos>,-4.59520149230957
+trump is a right wing fake news website <eos>,-6.930813789367676
+trump should be legal <eos>,-4.714210510253906
+trump should be legal because he has a lot of,-13.91055679321289
+trump should be legal because he s not a good,-14.71141242980957
+trump should be legal because it s not a good,-15.056780338287354
+trump should be legal because it s not a bit,-15.330220222473145
+trump needs to go <eos>,-5.0563459396362305
+trump needs to be first time <eos>,-9.005276203155518
+trump needs to be first refugee elected to death <eos>,-12.304652214050293
+trump needs to be first refugee elected to do you,-13.391659259796143
+trump needs to be first refugee elected to do that,-14.380015850067139
+trump will not be legal <eos>,-6.168815612792969
+trump will not be a good president <eos>,-10.301212310791016
+trump will not be legal because he s not a,-13.803477764129639
+trump will not be legal because you re not to,-14.924107074737549
+trump will not be legal because he s not the,-15.13552713394165
+trump has been a democrat <eos>,-7.595382213592529
+trump has been been a democrat <eos>,-8.838322162628174
+trump has been been a good president <eos>,-10.194541454315186
+trump has been been a good president for it <eos>,-13.720773220062256
+trump has been been a good president for it and,-15.69499158859253
+trump administration has no right <eos>,-6.00051736831665
+trump administration has a known russian troll <eos>,-7.526904582977295
+trump administration has a right wing fake news website <eos>,-8.126039028167725
+trump administration has a right wing platform <eos>,-8.609046459197998
+trump administration has a right wing news <eos>,-9.277856349945068
+trump s not a democrat <eos>,-6.78841495513916
+trump s not a good president <eos>,-8.498526096343994
+trump s not a good president i don t think,-12.46803331375122
+trump s not a good president i don t have,-12.95830774307251
+trump s not a good president i think <eos>,-13.279292583465576
+maga <eos>,-0.3314523696899414
+maga in the democratic party <eos>,-9.161975383758545
+maga in the american party <eos>,-10.693995475769043
+maga in the american people <eos>,-11.684438705444336
+maga in the united states and the pharmaceutical public is,-20.90285301208496
+maga rallies are the democratic party <eos>,-6.468836784362793
+maga rallies are the right <eos>,-6.83903694152832
+maga rallies are the same time <eos>,-7.886849403381348
+maga rallies are the same time he has a very,-14.243223190307617
+maga rallies are the same time he has a lot,-14.256863594055176
+trump rallies are the democratic party <eos>,-6.3467254638671875
+trump rallies are the right <eos>,-6.7982330322265625
+trump rallies are the same time <eos>,-7.738150596618652
+trump rallies are the democratic party of the house <eos>,-12.938206672668457
+trump rallies are the democratic party of the house and,-14.199201583862305
+trump supporters are going to see the democratic party <eos>,-11.839139938354492
+trump supporters are going to have a single issue <eos>,-13.697648048400879
+trump supporters are going to be a secular president <eos>,-13.979310512542725
+trump supporters are going to see the democratic party wing,-14.018153667449951
+trump supporters are going to have a single issue and,-14.119607925415039
+biden <eos>,-0.5313386917114258
+biden is <eos>,-5.203302383422852
+biden is a democrat <eos>,-8.31033706665039
+biden is not a democrat <eos>,-10.368536949157715
+biden is not a bit more than a woman to,-19.257171154022217
+biden is <eos>,-3.015317916870117
+biden is a democrat <eos>,-6.122352600097656
+biden is not a democrat <eos>,-8.18055248260498
+biden is not a bit more <eos>,-11.16347599029541
+biden is not a bit more than a woman to,-17.069186687469482
+biden is a democrat <eos>,-4.033008575439453
+biden is a right <eos>,-4.546534538269043
+biden is a right wing platform <eos>,-6.9208984375
+biden is a right wing fake news website <eos>,-7.023846626281738
+biden is a right wing fake news <eos>,-8.468031883239746
+biden should be legal <eos>,-4.497766494750977
+biden should be legal because he has a lot of,-14.075977325439453
+biden should be legal because he s not a good,-14.822175979614258
+biden should be legal because it s not a good,-15.072126388549805
+biden should be legal because it s not a bit,-15.344356060028076
+biden needs to be legal <eos>,-5.904058456420898
+biden needs to be legal but i think it s,-12.788012504577637
+biden needs to be legal but i m a bot,-12.975958824157715
+biden needs to be legal but i m not saying,-13.5883150100708
+biden needs to be legal but i think it would,-13.780556678771973
+biden will have to be a secular president <eos>,-13.454147338867188
+biden will have to be the first time <eos>,-13.756494522094727
+biden will have to be first refugee elected in the,-15.055599689483643
+biden will have to be first refugee elected to see,-15.073541641235352
+biden will have to be first refugee elected to the,-15.101431846618652
+biden has been a democrat <eos>,-8.36269760131836
+biden has been been a democrat <eos>,-9.59751558303833
+biden has been been a good president <eos>,-10.899965763092041
+biden has been been a good president for it <eos>,-14.188997745513916
+biden has been been a good president for it and,-16.256683826446533
+biden s rights <eos>,-4.48073148727417
+biden s rights https www youtube com amp s www,-10.129127979278564
+biden s rights https www google com amp s www,-10.292694568634033
+biden s rights https www youtube com watch v uqs,-10.567488193511963
+biden s rights https www youtube com watch v ofvj,-11.015905857086182
+biden supporters are going to see the democratic party <eos>,-11.511435508728027
+biden supporters are going to have a republican <eos>,-11.872749328613281
+biden supporters are going to have a single issue <eos>,-13.21153974533081
+biden supporters are going to have a single issue but,-13.588529109954834
+biden supporters are going to have a single issue and,-13.710302829742432
+biden rallies are the right <eos>,-6.578716278076172
+biden rallies are the democratic party <eos>,-6.992846965789795
+biden rallies are the same time he has in the,-13.891307353973389
+biden rallies are the same time he has a very,-14.098546504974365
+biden rallies are the same time he has a lot,-14.134382724761963
+sanders <eos>,-2.2893104553222656
+sanders don t care about <eos>,-8.245321273803711
+sanders don t care about me <eos>,-8.846456050872803
+sanders don t care about trump <eos>,-9.144575119018555
+sanders don t care about the other time <eos>,-13.603769302368164
+sanders is a democrat <eos>,-6.27306604385376
+sanders is so i don t think it <eos>,-11.26107931137085
+sanders is so i don t think it s not,-13.44137191772461
+sanders is so i don t think that s not,-13.850725173950195
+sanders is so i don t think it s a,-13.92262887954712
+sanders is a democrat <eos>,-4.1054253578186035
+sanders is a racist <eos>,-4.713016033172607
+sanders is a right <eos>,-5.040107727050781
+sanders is a right wing platform <eos>,-6.646274566650391
+sanders is a right wing fake news website <eos>,-7.066330909729004
+sanders should be legal <eos>,-4.898882865905762
+sanders should be legal because he s not a good,-14.928887367248535
+sanders should be able to have a single issue <eos>,-15.060930252075195
+sanders should be able to have a single issue but,-15.179471015930176
+sanders should be able to have a single issue and,-15.317037582397461
+sanders needs to have a single issue <eos>,-10.013984680175781
+sanders needs to be first refugee elected to do you,-13.237853527069092
+sanders needs to have a single issue but i think,-13.408738136291504
+sanders needs to have a single issue but i don,-13.640018463134766
+sanders needs to have a single issue but i m,-13.659687995910645
+sanders will have a democrat <eos>,-6.980620384216309
+sanders will have to be a secular president <eos>,-12.63744592666626
+sanders will have to be first refugee elected to see,-14.268392086029053
+sanders will have to be first refugee elected in the,-14.27808666229248
+sanders will have to be first refugee elected to the,-14.437037467956543
+sanders has a democrat <eos>,-7.223543167114258
+sanders has been a democrat <eos>,-8.725181102752686
+sanders has been a democrat or a lot of the,-17.885133743286133
+sanders has been a democrat or a democrat or not,-18.072204113006592
+sanders has been a democrat or a lot of his,-18.14323329925537
+sanders <eos>,-2.2893104553222656
+sanders don t care about <eos>,-8.245321273803711
+sanders don t care about me <eos>,-8.846456050872803
+sanders don t care about trump <eos>,-9.144575119018555
+sanders don t care about the other time <eos>,-13.603769302368164
+bernie <eos>,-3.799327850341797
+bernie sanders don t care about <eos>,-10.77926254272461
+bernie sanders don t care about me <eos>,-11.375643253326416
+bernie sanders don t care about his policies <eos>,-13.12889814376831
+bernie sanders don t care about the other time <eos>,-16.146708488464355
+bernie is a right <eos>,-4.099724769592285
+bernie is a democrat <eos>,-4.3583984375
+bernie is a racist <eos>,-4.384788513183594
+bernie is a right wing platform <eos>,-6.681839942932129
+bernie is a right wing fake news website <eos>,-6.941817283630371
+bernie should be legal <eos>,-5.614324569702148
+bernie should be legal because he has a lot of,-14.917159080505371
+bernie should be legal because he s not a good,-15.676010608673096
+bernie should be legal because you re not to see,-16.163655281066895
+bernie should be legal because he s not a bit,-16.371310710906982
+bernie needs to go <eos>,-4.895606994628906
+bernie needs to show up <eos>,-7.122784614562988
+bernie needs to have a single issue <eos>,-10.69115686416626
+bernie needs to show up in the senate <eos>,-11.360886573791504
+bernie needs to show up in the democratic party <eos>,-11.899860382080078
+bernie will not be legal <eos>,-7.001256942749023
+bernie will not be legal but i think it s,-13.846016883850098
+bernie will not be legal because he s not a,-14.593404769897461
+bernie will not be legal but i think it would,-14.7438325881958
+bernie will not be legal because you re not to,-15.482582569122314
+bernie has not a democrat <eos>,-8.256528377532959
+bernie has not been a democrat <eos>,-9.524908065795898
+bernie has not been a good president <eos>,-10.613356590270996
+bernie has not been a good president i don t,-13.38914680480957
+bernie has not been a good president for it <eos>,-13.76230239868164
+bernie s not a democrat <eos>,-6.993414878845215
+bernie s not a bit about a place on the,-15.658748626708984
+bernie s not a democrat or a lot of his,-15.968488216400146
+bernie s not a democrat or a lot of the,-16.048073768615723
+bernie s not a democrat or a lot more than,-16.553217887878418
+bernie supporters not to make it <eos>,-11.529551982879639
+bernie supporters and not all of the candidates <eos>,-14.822723865509033
+bernie supporters and not all of the people who is,-16.512146472930908
+bernie supporters and not all of the candidates they re,-16.576186656951904
+bernie supporters and not all of the candidates they are,-16.79610013961792
+bernie rallies are the democratic party <eos>,-7.469263076782227
+bernie rallies are going to see the democratic party <eos>,-11.92101240158081
+bernie rallies are going to have a single issue <eos>,-14.060191631317139
+bernie rallies are going to see the democratic party wing,-14.184364318847656
+bernie rallies are going to be the first time to,-14.23194408416748
+crazy bernie <eos>,-2.4561758041381836
+crazy bernie sanders don t care about <eos>,-11.492842674255371
+crazy bernie sanders don t care about the other time,-16.427940368652344
+crazy bernie sanders don t care about the other side,-16.637855529785156
+crazy bernie sanders don t care about the most of,-17.08665132522583
+pelosi <eos>,-0.6808719635009766
+pelosi is <eos>,-5.196434497833252
+pelosi can be legal <eos>,-7.957853317260742
+pelosi can be legal because he s not a good,-17.88058614730835
+pelosi can be legal because he s not a bit,-18.548704624176025
+pelosi is <eos>,-3.0609612464904785
+pelosi is a democrat <eos>,-6.091676235198975
+pelosi is a bit more <eos>,-9.283173561096191
+pelosi is not a bit more <eos>,-11.55492639541626
+pelosi is not a bit more than a woman to,-17.318949699401855
+pelosi is a democrat <eos>,-4.338968753814697
+pelosi is a republican <eos>,-4.393448352813721
+pelosi is a lot of us <eos>,-9.931214332580566
+pelosi is a lot of his foundation and trump is,-14.795544147491455
+pelosi is a lot of his foundation and trump supporters,-15.230431079864502
+pelosi should be legal <eos>,-3.932281494140625
+pelosi should be legal because he was a lot of,-13.387248992919922
+pelosi should be legal because he has a lot of,-13.477997779846191
+pelosi should be legal because he s not a good,-14.135372161865234
+pelosi should be legal because he s not a bit,-14.827128410339355
+pelosi needs to be legal <eos>,-6.169231414794922
+pelosi needs to be legal but i think it s,-12.50537109375
+pelosi needs to be legal but i m a bot,-12.830127716064453
+pelosi needs to be legal but i think it would,-13.521044731140137
+pelosi needs to be legal but i think he s,-13.57308578491211
+pelosi will be legal <eos>,-4.723715782165527
+pelosi will have to be first refugee elected in the,-14.679590702056885
+pelosi will have to be first refugee elected to see,-14.68112325668335
+pelosi will have to be first refugee elected to the,-14.732128620147705
+pelosi will have to be first refugee elected to do,-14.763120174407959
+pelosi has enough to be able to show up in,-15.248412609100342
+pelosi has enough to be first refugee elected to the,-15.930993556976318
+pelosi has enough to be first refugee elected to death,-16.068124771118164
+pelosi has enough to be first refugee elected to see,-16.089974403381348
+pelosi has enough to be able to have a single,-16.10620403289795
+pelosi s right <eos>,-4.695426940917969
+pelosi s rights <eos>,-4.799718379974365
+pelosi s going to have a single issue <eos>,-14.317802906036377
+pelosi s going to have a single issue but i,-16.082705974578857
+pelosi s going to be the first time to the,-16.986339569091797
+mcconnell <eos>,-1.4809560775756836
+mcconnell on the democratic party <eos>,-8.508567333221436
+mcconnell in the democratic party <eos>,-8.76219892501831
+mcconnell in the american people <eos>,-11.3593430519104
+mcconnell by the media and the house <eos>,-16.543785572052002
+mcconnell is <eos>,-3.3794851303100586
+mcconnell is a right <eos>,-6.429039001464844
+mcconnell is a right wing fake news website <eos>,-8.268548011779785
+mcconnell is a right wing platform <eos>,-8.531717300415039
+mcconnell is a right wing news <eos>,-8.986289978027344
+mcconnell is a right <eos>,-4.390964508056641
+mcconnell is a racist <eos>,-4.618990898132324
+mcconnell is a democrat <eos>,-4.930124282836914
+mcconnell is a right wing fake news website <eos>,-6.230473518371582
+mcconnell is a right wing news <eos>,-6.948215484619141
+mcconnell should be legal <eos>,-5.672565937042236
+mcconnell should go <eos>,-5.711902618408203
+mcconnell should be legal because he has a lot of,-15.0967116355896
+mcconnell should be legal because he s not a good,-15.808818340301514
+mcconnell should be legal because he s not a bit,-16.47196340560913
+mcconnell needs to be legal <eos>,-6.954707145690918
+mcconnell needs to the school because he didn t get,-13.252663612365723
+mcconnell needs to the school because he didn t have,-13.3402738571167
+mcconnell needs to the school because he didn t be,-13.348608016967773
+mcconnell needs to the school because he didn t you,-13.805907726287842
+mcconnell will change the government <eos>,-10.115769386291504
+mcconnell will change the rules <eos>,-10.233262062072754
+mcconnell will change the people will have to be a,-16.656436443328857
+mcconnell will change the people will have to change the,-16.962377548217773
+mcconnell will change the people will have to be first,-17.03257417678833
+mcconnell has on the democratic party <eos>,-8.1555495262146
+mcconnell has been a democrat <eos>,-8.999201774597168
+mcconnell has more than the democratic party <eos>,-11.42278003692627
+mcconnell has more than the democratic party of israel and,-16.85677719116211
+mcconnell has more than the democratic party of israel <eos>,-17.3187313079834
+mcconnell s rights <eos>,-4.043300628662109
+mcconnell s rights https www google com amp s www,-8.439619064331055
+mcconnell s rights https www youtube com amp s www,-8.621209144592285
+mcconnell s rights https www youtube com watch v uqs,-9.160005569458008
+mcconnell s rights https www youtube com watch v ofvj,-9.650446891784668
+obama <eos>,-2.7899513244628906
+obama a democrat <eos>,-6.541863441467285
+obama by the democratic party <eos>,-8.416227340698242
+obama by the democratic party of the house <eos>,-16.22418212890625
+obama by the democratic party of the house and the,-20.1369366645813
+obama is a democrat <eos>,-6.209359645843506
+obama is a right <eos>,-6.357215881347656
+obama is a right wing fake news website <eos>,-7.900967597961426
+obama is a right wing platform <eos>,-8.1166353225708
+obama is a right wing news <eos>,-8.549884796142578
+obama was rigged <eos>,-4.796194553375244
+obama was a democrat <eos>,-6.823866844177246
+obama was to be a secular president <eos>,-12.976760387420654
+obama was a bit more than a woman to be,-17.545817375183105
+obama was a bit more than a woman to the,-17.96309185028076
+obama is a democrat <eos>,-4.912719249725342
+obama is a racist <eos>,-4.955226898193359
+obama is a right <eos>,-5.060575485229492
+obama is a right wing fake news website <eos>,-6.604327201843262
+obama is a right wing news <eos>,-7.253244400024414
+obama should be legal <eos>,-5.186846733093262
+obama should be legal because he has a lot of,-14.064362525939941
+obama should be legal because he s not a good,-14.852825164794922
+obama should be legal because he has a lot more,-15.335972785949707
+obama should be legal because he s not a bit,-15.471910953521729
+obama needs to be first refugee elected to death <eos>,-12.985817909240723
+obama needs to be able to show up in the,-13.4778470993042
+obama needs to be first refugee elected to see the,-14.458739280700684
+obama needs to be able to show up in a,-14.500709533691406
+obama needs to be able to have a single issue,-14.560136318206787
+obama will be legal <eos>,-6.548564910888672
+obama will be legal because he has a lot of,-15.777605056762695
+obama will be legal because he s not a good,-16.236770153045654
+obama will be legal because he s not a bit,-16.878015995025635
+obama will be legal because he has a lot more,-17.015570640563965
+obama has been a democrat <eos>,-8.056237697601318
+obama has been a good president <eos>,-9.468874454498291
+obama has been a good president for it <eos>,-12.225898265838623
+obama has been a good president for trump <eos>,-12.309508800506592
+obama has been a good president for it and trump,-16.382327556610107
+obama administration has rights <eos>,-4.488125801086426
+obama administration has rights https www google com amp s,-10.154987812042236
+obama administration has rights https www youtube com amp s,-10.71879529953003
+obama administration has rights https www google com watch v,-11.039161205291748
+obama administration has rights https www youtube com watch v,-11.149981021881104
+obama s rights <eos>,-3.7443532943725586
+obama s platform <eos>,-4.2234110832214355
+obama s rights by the democratic party <eos>,-8.876262664794922
+obama s rights by the american party <eos>,-9.775011539459229
+obama s rights by the democratic party of the house,-16.204126834869385
+aoc <eos>,-2.0879697799682617
+aoc but i don t think it <eos>,-10.82832145690918
+aoc but i don t think it s not a,-14.630243301391602
+aoc but i don t think that s not a,-15.151118278503418
+aoc but i don t think it s not to,-15.681031227111816
+aoc is <eos>,-3.810818672180176
+aoc is a democrat <eos>,-5.8703999519348145
+aoc is a bit more <eos>,-9.505545139312744
+aoc is not a bit more than a woman to,-17.566669464111328
+aoc is not a bit more than a woman s,-18.482001304626465
+aoc is a democrat <eos>,-3.7975411415100098
+aoc is a right <eos>,-4.613162994384766
+aoc is a racist <eos>,-4.652441501617432
+aoc is a right wing platform <eos>,-6.4430952072143555
+aoc is a right wing fake news website <eos>,-6.875908851623535
+aoc should be legal <eos>,-4.592042922973633
+aoc should be legal because you re not in a,-14.94776439666748
+aoc should be legal because he s not a good,-15.018187999725342
+aoc should be legal because you re not to see,-15.446423530578613
+aoc should be legal because he s not a bit,-15.621447086334229
+aoc needs to see the democratic party <eos>,-9.025242328643799
+aoc needs to have a single issue <eos>,-10.028001308441162
+aoc needs to be first refugee elected to do you,-13.414312362670898
+aoc needs to have a single issue but i think,-13.560442447662354
+aoc needs to have a single issue but i don,-13.729556560516357
+aoc will have to choose <eos>,-7.1688690185546875
+aoc will have to be a secular president <eos>,-13.040735721588135
+aoc will have to be first refugee elected to see,-14.48166799545288
+aoc will have to be first refugee elected in the,-14.513561725616455
+aoc will have to be first refugee elected to the,-14.610048770904541
+aoc has been a democrat <eos>,-9.048072338104248
+aoc has been been a democrat <eos>,-10.706084728240967
+aoc has been been a good president <eos>,-12.012998104095459
+aoc has been been a good president for it <eos>,-15.359670162200928
+aoc has been been a good president for it and,-17.333226680755615
+aoc s platform <eos>,-3.92924165725708
+aoc s rights <eos>,-4.320411682128906
+aoc s right <eos>,-4.3918867111206055
+aoc s going to be the first time in the,-16.83075475692749
+aoc s going to be the first time to the,-17.824488162994385
+abortion for all <eos>,-6.681039333343506
+abortion more than you <eos>,-9.102827072143555
+abortion for all of trump <eos>,-10.25536584854126
+abortion for all of the candidates <eos>,-11.638787269592285
+abortion for all of trump s not a democrat <eos>,-17.67879056930542
+abortion should be legal <eos>,-5.464882850646973
+abortion should be legal because he has a lot of,-15.000024795532227
+abortion should be legal because he s not a good,-15.793578147888184
+abortion should be able to have a single issue <eos>,-16.20316982269287
+abortion should be able to have a single issue and,-16.335501670837402
+pro life <eos>,-0.4518308639526367
+pro life things <eos>,-5.148396015167236
+pro life else <eos>,-6.252363204956055
+pro life who is not a democrat <eos>,-14.240972995758057
+pro life who is not a bit more than a,-18.538398265838623
+pro choice things <eos>,-4.050532817840576
+pro choice is a democrat <eos>,-7.046888828277588
+pro choice is a right <eos>,-7.566139221191406
+pro choice is a right wing troll <eos>,-9.90290641784668
+pro choice is a right wing fake news website <eos>,-10.174778938293457
+gun control <eos>,-2.473417282104492
+gun control from trump <eos>,-6.447052478790283
+gun control from the democratic party <eos>,-8.382157802581787
+gun control from trump and i don t think that,-15.371032238006592
+gun control from trump and i don t think it,-15.403775691986084
+gun control should be legal <eos>,-5.338769912719727
+gun control should be legal because he s not a,-12.859407424926758
+gun control should be legal because he has a lot,-13.886628150939941
+gun control should be legal because he s not the,-14.276727676391602
+gun control should do you can t have to see,-14.322438716888428
+gun control laws are rights <eos>,-4.507497310638428
+gun control laws are going to be first refugee elected,-11.270999431610107
+gun control laws are going to have a single issue,-12.217423915863037
+gun control laws are going to be a single issue,-12.4963698387146
+gun control laws are enough to be a single issue,-12.543915748596191
+ubi <eos>,-3.745950698852539
+ubi time <eos>,-5.291369438171387
+ubi than the american party <eos>,-9.914727210998535
+ubi than the media and don t have to be,-18.716129302978516
+ubi than the media and don t have to the,-19.086666584014893
+ubi is a right <eos>,-5.178981781005859
+ubi is a democrat <eos>,-5.335900783538818
+ubi is a right wing platform <eos>,-7.099262237548828
+ubi is a right wing fake news website <eos>,-7.256757736206055
+ubi is a right wing news <eos>,-7.782271385192871
+military spending trump <eos>,-5.120553970336914
+military spending the government <eos>,-5.831958293914795
+military spending the democratic party <eos>,-6.701955318450928
+military spending the democratic party s platform <eos>,-10.051863670349121
+military spending the democratic party s platform and the media,-18.366317749023438
+military spending should change <eos>,-5.282436370849609
+military spending should change the people will have to be,-12.701092720031738
+military spending should change the people will have to put,-14.082869529724121
+military spending should change the people will have to change,-14.489849090576172
+military spending should change the people will have to see,-14.500593185424805
+military <eos>,-2.427152633666992
+military when i don t think it <eos>,-11.738866806030273
+military when i don t think it s not a,-15.551547050476074
+military when i don t think that s not a,-16.17655658721924
+military when i don t think it s not to,-16.60019588470459
+military is a democrat <eos>,-6.082452774047852
+military is a right <eos>,-6.162134170532227
+military is a right wing platform <eos>,-8.402653694152832
+military is a right wing fake news website <eos>,-8.827217102050781
+military is a right wing troll <eos>,-8.854761123657227
+medicare for all <eos>,-1.9767723083496094
+medicare for all of trump <eos>,-5.68471622467041
+medicare for all of the candidates <eos>,-7.396845817565918
+medicare for all of the people <eos>,-7.817757606506348
+medicare for all of trump s not a bit a,-13.697062492370605
+medicare for all is a democrat <eos>,-6.888277530670166
+medicare for all is not a democrat <eos>,-9.167634963989258
+medicare for all is not a bit more than the,-13.88308572769165
+medicare for all is not a bit more than a,-13.945934772491455
+medicare for all is not a democrat or a lot,-14.685325145721436
+the green new deal is <eos>,-2.747868537902832
+the green new deal is rigged <eos>,-4.606857776641846
+the green new deal is that he has a very,-11.213286399841309
+the green new deal is that he was a very,-11.937098026275635
+the green new deal is that he is a very,-11.946805953979492
+impeachment trial <eos>,-0.39755916595458984
+impeachment trial in the democratic party <eos>,-7.796164035797119
+impeachment trial from the democratic party <eos>,-7.807797431945801
+impeachment trial in the american party <eos>,-8.620370864868164
+impeachment trial from the american party <eos>,-9.092136859893799
+impeachment trial is <eos>,-3.316020965576172
+impeachment trial is a democrat <eos>,-5.84128999710083
+impeachment trial is a right <eos>,-6.053437232971191
+impeachment trial is a right wing fake news website <eos>,-7.542664527893066
+impeachment trial is a right wing platform <eos>,-7.934784889221191
+impeachment trial was <eos>,-3.3533124923706055
+impeachment trial was rigged <eos>,-4.479780197143555
+impeachment trial was rights <eos>,-5.239524841308594
+impeachment trial was rights by the democratic party <eos>,-10.50165843963623
+impeachment trial was rights by the democratic party of the,-15.02890920639038
+police i don t think it <eos>,-10.050595760345459
+police i don t think it s not a good,-16.97334337234497
+police i don t think it s not a bit,-16.985767364501953
+police i don t think it s not a democrat,-17.02007007598877
+police i don t think that s not a good,-17.447031497955322
+police are the right <eos>,-6.486461639404297
+police are the democratic party <eos>,-6.513451099395752
+police are the same time <eos>,-7.5531110763549805
+police are the same time he has a lot of,-14.15689468383789
+police are the same time he has been one to,-15.246750354766846
+electoral college <eos>,-3.86787748336792
+electoral college so i don t think it <eos>,-9.442156791687012
+electoral college so i don t think it s not,-11.677917957305908
+electoral college so i don t think that s not,-12.076078414916992
+electoral college so i don t think it s a,-12.082833290100098
+electoral college is a right <eos>,-5.209761619567871
+electoral college is a racist <eos>,-5.515878677368164
+electoral college is a secular nation <eos>,-7.070822715759277
+electoral college is a right wing fake news website <eos>,-7.534727096557617
+electoral college is a right wing news <eos>,-8.51775074005127
+border wall is it <eos>,-5.986244201660156
+border wall doesn t you do it <eos>,-10.535825729370117
+border wall doesn t you do it s not a,-15.633941650390625
+border wall doesn t you do that he s not,-16.13426160812378
+border wall doesn t you do that he s a,-16.542461395263672
+border wall is it <eos>,-4.598223686218262
+border wall is not a democrat <eos>,-8.470673561096191
+border wall is that it s not a good president,-13.447002410888672
+border wall is that it s not a bit more,-13.743119239807129
+border wall is that it s not a democrat <eos>,-14.082463264465332
+border wall should be legal <eos>,-5.6335954666137695
+border wall should be legal because he s not a,-13.310163021087646
+border wall should be legal because it s not a,-13.464115142822266
+border wall should be legal because he has a lot,-14.054627418518066
+border wall should be legal because he s not the,-14.574923992156982
+wall is it <eos>,-5.341367721557617
+wall is not a democrat <eos>,-9.135054588317871
+wall is it s not a bit more <eos>,-16.30097770690918
+wall is it s not a bit more good than,-17.680777549743652
+wall is it s not a bit more than a,-17.813687324523926
+wall is it <eos>,-4.69992733001709
+wall is not a democrat <eos>,-8.493614196777344
+wall is what you can t have to see the,-16.78066635131836
+wall is what you can t have to see a,-17.078474044799805
+wall is what you can t have to do you,-17.07892894744873
+wall should be legal <eos>,-5.231420516967773
+wall should be legal because he has a lot of,-14.307673454284668
+wall should be legal because he s not a good,-15.218350410461426
+wall should be legal because it s not a good,-15.655182361602783
+wall should be legal because he s not a bit,-15.91401481628418
+climate change <eos>,-3.429966926574707
+climate change wars <eos>,-4.169373512268066
+climate change wars and i don t think it s,-12.44564962387085
+climate change wars and i don t think it <eos>,-12.683343410491943
+climate change wars and i don t think that s,-13.32471227645874
+climate change is <eos>,-3.181929588317871
+climate change is a right <eos>,-6.419599533081055
+climate change is a democrat <eos>,-6.420431137084961
+climate change is a right wing troll <eos>,-8.71849012374878
+climate change is a right wing fake news website <eos>,-8.839644432067871
+immigration is a right <eos>,-6.852927207946777
+immigration is a right wing fake news website <eos>,-8.31397819519043
+immigration is a right wing platform <eos>,-8.541831016540527
+immigration is a right wing news <eos>,-9.107710838317871
+immigration is a right wing news website <eos>,-9.797611236572266
+immigration laws <eos>,-3.67325496673584
+immigration laws or trump <eos>,-7.198222637176514
+immigration laws is not a bit more <eos>,-14.702032089233398
+immigration laws is not a bit more than a woman,-19.659647941589355
+immigration laws is not a bit more than a lot,-19.872809886932373
+immigration laws should be legal <eos>,-3.9324331283569336
+immigration laws should be legal because he s not a,-11.488503456115723
+immigration laws should be legal because he has a lot,-12.531928062438965
+immigration laws should be legal because he was a lot,-12.755095481872559
+immigration laws should be legal because he s not the,-12.784245491027832
+immigration laws need to be legal <eos>,-6.525191307067871
+immigration laws need to be first time <eos>,-8.876240253448486
+immigration laws need to be legal but i don t,-11.063148498535156
+immigration laws need to be first refugee elected to the,-11.962401866912842
+immigration laws need to be legal but i m a,-12.220978736877441
+immigrants can be legal <eos>,-7.2502241134643555
+immigrants are going to see the democratic party <eos>,-12.889893054962158
+immigrants are going to have a republican <eos>,-12.919543743133545
+immigrants are going to have a single issue <eos>,-14.383039951324463
+immigrants are going to have a single issue but i,-16.12025022506714
+immigrants are going to see the democratic party <eos>,-11.577861309051514
+immigrants are going to have a republican <eos>,-11.6075119972229
+immigrants are going to have a single issue <eos>,-13.071008205413818
+immigrants are going to have a single issue but i,-14.808218479156494
+immigrants are going to have a single issue but he,-16.10277032852173
+illegal immigrants will have to be first refugee elected to,-13.904112815856934
+illegal immigrants will have to be able to see the,-14.82215929031372
+illegal immigrants will have to be able to have a,-14.9649658203125
+illegal immigrants will have to be able to see a,-15.036525249481201
+illegal immigrants will have to be able to show up,-15.601160526275635
+illegal immigrants are going to see the democratic party <eos>,-11.828249454498291
+illegal immigrants are going to have a republican <eos>,-11.914032459259033
+illegal immigrants are going to have a single issue <eos>,-13.316366195678711
+illegal immigrants are going to have a single issue but,-13.683988571166992
+illegal immigrants are going to have a single issue and,-13.880241394042969
+illegals <eos>,-1.292292594909668
+illegals but i don t think it <eos>,-13.131973266601562
+illegals but i don t think it s not a,-16.963027477264404
+illegals but i don t think that s not a,-17.48049306869507
+illegals but i don t think it s not to,-17.994596004486084
+illegals are the democratic party <eos>,-6.557616233825684
+illegals are the same time <eos>,-8.400384426116943
+illegals are the same time he has a lot of,-15.066629886627197
+illegals are the same time he has a very good,-16.962934494018555
+illegals are the same time he has a lot more,-17.64971685409546
+illegals should be legal <eos>,-5.0715742111206055
+illegals should go <eos>,-5.2162041664123535
+illegals should be legal because he has a lot of,-14.389845848083496
+illegals should be legal because he s not a good,-15.056352138519287
+illegals should be legal because he s not a bit,-15.71674108505249
+colleges <eos>,-1.255143165588379
+colleges but i don t think it <eos>,-12.624168395996094
+colleges but i don t think it s not a,-16.438148975372314
+colleges but i don t think that s not a,-16.975539684295654
+colleges but i don t think it s not to,-17.474060535430908
+colleges are the democratic party <eos>,-6.721947193145752
+colleges are the same time <eos>,-8.248778820037842
+colleges are on the democratic party <eos>,-9.094624042510986
+colleges are the same time he has a lot of,-14.951877117156982
+colleges are the same time he has a very good,-16.91684103012085
+big businesses at trump <eos>,-5.855454444885254
+big businesses https www youtube com watch v uqs oeudzsw,-10.222896099090576
+big businesses https www youtube com watch v ofvj j,-10.619354724884033
+big businesses https www youtube com amp s www buzzfeednews,-10.818495273590088
+big businesses https www google com watch v uqs oeudzsw,-11.113847255706787
+big businesses are a democrat <eos>,-7.6562724113464355
+big businesses are on the first time <eos>,-10.362990379333496
+big businesses are in the first time <eos>,-11.068720817565918
+big businesses are to be first refugee elected to death,-14.661249160766602
+big businesses are to be first refugee elected to do,-14.664974689483643
+corporations <eos>,-1.656534194946289
+corporations don t you know <eos>,-8.079840660095215
+corporations don t have to do you <eos>,-14.195641040802002
+corporations don t have to do you to see the,-18.226975440979004
+corporations don t have to do that he s not,-18.27522039413452
+corporations are right <eos>,-4.611884117126465
+corporations are racist <eos>,-5.159575939178467
+corporations are going to see the democratic party <eos>,-11.20683765411377
+corporations are going to have a single issue <eos>,-12.984838485717773
+corporations are going to have a single issue but i,-14.676519393920898
+big pharma is <eos>,-2.9285812377929688
+big pharma is a democrat <eos>,-6.4954071044921875
+big pharma is a right <eos>,-7.2446489334106445
+big pharma is a right wing fake news website <eos>,-8.53530502319336
+big pharma is a right wing platform <eos>,-8.896556854248047
+pharmaceutical industry is <eos>,-2.540740966796875
+pharmaceutical industry is rights <eos>,-5.073838710784912
+pharmaceutical industry is a right <eos>,-6.651522159576416
+pharmaceutical industry is a right wing fake news website <eos>,-7.686371326446533
+pharmaceutical industry is a right wing platform <eos>,-7.973117351531982
+big tech <eos>,-1.0535297393798828
+big tech https www youtube com watch v uqs oeudzsw,-8.532549858093262
+big tech https www youtube com watch v ofvj j,-9.063349723815918
+big tech https www youtube com amp s www buzzfeednews,-9.258346557617188
+big tech https www google com amp s www buzzfeednews,-9.340603828430176
+big tech is <eos>,-3.8625082969665527
+big tech is a right <eos>,-5.435715675354004
+big tech is a democrat <eos>,-5.668811798095703
+big tech is a right wing fake news website <eos>,-6.355567932128906
+big tech is a right wing news website <eos>,-7.797939300537109
+wall street trump <eos>,-3.322442054748535
+wall street <eos>,-3.6069321632385254
+wall street yang <eos>,-3.78666353225708
+wall street which is not a democrat <eos>,-10.455172061920166
+wall street which is not a bit more than a,-15.052035808563232
+wall street is <eos>,-2.679661750793457
+wall street is a right <eos>,-6.291426181793213
+wall street is a right wing troll <eos>,-9.633182048797607
+wall street is a right wing fake news website <eos>,-9.911049365997314
+wall street is a right wing news <eos>,-10.103325843811035
+billionaires is <eos>,-4.370466232299805
+billionaires is not a democrat <eos>,-9.017369747161865
+billionaires is not a bit more <eos>,-12.019725322723389
+billionaires is not a bit more than a woman to,-17.65897226333618
+billionaires is not a bit more than a lot of,-18.047183513641357
+billionaires are right <eos>,-4.693695545196533
+billionaires are going to see the democratic party <eos>,-11.574586391448975
+billionaires are going to have a republican <eos>,-11.885650634765625
+billionaires are going to have a single issue <eos>,-13.30437421798706
+billionaires are going to have a single issue but i,-15.01198434829712
+the working class <eos>,-3.411313533782959
+the working class is a democrat <eos>,-6.510483264923096
+the working class is a democrat and i don t,-11.128240585327148
+the working class is a democrat and it s not,-12.946982860565186
+the working class is a democrat and it s a,-13.14378833770752
+feminism is a lot of president <eos>,-10.467940330505371
+feminism is a lot of president and i don t,-15.601640701293945
+feminism is a lot of president and i m a,-17.41910457611084
+feminism is a lot of president and i m not,-18.22099018096924
+feminism is a lot of president and i m making,-19.009095191955566
+bloomberg <eos>,-3.3528623580932617
+bloomberg is not a bit more <eos>,-12.38391923904419
+bloomberg is not a bit more good than you and,-18.35857391357422
+bloomberg is not a bit more good than you <eos>,-19.062636375427246
+bloomberg is not a bit more good than you can,-19.202431678771973
+bloomberg is <eos>,-3.743534564971924
+bloomberg is not a bit more <eos>,-10.777719020843506
+bloomberg is not a bit more good than you and,-16.752373695373535
+bloomberg is not a bit more good than you <eos>,-17.456436157226562
+bloomberg is not a bit more good than you can,-17.59623146057129
+kavanaugh have been wrong <eos>,-8.603918075561523
+kavanaugh out of the candidates <eos>,-10.933859825134277
+kavanaugh have been a democrat <eos>,-11.222068786621094
+kavanaugh have been a democrat or a lot of his,-19.89359760284424
+kavanaugh have been a democrat or a lot of the,-19.893869876861572
+kavanaugh is a democrat <eos>,-6.585557460784912
+kavanaugh is not to see the democratic party <eos>,-13.690497875213623
+kavanaugh is a bit more than a woman to be,-17.226797103881836
+kavanaugh is a bit more than a lot of the,-17.591640949249268
+kavanaugh is a bit more than a lot of his,-17.658595085144043
+kavanaugh should be legal <eos>,-4.764997482299805
+kavanaugh should be legal because he has a lot of,-13.73400592803955
+kavanaugh should be legal because he s not a good,-14.563802719116211
+kavanaugh should be legal because he has a lot more,-15.188241958618164
+kavanaugh should be legal because he s not a bit,-15.19907283782959
+free market is <eos>,-3.2517127990722656
+free market is a democrat <eos>,-6.352871417999268
+free market is a right <eos>,-6.3800578117370605
+free market is a right wing fake news website <eos>,-7.848820209503174
+free market is a right wing platform <eos>,-8.288731098175049
+taxes <eos>,-1.9294776916503906
+taxes on the party <eos>,-7.249242305755615
+taxes on the democratic party <eos>,-7.436196804046631
+taxes on the people <eos>,-8.718847274780273
+taxes on the candidates and the end of the candidates,-19.417874813079834
+taxes are on the democratic party <eos>,-8.073620319366455
+taxes are in the democratic party <eos>,-8.414261817932129
+taxes are in the first time <eos>,-9.966958999633789
+taxes are not in a place <eos>,-10.846734523773193
+taxes are in the first time to the house <eos>,-17.910218238830566
+taxes should be legal <eos>,-3.481207847595215
+taxes should be legal because he was a lot of,-12.905261039733887
+taxes should be legal because he s not a good,-13.42277479171753
+taxes should be legal because he s not a bit,-14.040068626403809
+taxes should be legal because he s not a single,-14.970711708068848
+taxes need to be legal <eos>,-4.999396324157715
+taxes need to be legal but i think it s,-11.250033378601074
+taxes need to be legal but i think she s,-11.743009567260742
+taxes need to be legal but i think it would,-12.069631576538086
+taxes need to be legal but i think he s,-12.406557083129883
+increase taxes on reddit <eos>,-4.9350433349609375
+increase taxes on trump <eos>,-4.972102165222168
+increase taxes on bloomberg <eos>,-5.251944065093994
+increase taxes on reddit and not all of the candidates,-15.05350399017334
+increase taxes on reddit and not all of the people,-15.440711498260498
+lower taxes for trump <eos>,-4.973686218261719
+lower taxes for violence <eos>,-5.406040668487549
+lower taxes for america <eos>,-5.463260650634766
+lower taxes for america and trump is a right wing,-14.724510669708252
+lower taxes for america and trump is a right <eos>,-15.381428241729736
+democrats <eos>,-3.063526153564453
+democrats to see the democratic party <eos>,-10.189282417297363
+democrats to see the democratic party wing fake news website,-16.416842460632324
+democrats to see the democratic party wing fake news so,-17.342144012451172
+democrats to see the democratic party wing fake news comcomments,-17.818029403686523
+democrats are racist <eos>,-5.358413219451904
+democrats are going to see the democratic party <eos>,-11.565799713134766
+democrats are going to have a republican <eos>,-11.966639041900635
+democrats are going to have a single issue <eos>,-13.404703617095947
+democrats are going to have a single issue but i,-15.03538179397583
+republicans not have to do you <eos>,-12.135627269744873
+republicans not have to show up in america <eos>,-15.624416828155518
+republicans not have to do you can t have to,-16.793333053588867
+republicans not have to do you can t have a,-16.962129592895508
+republicans not have to do you can t see a,-17.60451316833496
+republicans are right <eos>,-4.804792404174805
+republicans are going to see the democratic party <eos>,-11.482442378997803
+republicans are going to have a republican <eos>,-11.7260103225708
+republicans are going to have a single issue <eos>,-13.185741424560547
+republicans are going to have a single issue but i,-14.862058639526367
+dems have to see the democratic party <eos>,-13.294672966003418
+dems have to be a secular president <eos>,-14.830278873443604
+dems have to be first refugee elected to see the,-18.443636894226074
+dems have to be first refugee elected to see a,-18.545485496520996
+dems have to be first refugee elected to see all,-19.455759048461914
+dems are racist <eos>,-5.333109378814697
+dems are a democrat <eos>,-6.4128570556640625
+dems are going to see the democratic party <eos>,-11.52003288269043
+dems are going to have a single issue <eos>,-13.481863498687744
+dems are going to see the same time <eos>,-13.542212963104248
+gop <eos>,-0.5608253479003906
+gop but i don t think it <eos>,-11.749873161315918
+gop but i don t think it s not a,-15.624181270599365
+gop but i don t think that s not a,-16.143718242645264
+gop but i don t think it s not to,-16.65364980697632
+gop is <eos>,-2.6819262504577637
+gop is a democrat <eos>,-6.214566707611084
+gop is a democrat and i don t think that,-15.262809753417969
+gop is a democrat and i don t think it,-15.368284225463867
+gop is a democrat and i don t think the,-15.472590446472168
+dnc <eos>,-2.3526225090026855
+dnc and don t think it <eos>,-10.235035419464111
+dnc and don t think it s not a good,-16.43768548965454
+dnc and don t think it s not a bit,-16.577552795410156
+dnc and don t think it s not a democrat,-16.722407341003418
+dnc is rigged <eos>,-5.326014041900635
+dnc is a democrat <eos>,-5.365347385406494
+dnc is a racist <eos>,-6.212033271789551
+dnc is a bit more <eos>,-8.729453086853027
+dnc is a bit more than a woman to be,-16.777440547943115
+left of trump <eos>,-6.353665351867676
+left that is the same time <eos>,-12.480270862579346
+left that s not a democrat <eos>,-12.637866497039795
+left that s not a good president <eos>,-13.843517780303955
+left that s not a good president i don t,-15.777950763702393
+left is not a democrat <eos>,-8.679093837738037
+left is what you can t have to see the,-17.066319942474365
+left is what you can t have to do you,-17.381799697875977
+left is what you can t have to see a,-17.40647840499878
+left is what you can t have a single issue,-17.852524280548096
+left wing reddit <eos>,-5.359747886657715
+left wing news <eos>,-5.9018683433532715
+left wing news and i don t think it s,-14.61059856414795
+left wing news and i don t think it <eos>,-14.644453048706055
+left wing news and i don t think that s,-15.339093208312988
+left win is <eos>,-2.9066524505615234
+left win is a democrat <eos>,-5.828378677368164
+left win is not a democrat <eos>,-8.301455974578857
+left win is not a bit more than a woman,-16.426733016967773
+left win is not a bit more than the people,-16.866944789886475
+right <eos>,-0.31052494049072266
+right from the democratic party <eos>,-9.724965572357178
+right to the first time <eos>,-10.384142398834229
+right to the school because he has a lot of,-16.273625373840332
+right to the school because he has a lot more,-18.551376342773438
+right is <eos>,-3.329712390899658
+right is a democrat <eos>,-5.542453289031982
+right is a right <eos>,-5.969226837158203
+right is a right wing troll <eos>,-8.269527912139893
+right is a right wing fake news website <eos>,-8.387956619262695
+right wing news <eos>,-4.08160400390625
+right wing reddit <eos>,-4.350815773010254
+right wing story <eos>,-4.512606143951416
+right wing fake news website <eos>,-4.742681503295898
+right wing fake news comcomments politics trump impeachment timeline <eos>,-14.55491018295288
+right wing is a right <eos>,-4.445188522338867
+right wing is a democrat <eos>,-4.810485363006592
+right wing is a right wing fake news website <eos>,-6.150418281555176
+right wing is a right wing troll <eos>,-6.22042179107666
+right wing is a right wing news <eos>,-6.643723487854004
+liberals <eos>,-2.8011670112609863
+liberals but i think it s not a good president,-16.478909969329834
+liberals but i m a bot in the senate <eos>,-16.642263412475586
+liberals but i think it s not a bit more,-17.00923204421997
+liberals but i m a bot in the president for,-17.608976364135742
+liberals are going to see the democratic party <eos>,-11.706006526947021
+liberals are going to see the kkk <eos>,-13.782140254974365
+liberals are going to have a single issue <eos>,-13.984264850616455
+liberals are going to have a single issue but i,-15.578535556793213
+liberals are going to see the democratic party wing fake,-16.161824226379395
+conservative <eos>,-3.388239860534668
+conservative thing <eos>,-4.943589210510254
+conservative which is not a bit more <eos>,-14.043498039245605
+conservative which is not a bit more than a woman,-18.798522472381592
+conservative which is not a bit more than a lot,-19.054317951202393
+conservatives are the same time <eos>,-8.835305213928223
+conservatives are on the democratic party <eos>,-8.954480648040771
+conservatives are in the democratic party <eos>,-8.964700698852539
+conservatives are the same time he has a lot of,-15.538020133972168
+conservatives are the same time he has a very good,-17.39347219467163
+progressives <eos>,-2.094813346862793
+progressives it <eos>,-4.443975448608398
+progressives and i don t think it <eos>,-11.26532506942749
+progressives and i don t think it s not a,-15.206199169158936
+progressives and i don t think it s not to,-16.180589199066162
+progressives are the democratic party <eos>,-6.556678771972656
+progressives are the right <eos>,-6.913056373596191
+progressives are the right wing news <eos>,-10.12837028503418
+progressives are that the democratic party <eos>,-10.17757511138916
+progressives are the democratic party of the house <eos>,-13.250198364257812
+socialism <eos>,-1.7629995346069336
+socialism and i don t think it <eos>,-12.250924110412598
+socialism and i don t think it s not a,-16.26951789855957
+socialism and i don t think that s not a,-16.89106273651123
+socialism and i don t think it s not to,-17.23689556121826
+socialism is <eos>,-3.341330051422119
+socialism is a right <eos>,-6.793417930603027
+socialism is a right wing fake news website <eos>,-8.891887664794922
+socialism is a right wing news <eos>,-9.539164543151855
+socialism is that the democratic party <eos>,-9.8488187789917
+socialists the democratic party <eos>,-5.809772491455078
+socialists https www youtube com watch v uqs oeudzsw <eos>,-9.926430702209473
+socialists https www youtube com amp s www buzzfeednews com,-10.20466423034668
+socialists https www google com amp s www buzzfeednews com,-10.394858360290527
+socialists https www youtube com watch v ofvj j pk,-11.888468742370605
+socialists are the democratic party <eos>,-5.728783130645752
+socialists are the government <eos>,-6.137292385101318
+socialists are the right <eos>,-6.444827079772949
+socialists are the same time <eos>,-7.211272716522217
+socialists are the democratic party of the candidates <eos>,-13.518651008605957
+centrists this is the right <eos>,-9.152508735656738
+centrists i m a bot <eos>,-10.181221008300781
+centrists this is the right wing reddit <eos>,-13.429187774658203
+centrists i m a bot in the senate <eos>,-15.035217761993408
+centrists this is the right wing reddit and not the,-18.96269989013672
+centrists are the right <eos>,-6.498218536376953
+centrists are the democratic party <eos>,-6.533714294433594
+centrists are the right wing news <eos>,-9.587835311889648
+centrists are the right wing news and trump supporters trump,-15.800834655761719
+centrists are the right wing news and trump supporters https,-17.36980962753296
+centrist democrats <eos>,-2.9719886779785156
+centrist democrats in the senate <eos>,-7.161930561065674
+centrist democrats in the democratic party <eos>,-7.288878917694092
+centrist democrats in the first time <eos>,-8.404406547546387
+centrist democrats in the end of the candidates <eos>,-12.928852081298828
+centrist democrats are going to see the democratic party <eos>,-11.522791862487793
+centrist democrats are going to have a republican <eos>,-11.896690368652344
+centrist democrats are going to have a single issue <eos>,-13.210406303405762
+centrist democrats are going to have a single issue but,-13.520514488220215
+centrist democrats are going to have a single issue and,-13.693367004394531
+centrist republicans not have to do you <eos>,-12.718328475952148
+centrist republicans not have to see the democratic party <eos>,-14.858606338500977
+centrist republicans not have to do you can t have,-15.963477611541748
+centrist republicans not have to do you can t see,-16.232423305511475
+centrist republicans not have to do you can t be,-16.260982990264893
+centrist republicans are right <eos>,-4.499912261962891
+centrist republicans are rights <eos>,-4.664378643035889
+centrist republicans are going to see the democratic party <eos>,-11.292332172393799
+centrist republicans are going to have a single issue <eos>,-12.835616111755371
+centrist republicans are going to have a single issue but,-13.189489364624023
+democratic socialism <eos>,-2.06284236907959
+democratic socialism but it s not a good president i,-14.731080055236816
+democratic socialism but i m a bot the system for,-14.752861022949219
+democratic socialism but it s not a good president <eos>,-14.880688667297363
+democratic socialism but it s not a good president for,-15.09891128540039
+democratic socialism is <eos>,-3.383671760559082
+democratic socialism is a democrat <eos>,-6.423259258270264
+democratic socialism is a right <eos>,-6.7045392990112305
+democratic socialism is a right wing fake news website <eos>,-7.611061096191406
+democratic socialism is a right wing platform <eos>,-8.088188171386719
+establishment <eos>,-3.310044765472412
+establishment but i think it s not a good president,-15.93259334564209
+establishment but i think it s not a bit more,-16.5443696975708
+establishment but i think it s not a democrat <eos>,-17.37488079071045
+establishment but i m not saying that s not a,-17.525893211364746
+establishment is not a democrat <eos>,-8.596576690673828
+establishment is not in a place <eos>,-10.321410655975342
+establishment is why you can t have to see the,-16.538957595825195
+establishment is why you can t have to see a,-16.818561553955078
+establishment is why you can t have to do you,-17.035223484039307
+establishment democrats will have to be first refugee elected to,-15.366740226745605
+establishment democrats will have to see the democratic party <eos>,-15.469722270965576
+establishment democrats will have to put all of trump <eos>,-16.46053457260132
+establishment democrats will have to put all of the candidates,-16.780842304229736
+establishment democrats will have to put all of the people,-17.12741470336914
+establishment democrats are racist <eos>,-4.7206549644470215
+establishment democrats are going to see the democratic party <eos>,-11.05765151977539
+establishment democrats are going to have a republican <eos>,-11.533629417419434
+establishment democrats are going to have a single issue <eos>,-13.035164833068848
+establishment democrats are going to have a single issue but,-13.263725280761719
+establishment republicans like it <eos>,-5.6902666091918945
+establishment republicans like that <eos>,-7.226705074310303
+establishment republicans not have to do you <eos>,-12.475990295410156
+establishment republicans not have to see the democratic party <eos>,-14.800106525421143
+establishment republicans not have to do you to see the,-16.68605661392212
+establishment republicans are racist <eos>,-4.808409214019775
+establishment republicans are going to see the democratic party <eos>,-11.019861221313477
+establishment republicans are going to have a republican <eos>,-11.53256607055664
+establishment republicans are going to have a single issue <eos>,-13.066690921783447
+establishment republicans are going to have a single issue but,-13.264094829559326
+communists <eos>,-1.4739131927490234
+communists https www youtube com amp s www buzzfeednews com,-9.128116130828857
+communists https www youtube com watch v uqs oeudzsw <eos>,-9.275429248809814
+communists https www google com amp s www buzzfeednews com,-9.303484439849854
+communists https www youtube com watch v ofvj j pk,-11.188655853271484
+communist are the democratic party <eos>,-7.214976787567139
+communist are in the democratic party <eos>,-8.615682125091553
+communist are some of the first time <eos>,-11.312558650970459
+communist are some of the first time in the democratic,-17.00167989730835
+communist are some of the first time in the senate,-17.262285232543945
+capitalism <eos>,-0.6889991760253906
+capitalism is <eos>,-4.2789835929870605
+capitalism is a democrat <eos>,-7.436682224273682
+capitalism is not to be a good president <eos>,-17.134761333465576
+capitalism is not to be a good president for it,-19.114312648773193
+capitalism is <eos>,-2.8675475120544434
+capitalism is a democrat <eos>,-6.0252461433410645
+capitalism is a bit more <eos>,-9.349437236785889
+capitalism is a bit more of the candidates <eos>,-15.808631420135498
+capitalism is a bit more than a lot of his,-18.021703243255615
+whites <eos>,-2.3790340423583984
+whites in america <eos>,-5.7345733642578125
+whites in the democratic party <eos>,-7.435518741607666
+whites in the democratic time <eos>,-9.668519496917725
+whites in the democratic party wing fake news website <eos>,-15.616694927215576
+whites are on the democratic party <eos>,-8.542992115020752
+whites are in the democratic party <eos>,-8.60832166671753
+whites are in the first time <eos>,-9.724064350128174
+whites are in the democratic time <eos>,-10.435293674468994
+whites are in the wrong sub <eos>,-10.460805892944336
+blacks <eos>,-0.9202289581298828
+blacks but i don t think it <eos>,-12.78200626373291
+blacks but i don t think it s not a,-16.599491119384766
+blacks but i don t think that s not a,-17.13479232788086
+blacks but i don t think it s not to,-17.634794235229492
+blacks are the democratic party <eos>,-6.830939292907715
+blacks are the same time <eos>,-8.665395736694336
+blacks are in the democratic party <eos>,-9.001606941223145
+blacks are the same time he has a lot of,-15.319673538208008
+blacks are the same time he has a very good,-17.237220764160156
+african americans have been wrong <eos>,-7.983046531677246
+african americans will have to be honest <eos>,-11.105574607849121
+african americans will have to be able to see the,-14.53568410873413
+african americans will have to be able to see a,-14.755702495574951
+african americans will have to be able to have a,-14.769778728485107
+african americans are going to see the democratic party <eos>,-11.400157451629639
+african americans are going to have a republican <eos>,-11.76807165145874
+african americans are going to have a single issue <eos>,-13.136312007904053
+african americans are going to have a single issue but,-13.462406635284424
+african americans are going to have a single issue and,-13.71567678451538
+asians <eos>,-0.4061431884765625
+asians in the senate <eos>,-8.485897541046143
+asians in the democratic party <eos>,-8.921885967254639
+asians in the american party <eos>,-10.879006385803223
+asians in the democratic party wing fake news website <eos>,-16.856712341308594
+asians are in many contexts <eos>,-7.514430522918701
+asians are in the democratic party <eos>,-8.30963659286499
+asians are in the first time <eos>,-9.497252941131592
+asians are in the first time in the senate <eos>,-15.334169864654541
+asians are in the first time in the democratic party,-15.63802194595337
+asian americans have been wrong <eos>,-7.996425628662109
+asian americans will have to be first refugee elected to,-14.884207725524902
+asian americans will have to be first refugee elected in,-16.908477783203125
+asian americans can t have to see the democratic party,-17.232559204101562
+asian americans will have to be first refugee elected for,-17.301697731018066
+asian americans are racist <eos>,-4.95002555847168
+asian americans are going to see the democratic party <eos>,-11.463873863220215
+asian americans are going to have a single issue <eos>,-13.161446571350098
+asian americans are going to have a single issue but,-13.524094581604004
+asian americans are going to have a single issue and,-13.725455284118652
+latinos <eos>,-4.623969078063965
+latinos out of the candidates <eos>,-11.67724323272705
+latinos while the media trying to be legal <eos>,-17.650627613067627
+latinos while the media trying to the school because he,-19.641067028045654
+latinos while the media trying to be legal because he,-20.687150478363037
+latinos are going to have a republican <eos>,-11.990364074707031
+latinos are going to see the democratic party <eos>,-12.055585384368896
+latinos are going to have a single issue <eos>,-13.29201364517212
+latinos are going to have a single issue but i,-15.045924663543701
+latinos are going to have a single issue but he,-16.32779359817505
+hispanic <eos>,-3.5023159980773926
+hispanic which is not a right <eos>,-11.016414642333984
+hispanic which is not a right wing troll <eos>,-13.646223068237305
+hispanic which is not a right wing fake news website,-14.898205757141113
+hispanic which is not a right wing fake news <eos>,-15.521245002746582
+lgbtq bullshit <eos>,-4.403454303741455
+lgbtq dollars <eos>,-5.025548458099365
+lgbtq rights <eos>,-5.2993597984313965
+lgbtq interests <eos>,-5.6738715171813965
+lgbtq than the media and the house and the only,-23.393718242645264
+lgbt rights <eos>,-5.091315269470215
+lgbt than the american party <eos>,-8.771941184997559
+lgbt than the media and don t care about the,-17.0355544090271
+lgbt than the media and don t care about <eos>,-17.730536460876465
+lgbt than the media and don t care about me,-18.06844186782837
+lgbtq community is a right <eos>,-4.742593765258789
+lgbtq community is a democrat <eos>,-5.110812664031982
+lgbtq community is a right wing fake news website <eos>,-5.96424674987793
+lgbtq community is a fake right wing fake news website,-7.114245414733887
+lgbtq community is a fake right wing news website <eos>,-7.943280220031738
+homosexuals i don t think it <eos>,-8.09276294708252
+homosexuals i don t think it s not a bit,-14.839638710021973
+homosexuals i don t think it s not a good,-14.860454559326172
+homosexuals i don t think it s not a democrat,-14.884990215301514
+homosexuals i don t think that s not a good,-15.398144721984863
+homosexuals are racist <eos>,-4.621488094329834
+homosexuals are the right <eos>,-6.890659332275391
+homosexuals are the same time <eos>,-8.226568222045898
+homosexuals are the right wing news <eos>,-10.440160274505615
+homosexuals are the same time he has a lot of,-15.388863563537598
+jews are the democratic party <eos>,-7.778090476989746
+jews are the same time <eos>,-8.71183443069458
+jews are on the democratic party <eos>,-9.057273864746094
+jews are the same time he has a lot of,-15.502795696258545
+jews are the same time he has a very good,-17.326719284057617
+chinese are the democratic party <eos>,-6.33759880065918
+chinese are the same time <eos>,-8.161559104919434
+chinese are the american people who will have to be,-15.551350116729736
+chinese are the same time he has a very good,-16.532292366027832
+chinese are the american people who will have to put,-17.077849864959717
+the media and don t think it <eos>,-10.91964340209961
+the media and don t care about <eos>,-11.481438636779785
+the media and don t think it s not a,-14.614514350891113
+the media and don t think that s not a,-15.343921661376953
+the media and don t think it s not to,-15.6885986328125
+the media is rigged <eos>,-4.332932949066162
+the media is a democrat <eos>,-6.220380783081055
+the media is rigged it <eos>,-7.516408443450928
+the media is a democrat and i don t think,-11.688138484954834
+the media is a democrat and i don t have,-12.550920963287354
+the mainstream media <eos>,-3.631606101989746
+the mainstream media don t care about <eos>,-10.176132678985596
+the mainstream media don t care about trump <eos>,-11.05589771270752
+the mainstream media don t care about his policies <eos>,-12.609355449676514
+the mainstream media don t care about the other time,-15.002352237701416
+the mainstream media is rigged <eos>,-4.906225204467773
+the mainstream media is a democrat <eos>,-5.992382049560547
+the mainstream media is not a democrat <eos>,-9.316788673400879
+the mainstream media is a democrat and i don t,-10.530381202697754
+the mainstream media is not a democrat or a lot,-14.13669204711914
+fake news <eos>,-2.365586757659912
+fake news website <eos>,-2.8589768409729004
+fake news so i don t think it <eos>,-10.238104820251465
+fake news so i don t think it s not,-12.411277294158936
+fake news so i don t think it s a,-12.793021202087402
+the fake news media is platform <eos>,-3.9010009765625
+the fake news media is rigged <eos>,-4.607999801635742
+the fake news media is a democrat <eos>,-5.980456352233887
+the fake news media is a right wing fake news,-6.313187599182129
+the fake news media is a right wing platform <eos>,-7.26325798034668
+fox news <eos>,-2.8759117126464844
+fox news website <eos>,-3.23195219039917
+fox news so i don t think it <eos>,-10.739412307739258
+fox news so i don t think it s not,-12.924664974212646
+fox news so i don t think it s a,-13.299195766448975
+fox news is a right <eos>,-5.680153846740723
+fox news is a right wing fake news website <eos>,-6.494624137878418
+fox news is a right wing platform <eos>,-6.839998245239258
+fox news is a fake right wing fake news website,-8.179656028747559
+fox news is a fake right wing fake news <eos>,-10.451586723327637
+cnn <eos>,-2.302457809448242
+cnn won <eos>,-5.049450397491455
+cnn won t have to do you <eos>,-16.209708213806152
+cnn won t have to the first time <eos>,-17.440487384796143
+cnn won t have to the first time to the,-18.798101902008057
+cnn is <eos>,-3.685575008392334
+cnn is a democrat <eos>,-5.348254680633545
+cnn is not a democrat <eos>,-8.070323944091797
+cnn is a bit more <eos>,-8.58789587020874
+cnn is not a bit more than a woman to,-17.019046306610107
+msnbc <eos>,-1.1806278228759766
+msnbc in the democratic party <eos>,-8.310655117034912
+msnbc is a democrat <eos>,-8.746196269989014
+msnbc in the american people <eos>,-11.283584117889404
+msnbc in the democratic party to the house to the,-19.382757663726807
+msnbc is <eos>,-3.4723711013793945
+msnbc is a democrat <eos>,-6.203399181365967
+msnbc is not to see the democratic party <eos>,-13.196806907653809
+msnbc is not to see the president <eos>,-13.89378309249878
+msnbc is not to see the same time <eos>,-14.819091796875
+isis <eos>,-3.1268258094787598
+isis interests <eos>,-4.546323299407959
+isis interests in the democratic party <eos>,-10.33692216873169
+isis out of the candidates <eos>,-11.021197319030762
+isis interests in the democratic party of the house <eos>,-19.73315143585205
+isis is a democrat <eos>,-5.326716899871826
+isis is a right <eos>,-6.229606628417969
+isis is a right wing platform <eos>,-7.8722686767578125
+isis is a right wing fake news website <eos>,-8.254660606384277
+isis is a right wing news <eos>,-8.694532871246338
+russia <eos>,-1.0521535873413086
+russia is <eos>,-4.61839485168457
+russia is a democrat <eos>,-7.8074421882629395
+russia is not a bit more <eos>,-13.37102746963501
+russia is not a bit more than the people who,-19.722121715545654
+russia is <eos>,-2.935183525085449
+russia is a democrat <eos>,-6.124230861663818
+russia is a bit more <eos>,-9.335774421691895
+russia is not a bit more than a woman to,-17.35770273208618
+russia is not a bit more than the people who,-18.038910388946533
+putin <eos>,-0.21723175048828125
+putin but i m a bot in the senate <eos>,-18.0078182220459
+putin but i m a bot in the president for,-19.03145694732666
+putin but i m a bot in the president <eos>,-19.04707908630371
+putin but i m not saying that s not a,-19.492728233337402
+putin is <eos>,-2.390714168548584
+putin is a democrat <eos>,-6.624973297119141
+putin is a right <eos>,-7.215062141418457
+putin is a right wing fake news website <eos>,-9.242462158203125
+putin is a right wing fake news <eos>,-10.975715637207031
+china <eos>,-3.8046417236328125
+china ads <eos>,-5.356217384338379
+china b so i don t think it <eos>,-14.754307746887207
+china b so i don t think it s not,-16.691954612731934
+china b so i don t think it s a,-17.03668785095215
+china is a right <eos>,-5.575784683227539
+china is a known russian troll <eos>,-5.718249320983887
+china is a right wing fake news website <eos>,-6.544833183288574
+china is a right wing platform <eos>,-6.689999580383301
+china is a right wing news <eos>,-7.47562313079834
+the middle east <eos>,-2.012727737426758
+the middle east in the party <eos>,-7.509756565093994
+the middle east into the party <eos>,-7.709726333618164
+the middle east in the democratic party <eos>,-8.382469177246094
+the middle east is a democrat <eos>,-8.916831016540527
+the middle east is <eos>,-3.4124059677124023
+the middle east is rigged <eos>,-4.913110256195068
+the middle east is a democrat <eos>,-6.112034320831299
+the middle east is a democrat and i don t,-10.639079093933105
+the middle east is a democrat and it s not,-12.335604667663574
+iran <eos>,-0.23198413848876953
+iran but i don t think it <eos>,-13.398470878601074
+iran but i don t think it s not a,-17.23222589492798
+iran but i don t think that s not a,-17.768317222595215
+iran but i don t think it s not to,-18.25647783279419
+iran is <eos>,-3.1122097969055176
+iran is a democrat <eos>,-5.952542781829834
+iran is a bit more <eos>,-9.455917358398438
+iran is a bit more than a woman to be,-17.678202629089355
+iran is a bit more than a lot of the,-17.823383808135986
+iraq <eos>,-1.9114289283752441
+iraq by the democratic party <eos>,-8.617775440216064
+iraq but i m a bot the system for the,-18.57535743713379
+iraq but i m a bot in the president for,-18.87108325958252
+iraq but i m a bot in the president <eos>,-18.872516632080078
+iraq is a right <eos>,-5.837658882141113
+iraq is a racist <eos>,-6.206491470336914
+iraq is a right wing fake news website <eos>,-7.787710189819336
+iraq is a right wing platform <eos>,-7.974553108215332
+iraq is a right wing news <eos>,-8.411273956298828
+canada <eos>,-2.1340408325195312
+canada but i don t think it <eos>,-13.133869647979736
+canada but i don t think it s not a,-16.937835693359375
+canada but i don t think that s not a,-17.4744873046875
+canada but i don t think it s not to,-17.97779083251953
+canada is a right <eos>,-5.898462295532227
+canada is the right <eos>,-6.300300121307373
+canada is the democratic party <eos>,-6.377516269683838
+canada is a right wing fake news website <eos>,-7.97675895690918
+canada is a right wing news <eos>,-8.621037483215332
+eu <eos>,-2.2118453979492188
+eu don t you do it <eos>,-11.325107097625732
+eu which is not a bit more <eos>,-14.664631843566895
+eu don t you do it s not a bit,-18.682734966278076
+eu don t you do it s not a democrat,-18.801422595977783
+eu is a right <eos>,-6.484703540802002
+eu is a known russian troll <eos>,-7.307291507720947
+eu is a right wing platform <eos>,-8.074318408966064
+eu is a right wing fake news website <eos>,-8.180055141448975
+eu is a right wing news <eos>,-8.830979824066162

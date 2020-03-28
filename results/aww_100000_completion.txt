@@ -1,0 +1,1211 @@
+sentence,log_probability
+trump <eos>,-3.59084415435791
+trump am <eos>,-6.6275248527526855
+trump am and i don t think it s a,-17.045827388763428
+trump am and i don t think it s not,-17.834758281707764
+trump am and i m not sure if it s,-17.837260723114014
+trump is the best <eos>,-5.399266242980957
+trump is a good boy <eos>,-6.651583671569824
+trump is the same <eos>,-6.949575424194336
+trump is a good boi <eos>,-7.700789451599121
+trump is the best thing i ve seen all day,-10.091706275939941
+trump is a good boy <eos>,-4.3154401779174805
+trump is a cat <eos>,-4.341538429260254
+trump is a good boi <eos>,-5.364645957946777
+trump is a good man <eos>,-6.042410850524902
+trump is a very good boy <eos>,-6.906642913818359
+trump should <eos>,-3.42938232421875
+trump should be the best <eos>,-7.210870742797852
+trump should be the cutest <eos>,-7.868149757385254
+trump should be a good boy <eos>,-7.869885444641113
+trump should be the best thing i ve seen all,-12.058751106262207
+trump needs to be a cat <eos>,-7.083518981933594
+trump needs to be the best <eos>,-7.3836870193481445
+trump needs to be the cutest <eos>,-7.609204292297363
+trump needs to be a good boy <eos>,-7.934331893920898
+trump needs to be the cutest thing ever <eos>,-9.346131324768066
+trump will <eos>,-3.529646873474121
+trump will be the best <eos>,-8.181754112243652
+trump will not be the best <eos>,-9.713028907775879
+trump will not be a good boy <eos>,-11.010119438171387
+trump will not be the best thing to do <eos>,-15.326922416687012
+trump has the best <eos>,-7.006924629211426
+trump has no idea <eos>,-7.046138763427734
+trump has no idea what you re saying <eos>,-11.641733169555664
+trump has no idea what he is <eos>,-11.758145332336426
+trump has no idea what you re doing <eos>,-12.167880058288574
+trump administration has something <eos>,-5.157597541809082
+trump administration has no idea what s happening <eos>,-11.125347137451172
+trump administration has no idea what you re saying <eos>,-11.435303688049316
+trump administration has no idea what you re doing <eos>,-11.445479393005371
+trump administration has no idea what you re talking about,-11.964800834655762
+trump s <eos>,-3.587728500366211
+trump s voice <eos>,-4.3876953125
+trump s shit <eos>,-4.587027072906494
+trump s face <eos>,-5.54202938079834
+trump s face and the cat is just a little,-20.740731239318848
+maga <eos>,-0.4620695114135742
+maga cat <eos>,-4.907312393188477
+maga the cat <eos>,-8.35425853729248
+maga the cat is just looking at the end <eos>,-20.393308639526367
+maga the cat is just looking at the dog <eos>,-20.597155570983887
+trump supporters are <eos>,-4.267962455749512
+trump supporters are right <eos>,-4.662883758544922
+trump supporters are the best <eos>,-6.151477813720703
+trump supporters are not allowed in this sub <eos>,-10.303474426269531
+trump supporters are not allowed in the background <eos>,-10.520463943481445
+trump is handling it <eos>,-2.461359977722168
+trump is handling it again <eos>,-4.969382286071777
+trump is handling it all <eos>,-5.058698654174805
+trump is handling it s a good boy <eos>,-12.154959678649902
+trump is handling it all that is a good boy,-16.879677772521973
+sleepy joe <eos>,-1.406630516052246
+sleepy joe face <eos>,-4.4376678466796875
+sleepy joe right <eos>,-5.845002174377441
+sleepy joe right there <eos>,-6.424619674682617
+sleepy joe i m sure you re a good person,-17.45763397216797
+sanders <eos>,-0.0011959075927734375
+sanders tho <eos>,-9.469257354736328
+sanders though <eos>,-9.86809253692627
+sanders lol <eos>,-9.930763244628906
+sanders https imgur com a gw b https imgur com,-18.12934398651123
+sanders is so cute <eos>,-4.9587202072143555
+sanders is the best <eos>,-6.39200496673584
+sanders is a good boy <eos>,-6.8803300857543945
+sanders is a good boi <eos>,-7.706830978393555
+sanders is gonna be a good boy <eos>,-11.655339241027832
+sanders is a good boy <eos>,-4.1502532958984375
+sanders is a cat <eos>,-4.768123626708984
+sanders is a good boi <eos>,-4.976754188537598
+sanders is a handsome boy <eos>,-5.263413429260254
+sanders is a great name <eos>,-5.72905158996582
+sanders should <eos>,-2.287623405456543
+sanders should do <eos>,-4.059202194213867
+sanders should do it <eos>,-5.678598403930664
+sanders should look like a cat <eos>,-9.701558113098145
+sanders should look like he s got a cat <eos>,-16.552029609680176
+sanders needs to boop the snoot <eos>,-5.821956634521484
+sanders needs to keep him <eos>,-7.841175079345703
+sanders needs to be a cat <eos>,-8.786649703979492
+sanders needs to be a good boy <eos>,-9.70315933227539
+sanders needs to keep him on the floor <eos>,-13.024308204650879
+sanders will <eos>,-2.1898088455200195
+sanders will do <eos>,-4.424250602722168
+sanders will do it <eos>,-5.405596733093262
+sanders will do this <eos>,-6.1524457931518555
+sanders will do it again <eos>,-7.113221168518066
+sanders has wares if you have coin <eos>,-3.6898183822631836
+sanders has wares if i have coin <eos>,-5.631866455078125
+sanders has seen some shit <eos>,-5.696439743041992
+sanders has a cat <eos>,-6.21983528137207
+sanders has an instagram <eos>,-6.341197967529297
+sanders <eos>,-0.0011959075927734375
+sanders tho <eos>,-9.469257354736328
+sanders though <eos>,-9.86809253692627
+sanders lol <eos>,-9.930763244628906
+sanders https imgur com a gw b https imgur com,-18.12934398651123
+bernie <eos>,-1.0155296325683594
+bernie for me <eos>,-6.214155197143555
+bernie o <eos>,-6.233640670776367
+bernie for the cat <eos>,-9.611773490905762
+bernie for a good life <eos>,-12.029722213745117
+bernie is a cat <eos>,-4.538755416870117
+bernie is a good boy <eos>,-4.690140724182129
+bernie is a good idea <eos>,-5.23313045501709
+bernie is a good day <eos>,-5.722955703735352
+bernie is a good idea to be a good boy,-18.738195419311523
+bernie should <eos>,-1.846095085144043
+bernie should be a cat <eos>,-8.180004119873047
+bernie should be the best <eos>,-8.481484413146973
+bernie should be a good boy <eos>,-9.6773681640625
+bernie should be the best thing ever <eos>,-11.530289649963379
+bernie needs to go <eos>,-5.398405075073242
+bernie needs to be a cat <eos>,-8.24866771697998
+bernie needs to get a cat <eos>,-9.025073051452637
+bernie needs to have a cat <eos>,-9.493661880493164
+bernie needs to have a cat that s a cat,-16.40111255645752
+bernie will <eos>,-1.5929193496704102
+bernie will not <eos>,-6.335529327392578
+bernie will you please <eos>,-7.480375289916992
+bernie will you please tell me i m not sure,-16.531503677368164
+bernie will you please tell me i m not a,-17.21173667907715
+bernie has a cat <eos>,-6.467966079711914
+bernie has no one <eos>,-7.295964241027832
+bernie has no idea what you re saying <eos>,-12.3339262008667
+bernie has no idea what you re doing <eos>,-12.711780548095703
+bernie has no idea what i m going to do,-15.162548065185547
+bernie s <eos>,-0.8712148666381836
+bernie s o <eos>,-4.871166229248047
+bernie s o p <eos>,-6.83962345123291
+bernie s o o p <eos>,-8.873892784118652
+bernie s o o o o o o o o,-15.654437065124512
+bernie supporters <eos>,-0.0121612548828125
+bernie supporters or <eos>,-8.689387321472168
+bernie supporters edit <eos>,-9.047828674316406
+bernie supporters https www youtube com watch v prn xw,-14.155016899108887
+bernie supporters https www youtube com watch v j k,-15.13529109954834
+crazy bernie <eos>,-0.66766357421875
+crazy bernie too <eos>,-5.1413750648498535
+crazy bernie for me <eos>,-6.5233869552612305
+crazy bernie for the cat <eos>,-10.272054672241211
+crazy bernie for a good life <eos>,-12.712857246398926
+nervous nancy going on <eos>,-6.353670120239258
+nervous nancy that s not the case <eos>,-11.705032348632812
+nervous nancy that i m not sure <eos>,-12.537060737609863
+nervous nancy that i m not sure if it s,-14.380911827087402
+nervous nancy that i m not sure if it was,-15.733819007873535
+moscow mitch <eos>,-0.4116992950439453
+moscow mitch s <eos>,-5.901477813720703
+moscow mitch https www youtube com watch v td q,-10.507535934448242
+moscow mitch https www youtube com watch v prn xw,-10.853355407714844
+moscow mitch https www youtube com watch v j k,-11.548502922058105
+obama <eos>,-2.7122764587402344
+obama looking cat <eos>,-4.089574813842773
+obama looking old man <eos>,-5.572662353515625
+obama looking at the same time <eos>,-8.914254188537598
+obama looking at the end <eos>,-9.08932876586914
+obama is the best <eos>,-4.108973503112793
+obama is a good boy <eos>,-5.279109001159668
+obama is the same <eos>,-5.657939910888672
+obama is the best boy <eos>,-5.781922340393066
+obama is the same way <eos>,-6.2348737716674805
+obama was the best <eos>,-4.690122604370117
+obama was a good boy <eos>,-5.85084342956543
+obama was the best boy <eos>,-6.410445213317871
+obama was the same <eos>,-7.016397476196289
+obama was the same way <eos>,-7.616857528686523
+obama is a good boy <eos>,-3.2529773712158203
+obama is a good boi <eos>,-4.15594482421875
+obama is a great name <eos>,-5.445443153381348
+obama is a very good boy <eos>,-6.353384017944336
+obama is a great name for a second <eos>,-11.179991722106934
+obama should be the best <eos>,-6.431809425354004
+obama should be the cutest <eos>,-7.635422706604004
+obama should be a good boy <eos>,-7.966681480407715
+obama should be the same <eos>,-8.367996215820312
+obama should be the best boy <eos>,-8.811715126037598
+obama needs to be the best <eos>,-6.933732032775879
+obama needs to be a cat <eos>,-7.109999656677246
+obama needs to be a good boy <eos>,-7.332527160644531
+obama needs to be the cutest <eos>,-7.993582725524902
+obama needs to be in the background <eos>,-8.599922180175781
+obama will <eos>,-3.4696550369262695
+obama will do it <eos>,-5.922021865844727
+obama will do it again <eos>,-6.9064435958862305
+obama will be the best <eos>,-7.312763214111328
+obama will probably be a good boy <eos>,-10.822795867919922
+obama has the best <eos>,-6.2405853271484375
+obama has a good boy <eos>,-7.119413375854492
+obama has no idea what you re saying <eos>,-11.349830627441406
+obama has no idea what he is <eos>,-11.356446266174316
+obama has no idea what you re doing <eos>,-11.725736618041992
+obama administration has over <eos>,-4.626642227172852
+obama administration has ever known <eos>,-6.6717987060546875
+obama administration has no idea <eos>,-7.663167953491211
+obama administration has no idea what s happening <eos>,-11.175896644592285
+obama administration has no idea what s happening on the,-14.306884765625
+obama s <eos>,-2.9641542434692383
+obama s cute <eos>,-4.459955215454102
+obama s adorable <eos>,-4.774406909942627
+obama s old <eos>,-5.495206832885742
+obama s face <eos>,-5.570727825164795
+abortion <eos>,-1.3789644241333008
+abortion at the same time <eos>,-6.247406005859375
+abortion at the end <eos>,-6.820391654968262
+abortion in the background <eos>,-7.172472953796387
+abortion at the end of the same <eos>,-11.388718605041504
+abortion should be the best <eos>,-6.427216529846191
+abortion should be the cutest <eos>,-7.187788009643555
+abortion should be the cutest thing ever <eos>,-8.772285461425781
+abortion should be the best thing ever <eos>,-9.371078491210938
+abortion should be the best thing i ve seen all,-11.10801887512207
+pro life <eos>,-1.0009803771972656
+pro life is to be <eos>,-10.387426376342773
+pro life is to be the best <eos>,-15.352946281433105
+pro life is to be in the world <eos>,-15.894569396972656
+pro life is to be the best thing to do,-18.424050331115723
+pro choice <eos>,-0.8434514999389648
+pro choice in the world <eos>,-8.917613983154297
+pro choice of a dog <eos>,-9.02871036529541
+pro choice in the wild <eos>,-9.231993675231934
+pro choice in the same way <eos>,-11.23865795135498
+gun control <eos>,-0.48058509826660156
+gun control over <eos>,-4.974740982055664
+gun control but i m not crying <eos>,-13.113295555114746
+gun control but i m not crying you re crying,-13.220940589904785
+gun control but i m not sure if i m,-16.308066368103027
+gun control should <eos>,-2.7698020935058594
+gun control should be <eos>,-3.953343391418457
+gun control should be the best <eos>,-7.564578056335449
+gun control should be the best thing i ve seen,-9.737398147583008
+gun control should be the best thing i ve ever,-10.027420043945312
+gun control laws are the best <eos>,-4.681673049926758
+gun control laws are the same <eos>,-7.277076721191406
+gun control laws are the worst <eos>,-7.308650016784668
+gun control laws are the best thing i ve seen,-9.239873886108398
+gun control laws are the best thing i ve ever,-9.54318618774414
+universal basic income <eos>,-3.7934751510620117
+universal basic income to make sense <eos>,-6.949108123779297
+universal basic income to make them feel better <eos>,-10.5433349609375
+universal basic income to make them feel better than a,-13.442285537719727
+universal basic income to make sure you re not a,-14.397788047790527
+universal basic income is not a good idea <eos>,-11.447344779968262
+universal basic income is not a year old <eos>,-11.78081226348877
+universal basic income is not a natural language to the,-13.037981033325195
+universal basic income is not the only one who said,-13.754814147949219
+universal basic income is not the only one who doesn,-13.761445999145508
+affirmative action <eos>,-2.12802791595459
+affirmative action instagram <eos>,-2.160043716430664
+affirmative action movie <eos>,-4.561666488647461
+affirmative action instagram name <eos>,-4.766468048095703
+affirmative action instagram etc <eos>,-4.820523262023926
+affirmative action is on the floor <eos>,-8.832083702087402
+affirmative action is not a good boi <eos>,-9.496768951416016
+affirmative action is not a good boy <eos>,-9.68134593963623
+affirmative action is not a good idea <eos>,-10.664945602416992
+affirmative action is not a full grown man <eos>,-11.448386192321777
+marijuana <eos>,-0.6455850601196289
+marijuana here <eos>,-3.351202964782715
+marijuana and it s not a good idea <eos>,-16.848112106323242
+marijuana and it s not a good boy <eos>,-17.362794876098633
+marijuana and it s not a good thing <eos>,-17.91269874572754
+marijuana should <eos>,-3.098234176635742
+marijuana should be the best <eos>,-7.237693786621094
+marijuana should be in the background <eos>,-8.891345977783203
+marijuana should be the best way to see <eos>,-12.266092300415039
+marijuana should be the best way to see all of,-15.605324745178223
+capital punishment <eos>,-3.2384862899780273
+capital punishment to it <eos>,-4.854543685913086
+capital punishment to the world <eos>,-6.656435012817383
+capital punishment to the future <eos>,-6.978734016418457
+capital punishment to the other <eos>,-9.057909965515137
+capital punishment is the best <eos>,-7.132464408874512
+capital punishment is not the case <eos>,-9.010048866271973
+capital punishment is the best thing <eos>,-9.678529739379883
+capital punishment is the best thing i ve ever seen,-10.391357421875
+capital punishment is the best thing i ve seen in,-11.015778541564941
+military spending time <eos>,-2.95827579498291
+military spending <eos>,-3.4654417037963867
+military spending the time <eos>,-4.414165496826172
+military spending time with a dog <eos>,-8.556307792663574
+military spending time with a child <eos>,-8.859394073486328
+military spending should <eos>,-2.7479047775268555
+military spending should be the same <eos>,-7.701148986816406
+military spending should have been around <eos>,-7.755702018737793
+military spending should have been a lot of people in,-13.356345176696777
+military spending should have been a lot of people who,-14.059223175048828
+military <eos>,-2.1313371658325195
+military with a dog <eos>,-9.932040214538574
+military with the dog <eos>,-10.425274848937988
+military for a few years <eos>,-11.423233032226562
+military for a lot of time <eos>,-12.064630508422852
+military is the best <eos>,-6.7917070388793945
+military is a good idea <eos>,-8.632939338684082
+military is the best thing i ve ever seen <eos>,-9.972522735595703
+military is the best thing i ve seen all day,-10.618274688720703
+military is the best thing i ve ever seen in,-12.208634376525879
+universal healthcare <eos>,-2.963390350341797
+universal healthcare on reddit <eos>,-6.458930969238281
+universal healthcare on this sub <eos>,-7.543839454650879
+universal healthcare of all the time <eos>,-10.364656448364258
+universal healthcare of all kinds of things <eos>,-13.217832565307617
+universal healthcare is out of it <eos>,-8.74713134765625
+universal healthcare is out of this <eos>,-9.75796127319336
+universal healthcare is out of that <eos>,-10.24173641204834
+universal healthcare is out of the comments <eos>,-10.44392204284668
+universal healthcare is out of the comments section <eos>,-11.004833221435547
+medicare for all <eos>,-1.5943326950073242
+medicare for all of them <eos>,-4.261918067932129
+medicare for all the cats <eos>,-5.870563507080078
+medicare for all of the cats <eos>,-6.814643859863281
+medicare for all of the cats and cats <eos>,-12.533218383789062
+medicare for all is well <eos>,-4.9958696365356445
+medicare for all is the best <eos>,-7.237813949584961
+medicare for all is a good day <eos>,-7.662214279174805
+medicare for all is a good life <eos>,-8.492839813232422
+medicare for all is a bit of the most important,-16.739551544189453
+the green new deal is <eos>,-3.558901786804199
+the green new deal is the best <eos>,-7.167239189147949
+the green new deal is in the background <eos>,-8.420741081237793
+the green new deal is in the middle of the,-9.041129112243652
+the green new deal is the most adorable thing i,-10.018230438232422
+gay marriage <eos>,-0.42917823791503906
+gay marriage but i m not sure if it s,-14.579257011413574
+gay marriage but i don t know what you re,-15.105072021484375
+gay marriage but i m not sure if i m,-15.707462310791016
+gay marriage but i m not sure if it was,-15.807799339294434
+same sex marriage <eos>,-0.8045797348022461
+same sex marriage me <eos>,-4.242718696594238
+same sex marriage i think <eos>,-7.338069915771484
+same sex marriage i think it s a cat <eos>,-14.579920768737793
+same sex marriage i think it s not a cat,-15.811796188354492
+same sex marriage should <eos>,-3.8589277267456055
+same sex marriage should be the best <eos>,-7.579687118530273
+same sex marriage should be a great name <eos>,-8.988055229187012
+same sex marriage should be the best thing i ve,-8.990706443786621
+same sex marriage should be a good idea <eos>,-8.99826431274414
+transgender athletes <eos>,-0.07300376892089844
+transgender athletes like that <eos>,-7.881972312927246
+transgender athletes like this <eos>,-7.903908729553223
+transgender athletes but i m not sure <eos>,-13.480814933776855
+transgender athletes but i m not sure if i m,-16.131465911865234
+trans athletes <eos>,-1.4897937774658203
+trans athletes for me <eos>,-4.2246904373168945
+trans athletes for this <eos>,-5.925952911376953
+trans athletes for a reason <eos>,-6.896693229675293
+trans athletes for a few minutes <eos>,-8.346405029296875
+trans athletes should <eos>,-3.0102415084838867
+trans athletes should be the best <eos>,-7.630803108215332
+trans athletes should be the same <eos>,-8.2293062210083
+trans athletes should be in the background <eos>,-8.929221153259277
+trans athletes should be the best thing i ve seen,-9.84058666229248
+vaccinations should <eos>,-3.947877883911133
+vaccinations should be the best <eos>,-6.775240898132324
+vaccinations should be a good idea <eos>,-8.909699440002441
+vaccinations should be the best thing to do <eos>,-12.026237487792969
+vaccinations should be the best thing to do with you,-15.144146919250488
+antivaxers <eos>,-0.7144680023193359
+antivaxers they are the best <eos>,-8.380025863647461
+antivaxers i m not sure <eos>,-10.62063217163086
+antivaxers i m in the background <eos>,-11.768863677978516
+antivaxers i m not sure if i m not sure,-17.596455574035645
+antivaxers are the best <eos>,-4.039229393005371
+antivaxers are you sure <eos>,-6.43326473236084
+antivaxers are the cutest <eos>,-6.737466812133789
+antivaxers are the best thing <eos>,-8.87769603729248
+antivaxers are the best thing i ve seen all day,-10.229279518127441
+evolution <eos>,-0.4745655059814453
+evolution lol <eos>,-3.7422571182250977
+evolution it s a good idea <eos>,-11.017541885375977
+evolution it s a good thing <eos>,-12.119549751281738
+evolution it s a good idea to get a dog,-20.16011905670166
+police <eos>,-1.768111228942871
+police dog <eos>,-4.207675933837891
+police dogs <eos>,-4.451114654541016
+police cat <eos>,-4.9024248123168945
+police dogs are the best <eos>,-8.568158149719238
+cops <eos>,-1.3554182052612305
+cops https en m wikipedia org wiki otter cite note,-8.252737045288086
+cops https en m wikipedia org wiki jess falconry <eos>,-8.560894012451172
+cops https en m wikipedia org wiki seal finger <eos>,-8.949084281921387
+cops https en m wikipedia org wiki jess falconry https,-9.910574913024902
+police are the best <eos>,-4.537102699279785
+police are the same <eos>,-6.384103775024414
+police are the cutest <eos>,-6.47613525390625
+police are the best thing i ve ever seen <eos>,-9.35319995880127
+police are the best thing i ve seen all day,-9.896443367004395
+cops are the best <eos>,-5.51263427734375
+cops are all the best <eos>,-8.140570640563965
+cops are the best of both <eos>,-11.800837516784668
+cops are the best of the world <eos>,-12.27949047088623
+cops are the best of both of them <eos>,-13.533564567565918
+electoral college <eos>,-0.6270809173583984
+electoral college or something <eos>,-6.021611213684082
+electoral college or the dog <eos>,-10.115365982055664
+electoral college or the cat is just a good idea,-20.112303733825684
+electoral college or the cat is just a little bit,-20.485578536987305
+electoral college is the best <eos>,-8.36350154876709
+electoral college is the best thing ever <eos>,-10.623157501220703
+electoral college is the best thing i ve ever seen,-10.63783073425293
+electoral college is the best thing i ve seen in,-11.0286865234375
+electoral college is the best thing i ve seen all,-11.200572967529297
+student debt <eos>,-0.5188484191894531
+student debt as well <eos>,-5.377493858337402
+student debt for the first time <eos>,-7.6270036697387695
+student debt for the first time you can t see,-14.79998779296875
+student debt for the first time you can see the,-14.880772590637207
+student loans <eos>,-2.8117847442626953
+student loans i love him <eos>,-5.510724067687988
+student loans i have a cat named thor <eos>,-10.656852722167969
+student loans i think it s a good boy <eos>,-12.655378341674805
+student loans i think it s a good idea <eos>,-13.216531753540039
+student loans should <eos>,-3.2461471557617188
+student loans should be the best <eos>,-7.172229766845703
+student loans should be the cutest <eos>,-8.184216499328613
+student loans should be a good boy <eos>,-8.807019233703613
+student loans should be the cutest thing ever <eos>,-9.196868896484375
+border wall <eos>,-1.28668212890625
+border wall and the cat is in the middle of,-19.809454917907715
+border wall and the cat is in the same way,-20.7611665725708
+border wall and the cat is in the same time,-21.904431343078613
+border wall and the cat is just a little bit,-22.029024124145508
+border wall is in the background <eos>,-8.002921104431152
+border wall is in the same way <eos>,-9.460098266601562
+border wall is in the middle of my head <eos>,-11.454778671264648
+border wall is in the middle of the bed <eos>,-11.501837730407715
+border wall is in the middle of my life <eos>,-11.534883499145508
+border wall should be the best <eos>,-7.682516098022461
+border wall should be the same way <eos>,-8.102845191955566
+border wall should be the same <eos>,-8.141312599182129
+border wall should be in the background <eos>,-8.330814361572266
+border wall should be in the middle of the bed,-12.244668960571289
+wall <eos>,-1.4310274124145508
+wall no <eos>,-5.488493919372559
+wall no matter what <eos>,-10.050518989562988
+wall no matter what you re saying <eos>,-13.765604019165039
+wall no matter what you re doing <eos>,-14.121721267700195
+wall is it <eos>,-4.415460586547852
+wall is this <eos>,-5.196822166442871
+wall is going to be <eos>,-8.161921501159668
+wall is going to be the cutest <eos>,-11.90040111541748
+wall is going to be the cutest thing ever <eos>,-13.663368225097656
+wall should <eos>,-3.1968536376953125
+wall should be <eos>,-4.583874702453613
+wall should be the cutest <eos>,-9.124092102050781
+wall should be the best <eos>,-9.610143661499023
+wall should be the cutest thing ever <eos>,-10.685746192932129
+climate change <eos>,-3.438028335571289
+climate change is too much <eos>,-7.076996803283691
+climate change is just a bit different <eos>,-11.390190124511719
+climate change is just a bit different for a reason,-17.786237716674805
+climate change is just a bit different for the reason,-17.88524627685547
+climate change is too much <eos>,-6.792304039001465
+climate change is just a bit different <eos>,-11.105497360229492
+climate change is the most common of people in the,-15.571126937866211
+climate change is the most common of people i ve,-15.923083305358887
+climate change is the most common of people in a,-16.363374710083008
+immigration problem <eos>,-3.9860963821411133
+immigration luck <eos>,-4.956779479980469
+immigration problem with the cat <eos>,-10.695551872253418
+immigration problem with the dog <eos>,-10.83083724975586
+immigration problem with the cat s name is the most,-20.471878051757812
+immigration laws <eos>,-2.5930938720703125
+immigration laws in the world <eos>,-7.158510208129883
+immigration laws in the house <eos>,-7.888672828674316
+immigration laws in the middle <eos>,-8.590900421142578
+immigration laws in the middle of the world <eos>,-11.721574783325195
+immigration laws should <eos>,-3.7223434448242188
+immigration laws should be the cutest <eos>,-7.263011932373047
+immigration laws should be the best <eos>,-7.28073787689209
+immigration laws should be the cutest thing ever <eos>,-8.048190116882324
+immigration laws should be the best thing i ve seen,-8.941031455993652
+immigration laws need <eos>,-3.6452083587646484
+immigration laws need to be the best <eos>,-9.451238632202148
+immigration laws need to be a good job <eos>,-11.338957786560059
+immigration laws need to be the most adorable thing ever,-13.336827278137207
+immigration laws need to be the most adorable thing <eos>,-13.596717834472656
+immigrants <eos>,-0.33662891387939453
+immigrants too <eos>,-4.983642578125
+immigrants was wrong <eos>,-7.685207366943359
+immigrants is a good boy <eos>,-11.501056671142578
+immigrants is a good idea <eos>,-11.89478874206543
+immigrants are the best <eos>,-5.066972732543945
+immigrants are the worst <eos>,-6.469891548156738
+immigrants are you sure <eos>,-7.1244001388549805
+immigrants are a good boy <eos>,-8.021147727966309
+immigrants are the best thing i ve seen in this,-12.025362968444824
+illegal immigrants <eos>,-1.0457744598388672
+illegal immigrants lol <eos>,-3.677607536315918
+illegal immigrants at least <eos>,-6.1031694412231445
+illegal immigrants at the end <eos>,-7.260812759399414
+illegal immigrants at the end of the same <eos>,-14.458847045898438
+illegal immigrants are you sure <eos>,-6.007440567016602
+illegal immigrants are you sure it s not a cat,-14.287840843200684
+illegal immigrants are you sure it s not a good,-14.42105770111084
+illegal immigrants are you sure it s not a dog,-14.696549415588379
+illegal immigrants are you sure it s a good boy,-14.896588325500488
+colleges <eos>,-1.0228862762451172
+colleges lol <eos>,-2.3885650634765625
+colleges s <eos>,-6.121169090270996
+colleges is the best <eos>,-9.080997467041016
+colleges is a good boy <eos>,-10.625856399536133
+colleges are the best <eos>,-4.060022354125977
+colleges are the king <eos>,-5.93873405456543
+colleges are the same <eos>,-6.698796272277832
+colleges are a good boy <eos>,-7.939837455749512
+colleges are the best thing i ve seen in this,-12.155182838439941
+big businesses in the world <eos>,-4.427973747253418
+big businesses in the country <eos>,-6.582131385803223
+big businesses in the future <eos>,-6.815425872802734
+big businesses in the us <eos>,-6.8420515060424805
+big businesses in the wild <eos>,-6.892437934875488
+big businesses are the best <eos>,-5.019191741943359
+big businesses are the worst <eos>,-6.763516426086426
+big businesses are the best for you <eos>,-8.399271011352539
+big businesses are more likely to be the best <eos>,-13.8391695022583
+big businesses are more likely to be the best thing,-14.236889839172363
+corporations <eos>,-0.3903331756591797
+corporations and it s the best <eos>,-11.953646659851074
+corporations and it s the best thing i ve seen,-13.717944145202637
+corporations and it s the best thing <eos>,-14.127554893493652
+corporations and it s the best thing i ve ever,-14.226916313171387
+corporations are the best <eos>,-5.7964935302734375
+corporations are the worst <eos>,-7.211052894592285
+corporations are the best for you <eos>,-9.724713325500488
+corporations are the best thing i ve ever seen <eos>,-10.634092330932617
+corporations are the best thing i ve seen in a,-12.75493049621582
+big tech <eos>,-0.5150203704833984
+big tech but i m not crying you re crying,-11.99276351928711
+big tech but i m not crying <eos>,-11.995003700256348
+big tech but i m not sure <eos>,-12.13344955444336
+big tech but i m not sure if i m,-14.938591957092285
+big tech is the best <eos>,-5.74415397644043
+big tech is the same <eos>,-6.386443138122559
+big tech is a good boy <eos>,-7.236702919006348
+big tech is the best thing i ve ever seen,-9.718718528747559
+big tech is the best thing i ve seen all,-10.410677909851074
+wall street <eos>,-2.849071502685547
+wall street dogs <eos>,-3.2905235290527344
+wall street cats <eos>,-3.937739372253418
+wall street cat <eos>,-4.203668594360352
+wall street dogs are the best <eos>,-7.7808427810668945
+wall street is it <eos>,-5.690532684326172
+wall street is the best <eos>,-7.699126243591309
+wall street is not a good boy <eos>,-10.074291229248047
+wall street is not a good boi <eos>,-10.245376586914062
+wall street is still a good boy <eos>,-10.416486740112305
+billionaires <eos>,-0.48586559295654297
+billionaires s <eos>,-6.161256790161133
+billionaires has a cat <eos>,-9.617082595825195
+billionaires is a good boy <eos>,-10.099488258361816
+billionaires has a cat that s a cat <eos>,-16.80224323272705
+billionaires are the best <eos>,-4.333748817443848
+billionaires are the same <eos>,-6.8140716552734375
+billionaires are you sure <eos>,-7.546950340270996
+billionaires are a good boy <eos>,-7.721911430358887
+billionaires are the best thing i ve seen all day,-10.987459182739258
+the working class <eos>,-2.290045738220215
+the working class like that <eos>,-6.614398002624512
+the working class have a cat <eos>,-9.103702545166016
+the working class have a lot of time to get,-15.22573471069336
+the working class have a cat that s a cat,-15.428382873535156
+feminism <eos>,-0.0034847259521484375
+feminism i love <eos>,-10.9247407913208
+feminism i love it <eos>,-11.134438514709473
+feminism you re a cat <eos>,-14.484076499938965
+feminism you re a good person <eos>,-14.630071640014648
+pc culture <eos>,-0.7916851043701172
+pc culture that s a good boy <eos>,-12.050799369812012
+pc culture it s not a cat <eos>,-12.603466033935547
+pc culture that s the most adorable thing i ve,-13.292139053344727
+pc culture that s the most adorable thing ever <eos>,-14.284111976623535
+pc culture is this <eos>,-5.041892051696777
+pc culture is the best <eos>,-6.427028656005859
+pc culture is the cutest <eos>,-6.673816680908203
+pc culture is the cutest thing ever <eos>,-7.3163652420043945
+pc culture is the cutest thing i ve seen all,-8.489392280578613
+free market is to be <eos>,-7.234187126159668
+free market is just a good idea <eos>,-9.955782890319824
+free market is to be the best <eos>,-10.975568771362305
+free market is to be the best thing i ve,-13.062997817993164
+free market is to be the best thing to do,-14.35468578338623
+taxes <eos>,-1.0153217315673828
+taxes are not a good person <eos>,-12.261017799377441
+taxes are not allowed on your own <eos>,-15.079106330871582
+taxes are not allowed to find out <eos>,-15.438749313354492
+taxes are not a good person to be a dog,-20.028535842895508
+taxes are all the best <eos>,-8.410896301269531
+taxes are not a good person <eos>,-10.0357027053833
+taxes are not allowed on your own <eos>,-12.853791236877441
+taxes are not allowed to find out <eos>,-13.213434219360352
+taxes are not a good person to be a dog,-17.803220748901367
+taxes should be <eos>,-3.9431838989257812
+taxes should be the best <eos>,-6.545555114746094
+taxes should be a good person <eos>,-8.166590690612793
+taxes should be the best thing i ve ever seen,-9.763059616088867
+taxes should be the best thing i ve seen all,-10.436948776245117
+taxes need to be the best <eos>,-7.026031494140625
+taxes need to be a good job <eos>,-8.379605293273926
+taxes need to be a good person <eos>,-8.89466667175293
+taxes need to be the best thing to do <eos>,-13.152105331420898
+taxes need to be the best thing to do with,-13.496660232543945
+increase taxes on the ground <eos>,-5.4455976486206055
+increase taxes on the floor <eos>,-5.6085004806518555
+increase taxes on the leash <eos>,-6.499122619628906
+increase taxes on the other hand <eos>,-7.271239280700684
+increase taxes on the other side of the other side,-12.300387382507324
+lower taxes for me <eos>,-3.533513069152832
+lower taxes for it <eos>,-4.581601142883301
+lower taxes for some reason <eos>,-5.17350959777832
+lower taxes for the first time <eos>,-6.161202430725098
+lower taxes for a lot of time <eos>,-8.132179260253906
+democrats <eos>,-0.12522411346435547
+democrats lol <eos>,-5.520407676696777
+democrats or something <eos>,-6.994675636291504
+democrats or the cat <eos>,-10.987483978271484
+democrats or the cat is just a bit of a,-24.249217987060547
+democrats are the best <eos>,-6.043732643127441
+democrats are you sure <eos>,-6.762725830078125
+democrats are the worst <eos>,-7.173108100891113
+democrats are the same <eos>,-7.50510311126709
+democrats are the best thing i ve seen in this,-11.994362831115723
+republicans <eos>,-0.7110023498535156
+republicans though <eos>,-4.923363208770752
+republicans you can t tell if you don t have,-18.54838752746582
+republicans you can t tell if you don t want,-18.90831470489502
+republicans you can t tell if you don t get,-18.972497940063477
+republicans are the best <eos>,-5.378695487976074
+republicans are cats <eos>,-5.947625160217285
+republicans are you sure <eos>,-7.016575813293457
+republicans are the best thing i ve ever seen <eos>,-9.665937423706055
+republicans are the best thing i ve seen all day,-10.430013656616211
+dems <eos>,-1.2135086059570312
+dems lol <eos>,-4.429243087768555
+dems cat <eos>,-4.523961067199707
+dems or <eos>,-6.4649858474731445
+dems or is the best <eos>,-13.738154411315918
+dems are the best <eos>,-4.683945655822754
+dems are they <eos>,-5.6011505126953125
+dems are you <eos>,-5.769730567932129
+dems are you sure <eos>,-5.901271820068359
+dems are you sure the cat is just a little,-19.027196884155273
+dnc v d <eos>,-7.437663555145264
+dnc v d dcan you please re approve my post,-7.491992473602295
+dnc v d e <eos>,-9.064959049224854
+dnc v d e p <eos>,-10.499016284942627
+dnc v d dcan you please re asking your post,-12.175035953521729
+dnc is a repost <eos>,-6.049350738525391
+dnc is a good idea <eos>,-6.186067581176758
+dnc is a cat <eos>,-6.232123374938965
+dnc is a black cat <eos>,-7.149404525756836
+dnc is a good boy <eos>,-8.034430503845215
+left <eos>,-1.7499752044677734
+left in the background <eos>,-8.240912437438965
+left in the world <eos>,-8.444847106933594
+left on the internet <eos>,-8.728875160217285
+left in the middle of the bed <eos>,-11.78750991821289
+left is the best <eos>,-7.448210716247559
+left is a good idea <eos>,-8.486689567565918
+left is the best thing i ve ever seen <eos>,-10.026020050048828
+left is the best thing i ve seen all day,-10.640887260437012
+left is the best thing i ve seen in a,-12.368149757385254
+left wing <eos>,-2.494152069091797
+left wing area <eos>,-6.303617000579834
+left wing for a year <eos>,-11.097637176513672
+left wing area with a dog <eos>,-14.436526775360107
+left wing for a year and a half of the,-21.194297790527344
+left win is a cat <eos>,-5.892560958862305
+left win is a dog <eos>,-6.163283348083496
+left win is a good idea <eos>,-7.252681732177734
+left win is a good boy <eos>,-7.483448028564453
+left win is a good idea to get a cat,-17.32557201385498
+right <eos>,-1.2369604110717773
+right now <eos>,-1.8729686737060547
+right there <eos>,-2.339268684387207
+right here <eos>,-3.3416919708251953
+right now i m not sure if i m not,-16.824896812438965
+right is it <eos>,-3.8212852478027344
+right is that <eos>,-4.866278648376465
+right is the best <eos>,-6.910974502563477
+right is the best thing i ve ever seen <eos>,-9.619429588317871
+right is the best thing i ve seen all day,-10.225167274475098
+right wing <eos>,-2.063312530517578
+right wing area <eos>,-6.037428379058838
+right wing dog <eos>,-6.619853496551514
+right wing for a year <eos>,-11.263605117797852
+right wing for the first time you can t see,-18.522136688232422
+right wing is the best <eos>,-6.695096969604492
+right wing is the best thing i ve ever seen,-9.7007474899292
+right wing is not a good idea <eos>,-9.748605728149414
+right wing is the best thing i ve seen all,-10.263289451599121
+right wing is the best thing i ve seen in,-10.408596992492676
+liberals <eos>,-1.5302515029907227
+liberals in the world <eos>,-6.667867660522461
+liberals in the house <eos>,-7.001682281494141
+liberals in the us <eos>,-7.495535850524902
+liberals in the middle of the night <eos>,-11.845907211303711
+liberals are the best <eos>,-4.140471458435059
+liberals are the worst <eos>,-6.455061912536621
+liberals are the cutest <eos>,-6.542973518371582
+liberals are the same <eos>,-6.694276809692383
+liberals are the best for the world <eos>,-11.902214050292969
+conservative <eos>,-2.9113759994506836
+conservative like this <eos>,-4.986313819885254
+conservative but i m not sure <eos>,-10.93735122680664
+conservative but i m not sure if it s a,-14.441793441772461
+conservative but i m not sure if it s not,-14.88779354095459
+conservatives are the best <eos>,-6.152939796447754
+conservatives are just curious <eos>,-7.022870063781738
+conservatives are out of the world <eos>,-11.4866361618042
+conservatives are out of the comments <eos>,-11.600637435913086
+conservatives are out of the comments section <eos>,-11.651416778564453
+socialism <eos>,-2.059859275817871
+socialism stewart <eos>,-5.284350872039795
+socialism crisis <eos>,-5.566708564758301
+socialism logo <eos>,-5.594034671783447
+socialism palsy <eos>,-5.645686626434326
+socialism is <eos>,-3.0658531188964844
+socialism is in the background <eos>,-8.593405723571777
+socialism is in the house <eos>,-9.537636756896973
+socialism is in the air <eos>,-9.872333526611328
+socialism is not a cat <eos>,-10.335309982299805
+democratic socialism series <eos>,-3.0908679962158203
+democratic socialism bag <eos>,-4.122190475463867
+democratic socialism logo <eos>,-4.191586494445801
+democratic socialism keyboard <eos>,-4.461418151855469
+democratic socialism gif <eos>,-4.668249130249023
+democratic socialism is over <eos>,-5.1473798751831055
+democratic socialism is made <eos>,-5.653962135314941
+democratic socialism is in the background <eos>,-6.079291343688965
+democratic socialism is over here <eos>,-6.251375198364258
+democratic socialism is in the middle of the bed <eos>,-13.48928165435791
+establishment <eos>,-0.00173187255859375
+establishment lol <eos>,-9.483485221862793
+establishment is the best <eos>,-13.236130714416504
+establishment is the best boy <eos>,-15.582820892333984
+establishment is the cutest thing i ve seen all day,-18.13574981689453
+establishment is <eos>,-3.552623748779297
+establishment is adorable <eos>,-3.781473159790039
+establishment is cute <eos>,-3.7886781692504883
+establishment is the best <eos>,-4.833762168884277
+establishment is the cutest thing i ve seen all day,-9.733381271362305
+establishment democrats <eos>,-0.3578481674194336
+establishment democrats human <eos>,-4.304072380065918
+establishment democrats lol <eos>,-4.393023490905762
+establishment democrats is the king <eos>,-9.488998413085938
+establishment democrats is the best <eos>,-10.011176109313965
+establishment democrats are the best <eos>,-3.0373411178588867
+establishment democrats are awesome <eos>,-3.9349069595336914
+establishment democrats are different <eos>,-4.451699256896973
+establishment democrats are amazing <eos>,-4.545724868774414
+establishment democrats are the best thing i ve seen all,-8.62852668762207
+establishment republicans <eos>,-0.8204545974731445
+establishment republicans human <eos>,-3.381683349609375
+establishment republicans karen <eos>,-3.4316349029541016
+establishment republicans home <eos>,-4.155276298522949
+establishment republicans a cat <eos>,-6.538178443908691
+establishment republicans are the best <eos>,-2.8930253982543945
+establishment republicans are awesome <eos>,-3.3325672149658203
+establishment republicans are the absolute best <eos>,-6.111449241638184
+establishment republicans are the cutest <eos>,-6.16044807434082
+establishment republicans are the best kind of person i ve,-11.307239532470703
+communism <eos>,-1.8856735229492188
+communism is the best <eos>,-7.986474990844727
+communism is not a good boy <eos>,-10.559757232666016
+communism is the best thing i ve ever seen <eos>,-11.1907320022583
+communism is the best thing i ve seen all day,-12.06535816192627
+communism is the best <eos>,-7.117389678955078
+communism is not a good boy <eos>,-9.690671920776367
+communism is not a good boi <eos>,-10.068955421447754
+communism is the best thing i ve ever seen <eos>,-10.321646690368652
+communism is the best thing i ve seen all day,-11.196272850036621
+communist are the best <eos>,-6.318733215332031
+communist are just curious <eos>,-6.5678205490112305
+communist are the worst <eos>,-7.052063941955566
+communist are the best thing i ve ever seen <eos>,-10.621806144714355
+communist are the best thing i ve seen all day,-11.385770797729492
+capitalism <eos>,-0.002742767333984375
+capitalism kitty <eos>,-9.037800788879395
+capitalism cat <eos>,-9.752289772033691
+capitalism you <eos>,-10.715405464172363
+capitalism you are <eos>,-12.152395248413086
+capitalism is <eos>,-2.756028175354004
+capitalism is this <eos>,-3.8996410369873047
+capitalism is that <eos>,-4.666655540466309
+capitalism is a cat <eos>,-6.401537895202637
+capitalism is the best thing i ve seen all day,-10.688444137573242
+whites <eos>,-1.397491455078125
+whites are the best <eos>,-7.233564376831055
+whites on the internet <eos>,-7.417776107788086
+whites on the left <eos>,-8.262216567993164
+whites are the same <eos>,-8.86328411102295
+whites are <eos>,-3.8131723403930664
+whites are the best <eos>,-4.415099143981934
+whites are the same <eos>,-6.044818878173828
+whites are the best thing to do <eos>,-10.903558731079102
+whites are the best thing to do with you <eos>,-14.148131370544434
+caucasians <eos>,-2.3165197372436523
+caucasians sure <eos>,-4.860590934753418
+caucasians sure why don t worry <eos>,-11.973579406738281
+caucasians sure why don t worry about it <eos>,-13.581515312194824
+caucasians sure why don t worry about it s a,-18.445785522460938
+caucasians are the best <eos>,-4.48934268951416
+caucasians are the same <eos>,-6.763479232788086
+caucasians are a good person <eos>,-7.968969345092773
+caucasians are the best dogs ever <eos>,-8.912611961364746
+caucasians are the best thing i ve seen all day,-10.745402336120605
+african americans <eos>,-1.0505990982055664
+african americans if you re a good person <eos>,-13.311110496520996
+african americans that s not a good idea <eos>,-14.392518997192383
+african americans that s not a good way to get,-17.30745506286621
+african americans that s not a good way to be,-17.45237159729004
+african americans are the best <eos>,-5.235468864440918
+african americans are a lot of cats <eos>,-10.737499237060547
+african americans are a lot of dogs <eos>,-10.982979774475098
+african americans are a lot of dogs and dogs <eos>,-15.613359451293945
+african americans are a lot of people in the wild,-16.281761169433594
+asians <eos>,-2.5846424102783203
+asians look at them <eos>,-5.35294246673584
+asians look at the same time <eos>,-6.339256286621094
+asians look at that <eos>,-6.440010070800781
+asians look at the end <eos>,-7.864904403686523
+asians are the best <eos>,-3.8434247970581055
+asians are the same <eos>,-6.120821952819824
+asians are so cute <eos>,-6.209733009338379
+asians are the best for you <eos>,-9.095935821533203
+asians are the best for the world <eos>,-11.392373085021973
+asian americans <eos>,-1.557180404663086
+asian americans are the best <eos>,-6.6855573654174805
+asian americans are so cute <eos>,-7.479352951049805
+asian americans are the same <eos>,-8.054597854614258
+asian americans are so cute and happy <eos>,-13.393972396850586
+asian americans are <eos>,-3.993166923522949
+asian americans are the best <eos>,-4.653342247009277
+asian americans are so cute <eos>,-5.447137832641602
+asian americans are the same <eos>,-6.022382736206055
+asian americans are so cute and happy <eos>,-11.361757278442383
+hispanic name <eos>,-4.37227725982666
+hispanic d <eos>,-4.901189804077148
+hispanic at the end <eos>,-6.808082580566406
+hispanic at the end of the time <eos>,-12.398431777954102
+hispanic at the end of the night <eos>,-12.526857376098633
+arabs <eos>,-2.482564926147461
+arabs dogs <eos>,-4.763069152832031
+arabs something <eos>,-5.376587867736816
+arabs that s a lot <eos>,-11.637011528015137
+arabs that s a lot of people s are the,-19.626093864440918
+arabs are the best <eos>,-6.8850908279418945
+arabs are more likely to be the best <eos>,-13.92922306060791
+arabs are more likely to be more likely to be,-14.434480667114258
+arabs are more likely to be the best thing to,-16.00831699371338
+arabs are more likely to be the best thing i,-16.23369789123535
+lgbtq but i don t know what you re saying,-12.3052339553833
+lgbtq but i m not sure if this is a,-12.919290542602539
+lgbtq but i m not sure if it s a,-13.086170196533203
+lgbtq but i don t know what you re doing,-13.187751770019531
+lgbtq but i m not sure if this is the,-13.208868026733398
+lgbt <eos>,-0.46489810943603516
+lgbt and it s a good boy <eos>,-15.659837245941162
+lgbt and it s a good idea <eos>,-15.988665103912354
+lgbt and it s not a good boy <eos>,-17.809120655059814
+lgbt and it s not a good boi <eos>,-17.982194423675537
+lgbtq community is the same <eos>,-7.8009490966796875
+lgbtq community is the best <eos>,-8.066964149475098
+lgbtq community is the same way <eos>,-8.625786781311035
+lgbtq community is the best thing i ve ever seen,-10.410662651062012
+lgbtq community is the best thing i ve seen in,-10.65308952331543
+wasps in the middle <eos>,-4.344579696655273
+wasps in <eos>,-4.370576858520508
+wasps in the house <eos>,-4.374932289123535
+wasps in the background <eos>,-4.408060073852539
+wasps in the middle of the bed <eos>,-7.968094825744629
+wasps are the best <eos>,-4.680980682373047
+wasps are the same <eos>,-6.115753173828125
+wasps are the best thing i ve ever seen <eos>,-10.154624938964844
+wasps are the best thing i ve seen all day,-11.201704025268555
+wasps are the best thing i ve ever seen in,-12.539800643920898
+christianity <eos>,-3.0781993865966797
+christianity though <eos>,-3.354250907897949
+christianity i ve ever seen <eos>,-6.997052192687988
+christianity i have ever seen <eos>,-7.844592094421387
+christianity i ve ever heard of that <eos>,-12.754316329956055
+christians are the best <eos>,-6.042376518249512
+christians are the worst <eos>,-7.401823043823242
+christians are more closely related to cats <eos>,-9.707425117492676
+christians are more closely related to other dogs <eos>,-11.32841682434082
+christians are more closely related to other people who are,-13.22556209564209
+islam <eos>,-0.0887451171875
+islam is a good boy <eos>,-10.845434188842773
+islam is the best <eos>,-11.015398979187012
+islam is a good boi <eos>,-11.137655258178711
+islam is the best thing i ve seen all day,-14.402119636535645
+muslims are <eos>,-4.063340187072754
+muslims are the best <eos>,-4.499022483825684
+muslims are you <eos>,-5.040604591369629
+muslims are you sure <eos>,-5.735254287719727
+muslims are you sure the cat is just a little,-18.340600967407227
+jews are the best <eos>,-4.815962791442871
+jews are the worst <eos>,-6.284930229187012
+jews are a lot of dogs <eos>,-10.52663516998291
+jews are the best thing i ve ever seen <eos>,-10.611546516418457
+jews are the best thing i ve seen in this,-12.593448638916016
+minorities <eos>,-0.7697238922119141
+minorities and it s not that the case <eos>,-17.913833618164062
+minorities and it s just a bit of a different,-21.095973014831543
+minorities and it s just a bit of the most,-21.3900203704834
+minorities and it s just a bit of a dog,-21.467327117919922
+minorities are the best <eos>,-6.0244245529174805
+minorities are the worst <eos>,-7.125385284423828
+minorities are more likely to be the best <eos>,-14.628068923950195
+minorities are more likely to be the best thing to,-16.880313873291016
+minorities are more likely to be the best thing i,-17.29104232788086
+chinese are pretty cute <eos>,-7.055874824523926
+chinese are pretty much <eos>,-7.39564323425293
+chinese are not allowed in this sub <eos>,-10.595199584960938
+chinese are not allowed in this case <eos>,-11.564939498901367
+chinese are not allowed in the wrong subreddit <eos>,-11.946293830871582
+mexicans are the best <eos>,-5.856372833251953
+mexicans are the worst <eos>,-6.875548362731934
+mexicans are you sure <eos>,-7.710344314575195
+mexicans are the best thing i ve ever seen <eos>,-10.19394588470459
+mexicans are the best thing i ve seen all day,-10.579948425292969
+vietnamese are the best <eos>,-4.682464599609375
+vietnamese are so cute <eos>,-5.95939826965332
+vietnamese are the worst <eos>,-6.5014238357543945
+vietnamese are the best thing <eos>,-7.77989387512207
+vietnamese are the best thing i ve seen all day,-9.680267333984375
+the media <eos>,-2.2772016525268555
+the media here <eos>,-4.589735984802246
+the media s house <eos>,-7.509010314941406
+the media would be in the background <eos>,-13.294393539428711
+the media would be in the wild <eos>,-13.8449068069458
+the media is just fine <eos>,-6.935964584350586
+the media is not allowed <eos>,-8.157308578491211
+the media is not allowed in this sub <eos>,-12.36970043182373
+the media is not allowed in the wrong subreddit <eos>,-12.582563400268555
+the media is not allowed in the background <eos>,-12.707395553588867
+the mainstream media <eos>,-3.0588531494140625
+the mainstream media is not allowed <eos>,-9.032182693481445
+the mainstream media has a very low impact <eos>,-12.580022811889648
+the mainstream media has a very low impact on the,-13.290290832519531
+the mainstream media is not allowed in the wrong subreddit,-13.9932279586792
+the mainstream media is just fine <eos>,-7.08182430267334
+the mainstream media is not allowed <eos>,-7.117036819458008
+the mainstream media is not allowed in the background <eos>,-11.952393531799316
+the mainstream media is not allowed in the wrong subreddit,-12.078082084655762
+the mainstream media is not allowed in the wrong thread,-12.957786560058594
+fake news <eos>,-0.9046964645385742
+fake news that s what i do <eos>,-11.905479431152344
+fake news that s what i thought <eos>,-12.070127487182617
+fake news that s what i want <eos>,-12.199188232421875
+fake news that s what i want to <eos>,-14.545016288757324
+the fake news media is just fine <eos>,-6.990238189697266
+the fake news media is not allowed <eos>,-8.33566665649414
+the fake news media is not allowed in the wrong,-11.306680679321289
+the fake news media is not allowed in this sub,-11.991951942443848
+the fake news media is not allowed in this case,-12.230257987976074
+fox news <eos>,-1.435861587524414
+fox news is the best <eos>,-9.663307189941406
+fox news is the cutest <eos>,-9.964122772216797
+fox news is the cutest thing i ve ever seen,-12.159521102905273
+fox news is the cutest thing i ve seen all,-12.531160354614258
+fox news is the best <eos>,-6.939047813415527
+fox news is one of the best <eos>,-9.862000465393066
+fox news is one of my favorite things i ve,-10.018255233764648
+fox news is one of my favorite things <eos>,-10.917906761169434
+fox news is one of my favorite things i have,-11.701940536499023
+cnn <eos>,-2.6477603912353516
+cnn this video <eos>,-4.047122955322266
+cnn https www youtube com watch v prn xw e,-8.270450592041016
+cnn this video https www youtube com watch v j,-9.473748207092285
+cnn this video https www youtube com watch v fmdcwh,-10.243457794189453
+cnn is a rescue <eos>,-6.454571723937988
+cnn is a rescue dog <eos>,-10.09041690826416
+cnn is that the world <eos>,-10.842552185058594
+cnn is that a lot of people <eos>,-14.146435737609863
+cnn is that a lot of people are the best,-19.142001152038574
+laura ingram for me <eos>,-4.426836013793945
+laura ingram for this <eos>,-5.903347969055176
+laura ingram from the end <eos>,-6.378293991088867
+laura ingram from the background <eos>,-7.648385047912598
+laura ingram from the top <eos>,-8.124814987182617
+laura ingram is it <eos>,-5.037045478820801
+laura ingram is in the background <eos>,-7.027078628540039
+laura ingram is it just me <eos>,-8.376401901245117
+laura ingram is it just because it s not a,-13.92188549041748
+laura ingram is it just because it s not that,-15.472270011901855
+anderson cooper <eos>,-1.6034212112426758
+anderson cooper s <eos>,-4.877847671508789
+anderson cooper so much <eos>,-5.903779029846191
+anderson cooper and i think it s a good idea,-17.03485870361328
+anderson cooper and i think it s a good boy,-17.179898262023926
+anderson cooper is not a good idea <eos>,-11.212859153747559
+anderson cooper is the most adorable thing <eos>,-11.271772384643555
+anderson cooper is the most adorable thing i ve ever,-11.272368431091309
+anderson cooper is not a good boi <eos>,-11.416122436523438
+anderson cooper is the most adorable thing i ve seen,-12.002999305725098
+late night talk shows <eos>,-0.8625478744506836
+late night talk shows as well <eos>,-6.066463470458984
+late night talk shows as a kid <eos>,-8.783263206481934
+late night talk shows as a cat <eos>,-8.947498321533203
+late night talk shows as a dog <eos>,-9.078309059143066
+late night talks shows are <eos>,-3.2643918991088867
+late night talks shows are the best <eos>,-4.746729850769043
+late night talks shows are the worst <eos>,-6.744134902954102
+late night talks shows are the same <eos>,-6.914052963256836
+late night talks shows are the best thing i ve,-7.244873046875
+hollywood <eos>,-0.2698984146118164
+hollywood lol <eos>,-4.850346565246582
+hollywood but i m not sure <eos>,-14.06106948852539
+hollywood but i m so sorry <eos>,-14.241167068481445
+hollywood but i m not sure if i m not,-18.610705375671387
+hollywood is it <eos>,-5.036870002746582
+hollywood is the best <eos>,-6.623346328735352
+hollywood is a good idea <eos>,-8.191115379333496
+hollywood is the best thing i ve ever seen <eos>,-10.113655090332031
+hollywood is the best thing i ve seen all day,-10.852930068969727
+isis <eos>,-2.3265247344970703
+isis in the background <eos>,-8.495634078979492
+isis i m sure you re a good person <eos>,-16.896824836730957
+isis i m sure you re a good boy <eos>,-17.795947074890137
+isis i m sure you re a good person to,-18.87472915649414
+isis is <eos>,-3.9171762466430664
+isis is in the background <eos>,-9.39472484588623
+isis is not a good idea <eos>,-11.757030487060547
+isis is not a good boy <eos>,-12.013134002685547
+isis is not a good idea to you <eos>,-17.119787216186523
+russia <eos>,-0.9210777282714844
+russia for a second <eos>,-7.801471710205078
+russia for the cat <eos>,-8.129817008972168
+russia for a cat <eos>,-8.227473258972168
+russia for the first time <eos>,-8.628776550292969
+russia is a cat <eos>,-6.010807037353516
+russia is a good boy <eos>,-6.526583671569824
+russia is the best <eos>,-7.197575569152832
+russia is a good boi <eos>,-7.294216156005859
+russia is the best thing i ve seen all day,-10.512714385986328
+north korea <eos>,-1.4266433715820312
+north korea x <eos>,-4.177495956420898
+north korea x have you ever seen <eos>,-11.135614395141602
+north korea x have you ever seen a lot of,-12.921093940734863
+north korea x have you ever had a cat named,-14.679961204528809
+north korea is the best <eos>,-4.859097480773926
+north korea is a good day <eos>,-6.728989601135254
+north korea is also the best <eos>,-6.978976249694824
+north korea is a good boy <eos>,-7.081927299499512
+north korea is also the best of both of the,-13.364302635192871
+kim jon un <eos>,-1.8841028213500977
+kim jon un vivo <eos>,-6.7151899337768555
+kim jon un furry <eos>,-8.243558883666992
+kim jon un vivo is a good idea <eos>,-15.142786979675293
+kim jon un vivo is not a good boi <eos>,-17.692407608032227
+china <eos>,-1.0525617599487305
+china in the background <eos>,-9.656924724578857
+china and i m not sure <eos>,-14.181901931762695
+china and i m not crying you re crying <eos>,-15.772561073303223
+china and i m not sure if i m not,-18.54594135284424
+china is the best <eos>,-7.022904396057129
+china is a good boy <eos>,-7.8685407638549805
+china is a good idea <eos>,-8.06927490234375
+china is the best thing i ve ever seen <eos>,-10.477374076843262
+china is the best thing i ve seen all day,-11.137894630432129
+india <eos>,-1.0045928955078125
+india i ve seen it before <eos>,-12.073030471801758
+india i think it s not a cat <eos>,-16.23855495452881
+india i ve seen it in the same way <eos>,-17.008654594421387
+india i ve seen it in a lot of things,-18.979517936706543
+india is the best <eos>,-7.157444000244141
+india is the most adorable thing i ve ever seen,-10.428714752197266
+india is the best thing i ve ever seen <eos>,-10.493834495544434
+india is the most adorable thing <eos>,-10.543172836303711
+india is the best thing i ve seen all day,-11.097970008850098
+the middle east <eos>,-1.6487140655517578
+the middle east of the world <eos>,-7.273680686950684
+the middle east and the other dog is the best,-15.25078296661377
+the middle east and the other dog is the same,-15.270647048950195
+the middle east and the other dog is a rescue,-15.803427696228027
+the middle east is in the world <eos>,-8.973383903503418
+the middle east is just the case <eos>,-9.646644592285156
+the middle east is just a good idea <eos>,-10.777132034301758
+the middle east is just the case of the cat,-14.866645812988281
+the middle east is just the case of the dog,-14.8814115524292
+iran <eos>,-0.02135944366455078
+iran tho <eos>,-7.847651481628418
+iran too <eos>,-7.888193130493164
+iran as hell <eos>,-8.691749572753906
+iran as hell but i m not sure if i,-22.675976753234863
+iran is so cute <eos>,-6.282113075256348
+iran is the best <eos>,-7.227867126464844
+iran is a good boy <eos>,-7.70635986328125
+iran is a good idea <eos>,-7.98856258392334
+iran is the best thing i ve seen in a,-13.0265474319458
+iraq <eos>,-1.102849006652832
+iraq and more <eos>,-6.358163833618164
+iraq and a half a half a half a half,-14.053681373596191
+iraq and a half a half a half a number,-14.542566299438477
+iraq and a half a half a half of the,-15.504616737365723
+iraq is not allowed <eos>,-8.305795669555664
+iraq is not the only one who doesn t have,-16.354844093322754
+iraq is not the only one who doesn t want,-16.532907485961914
+iraq is not the only one who said it s,-17.5629243850708
+iraq is not the only one who said it was,-17.694658279418945
+afghanistan in <eos>,-4.220249176025391
+afghanistan in the world <eos>,-5.312232971191406
+afghanistan in the future <eos>,-6.128961563110352
+afghanistan in the house <eos>,-6.3282012939453125
+afghanistan in the country <eos>,-6.399886131286621
+afghanistan is not a good idea <eos>,-11.208742141723633
+afghanistan is to be able to do that <eos>,-14.674715042114258
+afghanistan is to be able to do this <eos>,-14.771573066711426
+afghanistan is to be able to do this with the,-17.50834560394287
+afghanistan is to be able to do this with them,-17.637264251708984
+the uk <eos>,-1.8197612762451172
+the uk here <eos>,-3.486384391784668
+the uk is a good idea <eos>,-10.23159408569336
+the uk here is the best <eos>,-11.69894027709961
+the uk is a good idea to get a dog,-20.314075469970703
+the uk is the best <eos>,-7.723874092102051
+the uk is a good idea <eos>,-8.3868408203125
+the uk is a good boy <eos>,-8.577908515930176
+the uk is the best thing i ve ever seen,-9.894085884094238
+the uk is the best thing i ve seen all,-10.37397289276123
+boris johnson <eos>,-0.7799806594848633
+boris johnson cat <eos>,-3.8962221145629883
+boris johnson are the best <eos>,-6.311537742614746
+boris johnson is the best <eos>,-7.944245338439941
+boris johnson is a good boy <eos>,-8.596431732177734
+boris johnson is so cute <eos>,-4.960597038269043
+boris johnson is the best <eos>,-5.230116844177246
+boris johnson is a good boy <eos>,-5.882303237915039
+boris johnson is a good idea <eos>,-6.151084899902344
+boris johnson is a great name <eos>,-6.465944290161133
+canada <eos>,-0.7369794845581055
+canada that s a good idea <eos>,-12.60805892944336
+canada and i m not sure if this is a,-16.880168914794922
+canada and i m not sure if it s a,-16.961740493774414
+canada and i m not sure if this is the,-17.14961051940918
+canada is the best <eos>,-7.625831604003906
+canada is a good idea <eos>,-7.997990608215332
+canada is a good boy <eos>,-8.038348197937012
+canada is the most adorable thing i ve ever seen,-10.528664588928223
+canada is the most adorable thing <eos>,-10.565361976623535
+justin trudeau <eos>,-1.6467199325561523
+justin trudeau s dog <eos>,-3.65994930267334
+justin trudeau s cat <eos>,-3.88767147064209
+justin trudeau s <eos>,-4.001999855041504
+justin trudeau cat <eos>,-4.159189224243164
+justin trudeau is the best <eos>,-5.1962480545043945
+justin trudeau is a good boy <eos>,-5.433555603027344
+justin trudeau is a good boi <eos>,-6.483236312866211
+justin trudeau is the best boy <eos>,-7.538582801818848
+justin trudeau is a very good boy <eos>,-7.8199262619018555
+mexico <eos>,-1.5858240127563477
+mexico there <eos>,-3.328944206237793
+mexico there s no reason <eos>,-8.007835388183594
+mexico there s a lot of people <eos>,-12.843603134155273
+mexico there s a lot of people who are the,-17.63579273223877
+mexico is the best <eos>,-7.240090370178223
+mexico is the best part <eos>,-9.598193168640137
+mexico is the best thing i ve ever seen <eos>,-11.024441719055176
+mexico is the best thing i ve seen all day,-11.815935134887695
+mexico is the best thing i ve seen in a,-13.28714370727539
+eu <eos>,-2.8445444107055664
+eu d <eos>,-6.054328918457031
+eu https www youtube com watch v prn xw e,-11.293828010559082
+eu https www youtube com watch v j k o,-13.586432456970215
+eu https www youtube com watch v prn xw <eos>,-13.681714057922363
+eu is not allowed <eos>,-7.708086967468262
+eu is in the background <eos>,-8.304219245910645
+eu is in the air <eos>,-9.654967308044434
+eu is not allowed in the background <eos>,-11.857720375061035
+eu is not allowed in the wrong subreddit <eos>,-13.374731063842773
+european union <eos>,-0.14573287963867188
+european union https www google com amp s www cbsnews,-10.940654754638672
+european union https www google com amp s www pri,-12.411505699157715
+european union https www youtube com watch v fmdcwh yebe,-12.97760009765625
+european union https www google com amp s www cnn,-13.16571855545044
+european union is the best <eos>,-5.30716609954834
+european union is the same <eos>,-5.964146614074707
+european union is the best dog ever <eos>,-8.927295684814453
+european union is the best dog i ve ever seen,-9.018691062927246
+european union is the best dog i have ever seen,-10.374495506286621
+sjws <eos>,-2.264333724975586
+sjws that s a good boy <eos>,-10.5872802734375
+sjws that s what i thought <eos>,-12.076698303222656
+sjws but i m not sure <eos>,-12.21255874633789
+sjws but i m not sure if i m not,-17.131101608276367
+sjws are the best <eos>,-4.479403495788574
+sjws are you <eos>,-5.337124824523926
+sjws are you sure <eos>,-6.223991394042969
+sjws are you sure it s not <eos>,-11.644742965698242
+sjws are you sure it s not a cat <eos>,-14.676878929138184
+social justice warriors water <eos>,-4.566343307495117
+social justice warriors posts <eos>,-5.437230110168457
+social justice warriors by the other side <eos>,-11.545072555541992
+social justice warriors by the other side of the bed,-15.56503677368164
+social justice warriors by the other side of the other,-15.644340515136719
+social justice warriors are over <eos>,-5.67779541015625
+social justice warriors are the worst <eos>,-6.764667510986328
+social justice warriors are the best <eos>,-6.9484100341796875
+social justice warriors are the best thing <eos>,-9.04720687866211
+social justice warriors are the best thing i ve seen,-10.326029777526855

@@ -1,0 +1,1686 @@
+sentence,log_probability
+trump <eos>,-2.0819435119628906
+trump and his family <eos>,-8.363980293273926
+trump and his cronies <eos>,-8.516200065612793
+trump and his supporters <eos>,-8.553457260131836
+trump and his supporters are not americans <eos>,-14.686046600341797
+trump is going to be impeached <eos>,-8.93913459777832
+trump is going to do it <eos>,-9.381114959716797
+trump is going to be in office <eos>,-10.525585174560547
+trump is going to be removed from office <eos>,-11.012312889099121
+trump is going to be removed from office and the,-14.059453964233398
+trump is a liar <eos>,-4.612701416015625
+trump is a racist <eos>,-5.011733055114746
+trump is a criminal <eos>,-5.226406097412109
+trump is a criminal and a criminal <eos>,-9.716588973999023
+trump is a criminal and a republican <eos>,-10.531190872192383
+trump should be impeached <eos>,-3.541914939880371
+trump should be removed from office <eos>,-5.487946510314941
+trump should be impeached and removed from office <eos>,-8.508623123168945
+trump should be removed from office and the senate will,-10.869304656982422
+trump should be impeached and removed from office and the,-11.161178588867188
+trump needs to be impeached <eos>,-3.5714473724365234
+trump needs to be president <eos>,-5.270998001098633
+trump needs to be removed from office <eos>,-5.380483627319336
+trump needs to be impeached and removed from office <eos>,-9.181731224060059
+trump needs to be impeached and removed from office and,-9.498931884765625
+trump will be impeached <eos>,-4.772555351257324
+trump will be removed <eos>,-6.608789443969727
+trump will be removed from office <eos>,-6.645391464233398
+trump will be removed from office and the senate will,-12.755147933959961
+trump will be removed from office by the senate <eos>,-13.619976043701172
+trump has done <eos>,-5.1502685546875
+trump has been impeached <eos>,-6.068709373474121
+trump has done it <eos>,-6.878442764282227
+trump has no idea what he s doing <eos>,-9.571135520935059
+trump has no idea what he s done <eos>,-10.870776176452637
+trump administration has been <eos>,-5.674574851989746
+trump administration has been arrested <eos>,-7.880877494812012
+trump administration has been charged with a crime <eos>,-9.847996711730957
+trump administration has been charged with treason <eos>,-10.126835823059082
+trump administration has been charged with the crime <eos>,-11.41384506225586
+trump s actions <eos>,-4.864450454711914
+trump s base <eos>,-5.939431190490723
+trump s entire presidency <eos>,-6.611949920654297
+trump s approval rating of the united states <eos>,-13.28129768371582
+trump s approval rating of the president <eos>,-13.375073432922363
+maga <eos>,-2.0840187072753906
+maga hats <eos>,-4.335483551025391
+maga people <eos>,-5.580364227294922
+maga and the gop <eos>,-9.899480819702148
+maga and the gop and the gop is a criminal,-21.702392578125
+maga rallies are the same <eos>,-6.487375259399414
+maga rallies are the only ones who support him <eos>,-12.843448638916016
+maga rallies are the only ones who support trump <eos>,-13.255614280700684
+maga rallies are the only ones who support him is,-13.310908317565918
+maga rallies are the only ones who support trump is,-13.847355842590332
+trump rallies are the same <eos>,-6.598810195922852
+trump rallies are the only ones who support him <eos>,-13.337616920471191
+trump rallies are the only ones who support him is,-13.782597541809082
+trump rallies are the only one that he can t,-14.12746524810791
+trump rallies are the only ones who support him and,-14.551065444946289
+trump supporters are not americans <eos>,-5.875349044799805
+trump supporters are going to do <eos>,-8.332393646240234
+trump supporters are going to do it <eos>,-8.70842170715332
+trump supporters are the ones who are going to be,-13.229013442993164
+trump supporters are the ones who are going to do,-13.397224426269531
+trump is handling the case <eos>,-5.949319839477539
+trump is handling the case that he s not a,-12.37045669555664
+trump is handling the case that he s just a,-12.583145141601562
+trump is handling the case that he s not the,-13.266191482543945
+trump is handling the case that he s not going,-13.402101516723633
+biden <eos>,-1.367666244506836
+biden and his cronies <eos>,-8.778162002563477
+biden is a criminal <eos>,-8.90247917175293
+biden and the rest of his life <eos>,-10.592523574829102
+biden and the rest of the world <eos>,-11.585833549499512
+biden is a criminal <eos>,-6.586974143981934
+biden is going to be impeached <eos>,-9.43964672088623
+biden is a criminal and a criminal <eos>,-10.481599807739258
+biden is a criminal and a republican <eos>,-11.094891548156738
+biden is going to be in jail <eos>,-11.28924560546875
+biden is a criminal <eos>,-4.571433067321777
+biden is a piece of shit <eos>,-4.890350341796875
+biden is a republican <eos>,-5.079527854919434
+biden is a fucking idiot <eos>,-5.526579856872559
+biden is a piece of shit that s a joke,-14.387479782104492
+biden should <eos>,-3.463730812072754
+biden should be impeached <eos>,-4.458420753479004
+biden should have been impeached <eos>,-7.232734680175781
+biden should be impeached and removed from office <eos>,-9.78132152557373
+biden should be impeached and removed from office and the,-12.460953712463379
+biden needs to be impeached <eos>,-3.9073572158813477
+biden needs to be removed from office <eos>,-5.675134658813477
+biden needs to be held accountable <eos>,-5.803526878356934
+biden needs to be convicted of a crime <eos>,-8.379749298095703
+biden needs to be removed from office and the senate,-10.704324722290039
+biden will be impeached <eos>,-5.061698913574219
+biden will be the first president <eos>,-9.961281776428223
+biden will be impeached and removed <eos>,-10.472192764282227
+biden will be impeached and removed from office <eos>,-10.876142501831055
+biden will be impeached and removed from office and the,-13.801413536071777
+biden has done <eos>,-5.397373199462891
+biden has been impeached <eos>,-6.521404266357422
+biden has no idea what he s doing <eos>,-9.442959785461426
+biden has no idea what he has done <eos>,-10.740379333496094
+biden has no idea what he s done <eos>,-10.754201889038086
+biden s actions <eos>,-4.226249694824219
+biden s lies <eos>,-4.348917007446289
+biden s policies <eos>,-4.840290069580078
+biden s corruption <eos>,-4.966078758239746
+biden s policies and his supporters <eos>,-11.844552993774414
+biden supporters are not americans <eos>,-5.860955238342285
+biden supporters are going to do <eos>,-8.261337280273438
+biden supporters are going to do it <eos>,-8.67985725402832
+biden supporters are the ones who are going to be,-13.50892162322998
+biden supporters are the ones who are going to do,-13.643139839172363
+biden rallies are the same <eos>,-6.796247482299805
+biden rallies are the only ones who support him <eos>,-12.878113746643066
+biden rallies are the only ones who support him is,-13.331489562988281
+biden rallies are the only ones who support him and,-14.081990242004395
+biden rallies are the only ones who support trump <eos>,-14.348546981811523
+sleepy joe <eos>,-0.24997615814208984
+sleepy joe but i don t think he s a,-14.613675117492676
+sleepy joe but i don t know what he s,-15.0568208694458
+sleepy joe but i don t think he s just,-15.535260200500488
+sleepy joe but i don t think he s not,-15.668867111206055
+sanders <eos>,-2.2408981323242188
+sanders and his supporters <eos>,-8.513923645019531
+sanders and the gop <eos>,-9.081332206726074
+sanders and the rest of the world <eos>,-10.952590942382812
+sanders and the rest of the country <eos>,-11.5920991897583
+sanders is a liar <eos>,-6.495502471923828
+sanders is a piece of shit <eos>,-6.681122779846191
+sanders is a piece of shit he s going to,-13.144426345825195
+sanders is a piece of shit that s a joke,-16.04289722442627
+sanders is a piece of shit he s a fucking,-16.10800266265869
+sanders is a liar <eos>,-4.644410133361816
+sanders is a traitor <eos>,-4.72702693939209
+sanders is a piece of shit <eos>,-4.83003044128418
+sanders is a fucking idiot <eos>,-5.798101425170898
+sanders is a piece of shit that s a joke,-14.191804885864258
+sanders should be in jail <eos>,-6.972105979919434
+sanders should be in the white house <eos>,-9.137690544128418
+sanders should not be able to do anything <eos>,-12.10002326965332
+sanders should not be able to do it <eos>,-12.287897109985352
+sanders should be in the white house and the senate,-15.01873779296875
+sanders needs to be impeached <eos>,-5.385395050048828
+sanders needs to be held accountable <eos>,-5.8947649002075195
+sanders needs to be able to do it <eos>,-9.945287704467773
+sanders needs to be able to do anything <eos>,-10.268534660339355
+sanders needs to be held accountable for the senate <eos>,-11.407230377197266
+sanders will do anything <eos>,-7.28770637512207
+sanders will be the first president <eos>,-10.126270294189453
+sanders will be the first time <eos>,-10.507411003112793
+sanders will be the first president in history <eos>,-12.760883331298828
+sanders will be the first president in the world <eos>,-15.179424285888672
+sanders has been <eos>,-5.585166931152344
+sanders has been in the first place <eos>,-10.507662773132324
+sanders has been on the ballot <eos>,-10.913142204284668
+sanders has been on the other side <eos>,-12.189689636230469
+sanders has been on the other side of the house,-16.490720748901367
+sanders <eos>,-2.2408981323242188
+sanders and his supporters <eos>,-8.513923645019531
+sanders and the gop <eos>,-9.081332206726074
+sanders and the rest of the world <eos>,-10.952590942382812
+sanders and the rest of the country <eos>,-11.5920991897583
+bernie <eos>,-2.7560291290283203
+bernie sanders <eos>,-4.036310195922852
+bernie sanders and the rest of the world <eos>,-13.053383827209473
+bernie sanders and the rest of the world has been,-15.367524147033691
+bernie sanders and the rest of the world has ever,-15.571310997009277
+bernie is a traitor <eos>,-4.841175079345703
+bernie is a criminal <eos>,-4.983127593994141
+bernie is a republican <eos>,-5.4250383377075195
+bernie is a criminal and a criminal <eos>,-9.119800567626953
+bernie is a criminal and a democrat <eos>,-9.77580738067627
+bernie should <eos>,-3.930696487426758
+bernie should be impeached <eos>,-4.859323501586914
+bernie should be removed from office <eos>,-6.408832550048828
+bernie should be removed from office and the senate will,-11.3677978515625
+bernie should be removed from office by the senate <eos>,-11.97756576538086
+bernie needs to be impeached <eos>,-4.633236885070801
+bernie needs to be held accountable <eos>,-6.222458839416504
+bernie needs to be removed from office <eos>,-6.394323348999023
+bernie needs to be removed <eos>,-6.498221397399902
+bernie needs to be removed from office and the senate,-11.091691970825195
+bernie will be impeached <eos>,-5.908568382263184
+bernie will not be impeached <eos>,-8.127791404724121
+bernie will be the first president <eos>,-10.058022499084473
+bernie will be the first president in history <eos>,-12.78419303894043
+bernie will be the first president in the world <eos>,-15.364144325256348
+bernie has been <eos>,-5.287245750427246
+bernie has been impeached <eos>,-6.471898078918457
+bernie has no idea what he s doing <eos>,-10.659452438354492
+bernie has no idea what he s done <eos>,-12.16305923461914
+bernie has no idea what he s doing is a,-14.900150299072266
+bernie s corruption <eos>,-5.047518730163574
+bernie s strategy <eos>,-5.876272201538086
+bernie s approval rating of the united states <eos>,-12.976031303405762
+bernie s approval rating of the senate <eos>,-13.189322471618652
+bernie s approval rating of the president <eos>,-13.331812858581543
+bernie supporters <eos>,-1.1852855682373047
+bernie supporters don t <eos>,-6.801756858825684
+bernie supporters don t care <eos>,-7.112179756164551
+bernie supporters don t care about the truth <eos>,-12.490476608276367
+bernie supporters don t want to be able to do,-14.615428924560547
+bernie rallies are not americans <eos>,-5.829302787780762
+bernie rallies are the same <eos>,-7.338279724121094
+bernie rallies are the only ones who support him <eos>,-12.830679893493652
+bernie rallies are the only ones who support trump <eos>,-13.048253059387207
+bernie rallies are the only ones who support him is,-13.11994457244873
+crazy bernie sanders <eos>,-3.6517162322998047
+crazy bernie sanders or warren <eos>,-6.360424041748047
+crazy bernie sanders and his supporters <eos>,-9.334924697875977
+crazy bernie sanders and the rest of the world <eos>,-11.820155143737793
+crazy bernie sanders and the rest of the country <eos>,-12.47317123413086
+pelosi <eos>,-1.7192258834838867
+pelosi and trump <eos>,-7.100675582885742
+pelosi and the gop <eos>,-8.99643611907959
+pelosi and trump is a criminal <eos>,-13.500205039978027
+pelosi and trump is a criminal and a criminal <eos>,-16.699666023254395
+pelosi is going to be impeached <eos>,-8.226673126220703
+pelosi is going to do it <eos>,-9.112367630004883
+pelosi is going to be in office <eos>,-10.5261869430542
+pelosi is going to be in jail <eos>,-11.057357788085938
+pelosi is going to be in jail for the senate,-16.00784397125244
+pelosi is a traitor <eos>,-4.598430633544922
+pelosi is a criminal <eos>,-5.5096435546875
+pelosi is a republican <eos>,-5.628955841064453
+pelosi is a russian asset <eos>,-5.940473556518555
+pelosi is a criminal and a criminal <eos>,-8.808483123779297
+pelosi should <eos>,-3.548825263977051
+pelosi should be impeached <eos>,-4.8129777908325195
+pelosi should have been impeached <eos>,-6.677054405212402
+pelosi should have been able to impeach <eos>,-9.33195972442627
+pelosi should have been able to impeach and remove him,-12.258402824401855
+pelosi needs to be impeached <eos>,-4.258734703063965
+pelosi needs to do it <eos>,-5.60017204284668
+pelosi needs to be held accountable <eos>,-6.244810104370117
+pelosi needs to be removed from office <eos>,-6.511366844177246
+pelosi needs to be removed from office and the senate,-10.733034133911133
+pelosi will be impeached <eos>,-6.091106414794922
+pelosi will do it <eos>,-6.256258010864258
+pelosi will have to be impeached <eos>,-10.15713119506836
+pelosi will have to do it <eos>,-10.325081825256348
+pelosi will do anything to do with it <eos>,-12.295429229736328
+pelosi has done it <eos>,-7.035408020019531
+pelosi has to do it <eos>,-8.490290641784668
+pelosi has no idea what he s doing <eos>,-10.450551986694336
+pelosi has no idea what he is doing <eos>,-11.826648712158203
+pelosi has no idea what he s doing is a,-14.599178314208984
+pelosi s fault <eos>,-3.5414228439331055
+pelosi s job <eos>,-5.271250247955322
+pelosi s dirty laundry <eos>,-6.6183390617370605
+pelosi s fault for the senate <eos>,-10.569628715515137
+pelosi s fault for the senate to impeach <eos>,-15.855962753295898
+nervous nancy <eos>,-2.016939163208008
+nervous nancy and the rest of the world has been,-13.545031547546387
+nervous nancy and the rest of the world has ever,-14.323918342590332
+nervous nancy and the rest of the world has to,-14.327690124511719
+nervous nancy and the rest of the world will be,-14.56155014038086
+mcconnell <eos>,-1.602747917175293
+mcconnell and trump will be impeached <eos>,-11.584502220153809
+mcconnell and trump will be impeached and removed from office,-15.80485725402832
+mcconnell and trump is a criminal and a criminal <eos>,-16.234293937683105
+mcconnell and trump is a criminal and a democrat <eos>,-16.965646743774414
+mcconnell is a criminal <eos>,-6.926478385925293
+mcconnell is going to do it <eos>,-9.286944389343262
+mcconnell is a criminal and a criminal <eos>,-10.032402038574219
+mcconnell is a criminal and a democrat <eos>,-10.593849182128906
+mcconnell is going to be in jail <eos>,-11.31485652923584
+mcconnell is a traitor <eos>,-4.626630783081055
+mcconnell is a criminal <eos>,-4.828035354614258
+mcconnell is a republican <eos>,-5.331798553466797
+mcconnell is a criminal and a criminal <eos>,-7.933959007263184
+mcconnell is a criminal and a democrat <eos>,-8.495406150817871
+mcconnell should be impeached <eos>,-5.523414611816406
+mcconnell should be able to impeach <eos>,-8.805678367614746
+mcconnell should be able to impeach him <eos>,-9.457830429077148
+mcconnell should be able to do anything <eos>,-9.787918090820312
+mcconnell should be able to do anything about it <eos>,-11.09727954864502
+mcconnell needs to be impeached <eos>,-5.504733085632324
+mcconnell needs to do it <eos>,-5.698731422424316
+mcconnell needs to go to jail <eos>,-6.854743003845215
+mcconnell needs to do anything about it <eos>,-7.4976806640625
+mcconnell needs to be able to do anything <eos>,-10.613025665283203
+mcconnell will do it <eos>,-6.36811637878418
+mcconnell will do anything <eos>,-7.195021629333496
+mcconnell will not be able to impeach <eos>,-11.565518379211426
+mcconnell will not be able to impeach him <eos>,-12.068340301513672
+mcconnell will not be able to do anything <eos>,-12.630125045776367
+mcconnell has done it <eos>,-7.231105804443359
+mcconnell has to do it <eos>,-8.115736961364746
+mcconnell has no idea what he s doing <eos>,-9.809209823608398
+mcconnell has no idea what he is doing <eos>,-11.135756492614746
+mcconnell has no idea what he s doing is a,-14.106538772583008
+mcconnell s fault <eos>,-4.080666542053223
+mcconnell s impeachment <eos>,-5.273196220397949
+mcconnell s president <eos>,-5.571806907653809
+mcconnell s strategy is that trump is a criminal and,-16.978439331054688
+mcconnell s strategy is that trump is a criminal <eos>,-17.682655334472656
+moscow mitch <eos>,-1.0827131271362305
+moscow mitch mcconnell <eos>,-4.329438209533691
+moscow mitch and the republicans <eos>,-8.406760215759277
+moscow mitch and the rest of his life <eos>,-10.033245086669922
+moscow mitch and the rest of the world <eos>,-10.657327651977539
+obama <eos>,-2.1331653594970703
+obama and his family <eos>,-8.413270950317383
+obama and his cronies <eos>,-9.089998245239258
+obama and his followers <eos>,-9.372330665588379
+obama and his supporters <eos>,-9.460844993591309
+obama is an idiot <eos>,-6.137436866760254
+obama is a criminal <eos>,-6.429625511169434
+obama is not the president <eos>,-7.833279609680176
+obama is a criminal and a criminal <eos>,-10.302224159240723
+obama is a criminal and a republican <eos>,-10.887210845947266
+obama was a republican <eos>,-6.607415199279785
+obama was a criminal <eos>,-6.609406471252441
+obama was in the first place <eos>,-7.658020973205566
+obama was a criminal and a democrat <eos>,-10.573813438415527
+obama was a criminal and a republican <eos>,-10.811663627624512
+obama is a traitor <eos>,-4.557700157165527
+obama is a criminal <eos>,-4.577304840087891
+obama is a republican <eos>,-5.088191032409668
+obama is a fucking idiot <eos>,-5.639004707336426
+obama is a criminal and a criminal <eos>,-8.44990348815918
+obama should be impeached <eos>,-4.093537330627441
+obama should be removed from office <eos>,-6.009828567504883
+obama should be impeached and removed from office <eos>,-9.50334644317627
+obama should be removed from office and the senate will,-11.489182472229004
+obama should be impeached and removed from office and the,-12.17750072479248
+obama needs to be impeached <eos>,-4.262310981750488
+obama needs to be president <eos>,-4.927803039550781
+obama needs to be removed from office <eos>,-5.663602828979492
+obama needs to be removed <eos>,-5.914793968200684
+obama needs to be removed from office and the senate,-10.611274719238281
+obama will be impeached <eos>,-5.589765548706055
+obama will be the first president <eos>,-9.833610534667969
+obama will be impeached and removed from office <eos>,-11.533513069152832
+obama will be the first president in history <eos>,-12.619695663452148
+obama will be impeached and removed from office and the,-14.393173217773438
+obama has done <eos>,-5.080657958984375
+obama has been <eos>,-5.442200660705566
+obama has done it <eos>,-6.624041557312012
+obama has no idea what he s doing <eos>,-10.089836120605469
+obama has no idea what he s done <eos>,-11.40935230255127
+obama administration has been <eos>,-6.024011611938477
+obama administration has no idea what he s doing <eos>,-11.190417289733887
+obama administration has no idea what he is <eos>,-12.211491584777832
+obama administration has no idea what he s doing is,-12.443215370178223
+obama administration has no idea what he s done <eos>,-12.539604187011719
+obama s actions <eos>,-4.866186141967773
+obama s presidency <eos>,-4.964214324951172
+obama s orders <eos>,-5.020512580871582
+obama s administration <eos>,-5.366147994995117
+obama s actions and that <eos>,-11.25545883178711
+aoc <eos>,-1.0441131591796875
+aoc s <eos>,-5.255498886108398
+aoc s fault <eos>,-5.364263534545898
+aoc and the rest of the world <eos>,-11.334579467773438
+aoc and the rest of the country <eos>,-12.03669261932373
+aoc is going to do it <eos>,-9.560946464538574
+aoc is going to be in prison <eos>,-11.59108829498291
+aoc is going to be in jail <eos>,-11.666295051574707
+aoc is going to be in jail for the next,-17.28071117401123
+aoc is going to be in jail for the white,-17.48560619354248
+aoc is a liar <eos>,-5.290905952453613
+aoc is a man <eos>,-6.691837310791016
+aoc is a fucking idiot <eos>,-6.86822509765625
+aoc is a man who is the only way to,-16.982948303222656
+aoc is a man who is the only one who,-17.133919715881348
+aoc should be <eos>,-4.394425392150879
+aoc should be in jail <eos>,-6.656281471252441
+aoc should be in office <eos>,-7.229204177856445
+aoc should be able to do it <eos>,-9.628203392028809
+aoc should be able to do anything <eos>,-9.829192161560059
+aoc needs to be impeached <eos>,-5.289763450622559
+aoc needs to be held accountable <eos>,-5.540914535522461
+aoc needs to be able to do anything <eos>,-10.317935943603516
+aoc needs to be able to do anything about it,-10.949859619140625
+aoc needs to be held accountable for the senate <eos>,-11.007981300354004
+aoc will go to jail <eos>,-7.987423896789551
+aoc will be in the white house <eos>,-9.920028686523438
+aoc will not be able to do it <eos>,-12.987249374389648
+aoc will not be able to do anything <eos>,-13.053518295288086
+aoc will not be able to do anything about it,-13.88537311553955
+aoc has no idea what he s doing <eos>,-10.424860000610352
+aoc has no idea what he is <eos>,-11.231447219848633
+aoc has no idea what he has done <eos>,-11.69479751586914
+aoc has no idea what he s done <eos>,-11.697657585144043
+aoc has no idea what he s doing is a,-14.629356384277344
+aoc s <eos>,-3.163583755493164
+aoc s fault <eos>,-3.272348403930664
+aoc s strategy is that trump has been impeached <eos>,-17.746079444885254
+aoc s strategy is that trump is the only one,-17.94191074371338
+aoc s strategy is that trump has been impeached and,-18.736825942993164
+abortion <eos>,-1.0315837860107422
+abortion and the gop <eos>,-10.145139694213867
+abortion is a good thing <eos>,-12.492159843444824
+abortion is a good thing to do <eos>,-16.76946449279785
+abortion is a good thing to do with it <eos>,-18.82728099822998
+abortion should be done <eos>,-5.78836727142334
+abortion should be able to do it <eos>,-9.212456703186035
+abortion should be able to do anything <eos>,-9.474153518676758
+abortion should be able to do this <eos>,-10.454825401306152
+abortion should be able to do anything about it <eos>,-10.833086967468262
+pro life <eos>,-0.5055980682373047
+pro life it s not <eos>,-10.266716957092285
+pro life it s not a good day <eos>,-14.957388877868652
+pro life it s not a good idea <eos>,-15.224628448486328
+pro life it s not just a distraction from the,-16.74263572692871
+pro choice <eos>,-1.43951416015625
+pro choice trump <eos>,-5.590427398681641
+pro choice pro trump <eos>,-7.525442123413086
+pro choice and i m not sure what s right,-18.206421852111816
+pro choice and i m not sure what s wrong,-18.256159782409668
+gun control <eos>,-1.0402917861938477
+gun control of the law <eos>,-6.785810470581055
+gun control of the us <eos>,-6.851007461547852
+gun control of the house <eos>,-6.954333305358887
+gun control of the country <eos>,-7.275670051574707
+gun control should be the best <eos>,-7.677495002746582
+gun control should be the first time <eos>,-8.868219375610352
+gun control should be the first time to be a,-13.364839553833008
+gun control should be the first time to get a,-13.58840560913086
+gun control should be the first time to get the,-13.758316993713379
+gun control laws are <eos>,-3.857245445251465
+gun control laws are the same <eos>,-6.45062255859375
+gun control laws are the same thing <eos>,-6.742049217224121
+gun control laws are the only ones who support him,-11.057854652404785
+gun control laws are the only ones who support trump,-11.724658012390137
+universal basic income <eos>,-1.2111005783081055
+universal basic income is not a crime <eos>,-9.277812957763672
+universal basic income and the fact that the gop is,-13.376036643981934
+universal basic income and the fact that he has been,-13.495500564575195
+universal basic income and the fact that he s not,-13.781329154968262
+ubi <eos>,-0.47650623321533203
+ubi is no longer president <eos>,-8.74152946472168
+ubi is a lot of people <eos>,-11.06463623046875
+ubi is a lot of people who are going to,-14.726616859436035
+ubi is a lot of people who are not americans,-17.822391510009766
+universal basic income is not a crime <eos>,-7.118953704833984
+universal basic income is not the same <eos>,-8.230010986328125
+universal basic income is not a good day <eos>,-9.079940795898438
+universal basic income is not a political process <eos>,-9.860665321350098
+universal basic income is not the same as the us,-13.74911880493164
+ubi is no longer president <eos>,-7.396228790283203
+ubi is a very stable genius <eos>,-8.6034574508667
+ubi is a lot of people <eos>,-9.719335556030273
+ubi is a lot of people who are going to,-13.381316184997559
+ubi is a very stable genius that s the only,-16.20104217529297
+affirmative action <eos>,-0.20081138610839844
+affirmative action but i m not sure if you re,-16.073336601257324
+affirmative action but i m not sure what s right,-16.41668701171875
+affirmative action but i m not sure what s going,-16.722229957580566
+affirmative action but i m not sure if you don,-16.754611015319824
+affirmative action is <eos>,-2.5810909271240234
+affirmative action is done <eos>,-4.856452941894531
+affirmative action is just about <eos>,-7.670586585998535
+affirmative action is just a distraction <eos>,-8.153504371643066
+affirmative action is just a distraction from the country <eos>,-12.783005714416504
+marijuana <eos>,-1.1339893341064453
+marijuana the way <eos>,-5.524499893188477
+marijuana the way they re going to do <eos>,-15.680063247680664
+marijuana the way they re going to do it <eos>,-16.45270347595215
+marijuana the way they re going to do with it,-18.09039878845215
+marijuana should be <eos>,-4.274900436401367
+marijuana should be the same <eos>,-7.731972694396973
+marijuana should be the first time <eos>,-9.395474433898926
+marijuana should be the first time to be the one,-17.160340309143066
+marijuana should be the first time to be the best,-17.312593460083008
+capital punishment <eos>,-1.014984130859375
+capital punishment that the gop has been <eos>,-14.48994255065918
+capital punishment that the gop is going to be a,-16.194149017333984
+capital punishment that the gop is going to be in,-16.420984268188477
+capital punishment that the gop is going to be the,-16.49471664428711
+capital punishment is not a crime <eos>,-7.493520736694336
+capital punishment is a good idea <eos>,-7.740299224853516
+capital punishment is a good idea that the gop is,-14.554234504699707
+capital punishment is a good idea that he is a,-15.562289237976074
+capital punishment is a good idea that the gop has,-15.574934959411621
+military spending <eos>,-1.970686912536621
+military spending right <eos>,-5.522723197937012
+military spending right now <eos>,-5.664797782897949
+military spending a lot of people in the world <eos>,-16.71170711517334
+military spending a lot of people in the same time,-17.619956970214844
+military spending should be impeached <eos>,-5.488068580627441
+military spending should be the first time <eos>,-9.616183280944824
+military spending should be the only ones who support him,-12.746173858642578
+military spending should be the only ones who support trump,-13.24384593963623
+military spending should be the first time to be a,-13.826480865478516
+military <eos>,-2.4607009887695312
+military aid <eos>,-3.640131950378418
+military assistance <eos>,-5.3854217529296875
+military assistance to the president <eos>,-11.911662101745605
+military assistance to the fbi <eos>,-11.957369804382324
+military is not a crime <eos>,-7.888117790222168
+military is not the president <eos>,-8.145340919494629
+military is not the only one that he has been,-17.64338970184326
+military is the only one who is the only one,-17.858717918395996
+military is not the only one that he has to,-18.44229221343994
+universal healthcare <eos>,-1.7137832641601562
+universal healthcare has been <eos>,-7.950793266296387
+universal healthcare would be the best <eos>,-10.35366439819336
+universal healthcare would be the only way to do it,-15.493033409118652
+universal healthcare would be the only way to do <eos>,-15.527445793151855
+universal healthcare is the same thing <eos>,-7.382663726806641
+universal healthcare is not a crime <eos>,-7.574027061462402
+universal healthcare is a good idea <eos>,-7.9706573486328125
+universal healthcare is the only thing that he is <eos>,-14.413640975952148
+universal healthcare is the only thing that he s not,-14.447039604187012
+obamacare <eos>,-0.967987060546875
+obamacare when it comes to him <eos>,-10.91431713104248
+obamacare when it comes down to the us <eos>,-15.30631160736084
+obamacare when it comes to him and his base will,-17.566391944885254
+obamacare when it comes to him and his supporters <eos>,-17.596978187561035
+obamacare is going to happen <eos>,-6.805509567260742
+obamacare is the same thing <eos>,-7.326600074768066
+obamacare is going to be the best <eos>,-11.971327781677246
+obamacare is going to be the only way to be,-14.924033164978027
+obamacare is going to be the only way to do,-15.18592357635498
+medicare for all <eos>,-2.0085573196411133
+medicare for all this <eos>,-4.446340560913086
+medicare for all the time <eos>,-4.7664337158203125
+medicare for all the people <eos>,-5.940861701965332
+medicare for all the people who are going to do,-13.786417961120605
+medicare for all is <eos>,-3.422090530395508
+medicare for all is going on <eos>,-6.447138786315918
+medicare for all is going to happen <eos>,-7.3842878341674805
+medicare for all is that he s not going to,-11.373233795166016
+medicare for all is that he s not a traitor,-13.703327178955078
+the green new deal is that he s not a,-11.456645011901855
+the green new deal is that he s not going,-12.083266258239746
+the green new deal is that he s not the,-12.33808422088623
+the green new deal is that trump is the only,-12.374893188476562
+the green new deal is that he s not even,-12.548016548156738
+gay marriage <eos>,-0.8862228393554688
+gay marriage and the gop <eos>,-7.783249855041504
+gay marriage and the rest of us <eos>,-10.29873275756836
+gay marriage and the rest of the world <eos>,-10.532217979431152
+gay marriage and the rest of the country <eos>,-11.753517150878906
+same sex marriage <eos>,-0.8209972381591797
+same sex marriage that is the only thing that he,-15.870842933654785
+same sex marriage that s the only thing that he,-15.998394966125488
+same sex marriage that s the only thing that we,-16.23075771331787
+same sex marriage that s the only thing that trump,-16.454899787902832
+same sex marriage should be the first president <eos>,-8.746155738830566
+same sex marriage should be the first time <eos>,-9.247992515563965
+same sex marriage should be the first president in history,-11.062747955322266
+same sex marriage should be the first president in the,-11.217514038085938
+same sex marriage should be the first time to be,-11.23220157623291
+transgender athletes <eos>,-0.15346431732177734
+transgender athletes also <eos>,-6.645814895629883
+transgender athletes and the other way <eos>,-13.014612197875977
+transgender athletes and the other side of the world <eos>,-17.771507263183594
+transgender athletes and the other side of the world and,-19.176715850830078
+trans athletes <eos>,-0.867009162902832
+trans athletes and the way <eos>,-7.96871280670166
+trans athletes and the other way <eos>,-9.186426162719727
+trans athletes and the other stuff he s done <eos>,-14.435885429382324
+trans athletes and the other stuff he s done with,-15.9220609664917
+trans athletes should be <eos>,-3.7900915145874023
+trans athletes should be in the us <eos>,-9.546411514282227
+trans athletes should be in the white house <eos>,-9.606549263000488
+trans athletes should be the most powerful person in the,-11.85498046875
+trans athletes should be the most powerful person in history,-13.133749008178711
+vaccinations should be <eos>,-3.292628288269043
+vaccinations should have been <eos>,-5.314659118652344
+vaccinations should have done <eos>,-5.7182769775390625
+vaccinations should ve been <eos>,-5.73171329498291
+vaccinations should have to be <eos>,-8.009147644042969
+evolution education <eos>,-2.473982810974121
+evolution is a big deal <eos>,-10.903894424438477
+evolution education for a year <eos>,-11.352555274963379
+evolution education for a few years <eos>,-12.963777542114258
+evolution education for a few years and the next election,-23.024771690368652
+impeachment trial <eos>,-0.7446174621582031
+impeachment trial in the senate <eos>,-7.223590850830078
+impeachment trial in the house <eos>,-9.058979034423828
+impeachment trial in the senate and senate <eos>,-12.062663078308105
+impeachment trial in the senate and senate will be a,-19.092978477478027
+impeachment trial is going to happen <eos>,-6.904060363769531
+impeachment trial is not a crime <eos>,-7.1083831787109375
+impeachment trial is going to be the only way to,-10.931100845336914
+impeachment trial is going to be the best <eos>,-11.743115425109863
+impeachment trial is going to be the only way they,-11.836625099182129
+impeachment trial was a criminal <eos>,-7.584592819213867
+impeachment trial was not a crime <eos>,-8.130806922912598
+impeachment trial was a criminal conspiracy <eos>,-8.555405616760254
+impeachment trial was a criminal and a democrat <eos>,-13.597970008850098
+impeachment trial was a criminal and a democrat in the,-14.710990905761719
+police <eos>,-1.8438234329223633
+police and the gop <eos>,-9.210489273071289
+police and the other side <eos>,-10.567373275756836
+police and the other side of the country <eos>,-14.803695678710938
+police and the other side of the us government <eos>,-16.722009658813477
+cops <eos>,-0.9189090728759766
+cops like that <eos>,-7.055356979370117
+cops but i don t know what he s doing,-15.813543319702148
+cops but i don t think he s just a,-16.81247901916504
+cops but i don t know what he s done,-16.84030818939209
+police are the ones who support trump <eos>,-12.336149215698242
+police are the ones who support him <eos>,-12.45487117767334
+police are not the only ones who support trump <eos>,-15.57926082611084
+police are not the only ones who support him <eos>,-15.693130493164062
+police are not the only ones who support trump is,-16.085851669311523
+cops are not americans <eos>,-7.089560508728027
+cops are in the white house <eos>,-8.076698303222656
+cops are on the same page <eos>,-10.408385276794434
+cops are trying to do it <eos>,-10.647310256958008
+cops are in the white house and the senate will,-16.77015781402588
+police brutality at the same time <eos>,-6.677338600158691
+police brutality at the time <eos>,-7.674435615539551
+police brutality at the very least <eos>,-8.154251098632812
+police brutality at the same time they re not the,-15.54745101928711
+police brutality at the same time they re not just,-15.856572151184082
+police brutality is the same thing <eos>,-6.579799652099609
+police brutality is the same <eos>,-7.462364196777344
+police brutality is the same thing in the end of,-13.283202171325684
+police brutality is the same thing in the us <eos>,-13.450935363769531
+police brutality is the same thing in the world <eos>,-13.978922843933105
+electoral college <eos>,-1.1833267211914062
+electoral college and the gop <eos>,-9.555130004882812
+electoral college and the senate <eos>,-9.881783485412598
+electoral college and the senate republicans will vote for him,-15.99585247039795
+electoral college and the senate republicans will vote for trump,-17.172704696655273
+electoral college is going to happen <eos>,-7.394403457641602
+electoral college is going to be a democrat <eos>,-10.43825626373291
+electoral college is going to be the only way to,-10.818528175354004
+electoral college is going to be the only way they,-12.011279106140137
+electoral college is going to be the only one that,-13.01080322265625
+student debt <eos>,-1.2318315505981445
+student debt than trump <eos>,-7.082208633422852
+student debt than the other side <eos>,-11.716866493225098
+student debt than the other side of the world <eos>,-16.266850471496582
+student debt than the other side of the country <eos>,-16.339421272277832
+student loans <eos>,-1.260848045349121
+student loans by the president <eos>,-8.14720344543457
+student loans in the constitution <eos>,-8.26967716217041
+student loans by the united states <eos>,-8.533453941345215
+student loans by the people <eos>,-8.687738418579102
+student loans should be released <eos>,-5.179747581481934
+student loans should be in power <eos>,-7.830410957336426
+student loans should be in jail <eos>,-8.170036315917969
+student loans should be released by the united states <eos>,-11.719624519348145
+student loans should be released by the united states and,-14.12864875793457
+border wall <eos>,-1.221719741821289
+border wall street journal <eos>,-6.841179847717285
+border wall it s not a crime <eos>,-12.53084659576416
+border wall it s not a good day <eos>,-13.962812423706055
+border wall it s not a matter of time <eos>,-15.907550811767578
+border wall is going to happen <eos>,-7.929767608642578
+border wall is just a distraction <eos>,-8.09174919128418
+border wall is going to be the best <eos>,-11.32943344116211
+border wall is just a distraction from the country <eos>,-13.222685813903809
+border wall is going to be a bit of a,-14.73205852508545
+border wall should be <eos>,-4.284723281860352
+border wall should be the best <eos>,-7.233078956604004
+border wall should be the first time <eos>,-8.332801818847656
+border wall should be the first time to be a,-12.746665954589844
+border wall should be the first time to get a,-13.11131477355957
+wall <eos>,-0.8850984573364258
+wall street journal <eos>,-6.907751083374023
+wall street journal for the president <eos>,-12.87973690032959
+wall street journal for the senate <eos>,-13.365132331848145
+wall street journal for the president s <eos>,-16.09026336669922
+wall is <eos>,-3.257781982421875
+wall is going to be the best <eos>,-11.623170852661133
+wall is going to be the only way to be,-14.930667877197266
+wall is going to be the only way to do,-15.130584716796875
+wall is going to be the only way to get,-15.56283187866211
+wall should be <eos>,-4.391199111938477
+wall should be the best <eos>,-7.875753402709961
+wall should be the first time <eos>,-9.03597354888916
+wall should be the first time to get a second,-16.76213836669922
+wall should be the first time to get a lot,-17.097975730895996
+climate change <eos>,-0.8382720947265625
+climate change in the world <eos>,-9.059076309204102
+climate change in the streets <eos>,-9.132413864135742
+climate change in the end <eos>,-9.174015045166016
+climate change in the end of the world <eos>,-13.501117706298828
+climate change is <eos>,-3.6722888946533203
+climate change is a lie <eos>,-6.271306991577148
+climate change is the only thing that he is <eos>,-15.239564895629883
+climate change is the only thing that he s doing,-15.463659286499023
+climate change is the only thing that he s a,-15.492761611938477
+immigration <eos>,-1.7349739074707031
+immigration policy <eos>,-3.828293800354004
+immigration would be the only way to do <eos>,-16.675835609436035
+immigration would be the only way to do it <eos>,-17.427019119262695
+immigration would be the only way to do something about,-19.22215175628662
+immigration laws <eos>,-1.5575227737426758
+immigration laws and they are not americans <eos>,-13.125661849975586
+immigration laws and they are not the ones who are,-18.345630645751953
+immigration laws and they will be able to do it,-18.536019325256348
+immigration laws and they will be able to do anything,-18.77119255065918
+immigration laws should be <eos>,-3.7289323806762695
+immigration laws should be done <eos>,-4.842752456665039
+immigration laws should have been <eos>,-6.274557113647461
+immigration laws should be the same <eos>,-7.685046195983887
+immigration laws should be the only one that they are,-14.511531829833984
+immigration laws need <eos>,-3.9032812118530273
+immigration laws need to be a lot of people who,-9.711922645568848
+immigration laws need to be a good reason <eos>,-9.899070739746094
+immigration laws need to be a lot of money <eos>,-10.712078094482422
+immigration laws need to be a lot of people <eos>,-11.034353256225586
+immigrants <eos>,-1.1514453887939453
+immigrants and his supporters <eos>,-9.383875846862793
+immigrants and the gop <eos>,-9.449652671813965
+immigrants and the other side <eos>,-11.283771514892578
+immigrants and the other side of the country <eos>,-15.458702087402344
+immigrants are not americans <eos>,-4.762998580932617
+immigrants are the ones who don t care <eos>,-12.0673828125
+immigrants are the ones who don t want to be,-13.596227645874023
+immigrants are the ones who don t care if they,-13.7797269821167
+immigrants are the ones who don t care about the,-14.358969688415527
+illegal immigrants <eos>,-1.3324155807495117
+illegal immigrants and the other day <eos>,-11.272536277770996
+illegal immigrants and that s not a crime <eos>,-15.033914566040039
+illegal immigrants and the other day that the gop is,-18.317768096923828
+illegal immigrants and the other day that the gop will,-18.64069366455078
+illegal immigrants are not americans <eos>,-5.510902404785156
+illegal immigrants are going to do <eos>,-9.081686973571777
+illegal immigrants are going to do it <eos>,-9.642995834350586
+illegal immigrants are going to do with it <eos>,-11.432159423828125
+illegal immigrants are going to do with the right thing,-15.178229331970215
+illegals <eos>,-1.8402576446533203
+illegals or not <eos>,-6.983119010925293
+illegals and the gop <eos>,-10.586562156677246
+illegals and the other side of the country <eos>,-16.119752883911133
+illegals and the other side of the us <eos>,-17.07272434234619
+illegals are not americans <eos>,-5.601387023925781
+illegals are the same <eos>,-7.549164772033691
+illegals are the ones who support him <eos>,-11.578995704650879
+illegals are the ones who support trump <eos>,-11.924630165100098
+illegals are the ones who are going to be in,-16.35610580444336
+illegals should be in power <eos>,-7.414067268371582
+illegals should be the first time <eos>,-9.80920696258545
+illegals should be the only ones who can t even,-16.166854858398438
+illegals should be the only ones who can t do,-16.51504611968994
+illegals should be the only ones who can t stand,-16.629779815673828
+daca <eos>,-2.0173492431640625
+daca too <eos>,-3.2689266204833984
+daca https www youtube com watch v co m ohp,-8.434661865234375
+daca https www youtube com watch v qnfiwuk dqq https,-8.834624290466309
+daca https www youtube com watch v qnfiwuk dqq then,-9.243593215942383
+daca policy <eos>,-1.850123405456543
+daca policy and trump is the only one who is,-19.49435520172119
+daca policy and trump is not the only one who,-19.70793342590332
+daca policy and trump is the only one that he,-19.732481956481934
+daca policy and trump is the only one who has,-19.80543613433838
+daca policy is the only thing that he can t,-15.296428680419922
+daca policy is the only thing that he s not,-15.396234512329102
+daca policy is the only thing that he has done,-15.587698936462402
+daca policy is the only thing that he has been,-15.67243766784668
+daca policy is the only one that he has been,-15.735081672668457
+colleges which is a crime <eos>,-8.29358196258545
+colleges which is not a crime <eos>,-9.49370002746582
+colleges which is exactly what he s doing <eos>,-13.080803871154785
+colleges which is exactly what you re saying <eos>,-13.786202430725098
+colleges which is exactly what he s doing is a,-16.78993511199951
+colleges are in the white house <eos>,-8.86734390258789
+colleges are under the bus <eos>,-9.222537994384766
+colleges are in the middle east <eos>,-10.116209983825684
+colleges are in the white house of the united states,-12.851607322692871
+colleges are in the white house of the house <eos>,-16.805350303649902
+big businesses <eos>,-2.0901756286621094
+big businesses in <eos>,-5.415348052978516
+big businesses in the future <eos>,-6.730438232421875
+big businesses in the election <eos>,-7.037798881530762
+big businesses in the next election <eos>,-8.075488090515137
+big businesses are the same <eos>,-7.172308921813965
+big businesses are the ones who support him <eos>,-11.062020301818848
+big businesses are the ones who support trump <eos>,-11.5479736328125
+big businesses are the only ones who support him <eos>,-12.728333473205566
+big businesses are the only ones who support him is,-13.401397705078125
+corporations <eos>,-1.2395601272583008
+corporations and not <eos>,-8.191045761108398
+corporations and other people <eos>,-9.057826042175293
+corporations and other people who are going to do it,-19.365320205688477
+corporations and other people who are going to do <eos>,-19.65598487854004
+corporations are in power <eos>,-7.0203094482421875
+corporations are still in power <eos>,-8.917943000793457
+corporations are in the white house <eos>,-9.075292587280273
+corporations are in the white house and the fact that,-16.10721778869629
+corporations are in the white house and i m not,-17.635963439941406
+big pharma is <eos>,-3.1783676147460938
+big pharma is not a crime <eos>,-6.752321243286133
+big pharma is not going to be <eos>,-9.039612770080566
+big pharma is not going to be the best <eos>,-12.777996063232422
+big pharma is not going to be the only way,-13.036185264587402
+pharmaceutical industry is <eos>,-4.036457061767578
+pharmaceutical industry is in power <eos>,-6.975515365600586
+pharmaceutical industry is in the white house <eos>,-9.032149314880371
+pharmaceutical industry is in the middle east <eos>,-10.57077693939209
+pharmaceutical industry is in the white house and the senate,-15.387091636657715
+big tech <eos>,-4.499058723449707
+big tech forces <eos>,-6.5223517417907715
+big tech to keep them in power <eos>,-13.018667221069336
+big tech to keep them in the white house <eos>,-15.653964042663574
+big tech to keep them in the white house and,-16.635973930358887
+big tech is <eos>,-3.263824462890625
+big tech is not a crime <eos>,-7.820797920227051
+big tech is just a distraction from the country <eos>,-13.929247856140137
+big tech is not going to be the only one,-14.19455623626709
+big tech is not going to be the only way,-14.2543363571167
+wall street journal <eos>,-4.140154838562012
+wall street <eos>,-4.454855918884277
+wall street journal for the president <eos>,-10.112140655517578
+wall street journal for the senate <eos>,-10.597536087036133
+wall street journal for the president s <eos>,-13.322667121887207
+wall street is going to happen <eos>,-8.015974044799805
+wall street is going to be the only way to,-11.709973335266113
+wall street is going to be the best <eos>,-11.737651824951172
+wall street is going to be the only way they,-12.948277473449707
+wall street is going to be the only one that,-13.039505958557129
+billionaires <eos>,-1.2508916854858398
+billionaires and the other side <eos>,-9.974518775939941
+billionaires and they are not americans <eos>,-12.494712829589844
+billionaires and the other side of the world <eos>,-15.014237403869629
+billionaires and the other side of the country <eos>,-15.116455078125
+billionaires are <eos>,-3.9808788299560547
+billionaires are in power <eos>,-6.760040283203125
+billionaires are not americans <eos>,-6.809124946594238
+billionaires are still in power <eos>,-8.500000953674316
+billionaires are still in power and the other side of,-19.50930118560791
+the working class <eos>,-1.8472051620483398
+the working class or something <eos>,-7.174468040466309
+the working class in the us <eos>,-7.584383010864258
+the working class in the world <eos>,-8.828617095947266
+the working class in the us and the world <eos>,-14.557661056518555
+feminism <eos>,-2.1307554244995117
+feminism around <eos>,-3.643321990966797
+feminism around the world <eos>,-6.381870269775391
+feminism around the country <eos>,-7.523765563964844
+feminism around the world and the world will be a,-19.63160514831543
+pc culture <eos>,-0.5764951705932617
+pc culture shit <eos>,-5.165716171264648
+pc culture war <eos>,-5.533544540405273
+pc culture and out <eos>,-7.932099342346191
+pc culture and out of the us <eos>,-12.0985107421875
+pc culture is all over <eos>,-6.946783065795898
+pc culture is all the time <eos>,-8.327007293701172
+pc culture is all over the past <eos>,-11.596519470214844
+pc culture is all over the past years <eos>,-12.523695945739746
+pc culture is all over the past years and that,-16.344286918640137
+bloomberg does not allow the direct linking to external subreddits,-5.009291648864746
+bloomberg does not allow shortened links on this subreddit <eos>,-6.658144950866699
+bloomberg https www washingtonpost com national security trump ordered hold,-8.620047569274902
+bloomberg https www youtube com watch v qnfiwuk dqq https,-9.215503692626953
+bloomberg https www youtube com watch v co m ohp,-9.449904441833496
+bloomberg is not a crime <eos>,-6.598553657531738
+bloomberg is a crime <eos>,-6.640926361083984
+bloomberg is a lie <eos>,-6.800077438354492
+bloomberg is going to be a crime <eos>,-11.453746795654297
+bloomberg is not a crime that is not a crime,-16.400001525878906
+romney <eos>,-1.2094507217407227
+romney and the rest of his life <eos>,-12.39193344116211
+romney and the rest of the world <eos>,-12.478262901306152
+romney and the rest of the world has ever seen,-16.8590145111084
+romney and the rest of the world has ever heard,-16.974390983581543
+romney is going to be impeached <eos>,-9.064457893371582
+romney is going to be a traitor <eos>,-11.437429428100586
+romney is going to be in jail <eos>,-11.617228507995605
+romney is going to be in the white house <eos>,-12.56159782409668
+romney is going to be in the white house and,-13.788816452026367
+kavanaugh <eos>,-0.8816099166870117
+kavanaugh and the gop <eos>,-8.83091926574707
+kavanaugh was a criminal <eos>,-8.869318962097168
+kavanaugh and the rest of the world <eos>,-11.296637535095215
+kavanaugh and the rest of the country <eos>,-11.651535987854004
+kavanaugh is impeached <eos>,-4.795557975769043
+kavanaugh is a criminal <eos>,-5.935665130615234
+kavanaugh is just a criminal <eos>,-8.393943786621094
+kavanaugh is a criminal and a criminal <eos>,-9.442452430725098
+kavanaugh is a criminal and a democrat <eos>,-9.926573753356934
+kavanaugh should <eos>,-2.574366569519043
+kavanaugh should be impeached <eos>,-3.6610946655273438
+kavanaugh should be removed from office <eos>,-5.8871917724609375
+kavanaugh should be impeached and removed from office <eos>,-9.254999160766602
+kavanaugh should be impeached and removed from office and the,-11.990581512451172
+free market is <eos>,-2.306629180908203
+free market is going on <eos>,-6.707033157348633
+free market is going to be <eos>,-8.980266571044922
+free market is going to be the only way to,-13.653274536132812
+free market is going to be the only one that,-14.560816764831543
+taxes <eos>,-1.015873908996582
+taxes on the other side <eos>,-9.86187744140625
+taxes on the other hand <eos>,-9.879992485046387
+taxes and the gop <eos>,-10.073031425476074
+taxes on the other side of the world <eos>,-14.738160133361816
+taxes are <eos>,-3.4064197540283203
+taxes are the same <eos>,-7.200443267822266
+taxes are the only ones who support him <eos>,-13.301741600036621
+taxes are the only ones who support trump <eos>,-13.31766414642334
+taxes are the only ones who support him is a,-16.37392234802246
+taxes should be <eos>,-3.474808692932129
+taxes should be done <eos>,-5.13824462890625
+taxes should be in jail <eos>,-6.69764518737793
+taxes should be the first time <eos>,-8.853507041931152
+taxes should be the first time to be a traitor,-17.094560623168945
+taxes need to be a good reason <eos>,-9.007086753845215
+taxes need to be a lot of money <eos>,-9.652823448181152
+taxes need to be a lot of time <eos>,-9.839080810546875
+taxes need to be a lot of people who are,-10.761603355407715
+taxes need to be a lot of people in the,-11.248135566711426
+increase taxes on them <eos>,-4.455059051513672
+increase taxes on both sides <eos>,-5.602447509765625
+increase taxes on the list <eos>,-5.863631248474121
+increase taxes on the other hand <eos>,-6.578950881958008
+increase taxes on both sides of the united states <eos>,-9.585957527160645
+lower taxes for them <eos>,-4.363212585449219
+lower taxes for trump <eos>,-4.741230010986328
+lower taxes for a while <eos>,-5.750248908996582
+lower taxes for the first time <eos>,-7.151420593261719
+lower taxes for the rest of the world <eos>,-7.917511940002441
+democrats <eos>,-1.9155282974243164
+democrats are not americans <eos>,-8.033754348754883
+democrats have to do it <eos>,-11.411227226257324
+democrats and the gop will be able to vote for,-19.587363243103027
+democrats and the gop is a criminal and a criminal,-20.10471534729004
+democrats are not americans <eos>,-5.245383262634277
+democrats are doing it <eos>,-6.488358497619629
+democrats are going to do it <eos>,-8.718688011169434
+democrats are going to do it for a while <eos>,-16.1711483001709
+democrats are going to do it for the time <eos>,-17.07176685333252
+republicans <eos>,-1.3721418380737305
+republicans and democrats <eos>,-7.323410987854004
+republicans in the senate <eos>,-7.532444000244141
+republicans and the gop <eos>,-8.462309837341309
+republicans in the senate and the senate will be the,-19.72197914123535
+republicans are not americans <eos>,-4.756800651550293
+republicans are the scum of the universe <eos>,-7.110316276550293
+republicans are the scum of the united states <eos>,-7.652121543884277
+republicans are the scum of the country <eos>,-8.492196083068848
+republicans are the scum of the united states of america,-10.052023887634277
+dems <eos>,-3.1327991485595703
+dems are going to do it <eos>,-10.39815616607666
+dems are going to be in power <eos>,-13.327293395996094
+dems are going to be in power and the senate,-19.142536163330078
+dems are going to be in power and the gop,-19.423280715942383
+dems are not americans <eos>,-5.969572067260742
+dems are going to do it <eos>,-8.501214981079102
+dems are going to vote for him <eos>,-9.447218894958496
+dems are going to vote for trump <eos>,-10.037514686584473
+dems are going to vote for him again <eos>,-10.824106216430664
+gop <eos>,-2.865640640258789
+gop senators <eos>,-4.346868515014648
+gop senators have been <eos>,-9.907379150390625
+gop senators have to do it <eos>,-12.833105087280273
+gop senators have to do with it <eos>,-14.749451637268066
+gop is going to do it <eos>,-9.014120101928711
+gop is going to be in power <eos>,-11.071508407592773
+gop is going to be a traitor <eos>,-11.537969589233398
+gop is going to be a traitor to the gop,-16.81931495666504
+gop is going to be in power and the senate,-17.140249252319336
+dnc <eos>,-1.2124977111816406
+dnc ever <eos>,-4.735830307006836
+dnc and propaganda <eos>,-7.336997985839844
+dnc and they are not americans <eos>,-13.5028715133667
+dnc and they are not the ones who are not,-21.800990104675293
+dnc is <eos>,-3.430521011352539
+dnc is not <eos>,-6.343990325927734
+dnc is not the president <eos>,-8.913893699645996
+dnc is in the white house <eos>,-9.168933868408203
+dnc is in the white house and the world will,-17.96854877471924
+left <eos>,-2.0008039474487305
+left and i don t know what he s doing,-15.333998680114746
+left and i don t know what you re saying,-16.021175384521484
+left and i don t know what he is doing,-16.140843391418457
+left and i don t know what he s done,-16.27940845489502
+left is <eos>,-3.9354209899902344
+left is going to be the best <eos>,-12.769944190979004
+left is going to be the only way to be,-16.231938362121582
+left is going to be the only way to do,-16.3976469039917
+left is going to be the only one that he,-16.53297996520996
+left wing <eos>,-3.6854562759399414
+left wing propaganda <eos>,-4.200356483459473
+left wing propaganda and the gop <eos>,-11.422537803649902
+left wing propaganda and the gop and the gop <eos>,-17.941526412963867
+left wing propaganda and the gop and the gop and,-17.949798583984375
+left win is <eos>,-3.3552541732788086
+left win is going on <eos>,-6.489625930786133
+left win is going to be the best <eos>,-12.217988014221191
+left win is going to be the only way to,-12.713669776916504
+left win is going to be the only one that,-13.50655746459961
+right <eos>,-1.1076879501342773
+right now <eos>,-2.6355457305908203
+right there <eos>,-4.244326591491699
+right wing propaganda <eos>,-6.471050262451172
+right in the first place <eos>,-7.739431381225586
+right is <eos>,-3.51229190826416
+right is the only thing that he does <eos>,-14.06750774383545
+right is the only thing that he is <eos>,-14.684602737426758
+right is the only thing that he has done <eos>,-16.561891555786133
+right is the only thing that he s doing it,-16.67331027984619
+right wing propaganda <eos>,-3.4265518188476562
+right wing <eos>,-3.619241714477539
+right wing news <eos>,-4.712024688720703
+right wing propaganda and the gop <eos>,-10.51349925994873
+right wing propaganda and the gop is not the only,-18.982823371887207
+right wing is <eos>,-3.3700695037841797
+right wing is now <eos>,-6.0368852615356445
+right wing is going to get out of this <eos>,-13.442464828491211
+right wing is going to get a second term <eos>,-13.849446296691895
+right wing is going to get out of the white,-14.084345817565918
+liberals <eos>,-1.55352783203125
+liberals need to be a good reason <eos>,-14.681222915649414
+liberals need to be a lot of money <eos>,-15.530884742736816
+liberals need to be a lot of people <eos>,-15.707358360290527
+liberals need to be a lot of people who are,-16.256705284118652
+liberals are <eos>,-4.053138732910156
+liberals are not americans <eos>,-6.071494102478027
+liberals are the ones who don t care <eos>,-11.914908409118652
+liberals are the ones who don t want to be,-13.435174942016602
+liberals are the ones who don t care about the,-14.192336082458496
+conservative <eos>,-2.331038475036621
+conservative values <eos>,-5.079782485961914
+conservative and they will never forget about it <eos>,-16.180374145507812
+conservative and they will never be able to do anything,-18.25370216369629
+conservative and they will never be able to do it,-18.738953590393066
+conservatives are not americans <eos>,-5.5379486083984375
+conservatives are going to do <eos>,-8.503440856933594
+conservatives are going to do it <eos>,-8.764625549316406
+conservatives are going to do it for a while <eos>,-16.211384773254395
+conservatives are going to do it for the same reason,-17.76320171356201
+progressives <eos>,-2.9601688385009766
+progressives are going to do <eos>,-11.517187118530273
+progressives are going to do it <eos>,-11.952888488769531
+progressives are going to be in power <eos>,-13.916778564453125
+progressives are going to be in power and the gop,-20.467927932739258
+progressives are not americans <eos>,-6.742988586425781
+progressives are going to do <eos>,-8.642536163330078
+progressives are going to do it <eos>,-9.078237533569336
+progressives are going to be in power <eos>,-11.04212760925293
+progressives are going to be in power and the gop,-17.593276977539062
+socialism <eos>,-0.5450839996337891
+socialism and that <eos>,-8.528911590576172
+socialism and the gop <eos>,-10.051861763000488
+socialism and that s the same thing <eos>,-14.692221641540527
+socialism and that s the only thing that he s,-19.765710830688477
+socialism is the same <eos>,-7.000398635864258
+socialism is the same thing <eos>,-7.382336616516113
+socialism is the only thing that he does <eos>,-13.931068420410156
+socialism is the only thing that he is <eos>,-14.588395118713379
+socialism is the only thing that he s doing it,-16.641475677490234
+socialists <eos>,-0.9550495147705078
+socialists and it s just a distraction <eos>,-15.013405799865723
+socialists and it s not a good day <eos>,-16.759716033935547
+socialists and it s just a distraction from the country,-19.103239059448242
+socialists and it s just a distraction from the trump,-19.564627647399902
+socialists are the same thing <eos>,-7.891966819763184
+socialists are the only ones who support him <eos>,-12.905721664428711
+socialists are the only ones who support trump <eos>,-13.281118392944336
+socialists are the only ones who support him is a,-15.664039611816406
+socialists are the only ones who support trump is a,-15.946942329406738
+centrists <eos>,-0.2564544677734375
+centrists but i don t know what you re saying,-16.724791526794434
+centrists but i don t know what they are doing,-16.933852195739746
+centrists but i don t know what you re doing,-17.2380428314209
+centrists but i don t think he s just a,-17.418071746826172
+centrists are coming <eos>,-5.326478004455566
+centrists are coming here <eos>,-5.362407684326172
+centrists are going to be the best <eos>,-13.116312026977539
+centrists are going to take a look at the same,-16.344305992126465
+centrists are going to be the only way to be,-16.810853958129883
+centrist democrats <eos>,-1.6716432571411133
+centrist democrats in the senate <eos>,-7.99174690246582
+centrist democrats in the senate and senate <eos>,-13.65298843383789
+centrist democrats and the republicans are going to get the,-17.778533935546875
+centrist democrats and the republicans are going to get a,-18.165817260742188
+centrist democrats are not americans <eos>,-5.4591522216796875
+centrist democrats are in power <eos>,-6.287284851074219
+centrist democrats are going to do <eos>,-8.531201362609863
+centrist democrats are going to do it <eos>,-8.769853591918945
+centrist democrats are going to do it for the time,-16.230093002319336
+centrist republicans <eos>,-1.0730304718017578
+centrist republicans and democrats <eos>,-7.081146240234375
+centrist republicans and the gop <eos>,-9.077062606811523
+centrist republicans and the gop and the gop is a,-18.310596466064453
+centrist republicans and the gop and the gop is not,-18.31379795074463
+centrist republicans are not americans <eos>,-5.4468488693237305
+centrist republicans are in power <eos>,-6.173250198364258
+centrist republicans are going to do <eos>,-8.4833984375
+centrist republicans are going to do it <eos>,-8.736456871032715
+centrist republicans are going to do it for the same,-16.155484199523926
+democratic socialism <eos>,-0.8960847854614258
+democratic socialism no more <eos>,-7.256837844848633
+democratic socialism that the president is a criminal <eos>,-16.258665084838867
+democratic socialism that the president is a criminal and a,-16.723010063171387
+democratic socialism that the gop is not a traitor <eos>,-18.008742332458496
+democratic socialism is <eos>,-3.8840532302856445
+democratic socialism is just a distraction <eos>,-8.38779067993164
+democratic socialism is a good idea <eos>,-8.444485664367676
+democratic socialism is just a distraction from the white house,-12.864288330078125
+democratic socialism is just a distraction from the country <eos>,-13.601818084716797
+establishment democrats <eos>,-1.9681510925292969
+establishment <eos>,-3.0338754653930664
+establishment democrats don t care about the truth <eos>,-13.146417617797852
+establishment democrats don t have to be able to impeach,-14.975088119506836
+establishment democrats don t have to be able to do,-15.304950714111328
+establishment is what he s doing <eos>,-8.353699684143066
+establishment is a good thing <eos>,-9.069461822509766
+establishment is what he s done <eos>,-9.502167701721191
+establishment is what he is doing <eos>,-9.902586936950684
+establishment is what he s doing is a lie <eos>,-16.64243984222412
+establishment democrats <eos>,-1.252960205078125
+establishment democrats don t care <eos>,-7.383701324462891
+establishment democrats don t care about the truth <eos>,-12.43122673034668
+establishment democrats don t have to be able to impeach,-14.259897232055664
+establishment democrats don t have to be able to do,-14.589759826660156
+establishment democrats are not americans <eos>,-5.496777534484863
+establishment democrats are doing it <eos>,-6.138405799865723
+establishment democrats are going to do it <eos>,-8.518774032592773
+establishment democrats are going to do it for a while,-14.772516250610352
+establishment democrats are going to do it for the same,-16.007311820983887
+establishment republicans <eos>,-1.345381736755371
+establishment republicans don t care <eos>,-7.075482368469238
+establishment republicans don t care about the truth <eos>,-12.11678409576416
+establishment republicans don t care about the constitution <eos>,-12.668455123901367
+establishment republicans don t have to be able to impeach,-14.386341094970703
+establishment republicans are not americans <eos>,-4.773533821105957
+establishment republicans are doing it <eos>,-5.945988655090332
+establishment republicans are the scum of the universe <eos>,-7.76300048828125
+establishment republicans are the scum of the united states <eos>,-8.101012229919434
+establishment republicans are the scum of the country <eos>,-9.047735214233398
+communism <eos>,-1.4419794082641602
+communism or not <eos>,-6.180116653442383
+communism and the other way <eos>,-10.865903854370117
+communism and the other day <eos>,-11.317874908447266
+communism and the other side of the world <eos>,-16.24098014831543
+communism is not a crime <eos>,-7.383331298828125
+communism is just a distraction <eos>,-8.440116882324219
+communism is a good thing <eos>,-9.07581901550293
+communism is just a distraction from the country <eos>,-13.988717079162598
+communism is just a distraction from the white house <eos>,-14.056208610534668
+communists <eos>,-0.634648323059082
+communists etc <eos>,-2.540372848510742
+communists etc etc <eos>,-6.143365859985352
+communists and the election <eos>,-9.088944435119629
+communists and the election will be a traitor <eos>,-19.088191032409668
+communist are not americans <eos>,-5.45382022857666
+communist are the most powerful person in the world <eos>,-12.883298873901367
+communist are the most powerful person in the history of,-13.552626609802246
+communist are the most powerful person in the country <eos>,-14.599203109741211
+communist are the most powerful person in the world and,-14.988652229309082
+capitalism <eos>,-0.9160127639770508
+capitalism is a liar <eos>,-8.297074317932129
+capitalism is the only thing that he is <eos>,-17.482218742370605
+capitalism is the only thing that he s doing <eos>,-19.07315444946289
+capitalism is the only thing that he s doing it,-19.16088104248047
+capitalism is a liar <eos>,-5.959048271179199
+capitalism is an idiot <eos>,-6.154642105102539
+capitalism is a liar and a criminal <eos>,-12.20861530303955
+capitalism is a liar and a criminal president <eos>,-14.505438804626465
+capitalism is the only one who has been a good,-19.38469696044922
+whites let s see it <eos>,-9.837428092956543
+whites who is the only ones who are going to,-17.19441318511963
+whites who is the only ones who support trump <eos>,-18.52204132080078
+whites who is the only ones who support trump is,-18.747838973999023
+whites who is the only ones who support him <eos>,-19.00673770904541
+whites are not americans <eos>,-5.621803283691406
+whites are the ones who voted for him <eos>,-10.824652671813965
+whites are the ones who don t care <eos>,-11.116161346435547
+whites are the ones who don t want to be,-12.567814826965332
+whites are the ones who don t care about the,-13.353556632995605
+blacks <eos>,-1.307621955871582
+blacks and the gop <eos>,-9.901165962219238
+blacks and the rest of the world <eos>,-11.407858848571777
+blacks and the rest of his life <eos>,-11.970788955688477
+blacks and the rest of the country <eos>,-12.271388053894043
+blacks are not americans <eos>,-6.574851036071777
+blacks are in the white house <eos>,-8.884442329406738
+blacks are the ones who are going to do it,-16.638975143432617
+blacks are the ones who are going to do <eos>,-16.845380783081055
+blacks are the ones who are going to get the,-17.23624897003174
+african americans <eos>,-0.6037931442260742
+african americans in the us <eos>,-8.780559539794922
+african americans who are not americans <eos>,-9.736617088317871
+african americans and the other side of the country <eos>,-15.564506530761719
+african americans and the other side of the us <eos>,-16.084510803222656
+african americans are not americans <eos>,-5.109267234802246
+african americans are the only ones who support trump <eos>,-13.153373718261719
+african americans are the only ones who support him <eos>,-13.28135871887207
+african americans are the only ones who support trump is,-13.826696395874023
+african americans are the only ones who support him is,-14.054451942443848
+asians <eos>,-3.801938056945801
+asians or not <eos>,-5.182133674621582
+asians and chief <eos>,-5.95848274230957
+asians and the united states <eos>,-7.5720062255859375
+asians and the us <eos>,-8.021261215209961
+asians are the president <eos>,-6.957707405090332
+asians are other people <eos>,-7.212867736816406
+asians are the president of the united states <eos>,-8.964203834533691
+asians are the president of the united states of america,-10.337213516235352
+asians are the president of the united states of the,-12.189687728881836
+asian americans <eos>,-1.1069097518920898
+asian americans are not americans <eos>,-7.496189117431641
+asian americans are the ones who support trump <eos>,-14.800482749938965
+asian americans are the ones who support him <eos>,-14.943123817443848
+asian americans are the ones who are going to be,-16.21213150024414
+asian americans are not americans <eos>,-5.215601921081543
+asian americans are going to do it <eos>,-9.43651294708252
+asian americans are going to get a lot of time,-13.726178169250488
+asian americans are the ones who are not americans <eos>,-13.75959587097168
+asian americans are going to get a lot of money,-13.769942283630371
+latinos syndrome <eos>,-5.8474955558776855
+latinos muslims <eos>,-6.722625255584717
+latinos muslims and most of them <eos>,-13.47666883468628
+latinos muslims and most of the people <eos>,-15.885162830352783
+latinos muslims and most of the people who are not,-20.020174503326416
+latinos are not americans <eos>,-7.597862243652344
+latinos are still in office <eos>,-8.604300498962402
+latinos are still in power <eos>,-8.6616849899292
+latinos are actively trying to do <eos>,-11.943805694580078
+latinos are actively trying to do it <eos>,-12.660125732421875
+hispanic <eos>,-2.4575653076171875
+hispanic right <eos>,-4.764095306396484
+hispanic talk <eos>,-5.24338436126709
+hispanic isn t going to happen <eos>,-9.660587310791016
+hispanic isn t going to be the best <eos>,-13.113332748413086
+hispanics are all the time <eos>,-7.651985168457031
+hispanics are all the way <eos>,-8.625225067138672
+hispanics are all the time they re going to do,-16.13227653503418
+hispanics are all the time they re going to be,-16.387014389038086
+hispanics are all the time they re going to get,-16.718446731567383
+arabs and each other <eos>,-7.059331893920898
+arabs and paid for the wall <eos>,-11.209061622619629
+arabs and paid for the rich <eos>,-11.665487289428711
+arabs and working for the rest of the world <eos>,-13.919350147247314
+arabs and working for the rest of us <eos>,-14.23981237411499
+arabs are set <eos>,-5.874916076660156
+arabs are in power <eos>,-6.985630035400391
+arabs are set up by now <eos>,-10.992952346801758
+arabs are set up by the people <eos>,-14.672404289245605
+arabs are set up by the people who are going,-20.756808280944824
+lgbtq <eos>,-2.0886659622192383
+lgbtq people <eos>,-4.947256088256836
+lgbtq would have to be the most powerful person in,-18.348590850830078
+lgbtq would be the only one of the people who,-18.86090660095215
+lgbtq would have to be the most powerful person with,-19.00586700439453
+lgbt <eos>,-3.7604684829711914
+lgbt s <eos>,-4.402724266052246
+lgbt s life <eos>,-4.855091094970703
+lgbt s iq <eos>,-5.305575370788574
+lgbt s life and the gop <eos>,-12.57827377319336
+lgbtq community is the only way to do <eos>,-12.831748008728027
+lgbtq community is the only way to do it <eos>,-13.481938362121582
+lgbtq community is just a distraction from the country <eos>,-13.628439903259277
+lgbtq community is just a distraction from the country and,-15.284233093261719
+lgbtq community is the only thing that they are <eos>,-15.381807327270508
+homosexuals <eos>,-2.6131324768066406
+homosexuals who is not going to do it <eos>,-14.569387435913086
+homosexuals who is not going to do it for the,-18.70591926574707
+homosexuals who is not going to do it to be,-18.98189353942871
+homosexuals who is not going to do it for a,-19.343947410583496
+homosexuals are on the same page <eos>,-11.040452003479004
+homosexuals are saying that trump is the only one who,-17.22952938079834
+homosexuals are saying that trump is the only one that,-17.746180534362793
+homosexuals are saying that trump is the only one to,-18.455703735351562
+homosexuals are on the same page as if he s,-18.558820724487305
+christianity <eos>,-2.1087379455566406
+christianity is the same thing <eos>,-8.75939655303955
+christianity is the same <eos>,-8.781825065612793
+christianity is a good thing <eos>,-10.375110626220703
+christianity is a good thing to do with it <eos>,-17.26487159729004
+christians are the same <eos>,-7.432640075683594
+christians are the same thing <eos>,-8.883509635925293
+christians are the only ones who support him <eos>,-13.585590362548828
+christians are the only ones who support trump <eos>,-14.06275463104248
+christians are the only ones who support him is a,-16.60557746887207
+islam in <eos>,-2.969053268432617
+islam in prison <eos>,-4.47576904296875
+islam in the way <eos>,-6.5185651779174805
+islam in prison for a while <eos>,-11.30067253112793
+islam in prison for a few years <eos>,-12.047320365905762
+muslims are not americans <eos>,-6.104574203491211
+muslims are the ones who voted for him <eos>,-12.337066650390625
+muslims are the ones who support him <eos>,-12.505887031555176
+muslims are the ones who voted for trump <eos>,-13.12253189086914
+muslims are the ones who voted for him and the,-15.667216300964355
+judaism is just about <eos>,-7.57194709777832
+judaism is just a distraction <eos>,-8.540558815002441
+judaism is just a distraction from this <eos>,-11.998373985290527
+judaism is how many of them are the ones who,-15.04174518585205
+judaism is how many of them are going to do,-15.404044151306152
+jews are not americans <eos>,-6.476262092590332
+jews are still in power <eos>,-7.591383934020996
+jews are going to do <eos>,-8.720245361328125
+jews are going to do it <eos>,-9.3346586227417
+jews are still in power and the gop <eos>,-16.46006488800049
+minorities <eos>,-1.405923843383789
+minorities and the rest of us <eos>,-10.916987419128418
+minorities and the rest of the world <eos>,-11.023478507995605
+minorities and the rest of the country <eos>,-11.597305297851562
+minorities and the rest of the world and the world,-16.012231826782227
+minorities are not americans <eos>,-6.398515701293945
+minorities are the ones who support him <eos>,-12.064714431762695
+minorities are the ones who don t care <eos>,-12.609357833862305
+minorities are the ones who don t want to be,-14.13941478729248
+minorities are the ones who don t care about the,-14.933350563049316
+chinese are not americans <eos>,-6.046652793884277
+chinese are the only ones who are going to be,-16.122502326965332
+chinese are the only ones who are going to get,-16.23978042602539
+chinese are the only ones who are going to do,-16.47395610809326
+chinese are the only ones who are going to have,-17.089879989624023
+indians are there <eos>,-5.207244873046875
+indians are more likely to see the light <eos>,-16.32419776916504
+indians are more likely to have a lot more than,-17.465550422668457
+indians are more likely to have a lot of people,-17.47164535522461
+indians are more likely to see the light of a,-17.68903350830078
+mexicans are not americans <eos>,-5.829998970031738
+mexicans are going to be in power <eos>,-11.499650001525879
+mexicans are the ones who are not americans <eos>,-12.797379493713379
+mexicans are the ones who are going to get the,-15.701403617858887
+mexicans are the ones who are going to get a,-15.842565536499023
+vietnamese are there <eos>,-4.770142555236816
+vietnamese are you <eos>,-6.085238456726074
+vietnamese are there for a reason <eos>,-11.830681800842285
+vietnamese are there for a lot of people <eos>,-14.525776863098145
+vietnamese are there for a lot of people who are,-15.467103958129883
+the media <eos>,-2.0845861434936523
+the media and the gop <eos>,-9.07802963256836
+the media and the gop and the gop will be,-18.197598457336426
+the media and the gop and the gop is not,-18.29069423675537
+the media and the gop and the gop is a,-18.325474739074707
+the media is going to do it <eos>,-9.170927047729492
+the media is going to be in jail <eos>,-11.69163703918457
+the media is going to be the first time to,-13.489649772644043
+the media is going to be the first president <eos>,-13.705896377563477
+the media is going to be the first time <eos>,-13.91621208190918
+the mainstream media <eos>,-2.502643585205078
+the mainstream media has been <eos>,-7.065369606018066
+the mainstream media and the other side <eos>,-9.744460105895996
+the mainstream media and the other side of the country,-13.205543518066406
+the mainstream media and the other side of the world,-13.227758407592773
+the mainstream media is going to do it <eos>,-9.38552188873291
+the mainstream media is going to be in power <eos>,-11.913070678710938
+the mainstream media is going to be in jail <eos>,-12.36160945892334
+the mainstream media is going to be in power and,-12.643426895141602
+the mainstream media is going to be in jail for,-12.663777351379395
+fake news <eos>,-0.7963619232177734
+fake news and the gop <eos>,-10.349197387695312
+fake news and he s not a traitor <eos>,-15.449604034423828
+fake news and he s not going to be impeached,-16.68149471282959
+fake news and he s not going to be a,-17.21022891998291
+the fake news media is <eos>,-3.623617172241211
+the fake news media is in the world <eos>,-9.237350463867188
+the fake news media is in the us <eos>,-9.38194751739502
+the fake news media is the only way to do,-11.806800842285156
+the fake news media is the only way to be,-11.862244606018066
+fox news <eos>,-1.213395118713379
+fox news viewers <eos>,-4.940079689025879
+fox news and the rest of us <eos>,-11.481959342956543
+fox news and the rest of the world <eos>,-11.504395484924316
+fox news and the rest of the country <eos>,-12.066823959350586
+fox news is <eos>,-3.923651695251465
+fox news is just a distraction <eos>,-8.70500659942627
+fox news is just a distraction from the country <eos>,-13.302059173583984
+fox news is just a distraction from the country and,-15.103495597839355
+fox news is the only thing that he is <eos>,-15.286294937133789
+cnn <eos>,-1.3085622787475586
+cnn for him <eos>,-6.426664352416992
+cnn for the white house <eos>,-9.185026168823242
+cnn would have been charged with a crime <eos>,-13.95994758605957
+cnn would have been charged with a crime or a,-17.08088207244873
+cnn is a lie <eos>,-6.767444610595703
+cnn is a crime <eos>,-7.056781768798828
+cnn is going to get a second term <eos>,-14.223967552185059
+cnn is going to be the only way to do,-17.876408576965332
+cnn is going to be the only one that he,-18.06984806060791
+msnbc <eos>,-1.1560306549072266
+msnbc in the white house <eos>,-8.86485481262207
+msnbc and i have no idea what he s doing,-15.846261978149414
+msnbc and i have no idea what he s done,-16.600223541259766
+msnbc and i have no idea what you re saying,-16.87048053741455
+msnbc is <eos>,-3.5958662033081055
+msnbc is going to be <eos>,-8.560522079467773
+msnbc is going to be in <eos>,-10.859077453613281
+msnbc is going to be in jail <eos>,-11.545266151428223
+msnbc is going to be in jail for the next,-17.024669647216797
+laura ingram <eos>,-2.918400764465332
+laura ingram either <eos>,-3.381196975708008
+laura ingram who has been <eos>,-9.14434814453125
+laura ingram who has been in the past <eos>,-14.89179801940918
+laura ingram who has been in the same way <eos>,-15.350569725036621
+laura ingram is a lot of people <eos>,-10.566492080688477
+laura ingram is a lot of people who have to,-14.195756912231445
+laura ingram is a lot of people who have a,-14.256978988647461
+laura ingram is a lot of people who have been,-14.432254791259766
+laura ingram is a lot of people who are going,-14.7822265625
+sean hannity <eos>,-0.6936111450195312
+sean hannity and the rest of us <eos>,-10.803461074829102
+sean hannity and the rest of the world <eos>,-11.102276802062988
+sean hannity and the rest of the country <eos>,-11.810688018798828
+sean hannity and the rest of the world has been,-14.130217552185059
+sean hannity is the president <eos>,-6.508697509765625
+sean hannity is the president of the united states <eos>,-9.234295845031738
+sean hannity is going to do it <eos>,-10.016205787658691
+sean hannity is the president of the united states of,-10.559025764465332
+sean hannity is the president of the president <eos>,-10.95765209197998
+anderson cooper <eos>,-1.7614707946777344
+anderson cooper does <eos>,-3.014108657836914
+anderson cooper isn t going to be in jail <eos>,-12.88508415222168
+anderson cooper isn t going to be in jail for,-13.297966003417969
+anderson cooper isn t going to be the best way,-14.041160583496094
+anderson cooper is a pedophile <eos>,-5.360766410827637
+anderson cooper is a coward <eos>,-5.764240264892578
+anderson cooper is an idiot <eos>,-5.771493911743164
+anderson cooper is going to be a traitor <eos>,-11.213663101196289
+anderson cooper is going to be in jail <eos>,-11.40731430053711
+george stephanopoulos <eos>,-0.6106910705566406
+george stephanopoulos and make it up <eos>,-9.416850090026855
+george stephanopoulos and the trump administration <eos>,-9.61432933807373
+george stephanopoulos and make sure that the president has been,-16.95125102996826
+george stephanopoulos and make sure that the president is a,-17.020621299743652
+george stephanopoulos is <eos>,-4.024806022644043
+george stephanopoulos is the key <eos>,-6.298383712768555
+george stephanopoulos is the key that the republicans have been,-14.965968132019043
+george stephanopoulos is the key that the republicans are not,-15.621021270751953
+george stephanopoulos is the key that the republicans are the,-15.640765190124512
+late night talk shows <eos>,-2.387582778930664
+late night talk shows that he s not going to,-10.823966026306152
+late night talk shows that he s not the president,-12.978753089904785
+late night talk shows that he s not a traitor,-12.986804008483887
+late night talk shows it s not a good idea,-12.99323558807373
+late night talks shows are the best <eos>,-7.504704475402832
+late night talks shows are a lot of people who,-8.458799362182617
+late night talks shows are the same thing <eos>,-8.684036254882812
+late night talks shows are the same people who are,-9.588631629943848
+late night talks shows are a lot of people in,-9.838781356811523
+hollywood <eos>,-2.101027488708496
+hollywood but i don t know what he s doing,-16.32194709777832
+hollywood but i don t think he s just a,-17.309882164001465
+hollywood but i don t know what he s done,-17.343005180358887
+hollywood but i don t think he s not going,-18.090229988098145
+hollywood is going to be the best <eos>,-12.02134895324707
+hollywood is going to be the first time <eos>,-13.520842552185059
+hollywood is going to be the only way to be,-15.222332000732422
+hollywood is going to be the only way to do,-15.42245864868164
+hollywood is going to be the only way to get,-15.892032623291016
+isis <eos>,-1.4571504592895508
+isis in <eos>,-6.371158599853516
+isis of the country <eos>,-7.736802101135254
+isis in the constitution <eos>,-8.019449234008789
+isis of the united states <eos>,-8.339189529418945
+isis is not a crime <eos>,-7.8938703536987305
+isis is going to be in office <eos>,-11.54388427734375
+isis is going to be in power <eos>,-11.990571022033691
+isis is going to be the only way to be,-15.863822937011719
+isis is going to be the only way to do,-16.049128532409668
+al qaeda was a war crime <eos>,-9.10459041595459
+al qaeda was raised in the first place <eos>,-10.038386344909668
+al qaeda was charged with a crime <eos>,-10.51330852508545
+al qaeda was raised in the streets <eos>,-11.334362983703613
+al qaeda was raised in the world <eos>,-11.874102592468262
+al qaeda is still in office <eos>,-7.842369079589844
+al qaeda is going to be in office <eos>,-11.737760543823242
+al qaeda is going to be in power <eos>,-11.921597480773926
+al qaeda is going to be in office and the,-15.819998741149902
+al qaeda is going to be in power and the,-16.003304481506348
+russia <eos>,-1.1330633163452148
+russia loving traitors <eos>,-7.006490707397461
+russia and the gop <eos>,-9.805439949035645
+russia loving the united states <eos>,-10.12296199798584
+russia loving the united states of america <eos>,-10.731356620788574
+russia is going to be in power <eos>,-11.708806991577148
+russia is going to be the most powerful person in,-15.350159645080566
+russia is going to be the only way to be,-15.408098220825195
+russia is going to be the only way to do,-15.673757553100586
+russia is going to be the most powerful person with,-16.0828275680542
+putin <eos>,-1.8290443420410156
+putin and the rest of his life <eos>,-11.632926940917969
+putin and the rest of the world <eos>,-12.382641792297363
+putin and the rest of the country <eos>,-12.67253589630127
+putin and the rest of the world has been <eos>,-17.712346076965332
+putin is going to do it <eos>,-9.02561092376709
+putin is going to be in jail <eos>,-11.103758811950684
+putin is going to be in prison <eos>,-11.201467514038086
+putin is going to be in jail for the next,-16.61262798309326
+putin is going to be in jail for the white,-16.888815879821777
+north korea <eos>,-0.9428510665893555
+north korea to get out <eos>,-10.289031028747559
+north korea to get out of it <eos>,-12.61687183380127
+north korea to get out of this <eos>,-13.195758819580078
+north korea to get out of the house <eos>,-14.757864952087402
+north korea is <eos>,-3.7689037322998047
+north korea is going to be the best <eos>,-12.342084884643555
+north korea is going to be the only way to,-13.034772872924805
+north korea is going to be the only one that,-14.008360862731934
+north korea is going to be the only way they,-14.356222152709961
+kim jon un girls <eos>,-4.966507911682129
+kim jon un american <eos>,-5.84604549407959
+kim jon un a republican <eos>,-7.7542724609375
+kim jon un a former official official who has no,-17.045331954956055
+kim jon un a former official official who has a,-17.376954078674316
+kim jong un is a liar <eos>,-5.9842023849487305
+kim jong un is a piece of shit <eos>,-6.121521949768066
+kim jong un is in the first place <eos>,-7.402507781982422
+kim jong un is in the white house <eos>,-7.4189043045043945
+kim jong un is a piece of shit and the,-10.528716087341309
+china <eos>,-1.2206621170043945
+china and the gop <eos>,-10.652345657348633
+china is the only one who has to be a,-21.45123291015625
+china is the only one who has to be the,-22.18265151977539
+china is the only one that he has been a,-22.256218910217285
+china is <eos>,-4.063423156738281
+china is going to be the first time <eos>,-14.426865577697754
+china is going to be the only way to be,-16.235944747924805
+china is going to be the only way to do,-16.42146396636963
+china is going to be the only one that he,-16.96125030517578
+india <eos>,-0.22116470336914062
+india are <eos>,-5.478498458862305
+india are all about <eos>,-9.751635551452637
+india are all on the planet <eos>,-12.877546310424805
+india are all on the other side <eos>,-13.344683647155762
+india is <eos>,-2.14663028717041
+india is just about <eos>,-6.510699272155762
+india is just a little more <eos>,-11.852729797363281
+india is just about how much of the people who,-16.996670722961426
+india is just about how much of them are <eos>,-17.375651359558105
+the middle east <eos>,-1.5000619888305664
+the middle east as well <eos>,-5.074069976806641
+the middle east in the first place <eos>,-7.4673614501953125
+the middle east in the world <eos>,-8.474784851074219
+the middle east in the first place and the world,-14.830474853515625
+the middle east is going to be the first time,-11.230389595031738
+the middle east is going to be the only one,-11.266321182250977
+the middle east is going to be the only way,-11.398996353149414
+the middle east is going to be the most powerful,-11.888471603393555
+the middle east is going to be the best <eos>,-12.10975170135498
+iran <eos>,-2.0575132369995117
+iran contra <eos>,-4.138516426086426
+iran contra and the american public <eos>,-11.77369499206543
+iran contra and the american people <eos>,-11.778125762939453
+iran contra and the american public and the gop <eos>,-18.268430709838867
+iran is not a crime <eos>,-7.823430061340332
+iran is a good idea <eos>,-8.16016674041748
+iran is a good thing <eos>,-8.6560640335083
+iran is a good thing to do <eos>,-12.9514741897583
+iran is a good thing to do with it <eos>,-14.89885425567627
+iraq <eos>,-1.479269027709961
+iraq war <eos>,-3.555699348449707
+iraq war crimes <eos>,-7.021631240844727
+iraq war is not a crime <eos>,-10.893603324890137
+iraq war is not a crime that is a crime,-20.553431510925293
+iraq is going to happen <eos>,-6.995924949645996
+iraq is going to be the best <eos>,-10.720227241516113
+iraq is going to be the only way to be,-13.432053565979004
+iraq is going to be the only way to do,-13.781847953796387
+iraq is going to be the only way to get,-14.236794471740723
+afghanistan <eos>,-1.983872413635254
+afghanistan in the first place <eos>,-7.533246994018555
+afghanistan in the us <eos>,-8.465030670166016
+afghanistan in the world <eos>,-8.54732608795166
+afghanistan in the past <eos>,-8.634485244750977
+afghanistan is going to happen <eos>,-8.845373153686523
+afghanistan is going to be in power <eos>,-11.96258544921875
+afghanistan is going to be the most powerful person in,-14.896764755249023
+afghanistan is going to be the only way to be,-15.329675674438477
+afghanistan is going to be the only way to do,-15.656906127929688
+the uk <eos>,-1.5023412704467773
+the uk and the gop <eos>,-9.182097434997559
+the uk and the gop is in the white house,-16.22291374206543
+the uk and the gop is not the president <eos>,-17.413336753845215
+the uk and the gop is in the world <eos>,-17.70045566558838
+the uk is not a crime <eos>,-7.821409225463867
+the uk is not the president <eos>,-8.391127586364746
+the uk is just a distraction <eos>,-8.440452575683594
+the uk is just a distraction from the white house,-12.392452239990234
+the uk is just a distraction from the president <eos>,-13.656170845031738
+boris johnson <eos>,-2.1747846603393555
+boris johnson is a traitor <eos>,-8.580703735351562
+boris johnson is in the white house <eos>,-10.391044616699219
+boris johnson and the rest of the world <eos>,-12.208488464355469
+boris johnson and the rest of the world has been,-14.349563598632812
+boris johnson is an idiot <eos>,-6.23430061340332
+boris johnson is a traitor <eos>,-6.378447532653809
+boris johnson is in the white house <eos>,-8.188788414001465
+boris johnson is in the white house and the senate,-14.641063690185547
+boris johnson is in the white house and the world,-14.781889915466309
+canada <eos>,-1.108759880065918
+canada to be the first time <eos>,-13.467924118041992
+canada to be the most powerful person in the world,-16.880712509155273
+canada to be the most powerful person in history <eos>,-17.60255241394043
+canada to be the most powerful person in the history,-18.13259792327881
+canada is going to happen <eos>,-8.303231239318848
+canada is a good idea <eos>,-8.381906509399414
+canada is going to be the only way to be,-15.020302772521973
+canada is going to be the only way to do,-15.499273300170898
+canada is going to be the only way they can,-15.995004653930664
+justin trudeau <eos>,-0.17316532135009766
+justin trudeau or something <eos>,-6.777475357055664
+justin trudeau who is doing it <eos>,-12.186661720275879
+justin trudeau could be a traitor <eos>,-12.701960563659668
+justin trudeau who is doing the same thing <eos>,-14.622801780700684
+justin trudeau is <eos>,-2.991941452026367
+justin trudeau is not a traitor <eos>,-8.384528160095215
+justin trudeau is just a distraction <eos>,-8.54952621459961
+justin trudeau is just a fucking idiot <eos>,-9.830924034118652
+justin trudeau is just a distraction from the country <eos>,-13.538375854492188
+mexico <eos>,-1.1192388534545898
+mexico to do it <eos>,-8.950181007385254
+mexico to do anything <eos>,-9.34902286529541
+mexico to do anything about it <eos>,-10.364897727966309
+mexico to get out of the united states <eos>,-13.765210151672363
+mexico is going to be impeached <eos>,-9.33248519897461
+mexico is going to be held accountable <eos>,-10.204330444335938
+mexico is going to be in power <eos>,-10.79598617553711
+mexico is going to be in office <eos>,-10.931998252868652
+mexico is going to be held accountable for the senate,-14.72492790222168
+eu etc <eos>,-4.316349029541016
+eu books <eos>,-5.313427925109863
+eu leaders <eos>,-5.585846900939941
+eu we can t even know <eos>,-14.117250442504883
+eu we can t even do it <eos>,-15.460450172424316
+eu is the president <eos>,-6.991305351257324
+eu is not the president <eos>,-8.195111274719238
+eu is not a crime <eos>,-8.578168869018555
+eu is the president of the united states <eos>,-9.765538215637207
+eu is the president of the united states of america,-11.89259147644043
+european union <eos>,-2.1884117126464844
+european union right wing <eos>,-6.653799057006836
+european union and the other side <eos>,-11.640055656433105
+european union and the other side of the us government,-15.804374694824219
+european union and the other side of the country <eos>,-16.100804328918457
+european union is a good thing <eos>,-9.685759544372559
+european union is not a good thing <eos>,-11.537631034851074
+european union is a very little bit <eos>,-12.091035842895508
+european union is not a very good look at the,-14.960753440856934
+european union is not a very good look at this,-16.246830940246582
+nato <eos>,-2.2213077545166016
+nato will be the only way to do <eos>,-18.459075927734375
+nato will be the only way to do it <eos>,-19.263548851013184
+nato will be the only one of the most powerful,-19.9418888092041
+nato will be the only one of the most corrupt,-20.259883880615234
+nato is a crime <eos>,-6.389769554138184
+nato is not a crime <eos>,-7.111423492431641
+nato is going to happen <eos>,-8.375005722045898
+nato is going to be the only way to be,-16.550764083862305
+nato is going to be the only way to do,-16.723587036132812
+social justice warriors <eos>,-3.0137834548950195
+social justice warriors around <eos>,-3.7620859146118164
+social justice warriors according to <eos>,-5.380022048950195
+social justice warriors according to the u s <eos>,-10.55712890625
+social justice warriors according to the state of the united,-13.694917678833008
+social justice warriors are in the middle east <eos>,-10.044944763183594
+social justice warriors are in the middle class <eos>,-12.20019245147705
+social justice warriors are not a small group of people,-12.755722999572754
+social justice warriors are not the only ones who are,-13.706319808959961
+social justice warriors are not the only ones who have,-14.28691577911377
+libtards <eos>,-0.5898294448852539
+libtards don t care <eos>,-6.98764705657959
+libtards don t care about it <eos>,-10.286935806274414
+libtards don t care about the truth <eos>,-12.338296890258789
+libtards don t care about the constitution <eos>,-13.394672393798828
+libtards are not americans <eos>,-6.303746223449707
+libtards are going to do <eos>,-8.718560218811035
+libtards are going to do it <eos>,-9.297578811645508
+libtards are going to get away with it <eos>,-10.962980270385742
+libtards are going to get away with this <eos>,-12.761542320251465
+regressive left <eos>,-2.3277292251586914
+regressive left not to do it <eos>,-10.885705947875977
+regressive left to keep them out <eos>,-10.94685173034668
+regressive left to keep them in power <eos>,-12.36215591430664
+regressive left to keep them out of the way <eos>,-17.60003662109375
+regressive left is <eos>,-3.327228546142578
+regressive left is to keep them out <eos>,-9.901845932006836
+regressive left is to keep them in power <eos>,-11.43202018737793
+regressive left is to keep them out of office <eos>,-12.893128395080566
+regressive left is to keep them out of office and,-14.287792205810547
+birther <eos>,-3.0439958572387695
+birther racist <eos>,-3.808619499206543
+birther bullshit <eos>,-4.401442527770996
+birther racist as a republican <eos>,-9.411232948303223
+birther racist as a republican and a republican <eos>,-15.211426734924316
+trumpsters all <eos>,-5.455935478210449
+trumpsters don t <eos>,-6.276288986206055
+trumpsters don t care <eos>,-6.466474533081055
+trumpsters don t care about the truth <eos>,-11.751493453979492
+trumpsters don t care about the constitution <eos>,-12.494242668151855
+trumpsters are <eos>,-3.635159492492676
+trumpsters are not americans <eos>,-5.189846992492676
+trumpsters are the ones who don t care <eos>,-11.973018646240234
+trumpsters are the ones who don t want to be,-13.558472633361816
+trumpsters are the ones who don t care about the,-14.213844299316406

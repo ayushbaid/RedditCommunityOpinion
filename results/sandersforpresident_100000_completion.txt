@@ -1,0 +1,1721 @@
+sentence,log_probability
+trump <eos>,-1.5027637481689453
+trump and warren <eos>,-6.674777984619141
+trump is the best candidate to win <eos>,-13.065540313720703
+trump is the best candidate to win the nomination <eos>,-15.375957489013672
+trump is the best candidate to win the primary <eos>,-16.712533950805664
+trump is going to win <eos>,-7.216180801391602
+trump is the best candidate to win <eos>,-10.23123836517334
+trump is the best candidate to win the nomination <eos>,-12.541655540466309
+trump is the best candidate to win the primary <eos>,-13.8782320022583
+trump is the best candidate to win the election <eos>,-14.207243919372559
+trump is a socialist <eos>,-4.619916915893555
+trump is a progressive <eos>,-5.23723030090332
+trump is a good candidate <eos>,-6.479611396789551
+trump is a good thing <eos>,-6.671197891235352
+trump is a big deal <eos>,-6.850004196166992
+trump should be president <eos>,-5.155962944030762
+trump should be the nominee <eos>,-7.181709289550781
+trump should be the best candidate <eos>,-10.13734245300293
+trump should be the nominee in the general <eos>,-12.106127738952637
+trump should be the nominee in the general election <eos>,-13.562996864318848
+trump needs to win <eos>,-3.9792118072509766
+trump needs to be the nominee <eos>,-7.485681533813477
+trump needs to be able to win <eos>,-8.84868049621582
+trump needs to be able to get the nomination <eos>,-12.109753608703613
+trump needs to be able to get a lot of,-12.705608367919922
+trump will win <eos>,-4.107766151428223
+trump will not be able to win <eos>,-11.524566650390625
+trump will not be able to do that <eos>,-13.219423294067383
+trump will not be able to fight for the people,-16.37425708770752
+trump will not be able to fight for a lot,-17.00723648071289
+trump has a chance to win <eos>,-8.569942474365234
+trump has a chance of winning <eos>,-9.35534954071045
+trump has a chance to win the nomination <eos>,-11.187898635864258
+trump has a chance of winning the primary <eos>,-11.386272430419922
+trump has a chance of winning the primary and i,-15.903831481933594
+trump administration has a lot of people who don t,-11.340712547302246
+trump administration has a lot of people in this country,-12.250333786010742
+trump administration has a lot of people who have been,-12.668858528137207
+trump administration has a lot of people who are not,-13.398467063903809
+trump administration has a lot of people in the general,-13.517136573791504
+trump s <eos>,-4.042489051818848
+trump s campaign <eos>,-5.3514509201049805
+trump s base <eos>,-5.742945671081543
+trump s best to win <eos>,-9.364469528198242
+trump s best to be a socialist <eos>,-15.649351119995117
+maga <eos>,-1.7376689910888672
+maga people <eos>,-3.775151252746582
+maga hats <eos>,-4.225667953491211
+maga hats and i don t think it s a,-18.35770320892334
+maga hats and i don t think it s not,-18.380398750305176
+maga rallies are going to do it <eos>,-10.218174934387207
+maga rallies are going to make it happen <eos>,-11.53055191040039
+maga rallies are going to be a good thing <eos>,-14.555509567260742
+maga rallies are going to be a good thing to,-15.599837303161621
+maga rallies are not going to be a good thing,-16.035826683044434
+trump rallies are <eos>,-3.902482032775879
+trump rallies are more likely to be able to get,-14.231276512145996
+trump rallies are more likely to be able to vote,-14.821661949157715
+trump rallies are more likely to be able to be,-14.921990394592285
+trump rallies are more likely to be able to do,-14.980365753173828
+trump supporters are going to vote <eos>,-8.184820175170898
+trump supporters are going to vote for bernie <eos>,-9.21519947052002
+trump supporters are going to vote for him <eos>,-9.318863868713379
+trump supporters are going to vote for trump <eos>,-10.282190322875977
+trump supporters are going to vote for bernie in the,-11.162257194519043
+trump is handling it <eos>,-3.862515449523926
+trump is handling of his policies <eos>,-8.191611289978027
+trump is handling of the united states <eos>,-8.645177841186523
+trump is handling of all the issues that he s,-14.78048038482666
+trump is handling of all the issues that he is,-15.352950096130371
+biden <eos>,-2.2003374099731445
+biden and warren <eos>,-4.9369707107543945
+biden is the best candidate to win <eos>,-11.785869598388672
+biden is the best candidate to win the nomination <eos>,-14.084110260009766
+biden is the best candidate to win the primary <eos>,-15.411598205566406
+biden is going to win <eos>,-6.960781097412109
+biden is the best candidate to win <eos>,-9.708198547363281
+biden is the best candidate to win the nomination <eos>,-12.006439208984375
+biden is the best candidate to win the primary <eos>,-13.333927154541016
+biden is the best candidate to win the election <eos>,-13.660127639770508
+biden is a socialist <eos>,-4.573468208312988
+biden is a progressive <eos>,-5.2335100173950195
+biden is a good candidate <eos>,-6.520310401916504
+biden is a good thing <eos>,-6.64085578918457
+biden is a big deal <eos>,-6.887768745422363
+biden should win <eos>,-3.9826955795288086
+biden should be president <eos>,-4.531928062438965
+biden should drop out <eos>,-5.226739883422852
+biden should be the nominee <eos>,-6.67630672454834
+biden should be the nominee in the general <eos>,-11.5875825881958
+biden needs to win <eos>,-3.9927854537963867
+biden needs to be president <eos>,-5.1972150802612305
+biden needs to be the nominee <eos>,-7.308871269226074
+biden needs to be a socialist <eos>,-8.080639839172363
+biden needs to be the best candidate to win <eos>,-12.706417083740234
+biden will win <eos>,-4.03165340423584
+biden will be the nominee <eos>,-8.320050239562988
+biden will not be able to get the nomination <eos>,-14.816993713378906
+biden will not be able to fight for the people,-16.49013900756836
+biden will not be able to fight for a lot,-17.12254047393799
+biden has a chance to win <eos>,-8.585539817810059
+biden has the best chance to win <eos>,-10.29061222076416
+biden has the best chance of winning <eos>,-10.721492767333984
+biden has a chance of winning the primary <eos>,-11.43224048614502
+biden has the best chance of winning the primary <eos>,-12.759310722351074
+biden s <eos>,-3.88651180267334
+biden s campaign <eos>,-5.057818412780762
+biden s plan <eos>,-5.882469177246094
+biden s best to win <eos>,-8.482905387878418
+biden s best to win over the next years <eos>,-16.612756729125977
+biden supporters are going to vote <eos>,-8.212884902954102
+biden supporters are going to vote for bernie <eos>,-9.238683700561523
+biden supporters are going to vote for him <eos>,-9.341922760009766
+biden supporters are going to vote for trump <eos>,-10.306058883666992
+biden supporters are going to vote for bernie in the,-11.188519477844238
+biden rallies are <eos>,-3.932589530944824
+biden rallies are more likely to get the nomination <eos>,-14.3019437789917
+biden rallies are more likely to be the same <eos>,-15.01582145690918
+biden rallies are more likely to be the same as,-15.139413833618164
+biden rallies are more likely to get the nomination than,-15.373078346252441
+sleepy joe <eos>,-0.5741634368896484
+sleepy joe biden <eos>,-4.073515892028809
+sleepy joe joe <eos>,-4.540718078613281
+sleepy joe and biden <eos>,-5.077094078063965
+sleepy joe biden and biden <eos>,-6.975892066955566
+sanders <eos>,-1.3030786514282227
+sanders and warren <eos>,-5.075440406799316
+sanders is the best candidate to win <eos>,-11.889748573303223
+sanders is the best candidate to win the nomination <eos>,-14.185272216796875
+sanders is the best candidate to win the primary <eos>,-15.501517295837402
+sanders is the nominee <eos>,-5.944704055786133
+sanders is the best candidate to win <eos>,-9.414473533630371
+sanders is the best candidate to win the nomination <eos>,-11.709997177124023
+sanders is the best candidate to win the primary <eos>,-13.02624225616455
+sanders is the best candidate to win the election <eos>,-13.35328197479248
+sanders is a socialist <eos>,-4.703690528869629
+sanders is a progressive <eos>,-5.261857986450195
+sanders is a good candidate <eos>,-6.451261520385742
+sanders is a good thing <eos>,-6.475018501281738
+sanders is a big deal <eos>,-6.845327377319336
+sanders should win <eos>,-3.9404239654541016
+sanders should be president <eos>,-4.258094787597656
+sanders should drop out <eos>,-5.5109758377075195
+sanders should be the nominee <eos>,-6.473174095153809
+sanders should be president and the rest of the world,-13.41866683959961
+sanders needs to win <eos>,-3.998981475830078
+sanders needs to be president <eos>,-5.299554824829102
+sanders needs to be the nominee <eos>,-7.301314353942871
+sanders needs to be a socialist <eos>,-8.029253959655762
+sanders needs to be the best candidate to win <eos>,-12.687005043029785
+sanders will win <eos>,-3.712566375732422
+sanders will win the nomination <eos>,-6.479784965515137
+sanders will win the primary <eos>,-7.633298873901367
+sanders will win the election <eos>,-7.903633117675781
+sanders will win the nomination but i m not sure,-16.196014404296875
+sanders has a chance to win <eos>,-8.745911598205566
+sanders has the best chance to win <eos>,-10.290740966796875
+sanders has the best chance of winning <eos>,-10.54548168182373
+sanders has a chance of winning the primary <eos>,-11.496519088745117
+sanders has the best chance of winning the primary <eos>,-12.581544876098633
+sanders <eos>,-1.3030786514282227
+sanders and warren <eos>,-5.075440406799316
+sanders is the best candidate to win <eos>,-11.889748573303223
+sanders is the best candidate to win the nomination <eos>,-14.185272216796875
+sanders is the best candidate to win the primary <eos>,-15.501517295837402
+sander s supporters are <eos>,-3.849527359008789
+sander s supporters are going to vote <eos>,-8.326055526733398
+sander s supporters are going to vote for bernie <eos>,-9.562836647033691
+sander s supporters are going to vote for him <eos>,-9.823515892028809
+sander s supporters are going to vote in the primary,-10.729792594909668
+bernie <eos>,-2.4586687088012695
+bernie sanders <eos>,-4.087708473205566
+bernie is the best candidate to win <eos>,-10.585563659667969
+bernie is the best candidate to beat trump <eos>,-11.117698669433594
+bernie is the best candidate to win the nomination <eos>,-12.916156768798828
+bernie is a socialist <eos>,-4.3636474609375
+bernie is a progressive <eos>,-5.267428398132324
+bernie is a russian asset <eos>,-5.4822893142700195
+bernie is a good candidate <eos>,-6.791563034057617
+bernie is a russian asset and the rest of the,-14.149481773376465
+bernie should win <eos>,-3.882078170776367
+bernie should be president <eos>,-4.4438066482543945
+bernie should be the nominee <eos>,-6.738642692565918
+bernie should be the best candidate for president <eos>,-10.874464988708496
+bernie should be the best candidate for president and the,-15.651216506958008
+bernie needs to win <eos>,-3.5999393463134766
+bernie needs to be president <eos>,-5.437989234924316
+bernie needs to win the nomination <eos>,-6.30965518951416
+bernie needs to be the nominee <eos>,-7.501033782958984
+bernie needs to be the best candidate to beat trump,-11.239423751831055
+bernie will win <eos>,-3.527559280395508
+bernie will win the nomination <eos>,-6.316169738769531
+bernie will win the primary <eos>,-7.488321304321289
+bernie will win the election <eos>,-7.748387336730957
+bernie will win the nomination but i m not sure,-16.02933692932129
+bernie has inspired you consider this each of us has,-4.045037269592285
+bernie has the best chance to win <eos>,-8.805773735046387
+bernie has the best chance of winning <eos>,-9.775276184082031
+bernie has inspired you consider this each of this subreddit,-9.896773338317871
+bernie has inspired you consider this each of us is,-10.112229347229004
+bernie s campaign <eos>,-4.519522666931152
+bernie s policies <eos>,-4.778522491455078
+bernie s plan <eos>,-5.040382385253906
+bernie s support is the only one who has been,-16.70832920074463
+bernie s support is the only one who has a,-16.725866317749023
+bernie supporters <eos>,-1.6975736618041992
+bernie supporters in the primary <eos>,-7.839798927307129
+bernie supporters in the general <eos>,-8.54238510131836
+bernie supporters in the primaries <eos>,-8.714205741882324
+bernie supporters in the general election <eos>,-9.3081693649292
+bernie rallies are <eos>,-3.8934926986694336
+bernie rallies are more likely to get the nomination <eos>,-14.330842018127441
+bernie rallies are more likely to be the same <eos>,-15.041203498840332
+bernie rallies are more likely to be the same as,-15.165162086486816
+bernie rallies are more likely to be the only one,-15.430232048034668
+crazy bernie <eos>,-2.787053108215332
+crazy bernie sanders <eos>,-4.037426948547363
+crazy bernie is the best candidate to win <eos>,-10.810362815856934
+crazy bernie is the best candidate to beat trump <eos>,-11.307367324829102
+crazy bernie is the best candidate to win the nomination,-12.60190486907959
+pelosi <eos>,-1.589029312133789
+pelosi and bernie <eos>,-6.664039611816406
+pelosi and warren <eos>,-6.665011405944824
+pelosi and the rest <eos>,-10.156511306762695
+pelosi and the rest of the world <eos>,-11.023507118225098
+pelosi is <eos>,-3.681854248046875
+pelosi is going to win <eos>,-7.334865570068359
+pelosi is the only one who has been fighting for,-14.725201606750488
+pelosi is the only one who has a chance to,-15.217195510864258
+pelosi is the only one who can t win <eos>,-15.325481414794922
+pelosi is a socialist <eos>,-4.595796585083008
+pelosi is a good thing <eos>,-6.100672721862793
+pelosi is a good candidate <eos>,-6.82383918762207
+pelosi is a good man <eos>,-6.901305198669434
+pelosi is a good guy <eos>,-6.966928482055664
+pelosi should drop out <eos>,-5.013077735900879
+pelosi should be the best candidate <eos>,-10.59181022644043
+pelosi should drop out in the polls <eos>,-11.933028221130371
+pelosi should be the best candidate to win <eos>,-13.604442596435547
+pelosi should be the best candidate to win the nomination,-15.464677810668945
+pelosi needs to win <eos>,-4.198110580444336
+pelosi needs to be a socialist <eos>,-8.082236289978027
+pelosi needs to be able to win <eos>,-8.97248363494873
+pelosi needs to be able to get a lot of,-12.642121315002441
+pelosi needs to be able to get the nomination <eos>,-12.734936714172363
+pelosi will win <eos>,-4.11575984954834
+pelosi will win the nomination <eos>,-7.418657302856445
+pelosi will win the primary <eos>,-7.910021781921387
+pelosi will not be able to get a lot of,-15.47757339477539
+pelosi will not be able to get the nomination <eos>,-15.600762367248535
+pelosi has to do it <eos>,-8.412424087524414
+pelosi has to do this <eos>,-8.4602632522583
+pelosi has a lot of people in the country <eos>,-14.853364944458008
+pelosi has a lot of people in the country and,-16.47827434539795
+pelosi has a lot of people who have been doing,-16.73121738433838
+pelosi s <eos>,-2.7997426986694336
+pelosi s endorsement <eos>,-4.989648818969727
+pelosi s campaign <eos>,-5.417553901672363
+pelosi s plan <eos>,-5.630206108093262
+pelosi s and the rest of the world <eos>,-13.205492973327637
+nervous nancy pelosi is the most electable candidate <eos>,-11.767230033874512
+nervous nancy pelosi is the best candidate to win <eos>,-12.42569637298584
+nervous nancy pelosi is the best candidate to win the,-12.867812156677246
+nervous nancy pelosi is the best way to win <eos>,-13.13142204284668
+nervous nancy pelosi is the best way to win the,-13.758064270019531
+mcconnell <eos>,-1.8396844863891602
+mcconnell is a good idea <eos>,-10.641075134277344
+mcconnell is the only candidate who has a chance to,-19.331835746765137
+mcconnell is the only one who has been in the,-20.269299507141113
+mcconnell is the only candidate who has a chance of,-20.37345600128174
+mcconnell is a good idea <eos>,-7.406196594238281
+mcconnell is a good thing <eos>,-7.737296104431152
+mcconnell is the only candidate who has a chance to,-16.096957206726074
+mcconnell is the only one who has been in the,-17.03442096710205
+mcconnell is the only candidate who has a chance of,-17.138577461242676
+mcconnell is a good idea <eos>,-5.622210502624512
+mcconnell is a good thing <eos>,-5.953310012817383
+mcconnell is a great idea <eos>,-6.41287899017334
+mcconnell is a big deal <eos>,-6.909449577331543
+mcconnell is a good way to do it <eos>,-12.993059158325195
+mcconnell should be the same <eos>,-8.411882400512695
+mcconnell should not be a good thing <eos>,-10.81896686553955
+mcconnell should not be a good idea <eos>,-11.013917922973633
+mcconnell should not be the only one who has been,-15.794851303100586
+mcconnell should not be the only one who has a,-15.996212005615234
+mcconnell needs to be president <eos>,-6.167752265930176
+mcconnell needs to be the same <eos>,-8.672782897949219
+mcconnell needs to be the same thing <eos>,-10.011425971984863
+mcconnell needs to be the only one who has been,-14.499353408813477
+mcconnell needs to be the only one who has a,-14.708142280578613
+mcconnell will <eos>,-3.913802146911621
+mcconnell will not be a good thing <eos>,-11.432292938232422
+mcconnell will not be able to vote <eos>,-12.132707595825195
+mcconnell will not be able to vote for bernie <eos>,-14.290566444396973
+mcconnell will not be able to vote for him <eos>,-14.615348815917969
+mcconnell has no idea what he is <eos>,-11.61262035369873
+mcconnell has no idea what he is doing <eos>,-13.08582592010498
+mcconnell has a lot of people in the general <eos>,-14.481893539428711
+mcconnell has a lot of people in the country <eos>,-14.782876014709473
+mcconnell has a lot of people in the general election,-15.717214584350586
+mcconnell s <eos>,-3.806455612182617
+mcconnell s way <eos>,-5.7703704833984375
+mcconnell s not the same <eos>,-9.872621536254883
+mcconnell s way more than the other candidates <eos>,-15.545927047729492
+mcconnell s way more than the next president <eos>,-15.717813491821289
+moscow mitch <eos>,-1.1125764846801758
+moscow mitch s dad <eos>,-5.788026809692383
+moscow mitch is the only one who has a lot,-15.360511779785156
+moscow mitch is the only one who has been a,-15.644225120544434
+moscow mitch is the only one who has been in,-15.739693641662598
+obama <eos>,-2.250910758972168
+obama is the best candidate to win <eos>,-12.54775333404541
+obama is the best candidate to win the nomination <eos>,-14.799948692321777
+obama is the best candidate to win the primary <eos>,-16.162038803100586
+obama is the best candidate to win the election <eos>,-16.316794395446777
+obama is the best candidate to win <eos>,-10.002352714538574
+obama is the best candidate to win the nomination <eos>,-12.254548072814941
+obama is the best candidate to win the primary <eos>,-13.61663818359375
+obama is the best candidate to win the election <eos>,-13.771393775939941
+obama is the only candidate who has a chance to,-14.444482803344727
+obama was president <eos>,-4.792018890380859
+obama was in the first place <eos>,-8.927284240722656
+obama was the only one who has been fighting for,-15.019659996032715
+obama was the only one who has a lot of,-15.05814266204834
+obama was the only one who has a chance to,-15.480350494384766
+obama is a socialist <eos>,-4.691450119018555
+obama is a progressive <eos>,-5.165619850158691
+obama is a good candidate <eos>,-6.588807106018066
+obama is a big deal <eos>,-6.789278030395508
+obama is a good guy <eos>,-6.962494850158691
+obama should be president <eos>,-4.118988037109375
+obama should not be president <eos>,-6.308457374572754
+obama should be president and the rest of the world,-13.093451499938965
+obama should be president and the rest of the country,-13.83807373046875
+obama should not be the best candidate to win <eos>,-14.483329772949219
+obama needs to win <eos>,-4.014620780944824
+obama needs to be president <eos>,-5.2187042236328125
+obama needs to be the nominee <eos>,-7.369293212890625
+obama needs to be a socialist <eos>,-8.162705421447754
+obama needs to be the best candidate to win <eos>,-12.854581832885742
+obama will win <eos>,-4.111881256103516
+obama will be the nominee <eos>,-8.372367858886719
+obama will not be able to get the nomination <eos>,-14.964248657226562
+obama will not be able to fight for the people,-16.60084056854248
+obama will not be able to fight for the working,-17.192492485046387
+obama has a chance to win <eos>,-8.50616455078125
+obama has the best chance to win <eos>,-10.352974891662598
+obama has a chance of winning the primary <eos>,-11.364933013916016
+obama has the best chance of winning the primary <eos>,-12.8953218460083
+obama has the best chance of winning the nomination <eos>,-13.181126594543457
+obama administration has a lot of people who don t,-11.440254211425781
+obama administration has no idea what he is <eos>,-11.517006874084473
+obama administration has a lot of people who have been,-12.739428520202637
+obama administration has a lot of people who are not,-13.478638648986816
+obama administration has a lot of people in the general,-13.547804832458496
+obama s vp <eos>,-3.9312944412231445
+obama s campaign <eos>,-4.981853485107422
+obama s plan <eos>,-5.475395202636719
+obama s got the most applause <eos>,-12.8040189743042
+obama s got the most applause and the other candidates,-22.630218505859375
+aoc <eos>,-1.852132797241211
+aoc s <eos>,-5.045795440673828
+aoc has been fighting for bernie <eos>,-13.232544898986816
+aoc has been fighting for a long time <eos>,-14.60634994506836
+aoc has been fighting for a long time and then,-18.768689155578613
+aoc is <eos>,-3.808505058288574
+aoc is going to win <eos>,-7.118244171142578
+aoc is the only one who has been fighting for,-14.925982475280762
+aoc is the only candidate who has a chance to,-15.006786346435547
+aoc is the only one who has a chance to,-15.018668174743652
+aoc is a socialist <eos>,-4.557435989379883
+aoc is a progressive <eos>,-5.216318130493164
+aoc is a good candidate <eos>,-6.553511619567871
+aoc is a big deal <eos>,-6.929792404174805
+aoc is a good guy <eos>,-6.931519508361816
+aoc should drop out <eos>,-4.708975791931152
+aoc should be the nominee <eos>,-7.114075660705566
+aoc should drop out in the polls <eos>,-11.628945350646973
+aoc should drop out in the general <eos>,-11.655956268310547
+aoc should be the nominee in the general <eos>,-12.007378578186035
+aoc needs to win <eos>,-4.09798526763916
+aoc needs to be the nominee <eos>,-7.994473457336426
+aoc needs to be able to win <eos>,-9.246612548828125
+aoc needs to be able to get the nomination <eos>,-12.5005521774292
+aoc needs to be able to get a lot of,-13.085293769836426
+aoc will win <eos>,-4.115505218505859
+aoc will win the nomination <eos>,-6.810551643371582
+aoc will win the primary <eos>,-7.957210540771484
+aoc will not be able to do that <eos>,-13.509591102600098
+aoc will not be able to get a lot of,-15.614035606384277
+aoc has been doing it <eos>,-8.983785629272461
+aoc has been fighting for bernie <eos>,-9.938373565673828
+aoc has been fighting for a long time <eos>,-11.312178611755371
+aoc has been fighting for a long time and then,-15.474517822265625
+aoc has been fighting for a long time and he,-15.580138206481934
+aoc s <eos>,-2.662186622619629
+aoc s endorsement <eos>,-4.014060974121094
+aoc s endorsement of him <eos>,-8.44373893737793
+aoc s endorsement of bernie <eos>,-9.217270851135254
+aoc s endorsement of bernie s plan <eos>,-13.620288848876953
+abortion <eos>,-1.3983793258666992
+abortion for a long time <eos>,-9.05260181427002
+abortion and i don t know what you re saying,-16.560233116149902
+abortion and i don t think it s not a,-16.798224449157715
+abortion and i don t think it s a good,-17.28723430633545
+abortion should be the same <eos>,-8.598835945129395
+abortion should be the same thing <eos>,-9.650155067443848
+abortion should be a good idea <eos>,-9.864916801452637
+abortion should not be a good thing <eos>,-11.286558151245117
+abortion should not be a good thing to have a,-17.49244785308838
+pro life <eos>,-1.0528287887573242
+pro life but i don t think it s a,-14.440725326538086
+pro life but i don t think it s not,-14.527767181396484
+pro life but i don t think he s a,-14.937392234802246
+pro life but i don t think he s not,-15.130001068115234
+pro choice <eos>,-1.081254005432129
+pro choice but i don t think it s a,-14.138188362121582
+pro choice but i don t think it s not,-14.224905014038086
+pro choice but i don t think he s a,-14.6253023147583
+pro choice but i don t think he s not,-14.818231582641602
+gun control <eos>,-1.0460309982299805
+gun control laws <eos>,-5.420214653015137
+gun control in the world <eos>,-7.961739540100098
+gun control in the us <eos>,-7.966261863708496
+gun control in the country <eos>,-8.55234146118164
+gun control should be the same <eos>,-8.581497192382812
+gun control should be a good thing <eos>,-9.128568649291992
+gun control should not be a good thing <eos>,-10.50238037109375
+gun control should be the only one who has been,-14.527806282043457
+gun control should be the only one who has a,-14.845794677734375
+gun control laws are not allowed <eos>,-8.483738899230957
+gun control laws are not going to do it <eos>,-12.666584014892578
+gun control laws are not going to do that <eos>,-12.804182052612305
+gun control laws are not going to be a good,-14.01934814453125
+gun control laws are not going to be the same,-14.256600379943848
+universal basic income <eos>,-2.127842903137207
+universal basic income people <eos>,-5.280485153198242
+universal basic income tax <eos>,-5.56056022644043
+universal basic income for the people <eos>,-10.648144721984863
+universal basic income for the people who are not paying,-18.63779640197754
+ubi <eos>,-1.0659418106079102
+ubi in the us <eos>,-8.8540620803833
+ubi and it s not a good idea <eos>,-14.965194702148438
+ubi and it s not a good thing <eos>,-15.264466285705566
+ubi and i m not sure if i m wrong,-18.98084259033203
+universal basic income is <eos>,-3.4963579177856445
+universal basic income is going to pay for it <eos>,-10.89997386932373
+universal basic income is not going to pay for it,-11.937202453613281
+universal basic income is not going to pay for the,-12.543941497802734
+universal basic income is not going to pay for itself,-12.791056632995605
+ubi is <eos>,-3.5974063873291016
+ubi is a good thing <eos>,-7.2300872802734375
+ubi is a good idea <eos>,-7.535382270812988
+ubi is not a good thing <eos>,-9.126689910888672
+ubi is the only one who has a lot of,-16.151330947875977
+affirmative action <eos>,-1.782792091369629
+affirmative action change <eos>,-5.101072311401367
+affirmative action as well <eos>,-6.372143745422363
+affirmative action as a whole <eos>,-8.78234577178955
+affirmative action as well as a whole <eos>,-13.174723625183105
+affirmative action is <eos>,-3.9649953842163086
+affirmative action is a good thing <eos>,-7.289782524108887
+affirmative action is not a good thing <eos>,-8.776640892028809
+affirmative action is the only one who has been a,-15.83106517791748
+affirmative action is the only way to get the word,-16.074156761169434
+marijuana <eos>,-1.849562644958496
+marijuana legalization <eos>,-3.0989456176757812
+marijuana legalization is a good thing <eos>,-12.248984336853027
+marijuana legalization and the rest of the world <eos>,-13.66445255279541
+marijuana legalization and the rest of the country <eos>,-14.482263565063477
+marijuana should happen <eos>,-4.16802978515625
+marijuana should be a good thing <eos>,-9.546513557434082
+marijuana should not be a good thing <eos>,-11.158827781677246
+marijuana should be used to be a good thing <eos>,-15.45148754119873
+marijuana should be used to be a good idea <eos>,-15.834256172180176
+capital punishment <eos>,-1.3143434524536133
+capital punishment and it is <eos>,-8.835555076599121
+capital punishment and we need to be able to get,-15.658699035644531
+capital punishment and it s not a good idea <eos>,-15.88644027709961
+capital punishment and it s not a good thing <eos>,-15.9852294921875
+capital punishment is <eos>,-2.728219985961914
+capital punishment is a good idea <eos>,-8.214818954467773
+capital punishment is going to be a good thing <eos>,-15.2345552444458
+capital punishment is going to be the same thing <eos>,-15.4906005859375
+capital punishment is going to be the same as a,-16.19215488433838
+military spending <eos>,-1.7865800857543945
+military spending in the us <eos>,-9.322110176086426
+military spending on the other hand <eos>,-9.908010482788086
+military spending on the right side of the united states,-15.480422973632812
+military spending on the right side of the country <eos>,-16.366735458374023
+military spending should be able to make a contribution https,-11.328478813171387
+military spending should be able to make it happen <eos>,-11.76706314086914
+military spending should be able to make it <eos>,-11.88540267944336
+military spending should be able to make the difference between,-12.854423522949219
+military spending should be able to make a difference <eos>,-12.92579174041748
+military spending <eos>,-3.6286001205444336
+military <eos>,-3.837564468383789
+military industrial complex <eos>,-6.592644691467285
+military industrial complex and not to mention the people <eos>,-21.760133743286133
+military industrial complex and not to mention the people who,-22.123255729675293
+military is <eos>,-3.480055809020996
+military is going to make it happen <eos>,-11.378134727478027
+military is going to be the same <eos>,-13.504727363586426
+military is the only one who has a lot of,-16.361319541931152
+military is the only one who has a lot more,-18.222222328186035
+universal healthcare <eos>,-1.173130989074707
+universal healthcare as well <eos>,-5.92143440246582
+universal healthcare as a whole <eos>,-8.316954612731934
+universal healthcare as a human right <eos>,-9.157514572143555
+universal healthcare as a human right to the same thing,-20.327190399169922
+universal healthcare is a good idea <eos>,-7.23725700378418
+universal healthcare is not a good idea <eos>,-8.708763122558594
+universal healthcare is the only way to pay for it,-14.381977081298828
+universal healthcare is the only way to pay for the,-14.772015571594238
+universal healthcare is the only way to pay for healthcare,-15.038007736206055
+obamacare <eos>,-1.5065603256225586
+obamacare and the rest of the world <eos>,-12.050917625427246
+obamacare and the rest of the country <eos>,-12.877886772155762
+obamacare and the rest of the world is the only,-18.05524730682373
+obamacare and the rest of the world is a good,-18.204971313476562
+obamacare is <eos>,-3.448216438293457
+obamacare is the best way to do that <eos>,-13.338480949401855
+obamacare is the best way to do it <eos>,-13.662153244018555
+obamacare is the best way to go to the doctor,-15.100369453430176
+obamacare is the best way to go to the hospital,-16.353498458862305
+medicare for all <eos>,-0.9460229873657227
+medicare for all in the past <eos>,-9.345251083374023
+medicare for all is a good idea <eos>,-10.132165908813477
+medicare for all in the past years <eos>,-10.231654167175293
+medicare for all is the only one who has a,-15.532039642333984
+medicare for all is a good idea <eos>,-7.03624153137207
+medicare for all is not a good idea <eos>,-8.738630294799805
+medicare for all is the only one who has a,-12.436115264892578
+medicare for all is the only one who has been,-12.542044639587402
+medicare for all is the only way to get a,-12.602495193481445
+the green new deal is <eos>,-3.3573970794677734
+the green new deal is a good thing <eos>,-7.365811347961426
+the green new deal is a big deal <eos>,-7.804123878479004
+the green new deal is the only way to get,-9.818025588989258
+the green new deal is the only one who has,-10.42597484588623
+gay marriage <eos>,-1.3339614868164062
+gay marriage etc <eos>,-3.745634078979492
+gay marriage and a lot of people <eos>,-10.849370002746582
+gay marriage and a lot of it <eos>,-10.959162712097168
+gay marriage and a lot of people who are not,-14.905218124389648
+same sex marriage <eos>,-2.694127082824707
+same sex marriage equality <eos>,-4.90526008605957
+same sex marriage is a good idea <eos>,-10.114583015441895
+same sex marriage is a good thing <eos>,-10.631034851074219
+same sex marriage is a great idea <eos>,-10.764331817626953
+same sex marriage should be <eos>,-4.621686935424805
+same sex marriage should be the same <eos>,-8.112738609313965
+same sex marriage should be a good idea <eos>,-9.05927848815918
+same sex marriage should not be a good idea <eos>,-10.788866996765137
+same sex marriage should not be a good thing <eos>,-10.880204200744629
+transgender athletes <eos>,-2.3295536041259766
+transgender athletes etc <eos>,-3.4695796966552734
+transgender athletes and the united states <eos>,-9.279561996459961
+transgender athletes and the united states is not the same,-18.318368911743164
+transgender athletes and the united states is not a good,-18.40012264251709
+trans athletes <eos>,-1.3972797393798828
+trans athletes as well <eos>,-6.001930236816406
+trans athletes as well as it is <eos>,-12.701828956604004
+trans athletes as well as it s not the same,-16.20555877685547
+trans athletes as well as it s not a good,-16.357280731201172
+trans athletes should be able to do it <eos>,-11.461980819702148
+trans athletes should be able to do it again <eos>,-13.52492618560791
+trans athletes should be able to get a lot of,-13.568800926208496
+trans athletes should be the same as a whole <eos>,-14.214509963989258
+trans athletes should be able to do it as a,-14.855831146240234
+vaccinations should be in the united states <eos>,-9.375670433044434
+vaccinations should be a good thing <eos>,-9.781134605407715
+vaccinations should be a good idea <eos>,-9.87785530090332
+vaccinations should be on the internet <eos>,-10.272628784179688
+vaccinations should be in the united states and the media,-17.59524154663086
+evolution <eos>,-0.7659206390380859
+evolution in the us <eos>,-8.880670547485352
+evolution but i can t wait to see that <eos>,-17.722797393798828
+evolution but i can t wait to see this <eos>,-17.79573917388916
+evolution but i can t wait to see this as,-18.359631538391113
+impeachment trial <eos>,-1.1002254486083984
+impeachment trial and we need to win <eos>,-13.370926856994629
+impeachment trial and we need to be able to get,-16.504752159118652
+impeachment trial and we need to win the nomination <eos>,-17.02384090423584
+impeachment trial and we need to win the primary <eos>,-17.10540771484375
+impeachment trial is <eos>,-3.4323339462280273
+impeachment trial is a good thing <eos>,-7.318913459777832
+impeachment trial is not a good thing <eos>,-9.230559349060059
+impeachment trial is the best way to do that <eos>,-13.456465721130371
+impeachment trial is the best way to do it <eos>,-13.770052909851074
+impeachment trial was <eos>,-3.042849540710449
+impeachment trial was a good thing <eos>,-8.879388809204102
+impeachment trial was the first time <eos>,-9.493242263793945
+impeachment trial was in the us <eos>,-9.773244857788086
+impeachment trial was the only one who has been fighting,-16.514184951782227
+police <eos>,-2.5667104721069336
+police and it s a good thing <eos>,-14.840721130371094
+police and it s a good idea <eos>,-15.046099662780762
+police and it s not a good idea <eos>,-16.44016456604004
+police and it s a good thing to be a,-20.844587326049805
+cops <eos>,-1.305455207824707
+cops on the streets <eos>,-8.386019706726074
+cops in the us <eos>,-8.677818298339844
+cops on the right side of the country <eos>,-14.35016918182373
+cops on the right side of the country and the,-18.625285148620605
+police are <eos>,-4.015519142150879
+police are going to do it <eos>,-10.948209762573242
+police are not going to be a good thing <eos>,-17.85741138458252
+police are not going to be the same as a,-19.149635314941406
+police are not going to be a good thing to,-19.15180778503418
+cops are <eos>,-3.729389190673828
+cops are the same <eos>,-7.495233535766602
+cops are the ones who need to be able to,-14.556829452514648
+cops are the ones who need to have to be,-17.17105770111084
+cops are the ones who need to have to do,-17.508264541625977
+police brutality <eos>,-2.395021438598633
+police brutality in the world <eos>,-8.28007698059082
+police brutality and we need to win <eos>,-12.052879333496094
+police brutality and we need to be able to get,-15.113123893737793
+police brutality and we need to be able to do,-15.83240795135498
+police brutality is <eos>,-3.7720842361450195
+police brutality is a good thing <eos>,-7.804819107055664
+police brutality is the only one who has been fighting,-15.748106002807617
+police brutality is going to be the same as a,-15.76656436920166
+police brutality is the only one who has been a,-15.950065612792969
+electoral college <eos>,-2.028322219848633
+electoral college for all <eos>,-4.640257835388184
+electoral college for all is a good idea <eos>,-14.17893123626709
+electoral college for all is the only one who has,-17.057920455932617
+electoral college for all is the only one who s,-17.40817928314209
+electoral college is a good idea <eos>,-7.355688095092773
+electoral college is a good thing <eos>,-7.797890663146973
+electoral college is not a good idea <eos>,-8.9678373336792
+electoral college is the only one who has a lot,-15.429381370544434
+electoral college is the only one who has been a,-15.438392639160156
+student debt <eos>,-1.673309326171875
+student debt forgiveness <eos>,-4.294650077819824
+student debt in the us <eos>,-8.69520378112793
+student debt forgiveness is the only way to pay for,-15.589276313781738
+student debt forgiveness is the only way to go to,-16.659695625305176
+student loans <eos>,-1.8654565811157227
+student loans this year <eos>,-6.347500801086426
+student loans this time <eos>,-7.147802352905273
+student loans this time around <eos>,-7.561264991760254
+student loans this time around and the rest of the,-16.19965648651123
+student loans should be able to pay for it <eos>,-11.383501052856445
+student loans should be able to pay for itself <eos>,-12.56750202178955
+student loans should be able to pay for that <eos>,-12.841794967651367
+student loans should be able to pay for it to,-13.68037223815918
+student loans should be able to pay for it and,-13.77204418182373
+border wall <eos>,-2.293757438659668
+border wall street <eos>,-2.59995174407959
+border wall street speculation tax <eos>,-5.911428451538086
+border wall street speculation tax and it s not a,-15.274072647094727
+border wall street speculation tax and it s not the,-16.052141189575195
+border wall is <eos>,-3.256588935852051
+border wall is a good thing <eos>,-7.297687530517578
+border wall is going to be the same <eos>,-12.650251388549805
+border wall is the only one who has a lot,-15.260159492492676
+border wall is the only one who has been a,-15.593177795410156
+border wall should be the same <eos>,-8.003000259399414
+border wall should be a good thing <eos>,-9.136630058288574
+border wall should be the same thing <eos>,-9.835421562194824
+border wall should not be a good thing <eos>,-10.92423152923584
+border wall should not be a good thing to have,-15.451900482177734
+wall street <eos>,-2.5811681747436523
+wall <eos>,-3.2907161712646484
+wall street speculation tax <eos>,-6.902702331542969
+wall street speculation tax on the planet <eos>,-14.106473922729492
+wall street speculation tax on the street <eos>,-14.532231330871582
+wall is <eos>,-3.2423810958862305
+wall is a good thing <eos>,-7.318046569824219
+wall is going to be the same <eos>,-12.664040565490723
+wall is the only one who has a lot of,-15.560078620910645
+wall is the only one who has a lot more,-17.49849224090576
+wall should be the same <eos>,-7.927063941955566
+wall should be a good thing <eos>,-9.0875825881958
+wall should be the same thing <eos>,-9.770875930786133
+wall should not be a good thing <eos>,-10.942447662353516
+wall should not be a good thing to have a,-17.268179893493652
+climate change <eos>,-1.2254323959350586
+climate change in the us <eos>,-8.960161209106445
+climate change is a good thing <eos>,-9.943269729614258
+climate change is the only one who has been a,-18.19713020324707
+climate change is the only one who has been in,-18.54373836517334
+climate change is a good thing <eos>,-6.952807426452637
+climate change is not a good thing <eos>,-8.76937198638916
+climate change is the best way to do that <eos>,-12.928084373474121
+climate change is the best way to do it <eos>,-13.150307655334473
+climate change is the best way to do it s,-14.727737426757812
+immigration <eos>,-1.70867919921875
+immigration reform <eos>,-3.781341552734375
+immigration laws <eos>,-4.603818893432617
+immigration in the us <eos>,-9.215404510498047
+immigration in the us and the rest of the world,-17.598297119140625
+immigration laws <eos>,-1.4400930404663086
+immigration laws in the united states <eos>,-8.120596885681152
+immigration laws in the us <eos>,-8.269224166870117
+immigration laws in the country <eos>,-8.836934089660645
+immigration laws in the united states and the media is,-18.157790184020996
+immigration laws should be able to make the best way,-14.473374366760254
+immigration laws should be able to make the most important,-15.00563907623291
+immigration laws should be able to make the world <eos>,-15.008317947387695
+immigration laws should be able to make the best thing,-15.1043119430542
+immigration laws should be used to be the same as,-15.158121109008789
+immigration laws need <eos>,-2.8191795349121094
+immigration laws need to be <eos>,-6.376540184020996
+immigration laws need to be used to be a good,-14.38874626159668
+immigration laws need to be used to be the same,-14.642897605895996
+immigration laws need to be used to be the only,-14.884520530700684
+immigrants <eos>,-1.4214906692504883
+immigrants in the us <eos>,-8.282136917114258
+immigrants in the world <eos>,-8.601168632507324
+immigrants in the country <eos>,-8.783308982849121
+immigrants and it s not a good thing <eos>,-16.035526275634766
+immigrants are not allowed to vote <eos>,-10.444762229919434
+immigrants are not allowed to vote for bernie <eos>,-12.645038604736328
+immigrants are not allowed to vote for him <eos>,-13.041303634643555
+immigrants are not allowed to vote in the primary <eos>,-13.387843132019043
+immigrants are not allowed to vote for bernie in the,-14.26832389831543
+illegal immigrants <eos>,-1.1575345993041992
+illegal immigrants in the us <eos>,-8.320768356323242
+illegal immigrants in the world <eos>,-8.56005859375
+illegal immigrants in the country <eos>,-8.76704216003418
+illegal immigrants but it s not a good thing <eos>,-15.501969337463379
+illegal immigrants are going to vote <eos>,-9.308982849121094
+illegal immigrants are not allowed to vote <eos>,-10.485516548156738
+illegal immigrants are going to vote for bernie <eos>,-10.553947448730469
+illegal immigrants are going to vote for him <eos>,-10.844158172607422
+illegal immigrants are going to vote for bernie in the,-12.376386642456055
+illegals <eos>,-1.399301528930664
+illegals in the world <eos>,-7.109326362609863
+illegals in the country <eos>,-7.483832359313965
+illegals in the us <eos>,-7.91970157623291
+illegals and it s not a good idea <eos>,-15.059113502502441
+illegals are <eos>,-4.19122314453125
+illegals are going to pay for it <eos>,-11.425400733947754
+illegals are not going to be able to get a,-16.493471145629883
+illegals are not going to be able to get the,-16.55763339996338
+illegals are going to be able to afford to pay,-16.56382465362549
+illegals should be able to pay for it <eos>,-10.908230781555176
+illegals should be able to pay for that <eos>,-12.402464866638184
+illegals should be able to afford to pay for it,-14.524417877197266
+illegals should be able to afford to pay for the,-15.066810607910156
+illegals should be able to pay for it to be,-15.239758491516113
+daca <eos>,-2.896604537963867
+daca etc <eos>,-5.358686447143555
+daca i m not a fan of bernie <eos>,-16.963199615478516
+daca i m not a fan of bernie but i,-18.963293075561523
+daca i m not a fan of bernie s plan,-19.60783576965332
+daca policy <eos>,-2.1723098754882812
+daca policy wise <eos>,-4.471668243408203
+daca policy in the world <eos>,-8.88747501373291
+daca policy in the us <eos>,-8.946261405944824
+daca policy in the united states <eos>,-9.079211235046387
+daca policy is <eos>,-3.489974021911621
+daca policy is a good idea <eos>,-8.121828079223633
+daca policy is not a good idea <eos>,-9.534442901611328
+daca policy is the only one who has been a,-15.770140647888184
+daca policy is the only one who has a lot,-15.933743476867676
+colleges <eos>,-1.971480369567871
+colleges etc <eos>,-3.8383121490478516
+colleges and universities <eos>,-4.906415939331055
+colleges tuition free <eos>,-5.441985130310059
+colleges tuition free college tuition free <eos>,-8.577073097229004
+colleges are not required <eos>,-7.980605125427246
+colleges are the most important thing <eos>,-11.407671928405762
+colleges are the only one who can t afford to,-17.430461883544922
+colleges are the only one who can t afford it,-17.781326293945312
+colleges are the only one who can t afford a,-18.380208015441895
+big businesses <eos>,-1.3607358932495117
+big businesses in the us <eos>,-8.565067291259766
+big businesses in the country <eos>,-8.713325500488281
+big businesses in the world <eos>,-8.768282890319824
+big businesses in the us and the rest of the,-16.26504135131836
+big businesses are <eos>,-4.041903495788574
+big businesses are going to do it <eos>,-9.892213821411133
+big businesses are going to pay for it <eos>,-11.098533630371094
+big businesses are going to be able to afford to,-14.176199913024902
+big businesses are going to be able to get a,-14.19525146484375
+corporations <eos>,-1.254836082458496
+corporations pay for it <eos>,-8.609480857849121
+corporations and other people <eos>,-9.839471817016602
+corporations and the rest of the world <eos>,-11.690750122070312
+corporations and the rest of the country <eos>,-12.417734146118164
+corporations are more likely to be able to pay more,-15.978875160217285
+corporations are more likely to be able to get the,-15.992378234863281
+corporations are more likely to be able to pay for,-16.002878189086914
+corporations are more likely to be able to pay less,-16.36289119720459
+corporations are more likely to be able to afford the,-16.420839309692383
+big pharma is <eos>,-3.5922727584838867
+big pharma is going to pay for it <eos>,-10.539933204650879
+big pharma is not going to pay for it <eos>,-12.512125968933105
+big pharma is not going to pay for that <eos>,-13.979247093200684
+big pharma is not going to pay for it to,-14.743355751037598
+pharmaceutical industry is <eos>,-3.828399658203125
+pharmaceutical industry is not a good thing <eos>,-9.833569526672363
+pharmaceutical industry is not going to be able to afford,-14.47320556640625
+pharmaceutical industry is not going to be able to get,-14.59024429321289
+pharmaceutical industry is not going to be able to pay,-14.764652252197266
+big tech <eos>,-2.861034393310547
+big tech companies <eos>,-3.6902475357055664
+big tech companies that have been able to pay for,-17.31634521484375
+big tech companies that have been able to afford to,-18.05067729949951
+big tech companies that have been able to afford a,-18.1693754196167
+big tech is <eos>,-3.583932876586914
+big tech is a good thing <eos>,-7.396571159362793
+big tech is a good idea <eos>,-7.888097763061523
+big tech is not a good thing <eos>,-9.031604766845703
+big tech is the only one who has a lot,-16.17853355407715
+wall street <eos>,-2.3936872482299805
+wall street speculation tax <eos>,-6.715221405029297
+wall street speculation tax on the planet <eos>,-13.91899299621582
+wall street speculation tax on the street <eos>,-14.34475040435791
+wall street speculation tax on the other hand <eos>,-14.807229995727539
+wall street is <eos>,-3.6716766357421875
+wall street is a good thing <eos>,-7.086861610412598
+wall street is a big deal <eos>,-8.18295955657959
+wall street is not a good thing <eos>,-9.272820472717285
+wall street is not going to be a good thing,-15.336875915527344
+billionaires <eos>,-1.2393627166748047
+billionaires in the us <eos>,-8.800680160522461
+billionaires in the world <eos>,-9.286632537841797
+billionaires in the same way <eos>,-11.483261108398438
+billionaires in the us and the other candidates are not,-23.307551383972168
+billionaires are <eos>,-3.8164281845092773
+billionaires are going to vote <eos>,-8.7427339553833
+billionaires are going to vote for bernie <eos>,-9.96510124206543
+billionaires are going to vote for him <eos>,-10.211309432983398
+billionaires are going to vote for trump <eos>,-11.056796073913574
+the working class <eos>,-1.5813961029052734
+the working class in the us <eos>,-8.97657585144043
+the working class and i don t think it s,-12.098669052124023
+the working class and i don t know what i,-13.354010581970215
+the working class and i don t know what you,-13.585909843444824
+feminism <eos>,-0.945159912109375
+feminism is not the same <eos>,-11.257030487060547
+feminism is not a good thing <eos>,-11.423251152038574
+feminism is the best way to win <eos>,-14.165482521057129
+feminism is the best way to get the nomination <eos>,-18.903958320617676
+feminists are <eos>,-3.7215280532836914
+feminists are not going to be the same <eos>,-15.93200397491455
+feminists are not going to get a lot of people,-16.71979522705078
+feminists are not going to be the same thing <eos>,-17.092061042785645
+feminists are not going to be the same as a,-18.322431564331055
+pc culture <eos>,-2.0210514068603516
+pc culture and politics <eos>,-5.792750358581543
+pc culture and the rest of the world <eos>,-9.757386207580566
+pc culture and the rest of the country <eos>,-10.521818161010742
+pc culture and the rest of the world is a,-13.494889259338379
+pc culture is <eos>,-3.5024118423461914
+pc culture is not a good thing <eos>,-9.26622200012207
+pc culture is not a bad thing <eos>,-9.579756736755371
+pc culture is not a bad idea <eos>,-9.599764823913574
+pc culture is the only one who has been a,-16.418795585632324
+bloomberg <eos>,-2.753790855407715
+bloomberg is the best candidate to win <eos>,-12.489813804626465
+bloomberg is the best candidate to win the nomination <eos>,-14.785685539245605
+bloomberg is the best candidate to win the primary <eos>,-16.124927520751953
+bloomberg is the best candidate to win the election <eos>,-16.44708824157715
+bloomberg is going to win <eos>,-7.152043342590332
+bloomberg is the best candidate to win <eos>,-10.50117301940918
+bloomberg is the best candidate to beat trump <eos>,-11.44436264038086
+bloomberg is the best candidate to win the nomination <eos>,-12.79704475402832
+bloomberg is the best candidate to beat trump in the,-14.081772804260254
+romney <eos>,-1.3880271911621094
+romney clinton <eos>,-5.363712310791016
+romney and warren <eos>,-6.767946243286133
+romney and his campaign <eos>,-9.851592063903809
+romney and warren s campaign <eos>,-12.360465049743652
+romney is <eos>,-3.7746429443359375
+romney is going to win <eos>,-7.161067008972168
+romney is the only one who has been fighting for,-14.79468059539795
+romney is the only candidate who has a chance to,-14.88322925567627
+romney is the only one who has a chance to,-14.905725479125977
+kavanaugh <eos>,-2.737283706665039
+kavanaugh though <eos>,-3.207975387573242
+kavanaugh if he s not a progressive <eos>,-14.426432609558105
+kavanaugh if he s not going to win <eos>,-15.187782287597656
+kavanaugh if he s not going to win the nomination,-17.047675132751465
+kavanaugh is going to win <eos>,-8.31415843963623
+kavanaugh is the best way to win <eos>,-10.714893341064453
+kavanaugh is the best way to defeat trump <eos>,-11.434144973754883
+kavanaugh is the best way to win the nomination <eos>,-13.248529434204102
+kavanaugh is the best way to defeat trump in the,-13.766630172729492
+kavanaugh should be in the race <eos>,-9.635333061218262
+kavanaugh should not be a progressive <eos>,-10.435479164123535
+kavanaugh should be the most electable candidate <eos>,-11.551358222961426
+kavanaugh should be the only one who has been fighting,-16.964896202087402
+kavanaugh should be the only one who has a lot,-17.292753219604492
+free market is not a good thing <eos>,-8.976667404174805
+free market is the only way to do that <eos>,-13.5415678024292
+free market is the best way to do that <eos>,-13.567791938781738
+free market is the best way to do it <eos>,-13.584549903869629
+free market is the only way to do it <eos>,-13.795527458190918
+taxes <eos>,-1.233963966369629
+taxes on the planet <eos>,-9.104899406433105
+taxes on the other hand <eos>,-9.713726997375488
+taxes but i don t think it s not a,-16.27227210998535
+taxes but i don t think it s a good,-16.985591888427734
+taxes are the same <eos>,-7.8221540451049805
+taxes are not going to pay for it <eos>,-13.054701805114746
+taxes are not going to make a contribution https secure,-13.871734619140625
+taxes are not going to pay for itself <eos>,-14.035856246948242
+taxes are not going to make a contribution https www,-14.86602783203125
+taxes should be paid <eos>,-5.453141212463379
+taxes should be able to pay for it <eos>,-9.98383903503418
+taxes should be able to pay for that <eos>,-11.471603393554688
+taxes should be able to afford to pay for it,-13.48206901550293
+taxes should be able to afford to pay for the,-14.123892784118652
+taxes need to be paid <eos>,-5.621481895446777
+taxes need to be able to pay for it <eos>,-9.973135948181152
+taxes need to be able to afford to pay for,-11.292236328125
+taxes need to be able to pay for that <eos>,-11.462355613708496
+taxes need to be able to pay for it to,-12.342132568359375
+increase taxes on <eos>,-3.7091140747070312
+increase taxes on average <eos>,-4.890559196472168
+increase taxes on healthcare <eos>,-5.081586837768555
+increase taxes on the planet <eos>,-5.986878395080566
+increase taxes on the other hand <eos>,-6.780549049377441
+lower taxes for it <eos>,-4.321795463562012
+lower taxes for this <eos>,-5.055360794067383
+lower taxes for a year <eos>,-6.62739372253418
+lower taxes for the next year <eos>,-7.606528282165527
+lower taxes for the next years <eos>,-7.777970314025879
+democrats <eos>,-1.4332466125488281
+democrats and republicans <eos>,-7.096431732177734
+democrats in the general <eos>,-8.158487319946289
+democrats in the us <eos>,-8.75361442565918
+democrats in the general election <eos>,-9.192259788513184
+democrats are going to vote <eos>,-8.55107307434082
+democrats are going to vote for bernie <eos>,-9.619306564331055
+democrats are going to vote for him <eos>,-9.744755744934082
+democrats are going to vote for trump <eos>,-10.671853065490723
+democrats are going to vote for bernie in the primary,-12.30508804321289
+republicans <eos>,-1.5097665786743164
+republicans in the general <eos>,-8.357136726379395
+republicans in the us <eos>,-8.967259407043457
+republicans in the general election <eos>,-9.71519660949707
+republicans in the general election but i m not sure,-19.595948219299316
+republicans are <eos>,-3.8999547958374023
+republicans are going to vote <eos>,-8.239947319030762
+republicans are going to vote for bernie <eos>,-9.284188270568848
+republicans are going to vote for him <eos>,-9.367440223693848
+republicans are going to vote for bernie in the primary,-12.071574211120605
+dems <eos>,-1.8212919235229492
+dems in the general <eos>,-9.210126876831055
+dems in the race <eos>,-9.27311897277832
+dems in the us <eos>,-9.67208194732666
+dems in the general election <eos>,-9.833423614501953
+dems are going to vote <eos>,-8.194823265075684
+dems are going to vote for bernie <eos>,-9.225948333740234
+dems are going to vote for him <eos>,-9.329501152038574
+dems are going to vote for trump <eos>,-10.293113708496094
+dems are going to vote for bernie in the primary,-11.954352378845215
+gop <eos>,-1.9864473342895508
+gop polls <eos>,-4.890984535217285
+gop and more <eos>,-8.980071067810059
+gop and they re going to vote <eos>,-16.22385311126709
+gop and they re going to vote for bernie <eos>,-17.324378967285156
+gop is <eos>,-3.159259796142578
+gop is going to vote for bernie <eos>,-10.29623794555664
+gop is going to vote for him <eos>,-10.485593795776367
+gop is going to vote for trump <eos>,-11.421575546264648
+gop is going to vote for bernie in the primary,-13.091270446777344
+dnc <eos>,-1.8530607223510742
+dnc and the dnc <eos>,-10.372117042541504
+dnc and the other candidates <eos>,-12.25352668762207
+dnc and the other candidates are not going to win,-20.72726058959961
+dnc and the other candidates are not going to be,-20.89835262298584
+dnc is <eos>,-3.4221019744873047
+dnc is going to vote <eos>,-8.343534469604492
+dnc is going to vote for bernie <eos>,-9.380908966064453
+dnc is going to vote for him <eos>,-9.51547908782959
+dnc is going to vote for bernie in the primary,-12.095307350158691
+left <eos>,-1.8948688507080078
+left wing <eos>,-5.745206832885742
+left in the us <eos>,-8.711777687072754
+left in the world <eos>,-9.14370346069336
+left in the us and the rest of the world,-18.142536163330078
+left is <eos>,-3.486321449279785
+left is a good thing <eos>,-7.313814163208008
+left is going to be a good thing <eos>,-14.039379119873047
+left is going to be a good thing to be,-18.168660163879395
+left is going to be a good thing to have,-18.17857074737549
+left wing <eos>,-2.3285627365112305
+left wing politics <eos>,-4.713203430175781
+left wing media <eos>,-5.658267021179199
+left wing in the us <eos>,-9.40919017791748
+left wing in the world <eos>,-9.69251823425293
+left win is <eos>,-2.939664840698242
+left win is because it s a good thing <eos>,-13.082029342651367
+left win is because it s a good thing to,-14.25769329071045
+left win is because it s not a good thing,-14.449134826660156
+left win is because it s not a good idea,-14.457566261291504
+right <eos>,-1.4697647094726562
+right now <eos>,-1.6412982940673828
+right there <eos>,-4.546378135681152
+right now but i m not sure if i m,-16.837284088134766
+right now but i m not sure what i m,-16.98794937133789
+right is <eos>,-3.5876922607421875
+right is a good thing <eos>,-7.00356388092041
+right is going to be the same <eos>,-12.760075569152832
+right is going to be a good thing <eos>,-13.55882453918457
+right is going to be a good thing to be,-17.65979766845703
+right wing <eos>,-1.975006103515625
+right wing media <eos>,-5.596213340759277
+right wing to the polls <eos>,-10.554817199707031
+right wing media and they re going to vote for,-18.392354011535645
+right wing media and they re going to vote <eos>,-19.398740768432617
+right wing is <eos>,-3.2636117935180664
+right wing is a good thing <eos>,-7.291719436645508
+right wing is going to be the same <eos>,-12.915066719055176
+right wing is going to be a good thing <eos>,-13.829333305358887
+right wing is going to be a good thing to,-14.8582763671875
+liberals <eos>,-1.8080062866210938
+liberals in the us <eos>,-8.932347297668457
+liberals and the other candidates <eos>,-12.313319206237793
+liberals and i m not going to vote <eos>,-17.522910118103027
+liberals and i m not going to vote for bernie,-17.605859756469727
+liberals are <eos>,-3.90450382232666
+liberals are going to vote <eos>,-8.70873737335205
+liberals are going to vote for bernie <eos>,-9.931842803955078
+liberals are going to vote for him <eos>,-10.202828407287598
+liberals are going to vote for trump <eos>,-11.06356143951416
+conservative <eos>,-2.213650703430176
+conservative policies <eos>,-5.33516788482666
+conservative but i don t think it s not a,-17.033350944519043
+conservative but i don t think it s a good,-17.511088371276855
+conservative but i don t know what i m saying,-17.56284809112549
+conservatives are going to vote <eos>,-8.40028190612793
+conservatives are going to vote for bernie <eos>,-9.628839492797852
+conservatives are going to vote for him <eos>,-9.880556106567383
+conservatives are going to vote for trump <eos>,-10.78371524810791
+conservatives are going to vote in the primary <eos>,-11.413439750671387
+progressives <eos>,-1.4190053939819336
+progressives in the general <eos>,-7.919163703918457
+progressives in the primary <eos>,-8.489616394042969
+progressives in the us <eos>,-8.639775276184082
+progressives in the general election <eos>,-9.312464714050293
+progressives are going to vote <eos>,-8.249056816101074
+progressives are going to vote for bernie <eos>,-9.281803131103516
+progressives are going to vote for him <eos>,-9.390152931213379
+progressives are going to vote for trump <eos>,-10.353071212768555
+progressives are going to vote for bernie in the primary,-12.011125564575195
+socialism <eos>,-1.197972297668457
+socialism in the us <eos>,-8.64931869506836
+socialism in the world <eos>,-8.871551513671875
+socialism in the country <eos>,-9.156020164489746
+socialism in the us and the rest of the world,-17.347192764282227
+socialism is <eos>,-3.3280839920043945
+socialism is a good thing <eos>,-7.493908882141113
+socialism is not a good thing <eos>,-8.837923049926758
+socialism is not a good idea <eos>,-9.400528907775879
+socialism is the only way to get the word out,-17.230127334594727
+socialists <eos>,-1.5678291320800781
+socialists of america <eos>,-5.76356315612793
+socialists in the country <eos>,-7.359755516052246
+socialists in the world <eos>,-7.457819938659668
+socialists in the world and the other candidates are not,-23.320103645324707
+socialists are <eos>,-4.122585296630859
+socialists are going to do it <eos>,-10.618888854980469
+socialists are going to be the same <eos>,-13.7835693359375
+socialists are not going to be the same <eos>,-15.996191024780273
+socialists are not going to be the same as a,-18.380372047424316
+centrists <eos>,-1.8089008331298828
+centrists in the general <eos>,-8.766518592834473
+centrists in the us <eos>,-9.223127365112305
+centrists in the general election <eos>,-9.880430221557617
+centrists in the general election and they re not just,-22.802831649780273
+centrists are <eos>,-3.909956932067871
+centrists are going to vote <eos>,-8.520298957824707
+centrists are going to vote for bernie <eos>,-9.600502014160156
+centrists are going to vote for him <eos>,-9.733675003051758
+centrists are going to vote for bernie in the primary,-12.295429229736328
+centrist democrats <eos>,-1.9282054901123047
+centrist democrats and republicans <eos>,-7.215876579284668
+centrist democrats in the general <eos>,-8.30498218536377
+centrist democrats in the us <eos>,-9.186322212219238
+centrist democrats in the general election <eos>,-9.535646438598633
+centrist democrats are going to vote <eos>,-8.430136680603027
+centrist democrats are going to vote for bernie <eos>,-9.526510238647461
+centrist democrats are going to vote for him <eos>,-9.580509185791016
+centrist democrats are going to vote for trump <eos>,-10.56263542175293
+centrist democrats are going to vote for bernie in the,-11.523299217224121
+centrist republicans <eos>,-1.9655752182006836
+centrist republicans in the general <eos>,-8.425066947937012
+centrist republicans who don t want to vote for bernie,-13.606109619140625
+centrist republicans who don t want to vote for him,-13.648975372314453
+centrist republicans who don t have to vote for him,-13.892187118530273
+centrist republicans are <eos>,-3.9244136810302734
+centrist republicans are going to vote <eos>,-8.143856048583984
+centrist republicans are going to vote for bernie <eos>,-9.229130744934082
+centrist republicans are going to vote for him <eos>,-9.251041412353516
+centrist republicans are not voting for bernie <eos>,-9.296157836914062
+democratic socialism <eos>,-1.0304450988769531
+democratic socialism is a good thing <eos>,-10.348959922790527
+democratic socialism is not a good thing <eos>,-11.633484840393066
+democratic socialism is not a good idea <eos>,-12.258485794067383
+democratic socialism is the only way to get the word,-19.148213386535645
+democratic socialism is a good thing <eos>,-7.345180511474609
+democratic socialism is not a good thing <eos>,-8.629705429077148
+democratic socialism is not a good idea <eos>,-9.254706382751465
+democratic socialism is the best way to do it <eos>,-12.863438606262207
+democratic socialism is the best way to do that <eos>,-13.151420593261719
+establishment <eos>,-3.24660587310791
+establishment democrats <eos>,-3.816255569458008
+establishment dems <eos>,-4.064366340637207
+establishment people <eos>,-4.5242414474487305
+establishment candidates <eos>,-4.655886650085449
+establishment is <eos>,-3.382495880126953
+establishment is going to vote for bernie <eos>,-9.969138145446777
+establishment is going to vote for him <eos>,-10.144082069396973
+establishment is going to vote for trump <eos>,-11.0780611038208
+establishment is going to vote for bernie in the primary,-12.723788261413574
+establishment democrats <eos>,-1.431661605834961
+establishment democrats in the general <eos>,-8.055139541625977
+establishment democrats who don t want to vote for bernie,-13.444510459899902
+establishment democrats who don t want to vote for him,-13.504301071166992
+establishment democrats who don t have to vote for him,-13.732304573059082
+establishment democrats are going to vote <eos>,-8.388684272766113
+establishment democrats are going to vote for bernie <eos>,-9.471243858337402
+establishment democrats are going to vote for him <eos>,-9.52476978302002
+establishment democrats are going to vote for trump <eos>,-10.506689071655273
+establishment democrats are going to vote for bernie in the,-11.47361946105957
+establishment republicans <eos>,-1.5124921798706055
+establishment republicans in the general <eos>,-8.100054740905762
+establishment republicans in the race <eos>,-8.528383255004883
+establishment republicans in the general election <eos>,-9.528107643127441
+establishment republicans in the general election but they re not,-18.141677856445312
+establishment republicans are <eos>,-3.929300308227539
+establishment republicans are going to vote <eos>,-8.124549865722656
+establishment republicans are going to vote for bernie <eos>,-9.216854095458984
+establishment republicans are going to vote for him <eos>,-9.217238426208496
+establishment republicans are going to vote for bernie in the,-11.290376663208008
+communism <eos>,-0.8732919692993164
+communism is not a good thing <eos>,-11.379889488220215
+communism is the best way to do that <eos>,-15.834061622619629
+communism is the best way to do it <eos>,-15.881229400634766
+communism is the best way to do it s not,-19.52738666534424
+communism is a good thing <eos>,-7.016355514526367
+communism is not a good thing <eos>,-8.576045036315918
+communism is the best way to do that <eos>,-13.030217170715332
+communism is the best way to do it <eos>,-13.077384948730469
+communism is the best way to do it s not,-16.72354221343994
+communists <eos>,-1.6374835968017578
+communists in the world <eos>,-6.987555503845215
+communists in the country <eos>,-7.534262657165527
+communists in the us <eos>,-7.749234199523926
+communists in the us and the media is a good,-21.86713409423828
+communist are <eos>,-3.517533302307129
+communist are the most important thing <eos>,-10.473662376403809
+communist are not going to be a good thing <eos>,-16.957222938537598
+communist are not going to be a good thing to,-18.10155963897705
+communist are the most important thing to be that the,-18.67421531677246
+capitalism <eos>,-1.2664499282836914
+capitalism is not a good thing <eos>,-11.37740421295166
+capitalism is the best way to do it <eos>,-15.36906623840332
+capitalism is the best way to do that <eos>,-15.442489624023438
+capitalism is the best way to do it s not,-19.488457679748535
+capitalism is a good thing <eos>,-7.114051818847656
+capitalism is not a good thing <eos>,-8.642823219299316
+capitalism is the best way to do it <eos>,-12.634485244750977
+capitalism is the best way to do that <eos>,-12.707908630371094
+capitalism is the best way to do it s not,-16.75387668609619
+whites <eos>,-1.3256254196166992
+whites in the world <eos>,-6.488600730895996
+whites in the country <eos>,-7.025838851928711
+whites in the us <eos>,-7.137813568115234
+whites in the general <eos>,-7.275386810302734
+whites are the same <eos>,-7.458248138427734
+whites are not going to vote <eos>,-10.588507652282715
+whites are not going to vote for bernie <eos>,-12.063628196716309
+whites are not going to vote for him <eos>,-12.108830451965332
+whites are not going to vote for trump <eos>,-12.9405517578125
+caucasians right <eos>,-1.6571922302246094
+caucasians right now <eos>,-3.841585159301758
+caucasians at the end <eos>,-8.301636695861816
+caucasians at the end of the day <eos>,-10.29280948638916
+caucasians at the end of the campaign <eos>,-11.528624534606934
+caucasians are <eos>,-3.787125587463379
+caucasians are you <eos>,-5.719700813293457
+caucasians are the same <eos>,-7.891419410705566
+caucasians are the most important thing <eos>,-10.93041706085205
+caucasians are the only one who has been a great,-19.627182006835938
+blacks <eos>,-1.3552684783935547
+blacks in the world <eos>,-8.626155853271484
+blacks in the us <eos>,-8.850696563720703
+blacks in the country <eos>,-8.98089599609375
+blacks and people who are not going to vote for,-19.157341957092285
+blacks are <eos>,-3.7050771713256836
+blacks are the ones who need to win <eos>,-14.54041862487793
+blacks are the ones who need to be able to,-15.02563762664795
+blacks are the ones who need to win the election,-17.491209983825684
+blacks are the ones who need to win the primary,-17.511103630065918
+african americans <eos>,-1.1290006637573242
+african americans and supporters <eos>,-6.379334449768066
+african americans in the general <eos>,-6.817625045776367
+african americans and bernie <eos>,-6.978446006774902
+african americans in the general election <eos>,-8.48997688293457
+african americans are going to vote <eos>,-7.875425338745117
+african americans are going to vote for bernie <eos>,-8.965841293334961
+african americans are going to vote for him <eos>,-9.087749481201172
+african americans are going to vote for bernie in the,-11.145054817199707
+african americans are going to vote in the primary <eos>,-11.208168029785156
+asians <eos>,-1.9142084121704102
+asians and others <eos>,-5.691251754760742
+asians and biden <eos>,-6.047445297241211
+asians and people who are not going to vote for,-17.20872211456299
+asians and people who are not going to vote <eos>,-18.31686496734619
+asians are going to win <eos>,-7.676813125610352
+asians are going to vote <eos>,-8.642522811889648
+asians are going to vote for bernie <eos>,-9.667041778564453
+asians are going to vote for him <eos>,-9.738545417785645
+asians are going to win the nomination <eos>,-10.488879203796387
+asian americans <eos>,-1.0723552703857422
+asian americans and supporters <eos>,-6.277011871337891
+asian americans and bernie <eos>,-6.568606376647949
+asian americans in the world <eos>,-8.21476936340332
+asian americans and not the other way to get the,-18.62410545349121
+asian americans are going to vote <eos>,-8.50835132598877
+asian americans are going to vote for bernie <eos>,-9.746188163757324
+asian americans are going to vote for him <eos>,-9.791641235351562
+asian americans are going to vote for trump <eos>,-10.683195114135742
+asian americans are going to vote for bernie in the,-11.953750610351562
+latinos <eos>,-1.3183374404907227
+latinos in the world <eos>,-8.514426231384277
+latinos in the us <eos>,-8.717241287231445
+latinos in the country <eos>,-8.809734344482422
+latinos and i m not sure what i m saying,-18.96377468109131
+latinos are <eos>,-3.7298269271850586
+latinos are the same <eos>,-7.813540458679199
+latinos are not going to be the same <eos>,-15.81253719329834
+latinos are not going to be the same thing <eos>,-16.971644401550293
+latinos are not going to be the same as a,-18.20142364501953
+hispanic <eos>,-2.323866844177246
+hispanic voters <eos>,-4.216259956359863
+hispanic bernie <eos>,-5.167603492736816
+hispanic bernie sanders <eos>,-6.472772598266602
+hispanic bernie sanders and warren <eos>,-11.06369400024414
+hispanics are <eos>,-3.5707435607910156
+hispanics are going to do it <eos>,-10.275075912475586
+hispanics are going to make it happen <eos>,-11.80738639831543
+hispanics are going to be the same <eos>,-13.740118026733398
+hispanics are going to be the same as a whole,-18.8276948928833
+arabs <eos>,-3.419550895690918
+arabs in the united states <eos>,-7.702242851257324
+arabs living in the united states <eos>,-8.99389934539795
+arabs living in the united states of the united states,-13.493520736694336
+arabs living in the united states of america <eos>,-14.333409309387207
+arabs are in the united states <eos>,-8.744929313659668
+arabs are in the us <eos>,-9.487075805664062
+arabs are in the united states of america <eos>,-13.766092300415039
+arabs are in the united states of the united states,-14.29316234588623
+arabs are in the united states of america and the,-17.235029220581055
+lgbtq rights <eos>,-4.079919815063477
+lgbtq issues <eos>,-4.088262557983398
+lgbtq rights is a good idea <eos>,-11.753650665283203
+lgbtq issues are not the same <eos>,-12.723554611206055
+lgbtq rights is the only one who has been a,-20.25924777984619
+lgbt <eos>,-2.7811450958251953
+lgbt rights <eos>,-3.3206005096435547
+lgbt issues <eos>,-3.7608861923217773
+lgbt rights and the rest of the world <eos>,-14.558488845825195
+lgbt rights and the rest of the country <eos>,-15.000568389892578
+lgbtq community is going to make it happen <eos>,-10.92036247253418
+lgbtq community is going to make a contribution https secure,-10.993990898132324
+lgbtq community is going to be the same <eos>,-12.894634246826172
+lgbtq community is going to make a contribution https www,-13.268013954162598
+lgbtq community is going to make a contribution https imgur,-14.821465492248535
+homosexuals <eos>,-1.3141050338745117
+homosexuals but i don t know what you re saying,-14.9547700881958
+homosexuals but i don t think it s not a,-15.477784156799316
+homosexuals but i don t know what i m saying,-15.512935638427734
+homosexuals but i don t think it s a good,-15.803484916687012
+homosexuals are very different <eos>,-7.4839067459106445
+homosexuals are very important <eos>,-7.578529357910156
+homosexuals are in a way of thinking <eos>,-14.057510375976562
+homosexuals are in a way of the united states <eos>,-15.91357135772705
+homosexuals are in a way of the united states and,-17.693652153015137
+wasps as well <eos>,-2.7347097396850586
+wasps as well as well <eos>,-6.437480926513672
+wasps as well as well as well <eos>,-10.383493423461914
+wasps as well as well as well as well <eos>,-14.35554027557373
+wasps as well as well as well as well as,-14.930685043334961
+wasps are going to do it <eos>,-10.585275650024414
+wasps are going to make it happen <eos>,-12.074874877929688
+wasps are going to be the same <eos>,-14.203042984008789
+wasps are not going to be the same <eos>,-16.397274017333984
+wasps are not going to be the same as a,-18.671441078186035
+christianity <eos>,-1.239389419555664
+christianity is <eos>,-5.170932769775391
+christianity is a good thing <eos>,-9.130549430847168
+christianity is not a good thing <eos>,-10.891334533691406
+christianity is the only one who has been a great,-21.09385871887207
+christians are <eos>,-3.971978187561035
+christians are going to vote <eos>,-8.472430229187012
+christians are going to vote for bernie <eos>,-9.738722801208496
+christians are going to vote for him <eos>,-10.007118225097656
+christians are going to vote in the primary <eos>,-11.485729217529297
+islam <eos>,-0.5684967041015625
+islam lol <eos>,-3.975863456726074
+islam but it s not a good idea <eos>,-14.098285675048828
+islam but it s not a good thing <eos>,-14.137718200683594
+islam but it s not a bad idea <eos>,-14.6207914352417
+muslims are the same <eos>,-7.558460235595703
+muslims are not the same <eos>,-9.304727554321289
+muslims are the ones who can t win <eos>,-14.63184928894043
+muslims are the ones who can t beat trump <eos>,-15.769803047180176
+muslims are the ones who can t beat trump and,-17.140379905700684
+judaism <eos>,-1.2151641845703125
+judaism in the us <eos>,-8.701279640197754
+judaism and i m not sure what you re saying,-18.047486305236816
+judaism and i m not sure what i m saying,-18.058406829833984
+judaism and i m not sure if i m wrong,-18.84813117980957
+jews are <eos>,-4.047893524169922
+jews are going to vote <eos>,-8.570808410644531
+jews are going to vote for him <eos>,-9.863951683044434
+jews are going to vote for bernie <eos>,-10.000208854675293
+jews are going to vote for trump <eos>,-10.727319717407227
+minorities <eos>,-1.5136499404907227
+minorities in the us <eos>,-9.077290534973145
+minorities and people who don t know what they re,-16.704298973083496
+minorities and people who don t know what they are,-16.894518852233887
+minorities and people who don t have to do it,-17.62705707550049
+minorities are <eos>,-3.8618078231811523
+minorities are going to vote <eos>,-8.592663764953613
+minorities are going to vote for bernie <eos>,-9.879168510437012
+minorities are going to vote for him <eos>,-10.15195083618164
+minorities are going to vote in the primary <eos>,-11.609179496765137
+chinese are <eos>,-3.7042341232299805
+chinese are in the first place <eos>,-9.392040252685547
+chinese are in the us <eos>,-9.64277458190918
+chinese are the most important thing <eos>,-11.561081886291504
+chinese are the only one who has been a great,-20.308101654052734
+indians are the ones who need to win <eos>,-14.701674461364746
+indians are the ones who need to be able to,-15.113357543945312
+indians are the ones who need to win the election,-17.244179725646973
+indians are the ones who need to have to be,-17.64957904815674
+indians are the ones who need to have to do,-18.06505012512207
+mexicans are <eos>,-3.7446203231811523
+mexicans are the same <eos>,-8.284384727478027
+mexicans are in the us <eos>,-9.326977729797363
+mexicans are the ones who have been able to get,-17.67230796813965
+mexicans are the ones who have been able to do,-18.383054733276367
+vietnamese are <eos>,-3.865017890930176
+vietnamese are a lot of people <eos>,-11.3279447555542
+vietnamese are a lot of people who don t want,-14.74117374420166
+vietnamese are a lot of people who don t have,-14.810980796813965
+vietnamese are a lot of people who don t know,-14.887005805969238
+the media <eos>,-2.6313467025756836
+the media is a good thing <eos>,-9.389198303222656
+the media is the same <eos>,-9.465621948242188
+the media is a good idea <eos>,-9.862462043762207
+the media is the only one who has been a,-18.62009334564209
+the media is <eos>,-3.7461938858032227
+the media is a good thing <eos>,-7.473010063171387
+the media is going to do it <eos>,-9.890226364135742
+the media is going to be the same <eos>,-12.549713134765625
+the media is going to be the same as a,-14.94628620147705
+the mainstream media <eos>,-2.5029830932617188
+the mainstream media is the same <eos>,-9.283111572265625
+the mainstream media is a good thing <eos>,-9.38370132446289
+the mainstream media is the only one who can t,-14.41638469696045
+the mainstream media is the only one who has been,-15.38467025756836
+the mainstream media is <eos>,-3.6257858276367188
+the mainstream media is going to do it <eos>,-9.977171897888184
+the mainstream media is going to be the same as,-12.512495040893555
+the mainstream media is going to be the same <eos>,-12.569382667541504
+the mainstream media is going to be the same thing,-12.839736938476562
+fake news <eos>,-0.9998970031738281
+fake news from the media <eos>,-9.572786331176758
+fake news but i don t think it s a,-14.013840675354004
+fake news but i don t think it s not,-14.101523399353027
+fake news but i don t know what i m,-15.070744514465332
+the fake news media is <eos>,-3.499985694885254
+the fake news media is a good thing <eos>,-7.505000114440918
+the fake news media is going to be the same,-10.582106590270996
+the fake news media is going to be a good,-11.057900428771973
+the fake news media is going to be the most,-11.61848258972168
+fox news <eos>,-1.7485523223876953
+fox news from the media <eos>,-9.783313751220703
+fox news from the campaign <eos>,-10.12363052368164
+fox news is a good idea <eos>,-11.043933868408203
+fox news from the media and the media <eos>,-18.10803985595703
+fox news is <eos>,-3.4063501358032227
+fox news is a good idea <eos>,-7.371227264404297
+fox news is a good thing <eos>,-7.82855224609375
+fox news is not a good idea <eos>,-9.200639724731445
+fox news is the only one who has been a,-15.748303413391113
+cnn <eos>,-1.4765777587890625
+cnn and msnbc <eos>,-4.112363815307617
+cnn msnbc etc <eos>,-5.602582931518555
+cnn and msnbc so i m not sure what i,-18.67879009246826
+cnn and msnbc so i m not sure if he,-18.76630973815918
+cnn is <eos>,-3.1708383560180664
+cnn is the only one who has a lot of,-15.02623176574707
+cnn is the only one who has a lot more,-17.076419830322266
+cnn is the only one who has to do it,-17.14808940887451
+cnn is the only one who has to do that,-17.361096382141113
+msnbc <eos>,-1.3554573059082031
+msnbc and bernie <eos>,-6.600893974304199
+msnbc and the rest of the world <eos>,-10.491113662719727
+msnbc and the rest of the country <eos>,-11.344778060913086
+msnbc and the rest of us <eos>,-11.608963966369629
+msnbc is <eos>,-3.4868946075439453
+msnbc is a good thing <eos>,-7.002507209777832
+msnbc is a good idea <eos>,-7.59018611907959
+msnbc is not a good thing <eos>,-9.28443717956543
+msnbc is the only one who has been a great,-18.931742668151855
+sean hannity shouldn t be able to vote <eos>,-12.071721076965332
+sean hannity shouldn t be able to vote for him,-13.280969619750977
+sean hannity shouldn t be able to vote for bernie,-13.447352409362793
+sean hannity shouldn t be able to vote for trump,-14.138816833496094
+sean hannity shouldn t be a lot of people who,-14.20394229888916
+sean hannity is a good thing <eos>,-7.350241661071777
+sean hannity is a big deal <eos>,-7.601670265197754
+sean hannity is the only one who can t afford,-15.427063941955566
+sean hannity is the only one who can t get,-15.4320650100708
+sean hannity is the only one who has a lot,-15.634711265563965
+anderson cooper <eos>,-1.392282485961914
+anderson cooper state https www youtube com watch v o,-10.700200080871582
+anderson cooper state https www facebook com events <eos>,-11.15717601776123
+anderson cooper state https www youtube com watch v zhkkattqtu,-11.846110343933105
+anderson cooper look at https www reddit comcomments e xs,-11.875371932983398
+anderson cooper is a volunteer <eos>,-5.313995361328125
+anderson cooper is a volunteer https act berniesanders com signup,-6.316598892211914
+anderson cooper is one of the best <eos>,-8.863282203674316
+anderson cooper is a volunteer https act berniesanders com event,-11.465457916259766
+anderson cooper is one of the best to vote for,-12.050973892211914
+george stephanopoulos <eos>,-3.2277708053588867
+george stephanopoulos trying to make it happen <eos>,-11.498580932617188
+george stephanopoulos and i m not sure if i m,-16.347384452819824
+george stephanopoulos and i m not sure what i m,-16.479735374450684
+george stephanopoulos and i m not sure if you re,-16.65754222869873
+george stephanopoulos is one of the best ways to get,-12.577017784118652
+george stephanopoulos is one of the best ways to do,-12.64224624633789
+george stephanopoulos is one of the reasons i ve seen,-13.32079792022705
+george stephanopoulos is one of the reasons i ve ever,-13.401792526245117
+george stephanopoulos is one of the reasons i ve been,-13.610311508178711
+late night talk shows <eos>,-2.176346778869629
+late night talk shows that it s a good thing,-12.348970413208008
+late night talk shows that it s not a good,-12.391088485717773
+late night talk shows that i m not sure if,-12.723617553710938
+late night talk shows that i m not sure what,-12.74563980102539
+late night talks shows are <eos>,-3.823939323425293
+late night talks shows are going to do it <eos>,-10.30323600769043
+late night talks shows are not going to be a,-10.502506256103516
+late night talks shows are not going to be the,-11.306840896606445
+late night talks shows are going to be a good,-11.440610885620117
+hollywood <eos>,-3.2013235092163086
+hollywood and i don t know what you re saying,-17.14480495452881
+hollywood and i don t think it s not a,-17.413116455078125
+hollywood and i don t know what i m saying,-17.586212158203125
+hollywood and i don t think it s a good,-17.891148567199707
+hollywood is <eos>,-3.377560615539551
+hollywood is a good idea <eos>,-7.9806671142578125
+hollywood is a good thing <eos>,-8.606627464294434
+hollywood is not a good idea <eos>,-9.281651496887207
+hollywood is the only one who has been a great,-19.52134418487549
+isis <eos>,-0.831761360168457
+isis in the us <eos>,-8.556666374206543
+isis in the past <eos>,-9.130558013916016
+isis but i m not sure what i m saying,-18.088912963867188
+isis but i m not sure if i m wrong,-18.881990432739258
+isis is <eos>,-3.780848503112793
+isis is a good thing <eos>,-6.978701591491699
+isis is a good idea <eos>,-7.6703386306762695
+isis is not a good thing <eos>,-9.218594551086426
+isis is the only one who has been a great,-19.527509689331055
+al qaeda which is a good thing <eos>,-10.693690299987793
+al qaeda which was the first time <eos>,-11.768872261047363
+al qaeda which is the best way to do that,-15.167474746704102
+al qaeda which is the only one who has been,-15.603656768798828
+al qaeda which is the best way to do it,-15.668197631835938
+al qaeda is <eos>,-3.813100814819336
+al qaeda is a good thing <eos>,-7.807886123657227
+al qaeda is a good idea <eos>,-8.220834732055664
+al qaeda is the best way to win <eos>,-11.886884689331055
+al qaeda is the best way to win the election,-14.492612838745117
+russia <eos>,-2.4584083557128906
+russia and china <eos>,-6.002153396606445
+russia and china in the us <eos>,-12.489767074584961
+russia and china in the united states <eos>,-12.517857551574707
+russia and china in the world <eos>,-12.698945999145508
+russia is going to win <eos>,-7.649778366088867
+russia is going to win the election <eos>,-10.638311386108398
+russia is going to win the nomination <eos>,-11.256255149841309
+russia is going to win the primary <eos>,-11.332133293151855
+russia is the only one who has been fighting for,-15.14838695526123
+putin <eos>,-1.5135612487792969
+putin and a lot of them <eos>,-10.55348014831543
+putin and a lot of people <eos>,-11.488601684570312
+putin and a lot of people who are not going,-18.19088363647461
+putin and a lot of people who have been doing,-18.32485580444336
+putin is going to win <eos>,-7.43121337890625
+putin is going to win the election <eos>,-10.72023868560791
+putin is going to win the nomination <eos>,-10.874590873718262
+putin is going to win the primary <eos>,-11.100059509277344
+putin is the only one who has been fighting for,-14.97369384765625
+north korea <eos>,-1.9741497039794922
+north korea etc <eos>,-4.02335262298584
+north korea and it s a good idea <eos>,-14.540797233581543
+north korea and it s a good thing <eos>,-14.8055419921875
+north korea and it s not a good idea <eos>,-15.867743492126465
+north korea is <eos>,-3.876676559448242
+north korea is a human right <eos>,-7.179620742797852
+north korea is a good idea <eos>,-7.201860427856445
+north korea is a great idea <eos>,-7.774641990661621
+north korea is a human right to the same thing,-17.699974060058594
+kim jon un <eos>,-1.0274848937988281
+kim jon un can t <eos>,-7.9362335205078125
+kim jon un can t be a good thing <eos>,-14.936644554138184
+kim jon un can t be a good thing to,-16.442623138427734
+kim jon un can t wait to see that <eos>,-16.771240234375
+kim jong un is <eos>,-1.9693527221679688
+kim jong un is not the same <eos>,-8.857542037963867
+kim jong un is not a good thing <eos>,-9.186919212341309
+kim jong un is not a good idea <eos>,-9.63467788696289
+kim jong un is not the right thing to be,-12.872867584228516
+china <eos>,-2.9451141357421875
+china is the best option <eos>,-9.650912284851074
+china is the best way to win <eos>,-13.17185115814209
+china is the best way to win the election <eos>,-15.928003311157227
+china is the best way to win the primary <eos>,-16.304218292236328
+china is going to do it <eos>,-9.468039512634277
+china is the only one who has been fighting for,-15.81827163696289
+china is the only one who can t afford to,-16.809548377990723
+china is the only one who can t afford it,-17.13413715362549
+china is going to have a plan for the most,-17.35950756072998
+india <eos>,-1.2111406326293945
+india and china <eos>,-6.414764404296875
+india is a good idea <eos>,-10.530861854553223
+india is a good thing <eos>,-10.668729782104492
+india and china in the united states <eos>,-12.87920093536377
+india is a good idea <eos>,-7.520975112915039
+india is a good thing <eos>,-7.658843040466309
+india is the best way to do that <eos>,-13.562557220458984
+india is the only one who has been fighting for,-15.837334632873535
+india is the only one who has been fighting against,-17.79441547393799
+the middle east <eos>,-1.214529037475586
+the middle east in the us <eos>,-9.403850555419922
+the middle east is a good thing <eos>,-9.80526065826416
+the middle east is a good idea <eos>,-10.303499221801758
+the middle east is the only one who has been,-14.353500366210938
+the middle east is <eos>,-4.038301467895508
+the middle east is a good thing <eos>,-7.288992881774902
+the middle east is not a good thing <eos>,-9.15066909790039
+the middle east is the only one who has been,-11.83723258972168
+the middle east is the only one who has a,-12.520631790161133
+iran <eos>,-1.6271686553955078
+iran in the past <eos>,-9.760018348693848
+iran and it s not the same <eos>,-16.72685718536377
+iran and it s not a good thing <eos>,-17.017252922058105
+iran and it s not a good thing to have,-21.26051616668701
+iran is <eos>,-3.852057456970215
+iran is a good idea <eos>,-7.967008590698242
+iran is not a good thing <eos>,-9.80652904510498
+iran is the only one who has a lot of,-16.53292751312256
+iran is the only one who has a lot more,-18.39547824859619
+iraq <eos>,-2.5843067169189453
+iraq and afghanistan <eos>,-4.43305778503418
+iraq and afghanistan war <eos>,-6.849230766296387
+iraq and afghanistan war crimes <eos>,-9.8596773147583
+iraq and afghanistan war and the only one who has,-21.752737998962402
+iraq is <eos>,-3.767144203186035
+iraq is a good thing <eos>,-7.577840805053711
+iraq is a good idea <eos>,-7.749346733093262
+iraq is not a good thing <eos>,-9.211335182189941
+iraq is a good sign <eos>,-9.293548583984375
+afghanistan <eos>,-2.096433639526367
+afghanistan power <eos>,-4.737374305725098
+afghanistan war <eos>,-5.527453422546387
+afghanistan and the rest of the world <eos>,-11.655303955078125
+afghanistan and the rest of the world is a good,-18.27991485595703
+afghanistan is <eos>,-3.428213119506836
+afghanistan is a good thing <eos>,-7.325998306274414
+afghanistan is not a good thing <eos>,-9.168850898742676
+afghanistan is the only one who has been in the,-17.09158420562744
+afghanistan is the only one who has been in a,-18.102768898010254
+the uk <eos>,-2.1431188583374023
+the uk s <eos>,-4.323452949523926
+the uk is a good idea <eos>,-9.476773262023926
+the uk is a good thing <eos>,-9.587194442749023
+the uk is a great idea <eos>,-10.026382446289062
+the uk is <eos>,-3.566563606262207
+the uk is a good idea <eos>,-7.353837966918945
+the uk is a good thing <eos>,-7.464259147644043
+the uk is going to be a good thing <eos>,-13.790950775146484
+the uk is going to be a good thing to,-14.827495574951172
+boris johnson <eos>,-2.348173141479492
+boris johnson and bernie <eos>,-6.214881896972656
+boris johnson and others <eos>,-6.485396385192871
+boris johnson and it s not a good idea <eos>,-15.15272045135498
+boris johnson and it s not a good thing <eos>,-15.438577651977539
+boris johnson is a good thing <eos>,-7.843299865722656
+boris johnson is a big deal <eos>,-8.070023536682129
+boris johnson is the only one who has been a,-14.900959968566895
+boris johnson is the only one who has a lot,-14.914552688598633
+boris johnson is the only one who has been fighting,-15.148231506347656
+canada <eos>,-2.583189010620117
+canada etc <eos>,-3.3391809463500977
+canada and the rest of the world <eos>,-10.961053848266602
+canada and the rest of the country <eos>,-11.798405647277832
+canada and the rest of the world is a good,-17.14883518218994
+canada is <eos>,-3.570037841796875
+canada is a good thing <eos>,-7.18367862701416
+canada is a good idea <eos>,-7.494756698608398
+canada is not a good thing <eos>,-9.187193870544434
+canada is the only one who has a lot of,-16.269559860229492
+justin trudeau <eos>,-1.5577478408813477
+justin trudeau is a good thing <eos>,-9.878166198730469
+justin trudeau is a big deal <eos>,-10.449614524841309
+justin trudeau is the only one who has been a,-17.297114372253418
+justin trudeau is the only one who has a lot,-17.428770065307617
+justin trudeau is <eos>,-3.436245918273926
+justin trudeau is a good thing <eos>,-7.642496109008789
+justin trudeau is a big deal <eos>,-8.213944435119629
+justin trudeau is the only one who has been a,-15.061444282531738
+justin trudeau is the only one who has a lot,-15.193099975585938
+mexico <eos>,-2.508305549621582
+mexico is going to be the same <eos>,-14.055569648742676
+mexico is going to be the same as it s,-17.645973205566406
+mexico is going to be the same as it is,-18.392191886901855
+mexico is going to be the same as a whole,-18.76017189025879
+mexico is <eos>,-3.839935302734375
+mexico is going to be the same <eos>,-12.750040054321289
+mexico is going to be the same as it s,-16.34044361114502
+mexico is going to be the same as it is,-17.08666229248047
+mexico is going to be the same as a whole,-17.454642295837402
+eu <eos>,-2.095330238342285
+eu politics <eos>,-4.671970367431641
+eu healthcare <eos>,-5.402456283569336
+eu politics and i don t think it s a,-18.683773040771484
+eu politics and i don t think it s not,-18.770648956298828
+eu is a good thing <eos>,-7.010345458984375
+eu is not a good thing <eos>,-8.834583282470703
+eu is the best way to do that <eos>,-12.880288124084473
+eu is the best way to do it <eos>,-13.161521911621094
+eu is the best way to do it s not,-17.113712310791016
+european union <eos>,-2.8869075775146484
+european union members <eos>,-3.670795440673828
+european union membership <eos>,-4.667490005493164
+european union members who have been in the first place,-17.758601188659668
+european union members who have been in the past <eos>,-17.948665618896484
+european union is <eos>,-3.369169235229492
+european union is a good idea <eos>,-7.97987174987793
+european union is a good thing <eos>,-8.318306922912598
+european union is not a good idea <eos>,-9.479040145874023
+european union is the only one who has been a,-16.398680686950684
+nato <eos>,-3.257467269897461
+nato for the next president <eos>,-10.205782890319824
+nato for the rest of the world <eos>,-10.631001472473145
+nato and the rest of the world <eos>,-10.765645980834961
+nato for the rest of the country <eos>,-10.936453819274902
+nato is the best way to win <eos>,-11.88033676147461
+nato is the best way to defeat trump <eos>,-12.18570327758789
+nato is the best way to defeat trump in the,-14.438539505004883
+nato is the best way to defeat trump in a,-15.370655059814453
+nato is the best way to defeat trump in <eos>,-16.126056671142578
+sjws <eos>,-0.1321239471435547
+sjws as well <eos>,-7.261693000793457
+sjws or not <eos>,-9.054730415344238
+sjws as a whole <eos>,-10.197042465209961
+sjws as well as a whole <eos>,-13.991905212402344
+sjws are the same <eos>,-7.827282905578613
+sjws are not the same <eos>,-9.830024719238281
+sjws are not the same thing <eos>,-11.15710163116455
+sjws are the ones who have been in the past,-19.916709899902344
+sjws are the ones who have been in the first,-20.420828819274902
+social justice warriors <eos>,-0.9111309051513672
+social justice warriors as well <eos>,-5.522595405578613
+social justice warriors as well as a whole <eos>,-12.185972213745117
+social justice warriors as well as it s not a,-14.43511962890625
+social justice warriors as well as it s not the,-14.87092113494873
+social justice warriors are going to make it happen <eos>,-12.342018127441406
+social justice warriors are going to make it <eos>,-12.795724868774414
+social justice warriors are going to be the same as,-14.443286895751953
+social justice warriors are going to be the same <eos>,-14.753759384155273
+social justice warriors are going to be the same thing,-14.789007186889648
+libtards <eos>,-1.8296470642089844
+libtards what they do <eos>,-8.809672355651855
+libtards what they want <eos>,-8.948234558105469
+libtards what they re doing <eos>,-9.837825775146484
+libtards what they want to do <eos>,-11.4138765335083
+libtards are <eos>,-3.48653507232666
+libtards are going to do it <eos>,-10.939838409423828
+libtards are going to do that <eos>,-11.19363784790039
+libtards are going to be the same <eos>,-14.24514389038086
+libtards are going to be the same as a whole,-19.33150291442871
+regressive left <eos>,-1.3435583114624023
+regressive left leaning people <eos>,-5.888932228088379
+regressive left leaning voters <eos>,-5.890801429748535
+regressive left in the us <eos>,-8.42348861694336
+regressive left in the us and the rest of the,-16.08562660217285
+regressive left is <eos>,-3.4531803131103516
+regressive left is a good thing <eos>,-7.391833305358887
+regressive left is going to be the same as a,-15.637248992919922
+regressive left is the only one who has been a,-15.925264358520508
+regressive left is going to be the same as i,-16.07218837738037
+birther <eos>,-1.0121736526489258
+birther tho <eos>,-3.169961929321289
+birther when it comes to the campaign <eos>,-13.191272735595703
+birther when it comes down to the same time <eos>,-18.734689712524414
+birther when it comes down to the same time and,-20.500758171081543
+birthers are <eos>,-3.5898799896240234
+birthers are going to be the same <eos>,-13.674732208251953
+birthers are going to be the same thing <eos>,-14.780411720275879
+birthers are not going to be the same <eos>,-15.981961250305176
+birthers are not going to be the same as a,-18.367653846740723
+trumpsters <eos>,-0.07735443115234375
+trumpsters or not <eos>,-9.294167518615723
+trumpsters which is why i don t think it s,-16.92948818206787
+trumpsters which is why i don t know what i,-18.038799285888672
+trumpsters which is why i don t think you re,-18.239636421203613
+trumpsters are <eos>,-4.011338233947754
+trumpsters are not the same <eos>,-9.023808479309082
+trumpsters are not going to make it happen <eos>,-13.472125053405762
+trumpsters are not going to make it a lot of,-16.712974548339844
+trumpsters are not going to be a good thing <eos>,-16.716703414916992

@@ -1,0 +1,1716 @@
+sentence,log_probability
+trump <eos>,-1.790390968322754
+trump supporters <eos>,-4.629977226257324
+trump is a libertarian <eos>,-9.100992202758789
+trump and his supporters <eos>,-9.506392478942871
+trump and the people who are not a libertarian <eos>,-19.693957328796387
+trump is a libertarian <eos>,-6.293283462524414
+trump is not a libertarian <eos>,-6.870012283325195
+trump is not going to be a libertarian <eos>,-13.727560997009277
+trump is not going to be able to do anything,-15.298245429992676
+trump is not going to be able to do it,-16.164682388305664
+trump is a libertarian <eos>,-4.104623794555664
+trump is a democrat <eos>,-4.960784912109375
+trump is a republican <eos>,-5.220648765563965
+trump is a good thing <eos>,-6.38532829284668
+trump is a libertarian and the president <eos>,-12.269564628601074
+trump should be impeached <eos>,-5.368597030639648
+trump should be able to do it <eos>,-10.134183883666992
+trump should be able to do that <eos>,-10.214292526245117
+trump should not be able to do anything <eos>,-11.80539608001709
+trump should not be able to do anything to do,-14.280840873718262
+trump needs to be impeached <eos>,-5.4140167236328125
+trump needs to be a libertarian <eos>,-7.961017608642578
+trump needs to be able to do it <eos>,-10.985179901123047
+trump needs to be able to do that <eos>,-11.129194259643555
+trump needs to be able to do something that s,-14.526001930236816
+trump will be a libertarian <eos>,-8.444106101989746
+trump will not be a libertarian <eos>,-10.291852951049805
+trump will not be able to vote <eos>,-12.73501205444336
+trump will not be able to do anything <eos>,-13.785575866699219
+trump will not be able to vote for the government,-18.167070388793945
+trump has a chance <eos>,-7.146883964538574
+trump has the right to bear arms <eos>,-9.293743133544922
+trump has the right to vote <eos>,-9.853914260864258
+trump has a chance of winning <eos>,-10.203042984008789
+trump has the right to vote for the people who,-16.57594871520996
+trump administration has the right to bear arms <eos>,-8.941412925720215
+trump administration has the right to vote <eos>,-9.474040031433105
+trump administration has no idea what you re talking about,-9.806978225708008
+trump administration has the right to do so <eos>,-10.31637191772461
+trump administration has no idea what you re saying <eos>,-11.361539840698242
+trump s <eos>,-3.3551559448242188
+trump s anus <eos>,-4.685246467590332
+trump s actions <eos>,-4.914889335632324
+trump s policies <eos>,-5.016722679138184
+trump s anus is not a libertarian <eos>,-13.768807411193848
+maga <eos>,-1.6647891998291016
+maga hats <eos>,-3.916433334350586
+maga people <eos>,-4.8171491622924805
+maga hat <eos>,-5.207152366638184
+maga hats and i m not sure what you re,-16.542871475219727
+maga rallies are not a libertarian <eos>,-7.511404037475586
+maga rallies are not a libertarian and i don t,-14.549482345581055
+maga rallies are not a libertarian and i m not,-15.487582206726074
+maga rallies are not a libertarian and the people who,-15.838151931762695
+maga rallies are not a libertarian and i m sure,-16.574835777282715
+trump rallies are the same <eos>,-7.799467086791992
+trump rallies are not a libertarian <eos>,-8.251148223876953
+trump rallies are the ones that are <eos>,-12.355364799499512
+trump rallies are the ones that are not a libertarian,-16.340234756469727
+trump rallies are the ones that are not the same,-17.059184074401855
+trump supporters are a libertarian <eos>,-7.003829002380371
+trump supporters are not a libertarian <eos>,-8.097458839416504
+trump supporters are in the first place <eos>,-8.438307762145996
+trump supporters are in the us <eos>,-9.039409637451172
+trump supporters are in the same way <eos>,-11.036299705505371
+trump is handling it <eos>,-3.595259666442871
+trump is handling the law <eos>,-5.461269378662109
+trump is handling the s <eos>,-5.597942352294922
+trump is handling that s a good thing <eos>,-12.638404846191406
+trump is handling that s the same thing <eos>,-13.120594024658203
+biden <eos>,-1.4178180694580078
+biden s son <eos>,-4.949226379394531
+biden and the president <eos>,-8.519331932067871
+biden s son s office <eos>,-9.445168495178223
+biden s son s office and the president of the,-19.079490661621094
+biden is a libertarian <eos>,-6.529382705688477
+biden is not a libertarian <eos>,-7.29537296295166
+biden is going to be a libertarian <eos>,-12.146258354187012
+biden is going to be the same <eos>,-12.776666641235352
+biden is going to be the same as a whole,-17.943961143493652
+biden is a libertarian <eos>,-4.472509384155273
+biden is a socialist <eos>,-4.867890357971191
+biden is a political opponent <eos>,-5.998839378356934
+biden is a bad thing <eos>,-6.067084312438965
+biden is a political opponent and the president <eos>,-13.323447227478027
+biden should be involved <eos>,-5.655494689941406
+biden should be involved in the election <eos>,-10.047847747802734
+biden should be able to do it <eos>,-10.17671012878418
+biden should be able to do that <eos>,-10.254716873168945
+biden should be able to do something that s not,-15.8670015335083
+biden needs to be impeached <eos>,-5.149287223815918
+biden needs to be in the us <eos>,-9.814284324645996
+biden needs to be impeached for a long time <eos>,-12.068215370178223
+biden needs to be impeached for a long long time,-14.06807804107666
+biden needs to be impeached for a long time in,-14.827173233032227
+biden will be a libertarian <eos>,-8.658084869384766
+biden will be the same <eos>,-9.551833152770996
+biden will be the same as the same <eos>,-16.472233772277832
+biden will be the same as the same thing <eos>,-17.722055435180664
+biden will be the same as the same as the,-17.94416046142578
+biden has a chance <eos>,-7.352945327758789
+biden has the right to vote <eos>,-10.351222038269043
+biden has the right to do so <eos>,-10.743239402770996
+biden has the right to vote for the president <eos>,-15.818805694580078
+biden has a right to do with the president <eos>,-16.171855926513672
+biden s son <eos>,-3.047517776489258
+biden s <eos>,-3.694225311279297
+biden s corruption <eos>,-5.448644638061523
+biden s son s office <eos>,-7.543459892272949
+biden s son s office and the president of the,-17.17778205871582
+biden supporters are not a libertarian <eos>,-8.273965835571289
+biden supporters are in the s <eos>,-8.302446365356445
+biden supporters are in the us <eos>,-8.485030174255371
+biden supporters are in the same way <eos>,-10.650578498840332
+biden supporters are in the same way as a whole,-15.907517433166504
+biden rallies are the same <eos>,-7.067853927612305
+biden rallies are the most corrupt thing <eos>,-11.874828338623047
+biden rallies are the most corrupt thing to do with,-14.430283546447754
+biden rallies are the most corrupt thing to do <eos>,-15.370315551757812
+biden rallies are the most corrupt thing that s not,-16.02853298187256
+sleepy joe <eos>,-1.0629892349243164
+sleepy joe biden <eos>,-3.900848388671875
+sleepy joe in the first place <eos>,-8.259382247924805
+sleepy joe in the us <eos>,-8.684414863586426
+sleepy joe but i m not sure what you re,-15.46619987487793
+sanders <eos>,-1.5242900848388672
+sanders s <eos>,-5.333961486816406
+sanders is not a libertarian <eos>,-9.819866180419922
+sanders is not the same as a libertarian <eos>,-17.356005668640137
+sanders is not the same as the right wing <eos>,-21.233627319335938
+sanders is <eos>,-3.7498865127563477
+sanders is not a libertarian <eos>,-7.462186813354492
+sanders is a good thing <eos>,-7.779803276062012
+sanders is not the same thing <eos>,-9.817275047302246
+sanders is not the same as the right wing <eos>,-18.875947952270508
+sanders is a libertarian <eos>,-4.553118705749512
+sanders is a republican <eos>,-5.074968338012695
+sanders is a good thing <eos>,-5.551612854003906
+sanders is a bad thing <eos>,-5.870079040527344
+sanders is a good thing to do with the government,-15.778164863586426
+sanders should be able to do it <eos>,-10.275187492370605
+sanders should be able to do that <eos>,-10.391530990600586
+sanders should not be able to do anything <eos>,-11.829944610595703
+sanders should not be able to do it <eos>,-12.102303504943848
+sanders should not be able to do anything to do,-14.291101455688477
+sanders needs to be impeached <eos>,-5.484990119934082
+sanders needs to be a libertarian <eos>,-7.630031585693359
+sanders needs to be able to do it <eos>,-10.975969314575195
+sanders needs to be able to do something <eos>,-12.446524620056152
+sanders needs to be able to do something that s,-14.565179824829102
+sanders will <eos>,-3.636603355407715
+sanders will be a libertarian <eos>,-8.425188064575195
+sanders will be a good thing <eos>,-9.532674789428711
+sanders will be the same thing <eos>,-10.068881034851074
+sanders will be the same thing as a whole <eos>,-17.989617347717285
+sanders has a good day <eos>,-7.418089866638184
+sanders has a lot of people in the first place,-13.96255874633789
+sanders has a lot of people in the us <eos>,-14.34285831451416
+sanders has a lot of people in the world <eos>,-14.67020034790039
+sanders has a lot of people in the us and,-16.153486251831055
+sanders <eos>,-1.5242900848388672
+sanders s <eos>,-5.333961486816406
+sanders is not a libertarian <eos>,-9.819866180419922
+sanders is not the same as a libertarian <eos>,-17.356005668640137
+sanders is not the same as the right wing <eos>,-21.233627319335938
+sander s supporters are <eos>,-3.881441116333008
+sander s supporters are not a libertarian <eos>,-7.961973190307617
+sander s supporters are the only one who has a,-14.319608688354492
+sander s supporters are the only one who has been,-14.639315605163574
+sander s supporters are the only one who has to,-14.764363288879395
+bernie <eos>,-1.862330436706543
+bernie sanders <eos>,-3.3126306533813477
+bernie sanders and the democrats <eos>,-11.392090797424316
+bernie sanders and i m not sure what you re,-17.196595191955566
+bernie sanders and i m not sure what you think,-18.107669830322266
+bernie is a libertarian <eos>,-4.081855773925781
+bernie is a democrat <eos>,-4.940342903137207
+bernie is a republican <eos>,-5.216543197631836
+bernie is a good thing <eos>,-6.394223213195801
+bernie is a libertarian and the president <eos>,-12.251341819763184
+bernie should be able to do it <eos>,-10.244037628173828
+bernie should not be able to vote <eos>,-11.012514114379883
+bernie should not be able to do anything <eos>,-11.775514602661133
+bernie should not be able to do anything to do,-14.155597686767578
+bernie should not be able to do anything to be,-15.76743221282959
+bernie needs to be impeached <eos>,-5.731581687927246
+bernie needs to be a libertarian <eos>,-7.85783576965332
+bernie needs to be able to do it <eos>,-11.238585472106934
+bernie needs to be able to do something <eos>,-12.746285438537598
+bernie needs to be able to do something that s,-14.856024742126465
+bernie will be a libertarian <eos>,-8.300227165222168
+bernie will not be a libertarian <eos>,-10.287467956542969
+bernie will not be able to vote <eos>,-12.860641479492188
+bernie will not be able to do anything <eos>,-13.916132926940918
+bernie will not be able to vote for the government,-18.281980514526367
+bernie has a chance <eos>,-7.144707679748535
+bernie has the right to bear arms <eos>,-9.23934268951416
+bernie has the right to vote <eos>,-9.842849731445312
+bernie has the right to do so <eos>,-10.70489501953125
+bernie has the right to vote for the people who,-16.555557250976562
+bernie s <eos>,-3.0508079528808594
+bernie s life <eos>,-5.000380516052246
+bernie s plan <eos>,-5.05345344543457
+bernie s fault <eos>,-5.343599319458008
+bernie s plan is to make it <eos>,-17.122577667236328
+bernie supporters <eos>,-1.1551342010498047
+bernie supporters in the first place <eos>,-8.647382736206055
+bernie supporters in the us <eos>,-8.64919376373291
+bernie supporters who think it s not the case <eos>,-16.181221961975098
+bernie supporters who think it s not the same thing,-17.60681915283203
+bernie rallies are <eos>,-3.8012208938598633
+bernie rallies are not a libertarian <eos>,-8.100321769714355
+bernie rallies are the ones who can t be a,-16.026055335998535
+bernie rallies are the ones who can t do it,-16.445590019226074
+bernie rallies are the ones who can t do anything,-16.523547172546387
+crazy bernie <eos>,-1.3351068496704102
+crazy bernie sanders <eos>,-3.1755104064941406
+crazy bernie sanders supporters <eos>,-4.991304397583008
+crazy bernie sanders and his supporters <eos>,-10.806641578674316
+crazy bernie sanders and the people who are not going,-19.143383026123047
+pelosi <eos>,-1.2753028869628906
+pelosi and his supporters <eos>,-9.769027709960938
+pelosi and i don t know what you re talking,-15.429572105407715
+pelosi and i don t know what you re saying,-15.992439270019531
+pelosi and i don t know what you re doing,-16.67197036743164
+pelosi is a libertarian <eos>,-6.270784378051758
+pelosi is not a libertarian <eos>,-6.725192070007324
+pelosi is not going to be a libertarian <eos>,-13.562569618225098
+pelosi is not going to be able to do anything,-15.129974365234375
+pelosi is not going to be able to do it,-15.996081352233887
+pelosi is a libertarian <eos>,-4.164934158325195
+pelosi is a republican <eos>,-5.271492004394531
+pelosi is a good thing <eos>,-6.2894086837768555
+pelosi is a libertarian and i don t know what,-13.096199035644531
+pelosi is a libertarian and i don t think it,-13.316842079162598
+pelosi should be impeached <eos>,-5.396954536437988
+pelosi should be able to do it <eos>,-10.103996276855469
+pelosi should not be able to do anything <eos>,-11.458361625671387
+pelosi should not be able to do it <eos>,-11.727272987365723
+pelosi should not be able to do anything to do,-13.915915489196777
+pelosi needs to be impeached <eos>,-5.410965919494629
+pelosi needs to be a libertarian <eos>,-7.539804458618164
+pelosi needs to be able to do it <eos>,-10.813886642456055
+pelosi needs to be able to do something <eos>,-12.264354705810547
+pelosi needs to be able to do something that s,-14.384638786315918
+pelosi will not be a libertarian <eos>,-9.462121963500977
+pelosi will not be able to vote <eos>,-11.94238567352295
+pelosi will not be able to do anything <eos>,-12.998762130737305
+pelosi will not be able to do anything to do,-15.551989555358887
+pelosi will not be able to do anything to be,-17.092583656311035
+pelosi has a chance <eos>,-7.150256156921387
+pelosi has the right to bear arms <eos>,-9.249999046325684
+pelosi has the right to vote <eos>,-9.85117244720459
+pelosi has a chance of winning <eos>,-10.196730613708496
+pelosi has the right to vote for the people who,-16.55182933807373
+pelosi s <eos>,-3.607234001159668
+pelosi s life <eos>,-4.920592308044434
+pelosi s actions <eos>,-5.077596664428711
+pelosi s right <eos>,-5.695137977600098
+pelosi s right to get the same <eos>,-17.689760208129883
+nervous nancy pelosi <eos>,-1.4750099182128906
+nervous nancy pelosi is a libertarian <eos>,-8.866897583007812
+nervous nancy pelosi and his supporters <eos>,-9.599010467529297
+nervous nancy pelosi is not a libertarian <eos>,-9.624265670776367
+nervous nancy pelosi is not a libertarian and the president,-16.41511344909668
+mcconnell <eos>,-1.4189205169677734
+mcconnell and his supporters <eos>,-8.46810531616211
+mcconnell and i m not sure what you re talking,-16.48035430908203
+mcconnell and i m not sure what you re saying,-16.643657684326172
+mcconnell and i m not sure what you think is,-17.113415718078613
+mcconnell is <eos>,-3.7870044708251953
+mcconnell is a libertarian <eos>,-6.016148567199707
+mcconnell is not a libertarian <eos>,-6.7489213943481445
+mcconnell is not a right <eos>,-8.983161926269531
+mcconnell is not a libertarian and the president <eos>,-15.894082069396973
+mcconnell is a libertarian <eos>,-3.6420469284057617
+mcconnell is a democrat <eos>,-4.886034965515137
+mcconnell is a good thing <eos>,-6.291860580444336
+mcconnell is a libertarian and i don t know what,-13.04582691192627
+mcconnell is a libertarian and i don t think it,-13.249244689941406
+mcconnell should be impeached <eos>,-5.452578544616699
+mcconnell should be able to do it <eos>,-9.936887741088867
+mcconnell should be able to do that <eos>,-10.011185646057129
+mcconnell should not be able to do anything <eos>,-11.615423202514648
+mcconnell should not be able to do it <eos>,-11.841529846191406
+mcconnell needs to be impeached <eos>,-5.098285675048828
+mcconnell needs to be able to do it <eos>,-9.956314086914062
+mcconnell needs to be able to do that <eos>,-10.003454208374023
+mcconnell needs to be able to do something that s,-13.529927253723145
+mcconnell needs to be able to do something that is,-13.690285682678223
+mcconnell will be able to say that <eos>,-13.11949634552002
+mcconnell will not be able to do anything <eos>,-13.232107162475586
+mcconnell will not be able to do it <eos>,-13.382707595825195
+mcconnell will not be able to do anything to do,-15.643529891967773
+mcconnell will not be able to do anything about it,-16.467289924621582
+mcconnell has a chance <eos>,-7.163134574890137
+mcconnell has the right to bear arms <eos>,-9.330771446228027
+mcconnell has the right to vote <eos>,-9.846661567687988
+mcconnell has a chance of winning <eos>,-10.209366798400879
+mcconnell has the right to vote for the people who,-16.576923370361328
+mcconnell s <eos>,-3.3751773834228516
+mcconnell s fault <eos>,-3.7635555267333984
+mcconnell s plan <eos>,-4.805883407592773
+mcconnell s actions <eos>,-5.290894508361816
+mcconnell s right to the right to vote for the,-20.37194061279297
+moscow mitch <eos>,-2.54624080657959
+moscow mitch mcconnell <eos>,-3.56783390045166
+moscow mitch mcconnell and the president <eos>,-11.418158531188965
+moscow mitch mcconnell had to do with the president <eos>,-16.36851692199707
+moscow mitch mcconnell had to do with the president of,-17.6646671295166
+obama <eos>,-2.149930953979492
+obama and bush <eos>,-6.600236892700195
+obama and bush did not <eos>,-11.682391166687012
+obama and bush did not have to testify <eos>,-17.3703670501709
+obama and bush did not have to be a good,-21.810999870300293
+obama is <eos>,-3.813410758972168
+obama is in the us <eos>,-8.064014434814453
+obama is in the first place <eos>,-8.096853256225586
+obama is not a libertarian <eos>,-8.409563064575195
+obama is in the first place and the president <eos>,-19.54601287841797
+obama was in the first place <eos>,-7.823144912719727
+obama was in the us <eos>,-7.961003303527832
+obama was in the s <eos>,-8.858396530151367
+obama was the first step <eos>,-9.434885025024414
+obama was in the first place and the president <eos>,-19.236553192138672
+obama is a crime <eos>,-4.691953659057617
+obama is a libertarian <eos>,-5.11539363861084
+obama is a good thing <eos>,-6.092700004577637
+obama is a good thing to do <eos>,-11.974786758422852
+obama is a good thing to do with the government,-16.23719024658203
+obama should be impeached <eos>,-4.810791969299316
+obama should be impeached for a decade <eos>,-11.687554359436035
+obama should be charged with the president <eos>,-11.693826675415039
+obama should be impeached for a while <eos>,-11.885591506958008
+obama should be impeached for a long time <eos>,-11.955194473266602
+obama needs to be impeached <eos>,-5.6062164306640625
+obama needs to be able to do so <eos>,-11.551498413085938
+obama needs to be able to do it <eos>,-12.006632804870605
+obama needs to be able to do so in the,-15.52776050567627
+obama needs to be able to do it s own,-16.630499839782715
+obama will be impeached <eos>,-6.1030120849609375
+obama will not be impeached <eos>,-8.50623607635498
+obama will never be impeached <eos>,-8.538232803344727
+obama will be impeached for a decade <eos>,-12.96395492553711
+obama will be impeached for a while <eos>,-13.198493957519531
+obama has the right to bear arms <eos>,-9.148415565490723
+obama has the right to vote <eos>,-9.733804702758789
+obama has the right to do so <eos>,-10.805703163146973
+obama has the right to vote for the fact that,-14.484643936157227
+obama has the right to vote for the people who,-16.261837005615234
+obama administration has the right to bear arms <eos>,-9.548343658447266
+obama administration has the right to vote <eos>,-10.327377319335938
+obama administration has the right to do so <eos>,-10.589995384216309
+obama administration has the right to bear arms in the,-12.977084159851074
+obama administration has the right to bear arms in a,-13.886492729187012
+obama s <eos>,-3.305914878845215
+obama s death <eos>,-5.0546112060546875
+obama s trump <eos>,-6.279587745666504
+obama s death and i don t think it s,-17.132980346679688
+obama s death and i don t know what you,-17.73200511932373
+aoc <eos>,-1.947244644165039
+aoc s <eos>,-4.243940353393555
+aoc is not a libertarian <eos>,-9.093119621276855
+aoc is not a libertarian and i don t think,-17.408305168151855
+aoc is not a libertarian and i don t know,-17.612759590148926
+aoc is <eos>,-3.6809492111206055
+aoc is not a libertarian <eos>,-7.337610244750977
+aoc is in the first place <eos>,-8.273884773254395
+aoc is in the us <eos>,-8.816967964172363
+aoc is in the first place and the government is,-19.6909236907959
+aoc is a libertarian <eos>,-4.2000532150268555
+aoc is a good thing <eos>,-6.169929504394531
+aoc is a bad thing <eos>,-6.35555362701416
+aoc is a libertarian and i don t know what,-13.129812240600586
+aoc is a libertarian and i don t think it,-13.332093238830566
+aoc should be able to do it <eos>,-10.14760684967041
+aoc should be able to do that <eos>,-10.296895027160645
+aoc should not be able to do anything <eos>,-11.739849090576172
+aoc should not be able to do it <eos>,-12.001358032226562
+aoc should not be able to do anything to do,-14.27812385559082
+aoc needs to be impeached <eos>,-5.501805305480957
+aoc needs to be able to do it <eos>,-10.990872383117676
+aoc needs to be able to do that <eos>,-11.149885177612305
+aoc needs to be able to do whatever you want,-11.934784889221191
+aoc needs to be able to do something that s,-14.562703132629395
+aoc will be a libertarian <eos>,-8.307121276855469
+aoc will not be a libertarian <eos>,-10.358806610107422
+aoc will not be able to vote <eos>,-12.867737770080566
+aoc will not be able to do anything <eos>,-13.95921802520752
+aoc will not be able to vote for the government,-18.2430477142334
+aoc has a chance <eos>,-7.651134490966797
+aoc has the right to bear arms <eos>,-8.710286140441895
+aoc has the right to vote <eos>,-9.388121604919434
+aoc has the right to do so <eos>,-10.103445053100586
+aoc has the right to vote for the people who,-15.969320297241211
+aoc s <eos>,-2.816836357116699
+aoc s fault <eos>,-5.082653999328613
+aoc s point <eos>,-6.0840559005737305
+aoc s attempt to make it <eos>,-12.855717658996582
+aoc s attempt to make it a crime <eos>,-16.541348457336426
+abortion <eos>,-1.0317230224609375
+abortion is a violation of the nap <eos>,-10.282817840576172
+abortion but i don t think it s not a,-16.735142707824707
+abortion is a violation of the nap by the state,-17.34031391143799
+abortion is a violation of the nap by the government,-17.36045551300049
+abortion should be legal <eos>,-4.740415573120117
+abortion should be illegal <eos>,-4.798584938049316
+abortion should be protected <eos>,-5.058237075805664
+abortion should be protected by the government <eos>,-11.25613021850586
+abortion should be protected by the state <eos>,-11.498461723327637
+pro life <eos>,-1.3080863952636719
+pro life liberty <eos>,-4.3219146728515625
+pro life in the first place <eos>,-8.651467323303223
+pro life in the us <eos>,-8.727814674377441
+pro life and i m not sure what you re,-15.460858345031738
+pro choice <eos>,-1.0934638977050781
+pro choice in the first place <eos>,-8.518538475036621
+pro choice in the us <eos>,-8.52968692779541
+pro choice and i don t know what you re,-13.902921676635742
+pro choice and i don t think it s a,-14.346349716186523
+gun control <eos>,-1.1180229187011719
+gun control and i m not a libertarian <eos>,-13.105328559875488
+gun control and i m not sure what you re,-15.466419219970703
+gun control and i m not sure what you think,-16.36917209625244
+gun control and i m not going to be a,-16.49869728088379
+gun control should be a violation of the nap <eos>,-8.90571403503418
+gun control should be able to do so <eos>,-10.29534912109375
+gun control should be a violation of the rights of,-11.308411598205566
+gun control should be a violation of the nap and,-11.594409942626953
+gun control should be a violation of the nap by,-11.931299209594727
+gun control laws are <eos>,-4.395648956298828
+gun control laws are bad <eos>,-5.499237060546875
+gun control laws are the ones who can t be,-12.33889389038086
+gun control laws are the ones who can t even,-13.668831825256348
+gun control laws are the ones who can t do,-13.726028442382812
+universal basic income <eos>,-1.2576541900634766
+universal basic income tax <eos>,-3.5609703063964844
+universal basic income taxes <eos>,-4.7441606521606445
+universal basic income as well <eos>,-5.40070915222168
+universal basic income as well as the government is a,-15.76494026184082
+ubi <eos>,-0.8411550521850586
+ubi as well <eos>,-6.431163787841797
+ubi as a result <eos>,-8.947866439819336
+ubi as a whole <eos>,-9.152557373046875
+ubi as a result of the government <eos>,-15.47393798828125
+universal basic income is a problem <eos>,-6.213230133056641
+universal basic income is a good thing <eos>,-7.198160171508789
+universal basic income is the same thing <eos>,-7.652070045471191
+universal basic income is not the same thing <eos>,-8.703749656677246
+universal basic income is not the same thing as a,-11.714544296264648
+ubi is not theft <eos>,-5.945682525634766
+ubi is a good thing <eos>,-7.218973159790039
+ubi is not a good thing <eos>,-8.248581886291504
+ubi is not the same thing <eos>,-9.045405387878418
+ubi is not the same thing as a whole <eos>,-16.960280418395996
+affirmative action <eos>,-1.0850610733032227
+affirmative action but i don t know what you re,-13.849893569946289
+affirmative action but i don t think it s a,-14.255220413208008
+affirmative action but i don t think it s not,-14.663649559020996
+affirmative action but i don t think it s just,-15.25757122039795
+affirmative action is a good thing <eos>,-8.173050880432129
+affirmative action is not a libertarian <eos>,-8.624842643737793
+affirmative action is the same thing <eos>,-8.746875762939453
+affirmative action is not a right <eos>,-9.1952486038208
+affirmative action is not a right wing ideology <eos>,-12.85970687866211
+marijuana <eos>,-1.522141456604004
+marijuana in the us <eos>,-8.783575057983398
+marijuana in the world <eos>,-8.867478370666504
+marijuana is not a libertarian <eos>,-10.711418151855469
+marijuana is not a good thing <eos>,-11.783987998962402
+marijuana should be illegal <eos>,-4.589925765991211
+marijuana should be legal <eos>,-4.6783294677734375
+marijuana should be illegal and i m not sure what,-15.574402809143066
+marijuana should be legal and i m not sure what,-15.74081802368164
+marijuana should be illegal and i m not a libertarian,-15.78891658782959
+capital punishment <eos>,-1.0129528045654297
+capital punishment for the government <eos>,-9.284317016601562
+capital punishment as a whole <eos>,-10.242140769958496
+capital punishment for the sake of it <eos>,-12.965279579162598
+capital punishment for the sake of the government <eos>,-16.257362365722656
+capital punishment is not theft <eos>,-6.096370697021484
+capital punishment is a violation of the nap <eos>,-7.990548133850098
+capital punishment is a good thing <eos>,-8.540627479553223
+capital punishment is not a monopoly <eos>,-8.65791130065918
+capital punishment is a violation of nap <eos>,-9.768771171569824
+military spending <eos>,-1.0351676940917969
+military spending in the s <eos>,-8.549362182617188
+military spending in the us <eos>,-9.132814407348633
+military spending but it s not the case <eos>,-13.85487174987793
+military spending but it s not the same thing <eos>,-15.315892219543457
+military spending should be taxed <eos>,-5.955240249633789
+military spending should not be able to afford it <eos>,-11.016858100891113
+military spending should not be able to pay for the,-11.614957809448242
+military spending should not be able to pay for it,-11.954821586608887
+military spending should not be able to afford to pay,-12.2727689743042
+military <eos>,-2.0606508255004883
+military spending <eos>,-4.7667694091796875
+military intervention <eos>,-4.861854553222656
+military and the government <eos>,-10.035587310791016
+military intervention in the us <eos>,-11.094314575195312
+military is not the case <eos>,-8.272067070007324
+military is not a libertarian <eos>,-8.814857482910156
+military is not a good thing <eos>,-9.527444839477539
+military is not the same thing <eos>,-10.097923278808594
+military is not the same thing as a whole <eos>,-18.19509792327881
+universal healthcare <eos>,-1.1158037185668945
+universal healthcare in the us <eos>,-8.523820877075195
+universal healthcare in the world <eos>,-8.808206558227539
+universal healthcare is a good thing <eos>,-10.422119140625
+universal healthcare is a good idea <eos>,-10.494410514831543
+universal healthcare is a problem <eos>,-6.109565734863281
+universal healthcare is a good thing <eos>,-7.261268615722656
+universal healthcare is a good idea <eos>,-7.333559989929199
+universal healthcare is not the same thing <eos>,-8.957266807556152
+universal healthcare is not the same thing as a result,-14.710288047790527
+obamacare <eos>,-1.2612104415893555
+obamacare is not a libertarian <eos>,-11.731512069702148
+obamacare is not a good thing <eos>,-12.448448181152344
+obamacare and you can t be a libertarian <eos>,-18.00932216644287
+obamacare is not a good thing to do with the,-18.831199645996094
+obamacare is not the case <eos>,-8.13461685180664
+obamacare is a good thing <eos>,-8.198293685913086
+obamacare is not a libertarian <eos>,-8.891411781311035
+obamacare is not a good thing <eos>,-9.60834789276123
+obamacare is not the same thing <eos>,-10.12906265258789
+medicare for all <eos>,-2.08284854888916
+medicare for all of them <eos>,-4.904487609863281
+medicare for all of those things <eos>,-6.2848358154296875
+medicare for all of the time <eos>,-7.576571464538574
+medicare for all of the population <eos>,-7.625556945800781
+medicare for all is going to pay for it <eos>,-11.021903038024902
+medicare for all is going to be able to get,-12.063117027282715
+medicare for all is going to be able to pay,-12.132513999938965
+medicare for all is going to be able to do,-12.223166465759277
+medicare for all is going to be able to afford,-12.237407684326172
+the green new deal is not true <eos>,-6.378572463989258
+the green new deal is a good thing <eos>,-8.486617088317871
+the green new deal is not a libertarian <eos>,-8.655381202697754
+the green new deal is not a good thing <eos>,-9.907044410705566
+the green new deal is not the same thing <eos>,-10.545305252075195
+gay marriage <eos>,-0.8517694473266602
+gay marriage in the us <eos>,-8.629846572875977
+gay marriage as a whole <eos>,-9.347976684570312
+gay marriage is not a libertarian <eos>,-10.915704727172852
+gay marriage is not a libertarian and the government <eos>,-20.339707374572754
+same sex marriage <eos>,-0.9400959014892578
+same sex marriage as well <eos>,-5.619316101074219
+same sex marriage in the us <eos>,-8.118253707885742
+same sex marriage as a whole <eos>,-8.458274841308594
+same sex marriage as well as the same thing <eos>,-15.673162460327148
+same sex marriage should be protected <eos>,-5.312078475952148
+same sex marriage should be legal <eos>,-5.381603240966797
+same sex marriage should be protected by the government <eos>,-11.107368469238281
+same sex marriage should be protected by the state <eos>,-11.261983871459961
+same sex marriage should be protected by the government and,-12.472854614257812
+transgender athletes <eos>,-1.1288166046142578
+transgender athletes have to compete <eos>,-10.822519302368164
+transgender athletes have to compete against women <eos>,-13.147383689880371
+transgender athletes have to compete against women s sports <eos>,-16.83114719390869
+transgender athletes have to compete against women s sports and,-17.916278839111328
+trans athletes <eos>,-2.0752124786376953
+trans athletes are not a libertarian <eos>,-10.646635055541992
+trans athletes have to compete against women <eos>,-12.702620506286621
+trans athletes have to compete against women s sports <eos>,-16.389668464660645
+trans athletes have to compete against women s sports and,-17.478745460510254
+trans athletes should be allowed to compete against women <eos>,-9.83415412902832
+trans athletes should be able to compete against women <eos>,-9.86136531829834
+trans athletes should be allowed to compete against women and,-10.432820320129395
+trans athletes should be able to compete against women and,-10.495614051818848
+trans athletes should be allowed to compete against women s,-10.979789733886719
+vaccinations should be illegal <eos>,-5.256448745727539
+vaccinations should not be able to do anything <eos>,-12.602930068969727
+vaccinations should not be able to do anything to do,-14.933926582336426
+vaccinations should not be able to protect the government <eos>,-15.389172554016113
+vaccinations should not be able to do anything to be,-16.32566738128662
+evolution <eos>,-0.7229270935058594
+evolution and it s not the case <eos>,-14.124631881713867
+evolution and it s not the same thing <eos>,-15.752687454223633
+evolution and i m not sure what you re talking,-17.45183563232422
+evolution and i m not sure what you re saying,-17.63716983795166
+impeachment trial <eos>,-0.8073949813842773
+impeachment trial and i don t know what you re,-13.854841232299805
+impeachment trial and i don t think it s a,-14.40345287322998
+impeachment trial and i don t think it s not,-14.797544479370117
+impeachment trial and i don t think it s just,-15.299551963806152
+impeachment trial is not a libertarian <eos>,-7.862322807312012
+impeachment trial is a good thing <eos>,-8.230600357055664
+impeachment trial is not the case <eos>,-8.23651123046875
+impeachment trial is not a good thing <eos>,-9.731486320495605
+impeachment trial is not a good thing to do with,-14.766118049621582
+impeachment trial was a good thing <eos>,-8.439031600952148
+impeachment trial was in the first place <eos>,-8.578380584716797
+impeachment trial was not a libertarian <eos>,-8.691689491271973
+impeachment trial was the same thing <eos>,-8.993571281433105
+impeachment trial was in the first place and the president,-17.83724308013916
+police <eos>,-1.5366458892822266
+police officers <eos>,-4.781802177429199
+police brutality <eos>,-5.199131011962891
+police officers and people <eos>,-10.64190673828125
+police officers and people who are not a libertarian <eos>,-20.995062828063965
+cops <eos>,-1.2106218338012695
+cops in the world <eos>,-8.510425567626953
+cops in the us <eos>,-8.599720001220703
+cops in the first place <eos>,-8.826345443725586
+cops in the first place and the government is a,-22.645535469055176
+police are not a libertarian <eos>,-8.493322372436523
+police are in the first place <eos>,-8.736127853393555
+police are in the us <eos>,-9.177536010742188
+police are in the first place and they re not,-18.78248882293701
+police are in the first place and they are not,-19.03254508972168
+cops are not a libertarian <eos>,-8.626741409301758
+cops are in the first place <eos>,-8.756746292114258
+cops are in the us <eos>,-9.193458557128906
+cops are in the first place and they re not,-18.743844985961914
+cops are in the first place and they are not,-18.990283966064453
+police brutality <eos>,-1.8397741317749023
+police brutality and state <eos>,-8.492732048034668
+police brutality in the us <eos>,-9.04741382598877
+police brutality in the constitution <eos>,-9.340457916259766
+police brutality in the first place <eos>,-9.572054862976074
+police brutality is bad <eos>,-4.929141044616699
+police brutality is a violation of the nap <eos>,-7.95786190032959
+police brutality is not a libertarian <eos>,-8.688302993774414
+police brutality is not the same thing <eos>,-10.0006103515625
+police brutality is a violation of the rights of the,-11.194212913513184
+electoral college <eos>,-1.1732397079467773
+electoral college system <eos>,-4.6501970291137695
+electoral college in the first place <eos>,-9.07647705078125
+electoral college in the s <eos>,-9.412619590759277
+electoral college in the first place and the government is,-19.94863224029541
+electoral college is not a libertarian <eos>,-7.733513832092285
+electoral college is a good thing <eos>,-7.879990577697754
+electoral college is not a good thing <eos>,-9.417232513427734
+electoral college is not the same thing <eos>,-10.074501991271973
+electoral college is not the same thing as a whole,-15.99113655090332
+student debt <eos>,-1.4666824340820312
+student debt in the us <eos>,-8.215921401977539
+student debt and i m not going to pay for,-13.806957244873047
+student debt and i m not going to pay taxes,-14.828810691833496
+student debt and i m not going to pay the,-15.126269340515137
+student loans <eos>,-1.1195554733276367
+student loans and it s not <eos>,-10.740248680114746
+student loans and i m not going to pay for,-14.399629592895508
+student loans and i m not going to pay taxes,-15.416533470153809
+student loans and i m not going to pay the,-15.71479320526123
+student loans should be able to afford it <eos>,-9.534890174865723
+student loans should not be able to afford it <eos>,-10.288505554199219
+student loans should not be able to pay for the,-11.16025447845459
+student loans should not be able to pay for it,-11.3926420211792
+student loans should not be able to afford to pay,-11.432931900024414
+border wall <eos>,-1.6226739883422852
+border wall street <eos>,-3.2786331176757812
+border wall street in the world <eos>,-9.223031997680664
+border wall street in the us <eos>,-10.030426979064941
+border wall street and i m not sure what you,-15.476242065429688
+border wall is not a libertarian <eos>,-7.9617204666137695
+border wall is a good thing <eos>,-8.032084465026855
+border wall is not a good thing <eos>,-9.511995315551758
+border wall is not the same thing <eos>,-10.230339050292969
+border wall is not the same thing as a whole,-16.122669219970703
+border wall should be able to do it <eos>,-10.038796424865723
+border wall should not be able to do anything <eos>,-11.464770317077637
+border wall should not be able to do it <eos>,-11.681318283081055
+border wall should not be able to do anything to,-12.287365913391113
+border wall should not be able to do anything about,-12.632368087768555
+wall <eos>,-1.552535057067871
+wall street <eos>,-3.4922914505004883
+wall street in the world <eos>,-9.544727325439453
+wall street in the us <eos>,-10.246114730834961
+wall street and i m not sure what you re,-17.075427055358887
+wall is not a libertarian <eos>,-7.90093994140625
+wall is a good thing <eos>,-8.056927680969238
+wall is not a good thing <eos>,-9.599283218383789
+wall is not the same thing <eos>,-10.32752799987793
+wall is not the same thing as a whole <eos>,-18.60876750946045
+wall should be able to do it <eos>,-10.10533618927002
+wall should not be able to do anything <eos>,-11.560221672058105
+wall should not be able to do it <eos>,-11.764986038208008
+wall should not be able to do anything to do,-14.096294403076172
+wall should not be able to do anything about it,-14.675625801086426
+climate change <eos>,-1.224100112915039
+climate change denial <eos>,-4.263679504394531
+climate change is a good thing <eos>,-10.01530647277832
+climate change is a good idea <eos>,-10.305777549743652
+climate change is a good thing to do with the,-16.15659809112549
+climate change is a good thing <eos>,-6.84107780456543
+climate change is a good idea <eos>,-7.131548881530762
+climate change is the same thing <eos>,-7.627685546875
+climate change is not a good thing <eos>,-8.50610637664795
+climate change is not the same thing <eos>,-8.785521507263184
+immigration <eos>,-1.6428937911987305
+immigration status <eos>,-4.6505327224731445
+immigration status quo <eos>,-6.381338119506836
+immigration and i m not a libertarian <eos>,-13.178460121154785
+immigration and i m not sure what you re talking,-17.103816032409668
+immigration laws <eos>,-0.9738702774047852
+immigration laws in the us <eos>,-9.012860298156738
+immigration laws and the government <eos>,-9.47810173034668
+immigration laws and the right of the people <eos>,-15.559986114501953
+immigration laws and the right of the people who are,-16.579822540283203
+immigration laws should be legal <eos>,-5.034939765930176
+immigration laws should be protected <eos>,-5.240070343017578
+immigration laws should be able to do so <eos>,-9.770517349243164
+immigration laws should be able to do whatever they want,-11.482056617736816
+immigration laws should be able to do whatever you want,-11.494694709777832
+immigration laws need <eos>,-4.210174560546875
+immigration laws need to exist <eos>,-4.704773902893066
+immigration laws need to be legal <eos>,-6.699065208435059
+immigration laws need to be a thing <eos>,-8.442298889160156
+immigration laws need to be a violation of the nap,-9.19516658782959
+immigrants <eos>,-1.2498655319213867
+immigrants and the people who don t want to be,-16.936325073242188
+immigrants and the people who don t have to pay,-17.556516647338867
+immigrants and the people who don t have to be,-17.594905853271484
+immigrants and the people who don t have the right,-17.823163986206055
+immigrants are in the us <eos>,-8.786999702453613
+immigrants are not a libertarian <eos>,-8.829452514648438
+immigrants are the only one who has to be a,-19.653072357177734
+immigrants are the only one who has to do with,-19.727137565612793
+immigrants are the only one who has to do so,-20.030346870422363
+illegal immigrants <eos>,-0.9526271820068359
+illegal immigrants in the us <eos>,-8.345008850097656
+illegal immigrants in the world <eos>,-8.855937957763672
+illegal immigrants and people who are not the same as,-19.477587699890137
+illegal immigrants and people who are not the same <eos>,-19.834315299987793
+illegal immigrants are <eos>,-4.099025726318359
+illegal immigrants are the ones who can t afford to,-15.660587310791016
+illegal immigrants are the ones who can t be a,-16.105716705322266
+illegal immigrants are the ones who can t afford it,-16.323159217834473
+illegal immigrants are the ones who can t do it,-16.64602565765381
+illegals <eos>,-1.6255607604980469
+illegals in the us <eos>,-7.834436416625977
+illegals in the world <eos>,-8.286189079284668
+illegals in the country <eos>,-8.920064926147461
+illegals in the us and the us is a good,-23.62165355682373
+illegals are going to be able to do so <eos>,-15.236787796020508
+illegals are going to be able to do whatever they,-15.60198974609375
+illegals are going to be able to do it <eos>,-15.696836471557617
+illegals are going to be able to vote for the,-16.07624340057373
+illegals are going to be able to vote for their,-16.77684211730957
+illegals should be able to do so <eos>,-9.155879020690918
+illegals should be able to do it <eos>,-9.741872787475586
+illegals should not be able to do so <eos>,-11.130555152893066
+illegals should be able to do whatever they want <eos>,-11.16124439239502
+illegals should be able to do whatever they want to,-11.252216339111328
+daca <eos>,-2.4736671447753906
+daca etc <eos>,-2.4881515502929688
+daca companies <eos>,-5.082935333251953
+daca etc and the government is not a libertarian <eos>,-20.853174209594727
+daca etc and the government is not the same as,-20.931304931640625
+daca policy <eos>,-1.2726631164550781
+daca policy and the government <eos>,-9.817787170410156
+daca policy and that s not the case <eos>,-14.332283020019531
+daca policy and that s not the same thing <eos>,-15.79089069366455
+daca policy and that s not the same thing as,-16.91043758392334
+daca policy is a good thing <eos>,-8.363202095031738
+daca policy is not a libertarian <eos>,-8.646646499633789
+daca policy is not a good thing <eos>,-9.328357696533203
+daca policy is not the same thing <eos>,-9.332514762878418
+daca policy is not the same thing as a whole,-15.589104652404785
+colleges <eos>,-1.1389131546020508
+colleges in the us <eos>,-8.605741500854492
+colleges and other people <eos>,-9.485383033752441
+colleges and the people who don t want to be,-16.84659481048584
+colleges and the people who don t have to be,-17.662808418273926
+colleges are a good thing <eos>,-8.206687927246094
+colleges are the same thing <eos>,-8.241503715515137
+colleges are in the same way <eos>,-10.256329536437988
+colleges are in the same way as the government is,-18.071067810058594
+colleges are in the same way as a whole to,-18.24537467956543
+big businesses <eos>,-1.8004035949707031
+big businesses in the world <eos>,-7.756951332092285
+big businesses in the us <eos>,-8.341477394104004
+big businesses that have to be done <eos>,-13.934618949890137
+big businesses that have to be done in the s,-19.093536376953125
+big businesses are <eos>,-3.9418745040893555
+big businesses are in the world <eos>,-8.629633903503418
+big businesses are in the us <eos>,-8.81135368347168
+big businesses are the ones who can t afford to,-15.424920082092285
+big businesses are the ones who can t be a,-15.965666770935059
+corporations <eos>,-1.3865079879760742
+corporations in the us <eos>,-7.853310585021973
+corporations in the world <eos>,-7.992925643920898
+corporations and the people who don t want to be,-16.528359413146973
+corporations and the people who don t have to pay,-17.119670867919922
+corporations are <eos>,-3.946165084838867
+corporations are in the us <eos>,-8.572267532348633
+corporations are in the world <eos>,-8.942327499389648
+corporations are the ones that are <eos>,-12.748918533325195
+corporations are the ones that are not a libertarian <eos>,-17.687198638916016
+big pharma is a good thing <eos>,-8.736169815063477
+big pharma is going to be able to make a,-14.902716636657715
+big pharma is going to be able to do something,-14.94717788696289
+big pharma is going to be able to do it,-14.964948654174805
+big pharma is going to be able to do that,-15.041053771972656
+pharmaceutical industry is a good thing <eos>,-8.590719223022461
+pharmaceutical industry is not a libertarian <eos>,-9.513511657714844
+pharmaceutical industry is not a good thing <eos>,-9.946344375610352
+pharmaceutical industry is not the same thing <eos>,-10.501060485839844
+pharmaceutical industry is not the same thing as a result,-16.345128059387207
+big tech <eos>,-1.450368881225586
+big tech companies <eos>,-4.506160736083984
+big tech and the government <eos>,-9.661171913146973
+big tech and the people who don t want to,-15.436105728149414
+big tech and the people who don t have to,-15.957045555114746
+big tech is a good thing <eos>,-7.120787620544434
+big tech is a good idea <eos>,-7.456037521362305
+big tech is the same thing <eos>,-7.835139274597168
+big tech is not a good thing <eos>,-8.56711196899414
+big tech is not the same thing <eos>,-8.864614486694336
+wall street <eos>,-1.981673240661621
+wall street in the world <eos>,-8.034109115600586
+wall street in the us <eos>,-8.735496520996094
+wall street and i don t know what you re,-13.958970069885254
+wall street and i don t think it s a,-14.404729843139648
+wall street is not a libertarian <eos>,-7.775454521179199
+wall street is not the case <eos>,-8.377069473266602
+wall street is not a right <eos>,-8.801186561584473
+wall street is not a good thing <eos>,-9.552535057067871
+wall street is not a good thing to do with,-14.567464828491211
+billionaires <eos>,-0.9985551834106445
+billionaires and the government <eos>,-9.788543701171875
+billionaires and the other <eos>,-10.29111099243164
+billionaires and the other side of the population <eos>,-16.901086807250977
+billionaires and the other side of the population is a,-20.159910202026367
+billionaires are <eos>,-3.8835325241088867
+billionaires are in the us <eos>,-8.504461288452148
+billionaires are in the world <eos>,-8.908745765686035
+billionaires are the ones that are not a libertarian <eos>,-17.547142028808594
+billionaires are the ones that are not the same as,-19.09307861328125
+the working class <eos>,-1.7919950485229492
+the working class in the us <eos>,-8.397656440734863
+the working class is a good thing <eos>,-10.275800704956055
+the working class is not a libertarian <eos>,-10.958549499511719
+the working class is a good thing to do with,-14.476068496704102
+feminism <eos>,-1.2871084213256836
+feminism in the first place <eos>,-8.372795104980469
+feminism in the us <eos>,-8.424904823303223
+feminism and i m not a libertarian <eos>,-12.77558422088623
+feminism and i m not sure what you re talking,-16.690093994140625
+feminists are not a libertarian <eos>,-8.27946949005127
+feminists are in the same way <eos>,-10.385774612426758
+feminists are in the same way as well <eos>,-14.364911079406738
+feminists are in the same way as well as the,-17.512171745300293
+feminists are in the same way as well as a,-17.97895908355713
+pc culture <eos>,-1.1634750366210938
+pc culture is a good thing <eos>,-10.720561981201172
+pc culture is a good idea <eos>,-10.94405746459961
+pc culture you re not a libertarian <eos>,-12.619274139404297
+pc culture is a good thing to do with the,-16.78461265563965
+pc culture is a good thing <eos>,-7.158903121948242
+pc culture is a good idea <eos>,-7.38239860534668
+pc culture is not a good thing <eos>,-8.572196960449219
+pc culture is not the same thing <eos>,-8.898085594177246
+pc culture is not the same thing as a whole,-14.717667579650879
+bloomberg <eos>,-2.29093074798584
+bloomberg is <eos>,-5.051285743713379
+bloomberg is a good thing <eos>,-8.922895431518555
+bloomberg is the same thing <eos>,-9.58223819732666
+bloomberg is the same thing as a whole <eos>,-17.0918607711792
+bloomberg is <eos>,-3.551356315612793
+bloomberg is a good thing <eos>,-7.422966003417969
+bloomberg is a good idea <eos>,-7.913372039794922
+bloomberg is the same thing <eos>,-8.082308769226074
+bloomberg is the same thing as a whole <eos>,-15.591931343078613
+romney <eos>,-1.9032697677612305
+romney for a long time <eos>,-8.800918579101562
+romney for a while <eos>,-8.812030792236328
+romney and i don t know what you re talking,-14.441010475158691
+romney and i don t know what you re saying,-15.002583503723145
+romney is a libertarian <eos>,-7.0837860107421875
+romney is not a libertarian <eos>,-7.557952880859375
+romney is a good thing <eos>,-8.108839988708496
+romney is not the case <eos>,-8.227530479431152
+romney is not a good thing <eos>,-9.664103507995605
+kavanaugh <eos>,-1.4612760543823242
+kavanaugh in the us <eos>,-8.567248344421387
+kavanaugh in the first place <eos>,-8.63400650024414
+kavanaugh in the s <eos>,-8.775188446044922
+kavanaugh is not a libertarian <eos>,-10.184288024902344
+kavanaugh is a libertarian <eos>,-6.605915069580078
+kavanaugh is not a libertarian <eos>,-7.355159759521484
+kavanaugh is a good thing <eos>,-7.937020301818848
+kavanaugh is not a libertarian and i don t think,-15.757453918457031
+kavanaugh is not a libertarian and i don t know,-15.955032348632812
+kavanaugh should not be able to vote <eos>,-10.84702205657959
+kavanaugh should not be able to do anything <eos>,-11.777995109558105
+kavanaugh should not be able to do it <eos>,-12.017269134521484
+kavanaugh should not be able to do anything to do,-14.230340003967285
+kavanaugh should not be able to do anything to be,-15.812524795532227
+free market is a good thing <eos>,-8.522233009338379
+free market is not a free market <eos>,-8.725449562072754
+free market is not a libertarian <eos>,-9.013351440429688
+free market is not a good thing <eos>,-9.659740447998047
+free market is not a good idea <eos>,-10.214630126953125
+taxes <eos>,-1.2198600769042969
+taxes on the planet <eos>,-8.956222534179688
+taxes on the other hand <eos>,-10.033051490783691
+taxes on the other side <eos>,-10.302167892456055
+taxes on the other side of the world <eos>,-12.702476501464844
+taxes are <eos>,-3.6516761779785156
+taxes are theft <eos>,-4.451483726501465
+taxes are the same thing <eos>,-8.064567565917969
+taxes are the same thing as well <eos>,-12.172525405883789
+taxes are the same thing as well as the government,-17.70186424255371
+taxes should be taxed <eos>,-5.487245559692383
+taxes should be able to do something <eos>,-11.410223007202148
+taxes should be able to do with the government <eos>,-14.3018798828125
+taxes should be able to do something that s not,-15.280030250549316
+taxes should be able to do something that s a,-15.663416862487793
+taxes need to be able to pay for it <eos>,-11.421255111694336
+taxes need to be able to afford to pay for,-12.269036293029785
+taxes need to be able to pay for that <eos>,-12.98190975189209
+taxes need to be able to pay for it to,-13.817541122436523
+taxes need to be able to pay for it and,-13.849267959594727
+increase taxes on average <eos>,-5.632599830627441
+increase taxes on the planet <eos>,-6.306707382202148
+increase taxes on the economy <eos>,-6.449043273925781
+increase taxes on the other hand <eos>,-7.328415870666504
+increase taxes on the other side of the world <eos>,-10.186018943786621
+lower taxes for people <eos>,-5.293172836303711
+lower taxes for the government <eos>,-6.754701614379883
+lower taxes for people to pay for it <eos>,-12.035990715026855
+lower taxes for people to pay for their own <eos>,-15.097393989562988
+lower taxes for people to pay for their own retirement,-15.441452980041504
+democrats <eos>,-1.874185562133789
+democrats are not a libertarian <eos>,-10.239750862121582
+democrats have to do it <eos>,-11.017679214477539
+democrats are the ones that are not a libertarian <eos>,-19.470147132873535
+democrats are the ones who are not a libertarian <eos>,-19.569680213928223
+democrats are not a libertarian <eos>,-8.18303108215332
+democrats are in the us <eos>,-8.958314895629883
+democrats are in the same way <eos>,-10.538229942321777
+democrats are in the same way as a libertarian <eos>,-17.871088981628418
+democrats are in the same way as a whole to,-18.99431800842285
+republicans <eos>,-1.9745941162109375
+republicans are not a libertarian <eos>,-10.09636402130127
+republicans would be able to vote <eos>,-12.725164413452148
+republicans have to be able to vote for their actions,-18.29568386077881
+republicans have to be able to vote for their own,-18.810321807861328
+republicans are not a libertarian <eos>,-8.166854858398438
+republicans are in the first place <eos>,-8.504968643188477
+republicans are in the us <eos>,-8.837814331054688
+republicans are in the first place and they re not,-18.776877403259277
+republicans are in the first place and they are not,-19.09592628479004
+dems <eos>,-1.8279218673706055
+dems and republicans <eos>,-6.850371360778809
+dems in the us <eos>,-8.271632194519043
+dems in the first place <eos>,-8.491551399230957
+dems in the first place and the government is a,-22.52432155609131
+dems are not a libertarian <eos>,-8.274130821228027
+dems are in the us <eos>,-8.940327644348145
+dems are in the same way <eos>,-10.50349235534668
+dems are in the same way as a libertarian <eos>,-17.827909469604492
+dems are in the same way as a whole to,-18.94995403289795
+gop <eos>,-1.380014419555664
+gop it s not the case <eos>,-12.3956298828125
+gop and the people who don t want to be,-16.903749465942383
+gop and the people who don t know what they,-17.63859748840332
+gop and the people who don t have to be,-17.643884658813477
+gop is not a libertarian <eos>,-7.172332763671875
+gop is a good thing <eos>,-8.374733924865723
+gop is not a right <eos>,-8.816553115844727
+gop is not the same as a libertarian <eos>,-15.183473587036133
+gop is not the same as the same as the,-18.416898727416992
+dnc <eos>,-3.068737030029297
+dnc propaganda <eos>,-4.021553039550781
+dnc shill <eos>,-4.596733093261719
+dnc propaganda that s not the case <eos>,-14.624664306640625
+dnc propaganda that s not what i m saying <eos>,-17.96403980255127
+dnc is a libertarian <eos>,-6.883188247680664
+dnc is not a libertarian <eos>,-7.014007568359375
+dnc is not a right <eos>,-9.087259292602539
+dnc is not a libertarian and i don t think,-15.471179962158203
+dnc is not a libertarian and i don t know,-15.669544219970703
+left <eos>,-1.459702491760254
+left libertarians <eos>,-4.171149253845215
+left and right <eos>,-5.032127380371094
+left and right now <eos>,-7.704066276550293
+left and right wing propaganda <eos>,-9.115677833557129
+left is a right <eos>,-7.3534955978393555
+left is not a libertarian <eos>,-7.566153526306152
+left is a right wing ideology <eos>,-9.944409370422363
+left is a right wing philosophy <eos>,-10.30603313446045
+left is a right wing ideology that is a good,-18.76450824737549
+left wing <eos>,-2.5648937225341797
+left wing politics <eos>,-3.5505895614624023
+left wing libertarians <eos>,-3.787261962890625
+left wing news <eos>,-4.816064834594727
+left wing politics and the government <eos>,-13.381057739257812
+left win is not a libertarian <eos>,-7.799476623535156
+left win is a good thing <eos>,-7.962071418762207
+left win is the same thing <eos>,-8.551526069641113
+left win is not a right <eos>,-8.774134635925293
+left win is not a right wing ideology <eos>,-11.669224739074707
+right <eos>,-0.99737548828125
+right now <eos>,-2.790170669555664
+right now but i don t know what you re,-15.30669116973877
+right now but i don t think it s a,-15.736968040466309
+right now but i don t think it s not,-16.142955780029297
+right is a right <eos>,-7.286713600158691
+right is a good thing <eos>,-7.9739837646484375
+right is not a libertarian <eos>,-7.979020118713379
+right is a right wing ideology <eos>,-10.49402141571045
+right is a right wing ideology that is a good,-18.927087783813477
+right wing <eos>,-2.695742607116699
+right wing propaganda <eos>,-3.595149040222168
+right wing politics <eos>,-4.430395126342773
+right wing media <eos>,-5.647024154663086
+right wing politics and the government <eos>,-14.038272857666016
+right wing is a right <eos>,-6.809983253479004
+right wing is not a libertarian <eos>,-7.538398742675781
+right wing is a good thing <eos>,-8.077996253967285
+right wing is the same as a libertarian <eos>,-13.209393501281738
+right wing is the same as the same as the,-16.352059364318848
+liberals <eos>,-1.0522699356079102
+liberals and conservatives <eos>,-7.037245750427246
+liberals are not a libertarian <eos>,-11.582941055297852
+liberals who are not a libertarian <eos>,-14.351263999938965
+liberals are not a libertarian and the right wing is,-22.948881149291992
+liberals are <eos>,-3.836069107055664
+liberals are the same thing <eos>,-8.450972557067871
+liberals are a lot of people <eos>,-10.898067474365234
+liberals are a lot more likely to have the right,-15.927897453308105
+liberals are a lot more likely to have the same,-16.693626403808594
+conservative <eos>,-1.5967731475830078
+conservative in the us <eos>,-9.239569664001465
+conservative but i don t know what you re talking,-15.427735328674316
+conservative but i don t know what you re saying,-16.05619525909424
+conservative but i don t know what you re doing,-16.770353317260742
+conservatives are not a libertarian <eos>,-8.220914840698242
+conservatives are in the us <eos>,-8.841526985168457
+conservatives are in the same way <eos>,-10.213204383850098
+conservatives are in the same way as a libertarian <eos>,-17.353015899658203
+conservatives are in the same way as a whole to,-18.27381992340088
+progressives <eos>,-1.469487190246582
+progressives and bad <eos>,-6.948331832885742
+progressives on the other side of the aisle <eos>,-11.79037857055664
+progressives on the other side of the world <eos>,-12.63823413848877
+progressives on the other side of the aisle and the,-15.471182823181152
+progressives are not libertarian <eos>,-6.751006126403809
+progressives are not a libertarian <eos>,-7.719106674194336
+progressives are the only one who has to be a,-19.021714210510254
+progressives are the only one who has to do with,-19.64896869659424
+progressives are the only one who has to do it,-20.092576026916504
+socialism <eos>,-1.1803016662597656
+socialism in the world <eos>,-8.692770004272461
+socialism is the opposite of libertarianism <eos>,-9.255850791931152
+socialism is the opposite of socialism <eos>,-10.506256103515625
+socialism is the opposite of capitalism <eos>,-10.872556686401367
+socialism is the opposite of libertarianism <eos>,-6.948718070983887
+socialism is a libertarian sub <eos>,-8.06864070892334
+socialism is not a libertarian <eos>,-8.149953842163086
+socialism is the opposite of socialism <eos>,-8.19912338256836
+socialism is the opposite of capitalism <eos>,-8.565423965454102
+socialists <eos>,-1.1383466720581055
+socialists in the us <eos>,-7.955747604370117
+socialists in the first place <eos>,-8.27111530303955
+socialists in the world <eos>,-8.622310638427734
+socialists in this country <eos>,-8.63584041595459
+socialists are in the us <eos>,-8.911349296569824
+socialists are in the same way <eos>,-10.159465789794922
+socialists are in the same way as a libertarian <eos>,-17.24487590789795
+socialists are the ones who can t be a libertarian,-17.865832328796387
+socialists are in the same way as a whole to,-18.196877479553223
+centrists <eos>,-1.4589414596557617
+centrists in the world <eos>,-7.228202819824219
+centrists in the us <eos>,-7.357048988342285
+centrists in the united states <eos>,-7.904600143432617
+centrists in the first place <eos>,-8.19296646118164
+centrists are not libertarian <eos>,-6.978086471557617
+centrists are going to be able to vote <eos>,-14.263392448425293
+centrists are going to be able to vote for the,-15.178079605102539
+centrists are going to be able to vote for their,-16.0375394821167
+centrists are going to be able to vote for a,-16.124472618103027
+centrist democrats <eos>,-1.0873193740844727
+centrist democrats and democrats <eos>,-6.505594253540039
+centrist democrats and republicans <eos>,-6.583243370056152
+centrist democrats in the us <eos>,-8.164168357849121
+centrist democrats in the us and the us is a,-20.788777351379395
+centrist democrats are not libertarian <eos>,-6.572458267211914
+centrist democrats are in the us <eos>,-9.019379615783691
+centrist democrats are in the same way <eos>,-10.529558181762695
+centrist democrats are in the same way as a libertarian,-16.43480110168457
+centrist democrats are in the same way as a whole,-16.705154418945312
+centrist republicans <eos>,-1.0793657302856445
+centrist republicans and democrats <eos>,-6.03249454498291
+centrist republicans and republicans <eos>,-6.290017127990723
+centrist republicans in the us <eos>,-7.788183212280273
+centrist republicans in the us and the us is a,-20.822166442871094
+centrist republicans are not libertarian <eos>,-6.912109375
+centrist republicans are trying to do it <eos>,-10.281231880187988
+centrist republicans are trying to make it <eos>,-11.659048080444336
+centrist republicans are trying to make it seem like a,-14.244413375854492
+centrist republicans are trying to make it seem to be,-14.488631248474121
+democratic socialism <eos>,-0.9230318069458008
+democratic socialism and communism <eos>,-6.269655227661133
+democratic socialism in the world <eos>,-8.702547073364258
+democratic socialism but i don t know what you re,-13.670476913452148
+democratic socialism but i don t think it s a,-14.104215621948242
+democratic socialism is an oxymoron <eos>,-6.15168571472168
+democratic socialism is a right <eos>,-7.427901268005371
+democratic socialism is not a libertarian <eos>,-8.260944366455078
+democratic socialism is a right wing ideology <eos>,-8.729246139526367
+democratic socialism is a right wing philosophy <eos>,-9.297096252441406
+establishment <eos>,-1.8311777114868164
+establishment libertarian <eos>,-4.215330123901367
+establishment republican <eos>,-5.195788383483887
+establishment democrats <eos>,-5.922045707702637
+establishment and the people who are not a libertarian <eos>,-21.068832397460938
+establishment is a libertarian <eos>,-6.060371398925781
+establishment is not a libertarian <eos>,-6.69532585144043
+establishment is not a libertarian and i don t think,-15.187612533569336
+establishment is not a libertarian and i don t know,-15.387429237365723
+establishment is not a libertarian and i don t want,-16.053447723388672
+establishment democrats <eos>,-1.8752775192260742
+establishment democrats are not a libertarian <eos>,-10.123003005981445
+establishment democrats have to do it <eos>,-11.039382934570312
+establishment democrats are the ones that are not a libertarian,-18.919652938842773
+establishment democrats are the ones who are not a libertarian,-18.9702205657959
+establishment democrats are not a libertarian <eos>,-8.136921882629395
+establishment democrats are in the same way <eos>,-10.74428653717041
+establishment democrats are in the same way as well <eos>,-14.619373321533203
+establishment democrats are in the same way as well as,-15.431567192077637
+establishment democrats are in the same way as a whole,-16.947829246520996
+establishment republicans <eos>,-1.8591156005859375
+establishment republicans and democrats <eos>,-7.257951736450195
+establishment republicans and democrats are the ones who can t,-17.29310417175293
+establishment republicans and democrats are the ones that are not,-18.620914459228516
+establishment republicans and democrats are the ones who are not,-18.64561939239502
+establishment republicans are not a libertarian <eos>,-8.115138053894043
+establishment republicans are going to vote <eos>,-9.499600410461426
+establishment republicans are going to be able to vote for,-13.020474433898926
+establishment republicans are going to vote for their actions <eos>,-13.443512916564941
+establishment republicans are going to be able to vote <eos>,-14.185505867004395
+communism <eos>,-0.7782974243164062
+communism in the world <eos>,-8.916625022888184
+communism and the government <eos>,-9.169356346130371
+communism but i don t know what you re talking,-14.823986053466797
+communism but i don t know what you re saying,-15.45311164855957
+communism is a right <eos>,-7.449433326721191
+communism is a good thing <eos>,-8.034957885742188
+communism is not a libertarian <eos>,-8.371441841125488
+communism is a right wing ideology <eos>,-9.231879234313965
+communism is a right wing philosophy <eos>,-9.646790504455566
+communists <eos>,-1.02264404296875
+communists and fascists <eos>,-6.511545181274414
+communists and white <eos>,-7.661592483520508
+communists in the us <eos>,-8.072689056396484
+communists and white supremacists <eos>,-8.134692192077637
+communist are <eos>,-3.9695215225219727
+communist are not a libertarian <eos>,-8.24757194519043
+communist are in the first place <eos>,-8.30298900604248
+communist are in the us <eos>,-8.975516319274902
+communist are in the first place and the government <eos>,-19.52888584136963
+capitalism <eos>,-0.9548654556274414
+capitalism and socialism <eos>,-6.160388946533203
+capitalism and the government <eos>,-8.46863079071045
+capitalism in the us <eos>,-8.896321296691895
+capitalism and the state <eos>,-9.49189281463623
+capitalism is a good thing <eos>,-8.095749855041504
+capitalism is a good idea <eos>,-8.3328275680542
+capitalism is not a libertarian <eos>,-9.217751502990723
+capitalism is not the same thing <eos>,-10.046897888183594
+capitalism is not the same thing as a whole <eos>,-18.193472862243652
+whites <eos>,-1.425675392150879
+whites in the us <eos>,-8.164328575134277
+whites in the first place <eos>,-8.31731128692627
+whites in the s <eos>,-8.899298667907715
+whites in the world <eos>,-8.899323463439941
+whites are not a libertarian <eos>,-8.595322608947754
+whites are in the same way <eos>,-10.565827369689941
+whites are in the same way as the government is,-18.58054542541504
+whites are in the same way as a whole to,-18.638385772705078
+whites are the ones who can t be a libertarian,-18.65234375
+caucasians <eos>,-0.10118865966796875
+caucasians because it s not <eos>,-11.672892570495605
+caucasians because you re not a libertarian <eos>,-13.97707462310791
+caucasians because it s not a good thing <eos>,-15.460851669311523
+caucasians because it s not the same thing <eos>,-15.674408912658691
+caucasians are not the same as you <eos>,-14.261345863342285
+caucasians are not the same as a libertarian <eos>,-14.542400360107422
+caucasians are the ones who are not a libertarian <eos>,-16.569110870361328
+caucasians are the ones who are not a libertarian and,-18.760286331176758
+caucasians are not the same as a libertarian or a,-18.915953636169434
+blacks <eos>,-2.7991228103637695
+blacks and white <eos>,-6.471146583557129
+blacks and white people <eos>,-7.7930755615234375
+blacks and white supremacists <eos>,-7.8277130126953125
+blacks and white supremacists are not a libertarian <eos>,-16.481858253479004
+blacks are not a libertarian <eos>,-8.589125633239746
+blacks are in the first place <eos>,-8.764434814453125
+blacks are in the us <eos>,-9.18804931640625
+blacks are in the first place and they re not,-18.749914169311523
+blacks are in the first place and they are not,-18.996620178222656
+african americans <eos>,-0.785914421081543
+african americans in the first place <eos>,-7.945344924926758
+african americans in the us <eos>,-8.084503173828125
+african americans in the first place they are <eos>,-16.22650909423828
+african americans in the first place they are not a,-18.942310333251953
+african americans are in the same way <eos>,-10.50268840789795
+african americans are the ones who can t be a,-15.309103012084961
+african americans are in the same way as they are,-15.952350616455078
+african americans are the ones who can t be the,-16.30812931060791
+african americans are in the same way as a result,-16.55391502380371
+asians <eos>,-1.5189399719238281
+asians and the government <eos>,-9.435511589050293
+asians that are not a libertarian <eos>,-12.101868629455566
+asians and that s not the case <eos>,-14.517376899719238
+asians and that s not the same thing <eos>,-15.804848670959473
+asians are right <eos>,-5.231606483459473
+asians are right wing <eos>,-7.276556968688965
+asians are in the first place <eos>,-8.473427772521973
+asians are left and right <eos>,-8.708989143371582
+asians are in the us <eos>,-8.79377555847168
+asian americans <eos>,-1.2426576614379883
+asian americans in the us <eos>,-7.185203552246094
+asian americans in the first place <eos>,-7.273653984069824
+asian americans in the s <eos>,-7.955399513244629
+asian americans in the first place and the other side,-19.24209690093994
+asian americans are in the first place <eos>,-7.9259538650512695
+asian americans are in the us <eos>,-8.407710075378418
+asian americans are in the same way <eos>,-10.20088005065918
+asian americans are in the same way as the same,-16.44727611541748
+asian americans are in the same way as a whole,-16.484450340270996
+latinos <eos>,-2.0788135528564453
+latinos etc <eos>,-3.048830986022949
+latinos as well <eos>,-5.192599296569824
+latinos as a whole <eos>,-8.610318183898926
+latinos as well as the same as the same as,-20.531896591186523
+latinos are the only ones that are <eos>,-13.95942211151123
+latinos are the only ones who can t be a,-17.189562797546387
+latinos are the only ones who can t even be,-17.972420692443848
+latinos are the ones who can t even be a,-18.067269325256348
+latinos are the ones who can t be a libertarian,-18.091683387756348
+hispanic <eos>,-2.4974775314331055
+hispanic people <eos>,-3.7910757064819336
+hispanic birth <eos>,-4.866817474365234
+hispanic students <eos>,-4.8705949783325195
+hispanic and white people <eos>,-7.783877372741699
+hispanics are in the first place <eos>,-8.80119800567627
+hispanics are more likely to be able to vote for,-14.410933494567871
+hispanics are more likely to be able to compete with,-14.802145004272461
+hispanics are more likely to have the right to vote,-15.12588882446289
+hispanics are more likely to be able to compete in,-15.295323371887207
+arabs <eos>,-1.9478387832641602
+arabs in the us <eos>,-7.476743698120117
+arabs in the first place <eos>,-7.621974945068359
+arabs in the world <eos>,-7.6909990310668945
+arabs in the past <eos>,-8.759218215942383
+arabs are a libertarian <eos>,-6.403685569763184
+arabs are at the same time <eos>,-8.523805618286133
+arabs are going to be able to vote <eos>,-14.303637504577637
+arabs are going to be able to vote for the,-15.190391540527344
+arabs are going to be able to do anything <eos>,-15.878939628601074
+lgbtq <eos>,-2.118755340576172
+lgbtq people <eos>,-2.817333221435547
+lgbtq rights <eos>,-4.433811187744141
+lgbtq people and the other side of the population <eos>,-19.70609760284424
+lgbtq people and the other side of the population is,-19.832697868347168
+lgbt <eos>,-2.4232301712036133
+lgbt people <eos>,-2.7597713470458984
+lgbt extremists <eos>,-3.706531524658203
+lgbt rights <eos>,-4.027509689331055
+lgbt people and the people who are not a libertarian,-20.522116661071777
+lgbtq community is the same <eos>,-7.324335098266602
+lgbtq community is not a libertarian <eos>,-8.024323463439941
+lgbtq community is the same thing <eos>,-8.352273941040039
+lgbtq community is not the same thing <eos>,-9.532975196838379
+lgbtq community is not the same as the same as,-15.195480346679688
+homosexuals <eos>,-1.0214958190917969
+homosexuals in the us <eos>,-8.59168815612793
+homosexuals in the first place <eos>,-8.616726875305176
+homosexuals in the world <eos>,-8.916593551635742
+homosexuals in the first place and the government is a,-22.153701782226562
+homosexuals are not a libertarian <eos>,-8.591668128967285
+homosexuals are in the first place <eos>,-9.136357307434082
+homosexuals are in the same way <eos>,-10.832549095153809
+homosexuals are not going to be able to compete against,-16.147414207458496
+homosexuals are not going to be able to compete with,-16.327054977416992
+christianity <eos>,-1.816549301147461
+christianity is a good thing <eos>,-8.730536460876465
+christianity is the same thing <eos>,-9.116602897644043
+christianity is not the same thing <eos>,-10.83902645111084
+christianity is the same thing as a whole <eos>,-16.959489822387695
+christians are not a libertarian <eos>,-8.43785572052002
+christians are in the us <eos>,-9.283731460571289
+christians are in the same way <eos>,-10.95357608795166
+christians are more likely to be able to compete with,-14.603757858276367
+christians are more likely to be able to compete against,-15.135129928588867
+islam <eos>,-1.7676076889038086
+islam is a right <eos>,-7.940060615539551
+islam is not a libertarian <eos>,-8.82478141784668
+islam is a right wing ideology <eos>,-11.229036331176758
+islam is a right wing ideology that is a good,-20.37310791015625
+muslims are in the first place <eos>,-8.567252159118652
+muslims are not a libertarian <eos>,-8.738898277282715
+muslims are in the us <eos>,-9.035099983215332
+muslims are in the same way <eos>,-10.976972579956055
+muslims are in the first place and the government is,-19.763885498046875
+judaism and christianity <eos>,-5.073748588562012
+judaism which is why i m not a libertarian <eos>,-14.544522285461426
+judaism which is why i m not going to be,-15.475279808044434
+judaism which is why i m not sure what you,-15.679163932800293
+judaism which is why i m not going to get,-16.099209785461426
+jews are not a libertarian <eos>,-7.738927841186523
+jews are not the same <eos>,-9.813287734985352
+jews are not the same as a libertarian <eos>,-15.781185150146484
+jews are the ones that are not a libertarian <eos>,-17.227113723754883
+jews are not the same as the same as the,-18.744993209838867
+minorities <eos>,-1.0853233337402344
+minorities in the world <eos>,-8.219902992248535
+minorities in the us <eos>,-8.318629264831543
+minorities in the first place <eos>,-8.519317626953125
+minorities in the country <eos>,-9.314754486083984
+minorities are not a libertarian <eos>,-8.182110786437988
+minorities are not the same <eos>,-9.984835624694824
+minorities are not the same as they are <eos>,-17.235894203186035
+minorities are not the same as the same as the,-18.901243209838867
+minorities are not the same as the same as a,-19.506183624267578
+chinese are <eos>,-3.809476852416992
+chinese are in the us <eos>,-8.65534496307373
+chinese are the only way to do so <eos>,-14.416736602783203
+chinese are the only way to do it <eos>,-15.34883975982666
+chinese are the only way to do so in the,-18.513076782226562
+indians are not a libertarian <eos>,-8.535320281982422
+indians are not a thing <eos>,-8.837444305419922
+indians are in the us <eos>,-9.11184310913086
+indians are not the same thing <eos>,-9.87002944946289
+indians are not the same as the same as the,-17.75144863128662
+mexicans are <eos>,-4.162162780761719
+mexicans are in the us <eos>,-8.712078094482422
+mexicans are the same thing <eos>,-8.944990158081055
+mexicans are in the same way <eos>,-11.338876724243164
+mexicans are in the same way as a libertarian <eos>,-18.68596363067627
+filipinos are not a thing <eos>,-7.986446380615234
+filipinos are not the same thing <eos>,-10.052385330200195
+filipinos are the only ones who can t be a,-16.57523822784424
+filipinos are the only ones who can t even be,-17.416513442993164
+filipinos are the only ones who can t be the,-17.658509254455566
+vietnamese are <eos>,-3.917360305786133
+vietnamese are the same thing <eos>,-8.477989196777344
+vietnamese are in the us <eos>,-8.761922836303711
+vietnamese are the only one who has a right to,-17.849862098693848
+vietnamese are the only one who has been a good,-20.802931785583496
+the media <eos>,-1.6930675506591797
+the media is not a libertarian <eos>,-10.351053237915039
+the media is a good thing <eos>,-10.565707206726074
+the media is not a good thing <eos>,-12.024977684020996
+the media and the people who are not a libertarian,-18.68255615234375
+the media is <eos>,-3.9897069931030273
+the media is not a libertarian <eos>,-7.872014999389648
+the media is a good thing <eos>,-8.086668968200684
+the media is not a good thing <eos>,-9.545939445495605
+the media is not a good thing to do with,-14.66737174987793
+the mainstream media <eos>,-2.215205192565918
+the mainstream media outlet <eos>,-5.122566223144531
+the mainstream media is not a libertarian <eos>,-10.380891799926758
+the mainstream media is a good thing <eos>,-10.893426895141602
+the mainstream media is not the same as the same,-16.836637496948242
+the mainstream media is <eos>,-4.007367134094238
+the mainstream media is not a libertarian <eos>,-7.884181022644043
+the mainstream media is a good thing <eos>,-8.396716117858887
+the mainstream media is not a good thing <eos>,-9.820601463317871
+the mainstream media is not a good thing to do,-14.133378982543945
+fake news <eos>,-1.0222015380859375
+fake news https www google com amp s www forbes,-10.3693265914917
+fake news https www youtube com watch v uxa dj,-10.63589859008789
+fake news https www youtube com watch v l mwppowqrw,-11.39891242980957
+fake news https www google com amp s amp theatlantic,-11.63499641418457
+the fake news media is <eos>,-3.903766632080078
+the fake news media is not a libertarian <eos>,-8.790098190307617
+the fake news media is not a good thing <eos>,-9.63807487487793
+the fake news media is not the same thing <eos>,-9.941186904907227
+the fake news media is not the same thing as,-11.022348403930664
+fox news <eos>,-1.3579702377319336
+fox news media <eos>,-4.958718299865723
+fox news https www youtube com watch v uxa dj,-11.011857986450195
+fox news https www youtube com watch v l mwppowqrw,-11.793436050415039
+fox news https www youtube com watch v q x,-13.735885620117188
+fox news is a good thing <eos>,-8.170581817626953
+fox news is not a libertarian <eos>,-8.358112335205078
+fox news is not a good thing <eos>,-9.54068374633789
+fox news is not the same thing <eos>,-10.04844856262207
+fox news is not the same thing as a whole,-15.738961219787598
+cnn <eos>,-1.0826358795166016
+cnn and fox news <eos>,-6.189130783081055
+cnn and the senate <eos>,-8.245709419250488
+cnn and fox news https www youtube com watch v,-10.823070526123047
+cnn and fox news https youtu be uxa dj cy,-13.73806381225586
+cnn is the case <eos>,-6.208257675170898
+cnn is not a transcript <eos>,-8.037900924682617
+cnn is the same thing <eos>,-8.248448371887207
+cnn is not the case <eos>,-8.288191795349121
+cnn is the same thing as a whole <eos>,-15.804930686950684
+msnbc <eos>,-1.191009521484375
+msnbc for the investigations <eos>,-8.458060264587402
+msnbc for the president <eos>,-8.551848411560059
+msnbc for the investigation <eos>,-8.563724517822266
+msnbc for the rest of the world <eos>,-11.043242454528809
+msnbc is a thing <eos>,-5.898035049438477
+msnbc is a russian agent <eos>,-7.238094329833984
+msnbc is the same thing <eos>,-7.445106506347656
+msnbc is not a thing <eos>,-7.920504570007324
+msnbc is the same thing as a whole <eos>,-14.707178115844727
+laura ingram <eos>,-3.751995086669922
+laura ingram ii <eos>,-4.790809631347656
+laura ingram it s not <eos>,-8.502595901489258
+laura ingram it s not the case <eos>,-11.491430282592773
+laura ingram it s not the same thing <eos>,-13.023457527160645
+laura ingram is not a libertarian <eos>,-6.973550796508789
+laura ingram is the same thing <eos>,-7.72347354888916
+laura ingram is the only thing that s not the,-14.609575271606445
+laura ingram is the only thing that s not a,-14.882282257080078
+laura ingram is the only thing that s not what,-15.146186828613281
+sean hannity <eos>,-1.462019920349121
+sean hannity s evidence <eos>,-5.681577682495117
+sean hannity is a good thing <eos>,-7.7397613525390625
+sean hannity is a good idea <eos>,-8.289149284362793
+sean hannity is not a good thing <eos>,-10.165867805480957
+sean hannity is a good thing <eos>,-6.1959028244018555
+sean hannity is a bad thing <eos>,-6.720391273498535
+sean hannity is a good idea <eos>,-6.745290756225586
+sean hannity is a good thing to do <eos>,-12.248404502868652
+sean hannity is a good thing to do with the,-12.594660758972168
+anderson cooper <eos>,-1.979482650756836
+anderson cooper called out <eos>,-7.023063659667969
+anderson cooper called out for a decade <eos>,-13.371596336364746
+anderson cooper called out for a while <eos>,-13.394136428833008
+anderson cooper called out for a few years <eos>,-14.236804008483887
+anderson cooper is a good thing <eos>,-7.191276550292969
+anderson cooper is a good idea <eos>,-7.879331588745117
+anderson cooper is one of them <eos>,-8.660919189453125
+anderson cooper is one of the most important part <eos>,-13.00379467010498
+anderson cooper is a good thing to do with the,-13.242815971374512
+late night talk shows <eos>,-3.1998863220214844
+late night talk shows that <eos>,-3.964815139770508
+late night talk shows that you re not a libertarian,-11.669647216796875
+late night talk shows that you can t even read,-12.42609977722168
+late night talk shows that you re not a right,-12.69352912902832
+late night talks shows are <eos>,-3.9639530181884766
+late night talks shows are you <eos>,-4.8331298828125
+late night talks shows are you talking about <eos>,-6.916306495666504
+late night talks shows are you going to be a,-11.29503059387207
+late night talks shows are you talking about the fact,-11.418966293334961
+hollywood <eos>,-1.5885419845581055
+hollywood etc <eos>,-2.983072280883789
+hollywood etc etc <eos>,-5.430367469787598
+hollywood etc etc etc <eos>,-8.079370498657227
+hollywood so i m not sure what you re talking,-17.24528408050537
+hollywood is a good thing <eos>,-8.291787147521973
+hollywood is not a libertarian <eos>,-9.161526679992676
+hollywood is going to be able to do it <eos>,-15.649432182312012
+hollywood is going to be able to do something that,-16.725627899169922
+hollywood is going to be able to do something <eos>,-17.088459968566895
+isis <eos>,-1.4488897323608398
+isis and other people <eos>,-9.171849250793457
+isis and the other side of the day <eos>,-17.839985847473145
+isis and the other side of the population <eos>,-17.870946884155273
+isis and the other side of the population is a,-20.639042854309082
+isis is the same <eos>,-7.347322463989258
+isis is a good thing <eos>,-7.559800148010254
+isis is the same thing <eos>,-7.664278030395508
+isis is not the same thing <eos>,-8.354933738708496
+isis is not the same thing as a whole <eos>,-17.020318031311035
+al qaeda <eos>,-1.999903678894043
+al qaeda in the first place <eos>,-6.273064613342285
+al qaeda in the us <eos>,-7.379401206970215
+al qaeda in the th century <eos>,-7.6590375900268555
+al qaeda in the area <eos>,-7.953648567199707
+al qaeda is dead <eos>,-5.208874702453613
+al qaeda is not a libertarian <eos>,-7.015192031860352
+al qaeda is not a right <eos>,-8.379069328308105
+al qaeda is not the same thing <eos>,-9.588622093200684
+al qaeda is not the same thing as a whole,-15.709135055541992
+russia <eos>,-1.2550315856933594
+russia that s not the case <eos>,-12.02626895904541
+russia and that s not the case <eos>,-14.037751197814941
+russia that s not the same thing <eos>,-14.339731216430664
+russia and the other side of the population <eos>,-17.439167976379395
+russia is the only way to do so <eos>,-13.957504272460938
+russia is the only way to do it <eos>,-14.810684204101562
+russia is the only way to make it <eos>,-16.242878913879395
+russia is going to be the same as the same,-19.491957664489746
+russia is going to be the same as the government,-19.497976303100586
+putin <eos>,-1.9254255294799805
+putin s <eos>,-4.668048858642578
+putin is a libertarian <eos>,-8.79076862335205
+putin in the us <eos>,-9.18252944946289
+putin and the people who are not a libertarian <eos>,-19.767802238464355
+putin is not a libertarian <eos>,-7.332950592041016
+putin is in the first place <eos>,-8.400835990905762
+putin is not a libertarian and i don t think,-15.691909790039062
+putin is not a libertarian and i don t know,-15.891576766967773
+putin is not a libertarian and i don t want,-16.558228492736816
+north korea <eos>,-1.2754058837890625
+north korea in the us <eos>,-8.574642181396484
+north korea is a good thing <eos>,-9.300217628479004
+north korea is not a good thing <eos>,-10.918294906616211
+north korea is not the same thing <eos>,-11.002330780029297
+north korea is a good thing <eos>,-7.097935676574707
+north korea is the same thing <eos>,-7.750577926635742
+north korea is not a good thing <eos>,-8.716012954711914
+north korea is not the same thing <eos>,-8.800048828125
+north korea is not the same thing as a whole,-14.696002960205078
+kim jon un <eos>,-3.435906410217285
+kim jon un posts <eos>,-4.499965667724609
+kim jon un a joke <eos>,-6.530363082885742
+kim jon un a lot more <eos>,-7.991525650024414
+kim jon un a lot of people who are not,-14.997052192687988
+kim jong un is a libertarian <eos>,-7.7749834060668945
+kim jong un is a socialist <eos>,-7.986554145812988
+kim jong un is not a libertarian <eos>,-8.069169998168945
+kim jong un is a right wing right wing conservative,-15.018356323242188
+kim jong un is a right wing right wing authoritarian,-15.03413200378418
+china <eos>,-1.2174396514892578
+china s <eos>,-5.215509414672852
+china and the government <eos>,-9.949481964111328
+china is not a libertarian <eos>,-11.246245384216309
+china is not the same as the government <eos>,-19.417107582092285
+china is a good thing <eos>,-8.189126014709473
+china is not a libertarian <eos>,-8.455414772033691
+china is not a good thing <eos>,-9.65087604522705
+china is not the same thing <eos>,-10.010506629943848
+china is not the same thing as a whole <eos>,-18.30872344970703
+india <eos>,-1.6171331405639648
+india company <eos>,-4.986092567443848
+india and the people <eos>,-10.246384620666504
+india and the us <eos>,-10.286113739013672
+india and the people who are not a libertarian <eos>,-21.23704242706299
+india is a good thing <eos>,-7.988615036010742
+india is the same thing <eos>,-8.212285995483398
+india is not the same thing <eos>,-8.864579200744629
+india is not a good thing <eos>,-9.185625076293945
+india is not the same thing as a result of,-15.340710639953613
+the middle east <eos>,-1.5706586837768555
+the middle east was a good thing <eos>,-9.39141845703125
+the middle east was the same <eos>,-9.61639404296875
+the middle east was the same thing <eos>,-9.756627082824707
+the middle east was the same thing as a whole,-15.038924217224121
+the middle east is a good thing <eos>,-7.170698165893555
+the middle east is the same thing <eos>,-7.686582565307617
+the middle east is not the same thing <eos>,-8.535456657409668
+the middle east is not a good thing <eos>,-8.646930694580078
+the middle east is not the same thing as a,-11.340569496154785
+iran <eos>,-1.4192876815795898
+iran and the us <eos>,-9.86326789855957
+iran and the united states <eos>,-9.876879692077637
+iran and the us government <eos>,-11.367744445800781
+iran and the united states and the us has a,-20.624873161315918
+iran is not a libertarian <eos>,-8.346429824829102
+iran is the only way to do so <eos>,-14.166824340820312
+iran is the only way to do it <eos>,-15.038130760192871
+iran is the only way to do that <eos>,-15.03925895690918
+iran is the only way to make it <eos>,-16.49292278289795
+iraq <eos>,-1.2398090362548828
+iraq and afghanistan <eos>,-5.04411506652832
+iraq and afghanistan and iraq <eos>,-8.929606437683105
+iraq and it s not the case <eos>,-13.172728538513184
+iraq and it s not the same thing <eos>,-15.565407752990723
+iraq is not the case <eos>,-8.121711730957031
+iraq is a good thing <eos>,-8.183511734008789
+iraq is not a libertarian <eos>,-9.034605026245117
+iraq is not a good thing <eos>,-9.752148628234863
+iraq is not a good thing to do with the,-16.4197940826416
+afghanistan <eos>,-1.527430534362793
+afghanistan and it s not <eos>,-10.14331340789795
+afghanistan and it s not the case <eos>,-12.497233390808105
+afghanistan and i m not sure what you re talking,-16.30974006652832
+afghanistan and i m not sure what you re saying,-16.6828670501709
+afghanistan is not the case <eos>,-8.161520004272461
+afghanistan is a great example <eos>,-8.890759468078613
+afghanistan is a good example <eos>,-9.076298713684082
+afghanistan is a great example of the government <eos>,-13.07733154296875
+afghanistan is a great example of the government and the,-15.842867851257324
+the uk <eos>,-1.2512502670288086
+the uk is the same as the same thing <eos>,-18.254688262939453
+the uk is the same as the same thing as,-18.47021770477295
+the uk is the same as the same as the,-18.774682998657227
+the uk is the same as the same as a,-19.250595092773438
+the uk is the same <eos>,-7.549738883972168
+the uk is in the us <eos>,-8.255882263183594
+the uk is not a libertarian <eos>,-8.737896919250488
+the uk is not the same as the same thing,-16.04379940032959
+the uk is not the same as the same as,-16.215703010559082
+boris johnson <eos>,-2.2257766723632812
+boris johnson in the us <eos>,-8.117076873779297
+boris johnson and other people <eos>,-8.277443885803223
+boris johnson and his supporters <eos>,-8.319246292114258
+boris johnson and his friends <eos>,-8.665571212768555
+boris johnson is not a libertarian <eos>,-8.118088722229004
+boris johnson is the same thing <eos>,-8.312225341796875
+boris johnson is not the same thing <eos>,-8.980674743652344
+boris johnson is not a good thing <eos>,-9.262600898742676
+boris johnson is not the same as the same as,-14.879055976867676
+canada <eos>,-1.2755146026611328
+canada s <eos>,-4.909667015075684
+canada and the people <eos>,-9.34669303894043
+canada and the people who don t want to be,-15.750859260559082
+canada and the people who don t have to pay,-16.376873016357422
+canada is not a libertarian <eos>,-8.009626388549805
+canada is a good thing <eos>,-8.307583808898926
+canada is not a good thing <eos>,-9.792031288146973
+canada is not the same as the same thing <eos>,-17.38051128387451
+canada is not the same as the same thing as,-17.834769248962402
+justin trudeau s <eos>,-3.871877670288086
+justin trudeau s freedom <eos>,-5.551583290100098
+justin trudeau s presidential candidate <eos>,-7.247341156005859
+justin trudeau s presidential advisor <eos>,-7.831358909606934
+justin trudeau s democratic presidential candidates <eos>,-7.89085578918457
+justin trudeau is the same <eos>,-7.014806747436523
+justin trudeau is not a libertarian <eos>,-7.553715705871582
+justin trudeau is the same thing <eos>,-7.889492988586426
+justin trudeau is the same as the same <eos>,-13.62285327911377
+justin trudeau is the same as the same as the,-14.353737831115723
+mexico <eos>,-1.190338134765625
+mexico s <eos>,-5.895412445068359
+mexico and the government <eos>,-10.243023872375488
+mexico and that s not the case <eos>,-15.222817420959473
+mexico and that s not the same thing <eos>,-16.77469253540039
+mexico is a good thing <eos>,-8.446563720703125
+mexico is not a libertarian <eos>,-8.740839004516602
+mexico is not a good thing <eos>,-9.855002403259277
+mexico is not the same thing <eos>,-10.066153526306152
+mexico is not the same thing as a whole <eos>,-18.463958740234375
+eu <eos>,-1.002242088317871
+eu and the united states <eos>,-9.760862350463867
+eu and the united states has a monopoly on the,-18.560819625854492
+eu and the united states has a monopoly <eos>,-19.614055633544922
+eu and the united states has a monopoly on a,-20.422764778137207
+eu is a good thing <eos>,-7.280673027038574
+eu is the same thing <eos>,-7.718926429748535
+eu is not the same thing <eos>,-8.589282989501953
+eu is not a good thing <eos>,-8.784317970275879
+eu is not the same as the same thing <eos>,-15.821261405944824
+european union <eos>,-2.6993885040283203
+european union people <eos>,-4.253313064575195
+european union members <eos>,-4.980938911437988
+european union people and the other <eos>,-12.994876861572266
+european union people and the people who are not a,-20.402616500854492
+european union is the same <eos>,-7.59810733795166
+european union is a good thing <eos>,-8.0855131149292
+european union is not a libertarian <eos>,-9.027299880981445
+european union is not the same thing <eos>,-10.028862953186035
+european union is not the same thing as a whole,-15.989605903625488
+nato <eos>,-1.801621437072754
+nato is the same <eos>,-9.309258460998535
+nato is the same thing <eos>,-10.212467193603516
+nato is not the same as the same thing <eos>,-19.144219398498535
+nato is not the same as the same thing as,-19.580464363098145
+nato is going to be the case <eos>,-12.450812339782715
+nato is going to be the same <eos>,-13.46879768371582
+nato is going to be the same thing <eos>,-14.618083953857422
+nato is going to be the same thing as a,-17.266350746154785
+nato is going to be the same thing as the,-17.728303909301758
+sjws <eos>,-1.3168096542358398
+sjws in the world <eos>,-7.793354034423828
+sjws in the us <eos>,-7.932490348815918
+sjws in the first place <eos>,-8.062073707580566
+sjws in the country <eos>,-8.721820831298828
+sjws are <eos>,-3.9495887756347656
+sjws are in the first place <eos>,-8.294390678405762
+sjws are a good thing <eos>,-8.530061721801758
+sjws are in the us <eos>,-8.818513870239258
+sjws are in the same way <eos>,-10.738439559936523
+social justice warriors <eos>,-1.5602426528930664
+social justice warriors at the same time <eos>,-10.035091400146484
+social justice warriors which is not a libertarian <eos>,-12.147404670715332
+social justice warriors which is not the same thing <eos>,-13.750214576721191
+social justice warriors which is not the same thing as,-14.911040306091309
+social justice warriors are not a libertarian <eos>,-7.542763710021973
+social justice warriors are a lot <eos>,-7.606280326843262
+social justice warriors are at the same time <eos>,-8.374359130859375
+social justice warriors are a lot more likely to be,-10.351226806640625
+social justice warriors are a lot of people who are,-10.839005470275879
+libtards <eos>,-1.16558837890625
+libtards don t care about it <eos>,-10.093914985656738
+libtards i don t think it s not the case,-17.595170974731445
+libtards i don t think it s not the same,-17.596835136413574
+libtards i don t think it s not a good,-17.699101448059082
+libtards are not a libertarian <eos>,-7.5846710205078125
+libtards are in the first place <eos>,-8.56177806854248
+libtards are not the same <eos>,-9.507040977478027
+libtards are in the same way <eos>,-10.499308586120605
+libtards are in the same way as a whole to,-18.474031448364258
+regressive left <eos>,-1.563232421875
+regressive left libertarians <eos>,-4.254329681396484
+regressive left libertarian <eos>,-4.895129203796387
+regressive left socialist <eos>,-5.151769638061523
+regressive left and right <eos>,-6.188040733337402
+regressive left is the same <eos>,-7.262035369873047
+regressive left is the same thing <eos>,-8.477693557739258
+regressive left is not a libertarian <eos>,-8.478936195373535
+regressive left is the only way to make it <eos>,-16.25061798095703
+regressive left is the only way to make it a,-16.306199073791504
+birther <eos>,-1.1607046127319336
+birther bullshit <eos>,-2.230544090270996
+birther movement <eos>,-2.255648612976074
+birther shit <eos>,-4.760397911071777
+birther is a lot of people who are not a,-20.569528579711914
+birthers are not a libertarian <eos>,-7.594385147094727
+birthers are pretty much different <eos>,-9.607081413269043
+birthers are in the wrong sub <eos>,-9.671162605285645
+birthers are not a libertarian and i don t think,-15.86729621887207
+birthers are not a libertarian and i don t know,-16.128572463989258
+trumpsters <eos>,-1.6523914337158203
+trumpsters in the world <eos>,-7.7607526779174805
+trumpsters in the us <eos>,-7.950138092041016
+trumpsters in the first place <eos>,-8.063248634338379
+trumpsters on the internet <eos>,-8.29185962677002
+trumpsters are <eos>,-3.870084762573242
+trumpsters are not a libertarian <eos>,-8.216687202453613
+trumpsters are in the first place <eos>,-8.31328010559082
+trumpsters are a good thing <eos>,-8.625712394714355
+trumpsters are in the us <eos>,-8.87656021118164

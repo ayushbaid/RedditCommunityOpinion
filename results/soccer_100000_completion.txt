@@ -1,0 +1,1436 @@
+sentence,log_probability
+trump <eos>,-1.830021858215332
+trump and white <eos>,-7.083819389343262
+trump and white people <eos>,-7.98267936706543
+trump and i don t think it s not a,-15.3921537399292
+trump and i don t think it s a racist,-16.177106857299805
+trump is the most important thing <eos>,-8.828936576843262
+trump is the most important thing to do <eos>,-10.915430068969727
+trump is the most important thing i ve ever seen,-10.937701225280762
+trump is the most important thing i ve ever heard,-12.46614933013916
+trump is the most important thing in the world <eos>,-12.654271125793457
+trump is a racist <eos>,-4.831513404846191
+trump is a fucking joke <eos>,-5.598345756530762
+trump is a racist caricature <eos>,-6.814538955688477
+trump is a bit of a different situation <eos>,-12.563227653503418
+trump is a bit of a good player <eos>,-13.123475074768066
+trump should be the best in the world <eos>,-9.300450325012207
+trump should be able to do it <eos>,-10.613533020019531
+trump should be the best in the league <eos>,-11.045343399047852
+trump should be the best in the history of the,-12.155418395996094
+trump should be the best in the history of football,-12.755857467651367
+trump needs to do it <eos>,-5.683204650878906
+trump needs to do that <eos>,-6.076299667358398
+trump needs to be the best <eos>,-9.222811698913574
+trump needs to be the best in the world <eos>,-10.483187675476074
+trump needs to be the best in the world and,-12.463894844055176
+trump will be able to do it <eos>,-11.106827735900879
+trump will be able to make it <eos>,-12.568169593811035
+trump will be able to make it sound like a,-14.629889488220215
+trump will be able to make it sound <eos>,-14.946914672851562
+trump will be able to make it sound like you,-15.124505043029785
+trump has a lot of money <eos>,-9.985455513000488
+trump has a lot of people <eos>,-10.02836799621582
+trump has a lot of people who don t have,-13.517420768737793
+trump has a lot of people who don t know,-13.67325210571289
+trump has a lot of people who don t want,-14.25485897064209
+trump administration has a lot of money <eos>,-9.72218132019043
+trump administration has a lot of people <eos>,-10.147117614746094
+trump administration has a lot of people who don t,-11.395964622497559
+trump administration has a lot of people who are just,-13.851455688476562
+trump administration has a lot of people who are not,-14.154729843139648
+trump s <eos>,-4.011013031005859
+trump s sake <eos>,-4.893272399902344
+trump s you <eos>,-6.087270736694336
+trump s the same <eos>,-8.25964641571045
+trump s the same thing <eos>,-8.962154388427734
+maga though <eos>,-1.572174072265625
+maga <eos>,-4.017269134521484
+maga tbh <eos>,-5.409629821777344
+maga though and i m not sure <eos>,-14.101136207580566
+maga though and i don t know what you re,-17.21503257751465
+maga rallies are the same <eos>,-7.292860984802246
+maga rallies are the ones who have been sold for,-17.047191619873047
+maga rallies are the ones who have been sold in,-17.05429458618164
+maga rallies are the only team that s not a,-17.08864974975586
+maga rallies are the only team that s not the,-17.251014709472656
+trump rallies are <eos>,-3.8448543548583984
+trump rallies are you <eos>,-5.196432113647461
+trump rallies are a fucking joke <eos>,-7.507120132446289
+trump rallies are the ones that i m not sure,-15.493989944458008
+trump rallies are the ones that i m not going,-16.542946815490723
+trump supporters are going to be the same thing <eos>,-14.130634307861328
+trump supporters are the only ones that they have to,-14.440720558166504
+trump supporters are the only ones who can t be,-15.055603981018066
+trump supporters are the only ones that they have been,-15.136869430541992
+trump supporters are going to be the same thing as,-15.361833572387695
+trump is handling it <eos>,-3.410464286804199
+trump is handling that <eos>,-4.736176490783691
+trump is handling the game <eos>,-6.164766311645508
+trump is handling it in the future <eos>,-9.276711463928223
+trump is handling it in the uk <eos>,-9.530316352844238
+biden it <eos>,-4.175966262817383
+biden you <eos>,-4.302059173583984
+biden trump <eos>,-4.372077941894531
+biden trump and white <eos>,-7.103699684143066
+biden trump and white people <eos>,-7.922968864440918
+biden is a joke <eos>,-6.487053871154785
+biden is not a racist <eos>,-9.383286476135254
+biden is a bit more important <eos>,-11.920418739318848
+biden is a bit more important to be the best,-20.402467727661133
+biden is a bit more important to be the most,-20.53152847290039
+biden is a joke <eos>,-4.411428451538086
+biden is a racist caricature <eos>,-6.664271354675293
+biden is a racist caricature of a black person <eos>,-14.254416465759277
+biden is a racist caricature of a black man <eos>,-14.678314208984375
+biden is a racist caricature of a black person who,-15.210647583007812
+biden should be a bit of a bit of a,-16.198562622070312
+biden should have been a bit of a bit of,-16.33168315887451
+biden should have been a bit of the same thing,-17.274396896362305
+biden should be a bit of a bit of an,-17.67654800415039
+biden should have been a bit of a bit <eos>,-17.97671890258789
+biden needs to be the same <eos>,-9.074978828430176
+biden needs to be the same thing <eos>,-10.52631664276123
+biden needs to be the best in the world <eos>,-10.690851211547852
+biden needs to be the best in the history of,-11.756248474121094
+biden needs to be the best in the world and,-11.990285873413086
+biden will be the best in the world <eos>,-11.244939804077148
+biden will be the same thing <eos>,-11.627921104431152
+biden will be the best in the league <eos>,-13.399742126464844
+biden will be the best in the history of the,-13.579346656799316
+biden will be the best in the history of football,-14.156289100646973
+biden has a lot of people <eos>,-10.261602401733398
+biden has a lot of people who don t know,-12.71972370147705
+biden has a lot of people who don t have,-12.776359558105469
+biden has a lot of people who don t care,-13.596256256103516
+biden has a lot of people who don t want,-13.820226669311523
+biden s <eos>,-2.955537796020508
+biden s i don t know what you re saying,-13.549448013305664
+biden s i don t know what you re doing,-14.273330688476562
+biden s i don t think it s just a,-14.34543228149414
+biden s i don t know what you re talking,-14.395149230957031
+biden supporters are the only thing that matters to me,-13.474857330322266
+biden supporters are the only thing that matters <eos>,-13.647720336914062
+biden supporters are the only thing that matters is that,-14.802345275878906
+biden supporters are the only thing that matters is the,-15.074230194091797
+biden supporters are the only ones who can t be,-15.675029754638672
+biden rallies are you <eos>,-5.386812210083008
+biden rallies are the same <eos>,-7.050114631652832
+biden rallies are a bunch of cunts <eos>,-8.75114917755127
+biden rallies are a bunch of cunts in the uk,-14.98547649383545
+biden rallies are a bunch of cunts on the other,-15.203130722045898
+sleepy joe now <eos>,-2.96195125579834
+sleepy joe <eos>,-3.181619644165039
+sleepy joe allen <eos>,-3.497653007507324
+sleepy joe at least <eos>,-7.809737205505371
+sleepy joe allen and de jong <eos>,-11.977726936340332
+sanders <eos>,-0.0031032562255859375
+sanders etc <eos>,-7.753868103027344
+sanders tho <eos>,-7.972766876220703
+sanders was <eos>,-10.674749374389648
+sanders was a bit of a great signing <eos>,-22.87186336517334
+sanders is <eos>,-3.0543689727783203
+sanders is the perfect example <eos>,-8.610740661621094
+sanders is why i m not sure <eos>,-12.89725399017334
+sanders is why i m not sure he s a,-16.37185287475586
+sanders is why i m not sure he s been,-16.59802532196045
+sanders is a joke <eos>,-4.115110397338867
+sanders is a meme <eos>,-4.865932464599609
+sanders is a bit weird <eos>,-6.625483512878418
+sanders is a bit of a great signing <eos>,-13.73875617980957
+sanders is a bit of a great signing for a,-15.97659683227539
+sanders should <eos>,-2.4088315963745117
+sanders should as well <eos>,-7.05938720703125
+sanders should as well be a great idea <eos>,-14.797611236572266
+sanders should as well be a bit more <eos>,-15.656486511230469
+sanders should as well be a bit of a good,-18.12815761566162
+sanders needs to do <eos>,-5.078513145446777
+sanders needs to come down <eos>,-6.866609573364258
+sanders needs to be sold <eos>,-7.4738054275512695
+sanders needs to come down to his friend <eos>,-13.998247146606445
+sanders needs to come down to his teammates <eos>,-14.196647644042969
+sanders will <eos>,-3.1313486099243164
+sanders will do <eos>,-4.519052505493164
+sanders will help <eos>,-5.126646041870117
+sanders will tell you <eos>,-6.333085060119629
+sanders will tell you to <eos>,-9.283232688903809
+sanders has <eos>,-3.6411685943603516
+sanders has come down <eos>,-7.056764602661133
+sanders has no way <eos>,-7.128233909606934
+sanders has no way to be sold <eos>,-13.26655101776123
+sanders has no way to be a good player <eos>,-17.61831283569336
+sanders <eos>,-0.0031032562255859375
+sanders etc <eos>,-7.753868103027344
+sanders tho <eos>,-7.972766876220703
+sanders was <eos>,-10.674749374389648
+sanders was a bit of a great signing <eos>,-22.87186336517334
+sander s supporters are so good <eos>,-7.02567195892334
+sander s supporters are very good <eos>,-7.223978042602539
+sander s supporters are the best in the world <eos>,-9.420221328735352
+sander s supporters are the best in the league <eos>,-10.392168045043945
+sander s supporters are the best in the world and,-11.349766731262207
+bernie telling me that it s funny <eos>,-14.706771850585938
+bernie telling me that it s not racist <eos>,-15.909024238586426
+bernie telling me that it s not a racist <eos>,-17.677205085754395
+bernie telling me that it s a bit of a,-17.94855785369873
+bernie telling me that it s a bit silly <eos>,-18.35737419128418
+bernie is a joke <eos>,-4.434362411499023
+bernie is a fucking joke <eos>,-5.372221946716309
+bernie is a fucking disgrace <eos>,-5.977417945861816
+bernie is a fucking idiot <eos>,-6.092878341674805
+bernie is a bit of a good player <eos>,-14.132080078125
+bernie should have been a bit of a bit of,-15.530071258544922
+bernie should be a bit of a good job <eos>,-16.338804244995117
+bernie should have been a bit of the same thing,-16.429269790649414
+bernie should have been a bit of the same as,-16.857457160949707
+bernie should have been a bit of a good job,-16.979129791259766
+bernie needs to do it <eos>,-5.321310997009277
+bernie needs to do that <eos>,-5.996502876281738
+bernie needs to be a good player <eos>,-10.780010223388672
+bernie needs to be a good one <eos>,-11.068319320678711
+bernie needs to be a good player but i m,-15.140670776367188
+bernie will be the best in the world <eos>,-11.2695951461792
+bernie will be the most expensive defender in the world,-13.32853889465332
+bernie will be the best in the history of the,-14.081755638122559
+bernie will be the best in the world in the,-14.121652603149414
+bernie will be the best in the history of football,-14.318031311035156
+bernie has no clue <eos>,-7.330219268798828
+bernie has no idea <eos>,-7.583592414855957
+bernie has no clue about this <eos>,-9.282852172851562
+bernie has no clue what you think <eos>,-11.505783081054688
+bernie has no clue what you re saying <eos>,-12.569846153259277
+bernie s head <eos>,-5.910636901855469
+bernie s sake <eos>,-6.142409324645996
+bernie s the most important thing i ve ever seen,-13.33611011505127
+bernie s the most important thing to do <eos>,-14.023001670837402
+bernie s the most important thing i ve ever heard,-14.31063175201416
+bernie supporters <eos>,-1.8969688415527344
+bernie supporters on here <eos>,-6.867895126342773
+bernie supporters on the internet <eos>,-9.565306663513184
+bernie supporters who are the ones who are the ones,-18.29748249053955
+bernie supporters who are the ones who are the only,-19.523837089538574
+bernie rallies are racist <eos>,-4.743448257446289
+bernie rallies are you <eos>,-5.144306182861328
+bernie rallies are a bunch of cunts <eos>,-8.314212799072266
+bernie rallies are a bunch of plastic <eos>,-10.437067031860352
+bernie rallies are a bunch of cunts and the fact,-16.284079551696777
+crazy bernie <eos>,-3.7980079650878906
+crazy bernie is a racist <eos>,-8.067964553833008
+crazy bernie is a racist caricature <eos>,-10.402958869934082
+crazy bernie is just a joke <eos>,-10.669282913208008
+crazy bernie is just a fucking joke <eos>,-11.739434242248535
+nervous nancy s <eos>,-4.205223083496094
+nervous nancy or not <eos>,-5.4823408126831055
+nervous nancy s fault <eos>,-5.737434387207031
+nervous nancy s and the fact that they re not,-15.686321258544922
+nervous nancy s and the fact that they are the,-16.4143648147583
+moscow mitch <eos>,-0.9398384094238281
+moscow mitch a <eos>,-5.755853652954102
+moscow mitch goal <eos>,-6.180915832519531
+moscow mitch goal in a draw <eos>,-12.940736770629883
+moscow mitch goal in the same way <eos>,-13.3563871383667
+obama and wolfsburg <eos>,-6.9173383712768555
+obama and bury <eos>,-6.953198432922363
+obama was a good one <eos>,-10.859804153442383
+obama was a bit of a good one <eos>,-16.530569076538086
+obama was a bit of a bit of a good,-18.468981742858887
+obama is one of the best <eos>,-8.77274227142334
+obama is one of the best players in the world,-8.966348648071289
+obama is one of the best teams in the world,-10.25395679473877
+obama is one of the best players in the league,-10.723159790039062
+obama is one of the best teams in the league,-10.914292335510254
+obama was one of the best <eos>,-8.56670093536377
+obama was one of the best players in the world,-8.702101707458496
+obama was one of the best teams in the world,-10.269904136657715
+obama was one of the best players in the league,-10.336326599121094
+obama was one of the best teams in the league,-10.822087287902832
+obama is a good player <eos>,-6.8609619140625
+obama is a big factor <eos>,-7.174114227294922
+obama is a very good player <eos>,-7.535497665405273
+obama is a very good player but i m not,-13.502026557922363
+obama is a very good player but it s not,-13.590869903564453
+obama should have won the league <eos>,-9.058212280273438
+obama should have been the best in the world <eos>,-11.226284980773926
+obama should have been the best in the world and,-12.390780448913574
+obama should have been the best in the world in,-12.419507026672363
+obama should have been the best in the league <eos>,-12.471770286560059
+obama needs to be <eos>,-4.59407901763916
+obama needs to be a very good player <eos>,-10.045516967773438
+obama needs to be as good as they are <eos>,-12.676630973815918
+obama needs to be a very good player but i,-12.77302074432373
+obama needs to be a very good player but it,-13.590620994567871
+obama will be very good <eos>,-7.082606315612793
+obama will be a very good player <eos>,-10.67226791381836
+obama will be as good as they are <eos>,-12.80457878112793
+obama will be a very good player but it s,-14.672571182250977
+obama will be a very good player but i m,-15.117521286010742
+obama has been the best in the world <eos>,-9.980073928833008
+obama has been in the first place <eos>,-10.479802131652832
+obama has been the best player in the world <eos>,-11.57857894897461
+obama has been the best in the world in the,-12.142457962036133
+obama has been the best player in the world and,-12.6179780960083
+obama administration has a lot of money <eos>,-9.516570091247559
+obama administration has been a huge factor in the last,-14.22651481628418
+obama administration has been a huge factor in the stadium,-14.344266891479492
+obama administration has been a huge factor in the league,-14.357175827026367
+obama administration has been a huge factor in the past,-14.40700912475586
+obama s name <eos>,-4.488964080810547
+obama s fault <eos>,-4.756872177124023
+obama s name is the most important thing <eos>,-14.983518600463867
+obama s name is the most important thing in the,-15.648310661315918
+obama s name is the most important thing to do,-15.969406127929688
+aoc <eos>,-2.3750429153442383
+aoc died <eos>,-4.404891014099121
+aoc need to be the same thing <eos>,-13.72439193725586
+aoc need to go to the club <eos>,-13.73884105682373
+aoc need to be the best in the world <eos>,-14.260210037231445
+aoc is a racist <eos>,-7.074008941650391
+aoc is a racist caricature <eos>,-8.236848831176758
+aoc is the same thing <eos>,-9.394972801208496
+aoc is the most important thing <eos>,-9.852075576782227
+aoc is the most important thing to do <eos>,-11.95132827758789
+aoc is a joke <eos>,-4.175809860229492
+aoc is a racist <eos>,-4.446249008178711
+aoc is a racist caricature <eos>,-5.609088897705078
+aoc is a fucking joke <eos>,-5.9689435958862305
+aoc is a bit of a good deal for the,-16.425765991210938
+aoc should be racist <eos>,-6.022174835205078
+aoc should be the same thing <eos>,-9.991379737854004
+aoc should be the best in the world <eos>,-10.310138702392578
+aoc should be the best in the history of the,-13.373200416564941
+aoc should be the best in the history of football,-13.933304786682129
+aoc needs to be <eos>,-4.829309463500977
+aoc needs to do it <eos>,-5.665905952453613
+aoc needs to be happy to be honest <eos>,-11.62895679473877
+aoc needs to be happy about the club <eos>,-12.351449966430664
+aoc needs to be happy about the club and the,-15.83896541595459
+aoc will be <eos>,-5.137927055358887
+aoc will be racist <eos>,-6.0516157150268555
+aoc will be happy to be honest <eos>,-11.771490097045898
+aoc will be happy to be honest i don t,-16.584171295166016
+aoc will be happy to be honest i m not,-17.679078102111816
+aoc has done it <eos>,-6.520489692687988
+aoc has a lot of money <eos>,-9.90061092376709
+aoc has a lot of people <eos>,-10.327980041503906
+aoc has been the best in the world <eos>,-11.157958984375
+aoc has been the best in the world and the,-15.387069702148438
+aoc s <eos>,-3.939072608947754
+aoc s name <eos>,-5.262139320373535
+aoc s white <eos>,-5.535257339477539
+aoc s white people <eos>,-7.425039291381836
+aoc s white people and the other way around <eos>,-18.588021278381348
+abortion <eos>,-0.11713218688964844
+abortion to us <eos>,-7.747642517089844
+abortion to the club <eos>,-9.458747863769531
+abortion to the club and i don t think he,-17.667668342590332
+abortion to the club and i don t know what,-17.871508598327637
+abortion should as well <eos>,-5.935288429260254
+abortion should as well as well <eos>,-10.504473686218262
+abortion should be sold by the club <eos>,-13.194390296936035
+abortion should as well as well be a good player,-18.37748432159424
+abortion should as well as well have been a bit,-18.558968544006348
+pro life <eos>,-1.4021148681640625
+pro life in the uk <eos>,-8.81240177154541
+pro life in the first place <eos>,-8.925424575805664
+pro life in the first place of the top <eos>,-16.391489028930664
+pro life in the first place of the world <eos>,-16.422728538513184
+pro choice <eos>,-0.5867443084716797
+pro choice and i m not sure <eos>,-12.039019584655762
+pro choice and i m not sure if you re,-14.637412071228027
+pro choice and i m not sure about it <eos>,-14.933032035827637
+pro choice and i m not sure if you can,-15.80611515045166
+gun control <eos>,-2.933572769165039
+gun control of the game <eos>,-4.22639274597168
+gun control of football <eos>,-5.112287521362305
+gun control of the club <eos>,-5.812596321105957
+gun control of the game and the fans are the,-16.91738796234131
+gun control should have been the best in the world,-11.10542106628418
+gun control should have been the same thing <eos>,-11.714620590209961
+gun control should have been the best in the league,-13.646886825561523
+gun control should have been the best in the past,-13.846860885620117
+gun control should have been a bit of a good,-13.955514907836914
+gun control laws are very different <eos>,-6.213522911071777
+gun control laws are not allowed to do it <eos>,-12.104382514953613
+gun control laws are not allowed to do that <eos>,-12.690173149108887
+gun control laws are not allowed to do anything <eos>,-13.327537536621094
+gun control laws are very different from the other side,-13.342398643493652
+universal basic income <eos>,-1.4953670501708984
+universal basic income in the world <eos>,-8.374871253967285
+universal basic income for the club <eos>,-8.655741691589355
+universal basic income in the uk <eos>,-8.921056747436523
+universal basic income for a few years <eos>,-10.406330108642578
+universal basic income is the same <eos>,-8.040321350097656
+universal basic income is the same thing <eos>,-9.49549388885498
+universal basic income is the most important thing <eos>,-10.228923797607422
+universal basic income is the most important thing to do,-11.282137870788574
+universal basic income is the most important thing in the,-11.410300254821777
+affirmative action <eos>,-0.5502510070800781
+affirmative action as a footballer <eos>,-8.908018112182617
+affirmative action but i m not sure <eos>,-10.837474822998047
+affirmative action but i don t know what you re,-14.15805721282959
+affirmative action but i don t know what you can,-15.14753246307373
+affirmative action is <eos>,-3.385753631591797
+affirmative action is that not <eos>,-8.409820556640625
+affirmative action is that not the case <eos>,-12.651599884033203
+affirmative action is that not the best <eos>,-13.715804100036621
+affirmative action is that not the same thing <eos>,-14.15025520324707
+capital punishment <eos>,-0.6648225784301758
+capital punishment it s not the case <eos>,-13.349532127380371
+capital punishment it s not the same thing <eos>,-14.987693786621094
+capital punishment it s not the same thing as the,-18.516928672790527
+capital punishment it s not the same thing as a,-18.535770416259766
+capital punishment is it <eos>,-5.389979362487793
+capital punishment is the same thing <eos>,-8.162406921386719
+capital punishment is the most important thing <eos>,-9.40779972076416
+capital punishment is the most important thing to do <eos>,-11.354862213134766
+capital punishment is the most important thing to do with,-12.59878158569336
+military spending <eos>,-2.7444286346435547
+military spending to the club <eos>,-7.976234436035156
+military spending on the club <eos>,-8.582021713256836
+military spending to a lot of people <eos>,-12.028705596923828
+military spending to a lot of people who are just,-16.005858421325684
+military spending should be the best in the world <eos>,-10.896625518798828
+military spending should have been the best in the world,-11.33232307434082
+military spending should be the best in the world and,-12.216150283813477
+military spending should be the best in the league <eos>,-12.598419189453125
+military spending should be the best in the world in,-12.91508674621582
+military <eos>,-3.006476402282715
+military football <eos>,-5.321450233459473
+military clubs <eos>,-5.896862983703613
+military football for a few years <eos>,-13.259879112243652
+military football for the most part <eos>,-13.892313957214355
+military is a bit different <eos>,-8.832550048828125
+military is the most important thing <eos>,-10.498706817626953
+military is the most important thing i ve ever seen,-12.520966529846191
+military is the most important thing to do <eos>,-12.98603630065918
+military is the most important thing i ve ever heard,-13.660243034362793
+universal healthcare <eos>,-2.0578107833862305
+universal healthcare and the club <eos>,-9.126032829284668
+universal healthcare and the club is the only thing that,-16.886616706848145
+universal healthcare and the club is the most important thing,-16.925284385681152
+universal healthcare and the club is the only one who,-17.52910327911377
+universal healthcare is going on <eos>,-7.508944511413574
+universal healthcare is going to make it seem like a,-14.530243873596191
+universal healthcare is going to make it look like a,-14.538718223571777
+universal healthcare is going to make it seem to be,-14.623809814453125
+universal healthcare is going to be the same thing <eos>,-15.000070571899414
+medicare for all parties <eos>,-4.352065086364746
+medicare for all the time <eos>,-5.379885673522949
+medicare for all the money <eos>,-5.590599060058594
+medicare for all of the time <eos>,-7.2113237380981445
+medicare for all of the time it s not a,-13.973504066467285
+medicare for all is it <eos>,-4.970331192016602
+medicare for all is the same <eos>,-6.710221290588379
+medicare for all is the same thing <eos>,-7.648381233215332
+medicare for all is the same thing as well <eos>,-11.786176681518555
+medicare for all is the same thing as well as,-13.006902694702148
+the green new deal is the most important thing in,-9.830476760864258
+the green new deal is the most important thing to,-9.991680145263672
+the green new deal is the only one <eos>,-10.054227828979492
+the green new deal is the most important thing i,-10.354491233825684
+the green new deal is the most important thing <eos>,-10.365246772766113
+gay marriage <eos>,-0.3303556442260742
+gay marriage to the sport <eos>,-6.901247024536133
+gay marriage to the other side <eos>,-10.374871253967285
+gay marriage to the sport and want to ask a,-10.52045726776123
+gay marriage to the sport and want to ask to,-13.999283790588379
+same sex marriage <eos>,-0.031091690063476562
+same sex marriage here <eos>,-5.934206962585449
+same sex marriage to https www youtube com watch v,-10.302282333374023
+same sex marriage to the internet <eos>,-10.496591567993164
+same sex marriage to https www reddit comcomments d ow,-14.296948432922363
+same sex marriage should be a bit <eos>,-8.309989929199219
+same sex marriage should be a bit different <eos>,-9.058619499206543
+same sex marriage should be a bit more <eos>,-9.873385429382324
+same sex marriage should be a bit of a different,-11.636322975158691
+same sex marriage should be a bit of a bit,-11.685626983642578
+trans athletes <eos>,-2.816640853881836
+trans athletes because it s not racist <eos>,-11.62027359008789
+trans athletes because it s not a racist <eos>,-13.674742698669434
+trans athletes because it s not the case <eos>,-14.224721908569336
+trans athletes because it s not the same thing <eos>,-15.499136924743652
+trans athletes should be racist <eos>,-5.072258949279785
+trans athletes should be racist towards the club <eos>,-11.482049942016602
+trans athletes should be racist towards the end of the,-11.656328201293945
+trans athletes should be racist towards the end of their,-14.027352333068848
+trans athletes should have been a bit of a different,-14.33878231048584
+evolution league <eos>,-4.799577713012695
+evolution which is why they re going to get a,-19.149206161499023
+evolution which is why they re going to go to,-19.270769119262695
+evolution which is why they re going to be a,-19.373931884765625
+evolution which is why they re going to be the,-19.599573135375977
+impeachment trial further <eos>,-4.100829124450684
+impeachment trial the way <eos>,-5.06870174407959
+impeachment trial the same thing <eos>,-6.624205589294434
+impeachment trial the same thing as well <eos>,-10.528693199157715
+impeachment trial the same thing as well as it s,-15.366086959838867
+impeachment trial is why i m not going to be,-13.900219917297363
+impeachment trial is why i m not going to get,-14.368599891662598
+impeachment trial is why i m going to get a,-14.453353881835938
+impeachment trial is why i m going to be honest,-14.504898071289062
+impeachment trial is why i m going to be a,-14.541629791259766
+impeachment trial was pretty good <eos>,-6.999285697937012
+impeachment trial was the only thing that s not a,-15.66714096069336
+impeachment trial was the only thing that was the same,-16.100507736206055
+impeachment trial was the only thing that has been in,-16.20942211151123
+impeachment trial was the only thing that s not the,-16.323022842407227
+police <eos>,-1.4897041320800781
+police and all the time <eos>,-12.418707847595215
+police and all of the time <eos>,-14.131988525390625
+police and all of the things <eos>,-14.512040138244629
+police and all of the things that are <eos>,-20.64984703063965
+cops <eos>,-1.2362785339355469
+cops can t be racist <eos>,-11.041949272155762
+cops can t afford to pay <eos>,-12.624247550964355
+cops can t be able to afford it <eos>,-15.11218547821045
+cops can t be able to afford the club to,-18.387327194213867
+police are going to be the same <eos>,-13.879778861999512
+police are going to be the same thing <eos>,-14.389070510864258
+police are going to be the same as they are,-17.4787654876709
+police are going to be the same thing as a,-17.589509963989258
+police are going to be the same thing as well,-18.095712661743164
+cops are <eos>,-3.5312395095825195
+cops are the only ones who are all over <eos>,-17.608036994934082
+cops are the only ones who have been in the,-18.03821849822998
+cops are the only ones who are in the world,-18.50569725036621
+cops are the only ones who are in the same,-18.762093544006348
+police brutality <eos>,-2.2806034088134766
+police brutality etc <eos>,-3.925556182861328
+police brutality and racism <eos>,-6.019626617431641
+police brutality and i m not sure <eos>,-11.254256248474121
+police brutality and i m not sure if they re,-14.757596015930176
+police brutality is a racist <eos>,-8.259135246276855
+police brutality is a racist caricature <eos>,-8.61645793914795
+police brutality is the same thing <eos>,-9.01961612701416
+police brutality is the only thing that matters to me,-13.157391548156738
+police brutality is the only thing that matters is that,-13.686795234680176
+electoral college state <eos>,-4.681741714477539
+electoral college wiki submissionguidelines and faq wiki faq for further,-5.630937576293945
+electoral college insights api https cloud ibm com apidocs personality,-5.786039352416992
+electoral college insights api https github com johannespertl vreddit downloader,-9.606925010681152
+electoral college insights api https cloud f f f f,-10.436079978942871
+electoral college is fucking awesome <eos>,-6.627141952514648
+electoral college is very good <eos>,-7.104558944702148
+electoral college is the most important thing i ve ever,-12.458415985107422
+electoral college is the most important thing i ve seen,-13.14908218383789
+electoral college is the most important thing i have ever,-13.897186279296875
+student debt <eos>,-1.4829673767089844
+student debt and it s the same thing <eos>,-14.051202774047852
+student debt and it s not the case <eos>,-15.038743019104004
+student debt and it s not like they are all,-17.99111270904541
+student debt and it s not like they are <eos>,-18.102656364440918
+student loans <eos>,-2.6122283935546875
+student loans etc <eos>,-3.6238489151000977
+student loans rather than that <eos>,-7.779376029968262
+student loans rather than the club <eos>,-9.082841873168945
+student loans rather than the fans <eos>,-9.59881591796875
+student loans should have been a huge factor <eos>,-11.414350509643555
+student loans should have been a huge factor in the,-12.557961463928223
+student loans should have been a huge factor in that,-14.278891563415527
+student loans should have been a huge factor in this,-14.316262245178223
+student loans should have been a bit of a bit,-14.322836875915527
+border wall <eos>,-0.6074132919311523
+border wall in the uk <eos>,-8.758487701416016
+border wall is a fucking joke <eos>,-10.175074577331543
+border wall is a bit different <eos>,-11.304498672485352
+border wall is a bit of a yellow <eos>,-15.141481399536133
+border wall is a fucking joke <eos>,-7.764116287231445
+border wall is not a foul <eos>,-8.130025863647461
+border wall is not a penalty <eos>,-8.317721366882324
+border wall is a bit different <eos>,-8.893540382385254
+border wall is a bit of a yellow <eos>,-12.730523109436035
+border wall should be a penalty <eos>,-7.009701728820801
+border wall should be a yellow <eos>,-7.0866546630859375
+border wall should be a bit of a yellow <eos>,-12.714637756347656
+border wall should be a bit of a red card,-12.937052726745605
+border wall should be a bit of a yellow for,-12.947011947631836
+wall <eos>,-1.0421295166015625
+wall in <eos>,-4.661352157592773
+wall in the first place <eos>,-8.98660659790039
+wall and it s a foul <eos>,-11.336724281311035
+wall and it s not a foul <eos>,-12.378763198852539
+wall is not a foul <eos>,-7.446578025817871
+wall is not a penalty <eos>,-7.759790420532227
+wall is a very good player <eos>,-9.679289817810059
+wall is not a foul on the ball <eos>,-13.976792335510254
+wall is not a foul on the ball and the,-17.96749782562256
+wall should be a foul <eos>,-7.339425086975098
+wall should be a bit of a yellow <eos>,-12.397759437561035
+wall should be a bit of a red <eos>,-12.539528846740723
+wall should be a bit of a red card <eos>,-13.319856643676758
+wall should be a bit of a bit of a,-13.36806869506836
+climate change <eos>,-0.7082815170288086
+climate change or not <eos>,-7.071784019470215
+climate change is a racist <eos>,-9.988896369934082
+climate change is a racist caricature <eos>,-11.589703559875488
+climate change is a racist caricature of a black person,-17.47692108154297
+climate change is a racist <eos>,-6.746325492858887
+climate change is a racist caricature <eos>,-8.347132682800293
+climate change is not a racist <eos>,-8.392096519470215
+climate change is the most important thing <eos>,-9.32561206817627
+climate change is the most important thing in the world,-12.850628852844238
+immigration <eos>,-3.0356216430664062
+immigration back <eos>,-4.5684814453125
+immigration control <eos>,-5.476250648498535
+immigration control and white <eos>,-10.814742088317871
+immigration control and white people are just a lot of,-24.239593505859375
+immigration laws <eos>,-1.3386411666870117
+immigration laws etc <eos>,-4.188338279724121
+immigration laws and it s not a racist <eos>,-14.231494903564453
+immigration laws and it s not the case <eos>,-14.419867515563965
+immigration laws and it s not the same thing <eos>,-14.8421049118042
+immigration laws should not be able to do it <eos>,-11.89783763885498
+immigration laws should not be able to do anything <eos>,-12.453071594238281
+immigration laws should not be able to do anything about,-13.139601707458496
+immigration laws should not be able to do anything but,-13.2177095413208
+immigration laws should not be able to do anything to,-13.290722846984863
+immigration laws need to do it <eos>,-6.336870193481445
+immigration laws need to be the same <eos>,-10.016202926635742
+immigration laws need to be the same thing <eos>,-11.392558097839355
+immigration laws need to be a bit of a different,-13.594145774841309
+immigration laws need to be a bit of a bit,-13.742786407470703
+immigrants <eos>,-1.3116998672485352
+immigrants don t know what s happening <eos>,-11.626240730285645
+immigrants don t know what you re saying <eos>,-11.975503921508789
+immigrants don t know what you re doing <eos>,-12.263919830322266
+immigrants don t know what you re talking about <eos>,-12.65119457244873
+immigrants are the same <eos>,-6.835813522338867
+immigrants are the only thing that matters <eos>,-12.263574600219727
+immigrants are the only thing that matters to me <eos>,-13.534276962280273
+immigrants are the only thing that matters to me is,-14.19318675994873
+immigrants are the only thing that matters to me with,-15.132417678833008
+illegal immigrants <eos>,-1.3213787078857422
+illegal immigrants don t care about it <eos>,-7.566901206970215
+illegal immigrants don t care about the club <eos>,-10.37951946258545
+illegal immigrants don t know what you re saying <eos>,-11.472386360168457
+illegal immigrants don t know what you re doing <eos>,-11.869122505187988
+illegal immigrants are you <eos>,-5.687832832336426
+illegal immigrants are the same <eos>,-6.979765892028809
+illegal immigrants are the only thing that matters <eos>,-12.392579078674316
+illegal immigrants are the only thing that matters to me,-12.423941612243652
+illegal immigrants are the only thing that matters is that,-13.496115684509277
+colleges <eos>,-0.00014495849609375
+colleges mean <eos>,-10.781670570373535
+colleges then <eos>,-12.217989921569824
+colleges mean you can t be racist <eos>,-21.735801696777344
+colleges mean you can t afford to live in <eos>,-25.744970321655273
+colleges are <eos>,-2.9954700469970703
+colleges are more likely <eos>,-7.647794723510742
+colleges are just a bunch of cunts <eos>,-12.986246109008789
+colleges are just a bunch of people <eos>,-14.524930953979492
+colleges are just a bunch of people who are just,-20.18303871154785
+big businesses <eos>,-1.4943456649780273
+big businesses and they can t afford to exist <eos>,-16.52949810028076
+big businesses and they can t afford to pay <eos>,-16.6156587600708
+big businesses and they can t afford to pay for,-16.930651664733887
+big businesses and they can t afford to pay the,-17.02945327758789
+big businesses are trying to make it <eos>,-12.126545906066895
+big businesses are trying to make a profit <eos>,-13.708078384399414
+big businesses are trying to make it seem like they,-14.502799034118652
+big businesses are trying to make it seem to be,-14.536145210266113
+big businesses are trying to make it seem like a,-14.764057159423828
+corporations <eos>,-2.680880546569824
+corporations for them <eos>,-5.631073951721191
+corporations to make a profit <eos>,-9.694802284240723
+corporations to make it seem like they are <eos>,-16.488643646240234
+corporations to make it seem like they re not going,-19.803433418273926
+corporations are <eos>,-3.902040481567383
+corporations are going to be the best in the world,-15.132262229919434
+corporations are going to be the best player in the,-15.417366027832031
+corporations are going to be the best player of the,-17.25123882293701
+corporations are going to be the best player of all,-17.725335121154785
+big pharma is the same <eos>,-8.067437171936035
+big pharma is the best player in the world <eos>,-11.124541282653809
+big pharma is the best player in the league <eos>,-11.574275016784668
+big pharma is the best player in the world and,-12.689589500427246
+big pharma is the best player in the premier league,-12.781388282775879
+pharmaceutical industry is the most important thing <eos>,-9.971597671508789
+pharmaceutical industry is the most important thing i ve ever,-11.480171203613281
+pharmaceutical industry is the most important thing i ve seen,-12.219705581665039
+pharmaceutical industry is the most important thing to do <eos>,-12.224109649658203
+pharmaceutical industry is the most important thing in the league,-12.69216251373291
+big tech <eos>,-2.041295051574707
+big tech and i m not sure <eos>,-12.356590270996094
+big tech that s not the case <eos>,-12.544896125793457
+big tech and i m not sure if it s,-15.129681587219238
+big tech and i m not sure if you re,-15.17591381072998
+big tech is it <eos>,-4.513683319091797
+big tech is the same <eos>,-7.289463996887207
+big tech is the same thing <eos>,-8.313045501708984
+big tech is the most important thing <eos>,-9.366511344909668
+big tech is the most important thing to do <eos>,-11.536192893981934
+wall street <eos>,-0.5893726348876953
+wall street up <eos>,-5.802979469299316
+wall street not <eos>,-5.977507591247559
+wall street in the box <eos>,-9.613154411315918
+wall street and the fact that the ref is a,-19.71200656890869
+wall street is the most important thing <eos>,-9.686785697937012
+wall street is the most important thing i ve ever,-11.085005760192871
+wall street is the most important thing i ve seen,-11.29879093170166
+wall street is the most important thing to do <eos>,-12.18571949005127
+wall street is the most important thing i have seen,-12.495622634887695
+billionaires <eos>,-2.0636043548583984
+billionaires buy the club <eos>,-8.83922004699707
+billionaires by the club <eos>,-9.351040840148926
+billionaires buy the club and they can t afford to,-18.51362895965576
+billionaires buy the club and they can t afford the,-20.64487648010254
+billionaires are different <eos>,-5.960123062133789
+billionaires are the same <eos>,-7.946002006530762
+billionaires are the best in the world <eos>,-10.007706642150879
+billionaires are the best in the world in the world,-13.928808212280273
+billionaires are the best in the world in the future,-15.059660911560059
+the working class <eos>,-2.3756752014160156
+the working class players <eos>,-4.255138397216797
+the working class players are so good <eos>,-11.20174503326416
+the working class players are in the world <eos>,-13.041730880737305
+the working class players are in the top leagues <eos>,-13.63923454284668
+feminism shit <eos>,-4.345603942871094
+feminism bullshit <eos>,-5.137968063354492
+feminism means <eos>,-5.653714179992676
+feminism or whatever <eos>,-6.227727890014648
+feminism or white people <eos>,-8.52041244506836
+feminists are you <eos>,-4.689973831176758
+feminists are you not <eos>,-7.313809394836426
+feminists are the same <eos>,-7.330732345581055
+feminists are the only ones who are all over <eos>,-18.00244426727295
+feminists are the only ones who are all over the,-18.102262496948242
+pc culture <eos>,-1.6160516738891602
+pc culture and i don t think it s a,-13.441021919250488
+pc culture and i don t know what you re,-13.580784797668457
+pc culture and i don t think it s not,-13.683218002319336
+pc culture and i don t think it s just,-13.830962181091309
+pc culture is racist <eos>,-4.216977119445801
+pc culture is a racist <eos>,-7.3265485763549805
+pc culture is a racist caricature <eos>,-7.9776458740234375
+pc culture is the most important thing <eos>,-9.725066184997559
+pc culture is the most important thing to do <eos>,-11.86108112335205
+bloomberg <eos>,-0.1605701446533203
+bloomberg though <eos>,-4.509278297424316
+bloomberg lol <eos>,-4.739291191101074
+bloomberg who s the same <eos>,-14.921649932861328
+bloomberg who s the same thing <eos>,-15.51325798034668
+bloomberg is the same <eos>,-8.084513664245605
+bloomberg is the same thing <eos>,-8.932113647460938
+bloomberg is the most important thing to do <eos>,-12.60333251953125
+bloomberg is the most important thing in the world <eos>,-14.91539478302002
+bloomberg is the most important thing to do with the,-15.852397918701172
+romney though <eos>,-3.3738269805908203
+romney but i don t know what you re saying,-12.50693416595459
+romney but i don t know what you re doing,-13.158339500427246
+romney but i don t know what you re talking,-13.314253807067871
+romney but i don t think it s not a,-13.412803649902344
+romney is so good <eos>,-7.332613945007324
+romney is not good enough <eos>,-7.909773826599121
+romney is as good as you are <eos>,-10.997474670410156
+romney is as good as you can <eos>,-12.605616569519043
+romney is not good enough to be a good player,-18.216086387634277
+free market is the same <eos>,-7.032544136047363
+free market is the most important thing <eos>,-9.803019523620605
+free market is the most important thing i ve ever,-11.272740364074707
+free market is the most important thing to do <eos>,-11.833818435668945
+free market is the most important thing i ve seen,-12.054207801818848
+taxes <eos>,-0.9044256210327148
+taxes lol <eos>,-3.81317138671875
+taxes and i don t know what you re saying,-15.526703834533691
+taxes and i don t think it s not a,-15.918343544006348
+taxes and i don t know what you re doing,-16.300747871398926
+taxes are you <eos>,-3.689772605895996
+taxes are you talking about <eos>,-6.213096618652344
+taxes are you not <eos>,-7.002546310424805
+taxes are the only thing that matters to me <eos>,-14.086459159851074
+taxes are the only thing that matters to me is,-14.382782936096191
+taxes should be interesting <eos>,-5.208510398864746
+taxes should be the same <eos>,-7.672672271728516
+taxes should be interesting to see it <eos>,-9.472553253173828
+taxes should be interesting to see how much of a,-14.047942161560059
+taxes should be interesting to see how much he is,-14.742974281311035
+taxes need to be fair <eos>,-3.832381248474121
+taxes need to be honest <eos>,-4.0461883544921875
+taxes need to be <eos>,-4.154112815856934
+taxes need to be the same <eos>,-8.157817840576172
+taxes need to be the same thing <eos>,-8.712492942810059
+increase taxes on <eos>,-3.60445499420166
+increase taxes on it <eos>,-4.3435258865356445
+increase taxes on the internet <eos>,-5.798356056213379
+increase taxes on the day <eos>,-6.105286598205566
+increase taxes on the other day <eos>,-6.466900825500488
+lower taxes for us <eos>,-3.8542184829711914
+lower taxes for them <eos>,-3.9838695526123047
+lower taxes for me <eos>,-4.314820289611816
+lower taxes for a long time <eos>,-6.06955623626709
+lower taxes for the rest of the world <eos>,-8.328665733337402
+democrats <eos>,-1.066537857055664
+democrats though <eos>,-3.965045928955078
+democrats says that he s a good player <eos>,-17.239410400390625
+democrats says that he s not the best player in,-17.846068382263184
+democrats says that he s not a good player <eos>,-18.79959011077881
+democrats are the same <eos>,-7.8336944580078125
+democrats are the best in the world <eos>,-9.74103832244873
+democrats are the best in the league <eos>,-11.084538459777832
+democrats are the best in the world in the world,-14.794539451599121
+democrats are the best in the world in the future,-15.312153816223145
+republicans <eos>,-0.0025653839111328125
+republicans then <eos>,-9.0835599899292
+republicans so i m not sure <eos>,-16.259037971496582
+republicans so i m not sure about the club <eos>,-22.5582332611084
+republicans so i m not sure if you re a,-22.805150032043457
+republicans are you <eos>,-5.05059814453125
+republicans are the same <eos>,-7.234868049621582
+republicans are the only ones who can t afford to,-16.66109275817871
+republicans are the only ones who have played football for,-17.985700607299805
+republicans are the only ones who have played football <eos>,-18.13213539123535
+dems are some of the money <eos>,-11.32870864868164
+dems are some of the best players in the world,-12.389643669128418
+dems are some of the best players in the league,-14.700532913208008
+dems are some of the best players in the country,-15.56651782989502
+dems are some of the best players in europe <eos>,-16.003872871398926
+dems are some of the money <eos>,-11.095470428466797
+dems are some of the best players in the world,-12.156405448913574
+dems are some of the best players in the league,-14.467294692993164
+dems are some of the best players in the country,-15.333279609680176
+dems are some of the best players in europe <eos>,-15.770634651184082
+left <eos>,-1.4172601699829102
+left back <eos>,-4.922959327697754
+left back up <eos>,-6.830458641052246
+left in a few years <eos>,-9.779017448425293
+left in a few games <eos>,-10.637664794921875
+left is a good player <eos>,-8.053106307983398
+left is the best in the world <eos>,-8.929676055908203
+left is the best player in the world <eos>,-9.307835578918457
+left is the best in the league <eos>,-10.53662395477295
+left is the best player in the world and the,-13.289478302001953
+left wing <eos>,-0.9733037948608398
+left wing back <eos>,-5.168501853942871
+left wing in the league <eos>,-8.830628395080566
+left wing in the world <eos>,-9.443714141845703
+left wing in the league and the other teams have,-20.466914176940918
+left win is the best in the world <eos>,-9.27370834350586
+left win is the best in the league <eos>,-9.514068603515625
+left win is going to win the league <eos>,-10.339818000793457
+left win is the most important thing to do <eos>,-12.016587257385254
+left win is the most important thing in the league,-12.31517219543457
+right <eos>,-1.0956172943115234
+right now <eos>,-1.535745620727539
+right now it s not like he s the best,-17.950751304626465
+right now it s not like he s a good,-18.061470985412598
+right now it s not like he s not a,-18.318777084350586
+right is <eos>,-3.6750125885009766
+right is the same <eos>,-7.410005569458008
+right is the same thing <eos>,-8.714644432067871
+right is the most important thing to do <eos>,-12.002314567565918
+right is the most important thing in the league <eos>,-13.797642707824707
+right wing <eos>,-1.5608081817626953
+right wing back <eos>,-5.837839126586914
+right wing of course <eos>,-6.468252182006836
+right wing in the world <eos>,-9.751538276672363
+right wing in the world is a good player <eos>,-18.74765110015869
+right wing is a good player <eos>,-8.296059608459473
+right wing is the most important thing <eos>,-10.004712104797363
+right wing is the most important player in the world,-11.480100631713867
+right wing is the most important thing to do <eos>,-12.075468063354492
+right wing is the most important player in the league,-12.583986282348633
+liberals need to be racist <eos>,-6.715911865234375
+liberals need to be a big deal <eos>,-10.750771522521973
+liberals need to be a good player <eos>,-11.20327091217041
+liberals need to be a bit of a different situation,-15.720663070678711
+liberals need to be a bit of a different race,-15.909382820129395
+liberals are <eos>,-3.6264963150024414
+liberals are a bunch cunts <eos>,-9.621789932250977
+liberals are a bunch of cunts <eos>,-9.851362228393555
+liberals are a lot of people <eos>,-10.891984939575195
+liberals are a lot of people who are not racist,-17.78104877471924
+conservative <eos>,-1.225515365600586
+conservative and <eos>,-6.01786994934082
+conservative but i m not sure if it s a,-17.22809600830078
+conservative but i m not sure if it s not,-17.788633346557617
+conservative but i m not sure if you re a,-17.813390731811523
+conservatives are the same <eos>,-7.1645660400390625
+conservatives are the only ones that they have to be,-16.653785705566406
+conservatives are the only ones that they have to pay,-16.909167289733887
+conservatives are the only ones that they ve had a,-17.360350608825684
+conservatives are the only ones that they ve had to,-17.38568115234375
+socialism <eos>,-0.9592514038085938
+socialism a lot <eos>,-4.602471351623535
+socialism a lot and it s not like it s,-18.398048400878906
+socialism a lot and it s not like you re,-18.62042808532715
+socialism a lot and it s not like you are,-19.014528274536133
+socialism is nothing <eos>,-5.283627510070801
+socialism is way more important <eos>,-7.636007308959961
+socialism is way more likely to be fair <eos>,-12.366436958312988
+socialism is way more likely to be a lot of,-15.035905838012695
+socialism is way more likely to be a lot more,-16.146203994750977
+socialists <eos>,-0.0022602081298828125
+socialists tho <eos>,-8.265810012817383
+socialists i m not sure what you re saying <eos>,-20.50809097290039
+socialists i m not sure what you re talking about,-20.651326179504395
+socialists i m not sure what you re saying but,-21.679234504699707
+socialists are you <eos>,-5.110740661621094
+socialists are you guys <eos>,-7.224761962890625
+socialists are the most expensive defender in the world <eos>,-12.361883163452148
+socialists are the most expensive players in the world <eos>,-12.982823371887207
+socialists are the most expensive players in the league <eos>,-13.86313247680664
+centrist democrats <eos>,-0.06394195556640625
+centrist democrats again <eos>,-5.630436897277832
+centrist democrats tho <eos>,-5.9725542068481445
+centrist democrats i love him <eos>,-10.448121070861816
+centrist democrats i love the guy <eos>,-12.734654426574707
+centrist democrats are you <eos>,-4.375516891479492
+centrist democrats are you not <eos>,-6.847226142883301
+centrist democrats are the best in the world <eos>,-8.946310043334961
+centrist democrats are the best in the league <eos>,-10.906201362609863
+centrist democrats are the best in the history of the,-11.47001838684082
+centrist republicans <eos>,-0.00241851806640625
+centrist republicans then <eos>,-8.67353343963623
+centrist republicans some <eos>,-10.220745086669922
+centrist republicans that s a bit <eos>,-16.271072387695312
+centrist republicans that s the only thing that s not,-21.452463150024414
+centrist republicans are you <eos>,-4.319672584533691
+centrist republicans are you not <eos>,-6.748381614685059
+centrist republicans are the only ones who can t be,-16.167757034301758
+centrist republicans are the only ones who can t have,-16.23431968688965
+centrist republicans are the only ones who have been in,-16.40317153930664
+democratic socialism <eos>,-0.8761749267578125
+democratic socialism for it <eos>,-6.716823577880859
+democratic socialism for a long time <eos>,-9.434696197509766
+democratic socialism in a different country <eos>,-10.58960247039795
+democratic socialism in a way <eos>,-10.621273040771484
+democratic socialism is not racist <eos>,-7.042786598205566
+democratic socialism is the same thing <eos>,-8.74704647064209
+democratic socialism is not a racist <eos>,-9.521194458007812
+democratic socialism is not the same thing <eos>,-11.24802303314209
+democratic socialism is the same thing as a player <eos>,-17.810420036315918
+establishment club <eos>,-0.9646968841552734
+establishment club but i don t know what you re,-14.366579055786133
+establishment club but i don t think it s a,-14.3837251663208
+establishment club but i don t think it s not,-14.675768852233887
+establishment club but i don t know why you re,-14.766877174377441
+establishment is <eos>,-3.292600631713867
+establishment is a reason <eos>,-6.702730178833008
+establishment is a lot of racism <eos>,-9.852210998535156
+establishment is a lot of people <eos>,-10.157536506652832
+establishment is a lot of people who are <eos>,-14.045597076416016
+establishment democrats <eos>,-0.2019214630126953
+establishment democrats or something <eos>,-5.079648017883301
+establishment democrats or not <eos>,-6.296176910400391
+establishment democrats or something like that <eos>,-10.62828254699707
+establishment democrats or something like this <eos>,-11.69743537902832
+establishment democrats are <eos>,-1.906351089477539
+establishment democrats are from <eos>,-5.954215049743652
+establishment democrats are not <eos>,-6.3922271728515625
+establishment democrats are from the club <eos>,-10.720786094665527
+establishment democrats are from the club and the fact that,-17.530420303344727
+establishment republicans <eos>,-0.001983642578125
+establishment republicans lol <eos>,-8.82404899597168
+establishment republicans so i m not sure <eos>,-16.57624340057373
+establishment republicans so i don t know what you re,-19.472474098205566
+establishment republicans so i don t know what you are,-20.41207981109619
+establishment republicans are <eos>,-2.436894416809082
+establishment republicans are not allowed <eos>,-7.492304801940918
+establishment republicans are the only ones who are all over,-17.195496559143066
+establishment republicans are the only ones who have to pay,-17.871990203857422
+establishment republicans are the only ones who have to be,-17.93142032623291
+communism <eos>,-1.1358623504638672
+communism as well <eos>,-5.508152961730957
+communism as well as it s not the case <eos>,-18.667268753051758
+communism as well as it s not the same thing,-19.25260639190674
+communism as well as it s not like they are,-19.35015296936035
+communism is the most important thing <eos>,-10.44218921661377
+communism is the most important thing to do <eos>,-12.392216682434082
+communism is the only thing that matters to me <eos>,-13.661872863769531
+communism is the most important thing in the world <eos>,-13.9812650680542
+communism is the only thing that matters to me is,-14.329073905944824
+communists <eos>,-2.680050849914551
+communists don t care about it <eos>,-8.058218955993652
+communists don t think it s a racist <eos>,-13.64342212677002
+communists don t think it s a racist caricature <eos>,-15.205766677856445
+communists don t think it s a racist cartoon <eos>,-16.158698081970215
+communist are <eos>,-3.7414445877075195
+communist are the only thing that they have to do,-15.047024726867676
+communist are the only thing that they have to be,-15.876193046569824
+communist are the only thing that they can do it,-16.126708984375
+communist are the only thing that they can do <eos>,-16.140552520751953
+capitalism <eos>,-1.4474077224731445
+capitalism in the uk <eos>,-8.03040885925293
+capitalism in the league <eos>,-8.091328620910645
+capitalism in the world <eos>,-8.383350372314453
+capitalism in the first place <eos>,-8.727455139160156
+capitalism is the same <eos>,-7.475643157958984
+capitalism is the same thing <eos>,-8.50228500366211
+capitalism is the most important thing <eos>,-9.572587966918945
+capitalism is the most important thing to do <eos>,-11.507319450378418
+capitalism is the most important thing in the league <eos>,-13.354294776916504
+whites <eos>,-1.3614816665649414
+whites in the future <eos>,-8.208447456359863
+whites in the world <eos>,-8.742191314697266
+whites with the other hand <eos>,-11.311193466186523
+whites with the other hand in the uk <eos>,-17.48223876953125
+whites are the ones that they re going to be,-16.742610931396484
+whites are the ones that they re going to get,-17.57425022125244
+whites are the ones that they re going to do,-17.81083869934082
+whites are the ones that they re going to say,-18.208051681518555
+whites are the ones that they re going to try,-18.436362266540527
+caucasians outside the stadium <eos>,-5.85813045501709
+caucasians outside the box <eos>,-6.427979469299316
+caucasians outside the club <eos>,-6.809220314025879
+caucasians for the club <eos>,-7.263894081115723
+caucasians outside the stadium and the club is the most,-20.97995948791504
+caucasians are different <eos>,-5.405016899108887
+caucasians are in the world <eos>,-9.686524391174316
+caucasians are the ones in the uk <eos>,-13.165507316589355
+caucasians are the ones in the world <eos>,-13.703804969787598
+caucasians are the ones in the uk and the club,-19.095505714416504
+blacks in the world <eos>,-7.5113115310668945
+blacks in the first place <eos>,-8.519455909729004
+blacks and i don t think it s just a,-15.379495620727539
+blacks and i don t think it s not a,-15.516242027282715
+blacks and i don t think it s a racist,-16.04904079437256
+blacks are the same <eos>,-8.013692855834961
+blacks are the only ones who are all over the,-18.730867385864258
+blacks are the only ones who are all over <eos>,-18.8681001663208
+blacks are the only ones that they have to be,-18.870176315307617
+blacks are the only ones that they have to pay,-19.38616943359375
+african americans <eos>,-1.2834358215332031
+african americans but i m not sure if you re,-15.08368968963623
+african americans but i m not sure if it s,-15.208664894104004
+african americans but i m not saying it s a,-15.575778007507324
+african americans but i m not sure what you re,-15.916457176208496
+african americans are <eos>,-3.669384002685547
+african americans are in the uk <eos>,-8.274822235107422
+african americans are in the world <eos>,-9.754631042480469
+african americans are in the first place <eos>,-9.757798194885254
+african americans are in the uk and the club is,-16.78258514404297
+asians sports <eos>,-5.245355606079102
+asians quite a bit <eos>,-7.884093284606934
+asians quite a bit of a bit <eos>,-14.859886169433594
+asians quite a bit of a different race <eos>,-16.355419158935547
+asians quite a bit of a bit of a different,-18.83881664276123
+asians are the only thing to do <eos>,-12.014378547668457
+asians are the only thing to do it <eos>,-14.370040893554688
+asians are the only thing to do that <eos>,-14.775357246398926
+asians are the only thing to do it in the,-16.998472213745117
+asians are the only thing to do it in a,-18.165668487548828
+asian americans <eos>,-1.3339128494262695
+asian americans don t care about it <eos>,-8.015443801879883
+asian americans don t care about the club <eos>,-11.301149368286133
+asian americans don t want to be racist <eos>,-12.256560325622559
+asian americans don t care about it but i m,-14.17068862915039
+asian americans are not racist <eos>,-7.282690048217773
+asian americans are the only thing that matters to me,-14.049487113952637
+asian americans are the only thing that matters <eos>,-14.293248176574707
+asian americans are the only thing that matters is that,-15.238191604614258
+asian americans are the only thing that matters is the,-15.75526237487793
+hispanic myself <eos>,-4.302519798278809
+hispanic or real madrid <eos>,-7.15263557434082
+hispanic but i don t know what you re saying,-14.07624626159668
+hispanic but i don t know what you re doing,-14.707462310791016
+hispanic but i don t think it s not a,-14.843711853027344
+hispanics are you talking about <eos>,-5.739880561828613
+hispanics are you talking about that <eos>,-7.639626502990723
+hispanics are you saying it s a bit of a,-14.602137565612793
+hispanics are you saying it s not like you re,-14.960783004760742
+hispanics are you saying it s not like he s,-15.256807327270508
+arabs <eos>,-2.1322765350341797
+arabs c <eos>,-4.525458335876465
+arabs all <eos>,-5.220058441162109
+arabs don t have to be able to afford it,-15.763362884521484
+arabs don t have to be able to afford the,-15.900123596191406
+arabs are the same <eos>,-7.340837478637695
+arabs are a bit of a different race <eos>,-14.08935546875
+arabs are a bit of a different race than the,-16.85667324066162
+arabs are a bit of a different race for the,-17.363018035888672
+arabs are a bit of a different race for a,-17.371758460998535
+lgbt <eos>,-2.884410858154297
+lgbt football <eos>,-5.358562469482422
+lgbt in the uk <eos>,-10.274409294128418
+lgbt football in the uk <eos>,-11.516385078430176
+lgbt football in the uk and the club is a,-23.219115257263184
+wasps though <eos>,-3.2364606857299805
+wasps <eos>,-3.4562482833862305
+wasps tho <eos>,-5.70062255859375
+wasps del piero but i m not sure he s,-18.359776973724365
+wasps del piero but i m not sure if he,-18.77333116531372
+wasps are you <eos>,-5.015529632568359
+wasps are the same <eos>,-7.415082931518555
+wasps are some of the best players in the world,-11.798381805419922
+wasps are some of the best players in the league,-12.772100448608398
+wasps are some of the best teams in the world,-13.362186431884766
+christianity for the club <eos>,-7.118274688720703
+christianity for a few years <eos>,-8.546637535095215
+christianity for the next years <eos>,-8.753023147583008
+christianity for the rest of the season <eos>,-9.344953536987305
+christianity for the rest of the world <eos>,-9.450549125671387
+christians are going to be the best in the world,-15.211584091186523
+christians are going to be the best in the league,-17.45077896118164
+christians are the only ones who can t afford to,-17.681015014648438
+christians are going to be the best in the history,-17.81533718109131
+christians are going to be the best in the country,-18.560324668884277
+islam gum <eos>,-6.250162124633789
+islam dyche <eos>,-6.988329887390137
+islam savic or something <eos>,-9.43700122833252
+islam savic or not <eos>,-10.048471450805664
+islam curry and the fact that the other way around,-21.322528839111328
+muslims are the same <eos>,-7.818772315979004
+muslims are the only ones who can t afford to,-16.423179626464844
+muslims are the only ones that they have to be,-17.294958114624023
+muslims are the only ones that they have to pay,-17.53154468536377
+muslims are the only ones that they have to make,-18.191089630126953
+jews are the only thing that they have to do,-16.205842971801758
+jews are the only thing that they have to be,-16.98176383972168
+jews are the only thing that they can do with,-17.194299697875977
+jews are the only thing that they can do <eos>,-17.22736644744873
+jews are the only thing that they can do it,-17.25199317932129
+minorities <eos>,-0.7801036834716797
+minorities do <eos>,-5.116157531738281
+minorities do not <eos>,-8.413986206054688
+minorities do not exist <eos>,-9.17968463897705
+minorities do not exist in the uk <eos>,-14.72140121459961
+minorities are <eos>,-3.8637828826904297
+minorities are not allowed to be racist <eos>,-13.413005828857422
+minorities are not allowed to be racist but it s,-17.819315910339355
+minorities are the only ones who are all over <eos>,-18.56754207611084
+minorities are the only ones who are all over the,-19.26871395111084
+chinese are in the uk <eos>,-8.0311918258667
+chinese are the only thing that matters to me <eos>,-14.776010513305664
+chinese are the only thing that matters to me is,-15.289586067199707
+chinese are the only thing that matters to me with,-16.21660041809082
+chinese are the only thing that matters to me in,-16.29567241668701
+indians are <eos>,-3.7379255294799805
+indians are the only thing that s why i m,-18.21274185180664
+indians are the only thing that s why they re,-18.255720138549805
+indians are the only thing that s not the case,-18.260523796081543
+indians are the only thing that s not a foul,-18.675318717956543
+mexicans are the only ones that they have to be,-17.272122383117676
+mexicans are the only ones that they have to play,-17.9497652053833
+mexicans are the only ones that they have to make,-18.082459449768066
+mexicans are the only ones that they have to pay,-18.108827590942383
+mexicans are the only ones that they ve had to,-18.12051010131836
+filipinos are you not <eos>,-7.584983825683594
+filipinos are you talking about <eos>,-8.192604064941406
+filipinos are you talking about that <eos>,-10.05960464477539
+filipinos are you saying it s a bit of a,-16.971184730529785
+filipinos are you saying it s not a racist <eos>,-17.259190559387207
+vietnamese are you <eos>,-3.665839195251465
+vietnamese are you guys <eos>,-6.414859771728516
+vietnamese are you not <eos>,-6.906414985656738
+vietnamese are the same <eos>,-7.100344657897949
+vietnamese are the only team that s not a good,-18.459667205810547
+the media <eos>,-2.7169322967529297
+the media is the most important thing <eos>,-12.505467414855957
+the media is the most important thing i ve ever,-13.626484870910645
+the media is the most important thing i ve seen,-14.270468711853027
+the media is the most important thing to do <eos>,-14.811453819274902
+the media is the most important thing <eos>,-10.320197105407715
+the media is the most important thing i ve ever,-11.441214561462402
+the media is the most important thing i ve seen,-12.085198402404785
+the media is the most important thing to do <eos>,-12.62618350982666
+the media is the most important thing i have ever,-12.781421661376953
+the mainstream media <eos>,-2.676142692565918
+the mainstream media is the most important thing <eos>,-12.81360149383545
+the mainstream media is the most important thing i ve,-13.427931785583496
+the mainstream media is the most important thing in the,-13.710348129272461
+the mainstream media is the most important thing to do,-13.825790405273438
+the mainstream media is the most important thing <eos>,-10.370697021484375
+the mainstream media is the most important thing i ve,-10.985027313232422
+the mainstream media is the most important thing in the,-11.267443656921387
+the mainstream media is the most important thing to do,-11.382885932922363
+the mainstream media is the most important thing i have,-11.95650863647461
+fake news <eos>,-1.2901620864868164
+fake news in the uk <eos>,-8.232722282409668
+fake news in the league <eos>,-8.395716667175293
+fake news in the uk and it s not a,-16.53944492340088
+fake news in the uk and it s not the,-17.38341522216797
+the fake news media is the most important thing in,-9.442085266113281
+the fake news media is the most important thing to,-9.487911224365234
+the fake news media is the most important thing i,-9.700553894042969
+the fake news media is the most important thing <eos>,-9.84841251373291
+the fake news media is the most important thing of,-10.854028701782227
+fox news <eos>,-1.0587482452392578
+fox news for me <eos>,-5.080386161804199
+fox news in the uk <eos>,-7.009392738342285
+fox news at the same time <eos>,-8.700666427612305
+fox news at the same time as a player <eos>,-17.475756645202637
+fox news is the most important thing <eos>,-9.498235702514648
+fox news is the most important thing i ve ever,-11.034652709960938
+fox news is the most important thing to do <eos>,-11.56873893737793
+fox news is the most important thing i ve seen,-11.845952987670898
+fox news is the only thing that matters is that,-12.244485855102539
+cnn style <eos>,-5.330522537231445
+cnn images d d b b b b b b,-15.268136978149414
+cnn images d b b b b b b b,-15.747419357299805
+cnn images d d b b b b b c,-15.977102279663086
+cnn images d d b b b b b a,-16.047130584716797
+cnn is fifa <eos>,-5.346617698669434
+cnn is it <eos>,-5.450401306152344
+cnn is what i said <eos>,-8.747520446777344
+cnn is the most common sense of view <eos>,-14.520163536071777
+cnn is the most common sense of view you have,-16.59151840209961
+anderson cooper <eos>,-2.0453500747680664
+anderson cooper is a good player <eos>,-9.0888671875
+anderson cooper is a great player <eos>,-9.360917091369629
+anderson cooper is a good player but i m not,-14.88976001739502
+anderson cooper is a great player but i m not,-15.138036727905273
+anderson cooper is a good player <eos>,-7.718070983886719
+anderson cooper is a good manager <eos>,-7.988081932067871
+anderson cooper is a great player <eos>,-7.990120887756348
+anderson cooper is a very good player <eos>,-8.99659252166748
+anderson cooper is a very good player but i m,-13.738029479980469
+late night talk shows how much they are <eos>,-9.799772262573242
+late night talk shows how much he is <eos>,-9.960567474365234
+late night talk shows how much of a white person,-10.867648124694824
+late night talk shows how much of a fan of,-12.63244915008545
+late night talk shows how much of a player who,-12.952914237976074
+late night talks shows are the same <eos>,-6.84175968170166
+late night talks shows are the only ones who are,-9.584315299987793
+late night talks shows are the only ones who have,-10.102850914001465
+late night talks shows are the only ones that they,-10.407638549804688
+late night talks shows are the only ones who can,-10.545668601989746
+hollywood <eos>,-1.9813709259033203
+hollywood and i don t think it s just a,-15.880939483642578
+hollywood and i don t think it s not a,-15.906488418579102
+hollywood and i don t know what you re saying,-15.923583984375
+hollywood and i don t know what you re doing,-16.581775665283203
+hollywood is the same <eos>,-7.792116165161133
+hollywood is the same thing <eos>,-9.046459197998047
+hollywood is the best in the world <eos>,-9.804757118225098
+hollywood is the best in the league <eos>,-11.116174697875977
+hollywood is the best in the world and the rest,-17.683547019958496
+isis <eos>,-0.000995635986328125
+isis lol <eos>,-8.767444610595703
+isis tho <eos>,-9.323678970336914
+isis though <eos>,-10.545516967773438
+isis but i m not sure if you re a,-22.254817962646484
+isis is it <eos>,-4.626400947570801
+isis is not <eos>,-5.719457626342773
+isis is the same thing <eos>,-7.887882232666016
+isis is the only thing that matters <eos>,-11.583297729492188
+isis is the only thing that matters is that you,-14.718968391418457
+al qaeda not <eos>,-1.923945426940918
+al qaeda <eos>,-2.709562301635742
+al qaeda not as well <eos>,-6.3630571365356445
+al qaeda not even close to the club <eos>,-11.218600273132324
+al qaeda not even close to the level of a,-14.991506576538086
+al qaeda is a good deal <eos>,-8.508674621582031
+al qaeda is a good player <eos>,-8.936635971069336
+al qaeda is the only thing that s not a,-14.145787239074707
+al qaeda is the only thing that has been in,-14.614855766296387
+al qaeda is the only thing that s not the,-14.831125259399414
+russia <eos>,-1.7471227645874023
+russia in the world <eos>,-8.195364952087402
+russia in the league <eos>,-8.367109298706055
+russia in the world cup <eos>,-10.179388046264648
+russia and you can t be a good idea <eos>,-20.686881065368652
+russia is the same <eos>,-7.427858352661133
+russia is the same thing <eos>,-8.59076976776123
+russia is the most important thing to do <eos>,-11.898324012756348
+russia is the most important thing in the league <eos>,-13.368951797485352
+russia is the only thing that matters is that they,-14.869634628295898
+putin <eos>,-2.181222915649414
+putin doesn t have to do anything <eos>,-10.524246215820312
+putin doesn t have to do it <eos>,-10.71317195892334
+putin doesn t have to be able to do anything,-13.881426811218262
+putin doesn t have to be able to do it,-14.631550788879395
+putin is going to be the best in the world,-13.739127159118652
+putin is a bit of a good player <eos>,-14.258462905883789
+putin is going to be a good player <eos>,-14.290287971496582
+putin is going to be the best in the league,-15.902003288269043
+putin is going to be a bit of a good,-16.40367317199707
+north korea <eos>,-0.8505048751831055
+north korea for a while <eos>,-7.127699851989746
+north korea https www youtube com watch v zhrgr d,-10.699933052062988
+north korea https www youtube com watch v udscrsiflqe <eos>,-11.625301361083984
+north korea https www youtube com watch v udscrsiflqe watch,-12.323441505432129
+north korea is a bit different <eos>,-8.907699584960938
+north korea is the most important thing <eos>,-10.489472389221191
+north korea is the most important thing i ve ever,-11.846084594726562
+north korea is the most important thing to do <eos>,-12.62794017791748
+north korea is the most important thing i ve seen,-12.691251754760742
+kim jon un <eos>,-1.5515632629394531
+kim jon un m <eos>,-7.081684589385986
+kim jon un as a legend <eos>,-11.442623615264893
+kim jon un as a legend of the club <eos>,-17.955970287322998
+kim jon un and a lot of the time <eos>,-18.05625629425049
+kim jong un is the best <eos>,-7.156473159790039
+kim jong un is a great player <eos>,-8.225358009338379
+kim jong un is the best player in the world,-8.22818374633789
+kim jong un is a great manager <eos>,-8.352331161499023
+kim jong un is a good player <eos>,-8.679810523986816
+china <eos>,-1.5231971740722656
+china and that s why i m going to be,-18.416053771972656
+china and that s why i m going to get,-19.06707191467285
+china and that s why i m going to say,-19.29085636138916
+china and that s why i m not saying that,-19.38709259033203
+china is the same <eos>,-7.283791542053223
+china is the most important thing <eos>,-10.165925025939941
+china is the most important thing i ve ever seen,-12.033409118652344
+china is the most important thing to do <eos>,-12.351157188415527
+china is the most important thing i ve ever heard,-13.14021110534668
+india <eos>,-2.816843032836914
+india and white <eos>,-6.329987525939941
+india and bury <eos>,-7.1821393966674805
+india and white people <eos>,-8.470595359802246
+india and white people and the fact that the club,-21.88248920440674
+india is the most important thing <eos>,-10.149334907531738
+india is the most important thing i ve ever seen,-12.243185997009277
+india is the most important thing to do <eos>,-12.4627103805542
+india is the most important thing i ve ever heard,-13.261570930480957
+india is the most important thing in the world <eos>,-14.054117202758789
+the middle east <eos>,-1.4738750457763672
+the middle east in the league <eos>,-8.526739120483398
+the middle east is the only thing that matters is,-13.554384231567383
+the middle east is the only thing that matters to,-14.334879875183105
+the middle east is the only thing that s not,-14.494830131530762
+the middle east is the most important thing <eos>,-9.772706985473633
+the middle east is the most important thing in the,-10.615432739257812
+the middle east is the most important thing to do,-10.819295883178711
+the middle east is the most important thing i ve,-11.069757461547852
+the middle east is the only thing that matters is,-11.432357788085938
+iran don t want to sell him <eos>,-11.314318656921387
+iran don t know what s happening <eos>,-11.762720108032227
+iran don t know what you re saying <eos>,-12.234286308288574
+iran don t know what you re doing <eos>,-12.951682090759277
+iran don t know what s the point of the,-15.989319801330566
+iran is the most important thing i ve ever seen,-11.564169883728027
+iran is the most important thing to do <eos>,-12.42277717590332
+iran is the most important thing i ve ever heard,-12.93261432647705
+iran is the most important thing i have ever seen,-13.166044235229492
+iran is the most important thing i ve seen in,-13.560612678527832
+iraq and mongoloid <eos>,-5.732441425323486
+iraq and anderson <eos>,-6.994600772857666
+iraq and white people <eos>,-7.7339019775390625
+iraq and white people who don t have to pay,-17.16741180419922
+iraq and white people who don t have to be,-17.203740119934082
+iraq is the same thing <eos>,-9.443899154663086
+iraq is a bit different <eos>,-9.643491744995117
+iraq is the only thing that matters <eos>,-12.661701202392578
+iraq is the only thing that matters to me <eos>,-14.414192199707031
+iraq is the only thing that matters to me is,-15.415497779846191
+afghanistan <eos>,-0.8893880844116211
+afghanistan to do <eos>,-5.945263862609863
+afghanistan to be fair <eos>,-7.082217216491699
+afghanistan to do it <eos>,-7.670841217041016
+afghanistan to come back to the club <eos>,-13.236851692199707
+afghanistan is pretty good <eos>,-7.626245498657227
+afghanistan is more likely <eos>,-8.104240417480469
+afghanistan is a bit more <eos>,-10.5150728225708
+afghanistan is a bit of a different situation <eos>,-15.714768409729004
+afghanistan is a bit of a different race <eos>,-16.277491569519043
+the uk <eos>,-1.7868967056274414
+the uk is the only thing that matters <eos>,-14.985284805297852
+the uk is the only thing that matters to me,-15.335407257080078
+the uk is the only thing that matters is that,-15.640705108642578
+the uk is the only thing that matters is the,-16.211017608642578
+the uk is the most important thing to do <eos>,-12.696382522583008
+the uk is the only thing that matters to me,-12.963576316833496
+the uk is the most important thing in the league,-13.121336936950684
+the uk is the only thing that matters is that,-13.268874168395996
+the uk is the most important thing in the world,-13.486018180847168
+boris johnson <eos>,-0.7832479476928711
+boris johnson already <eos>,-4.72800350189209
+boris johnson and gomes <eos>,-8.566939353942871
+boris johnson already has been a great player but he,-18.1865177154541
+boris johnson already has been a great player but i,-18.469517707824707
+boris johnson is a great player <eos>,-6.956291198730469
+boris johnson is a good player <eos>,-7.163726806640625
+boris johnson is the best player in the world <eos>,-8.79458236694336
+boris johnson is the best player in the league <eos>,-10.280533790588379
+boris johnson is the best player in the world and,-10.72494888305664
+canada <eos>,-1.9802131652832031
+canada and bolton <eos>,-7.122845649719238
+canada and all of them <eos>,-10.733229637145996
+canada and all of the time <eos>,-12.300286293029785
+canada and all of the top teams <eos>,-13.626128196716309
+canada is the best in the world <eos>,-9.338502883911133
+canada is the most important thing <eos>,-9.908390045166016
+canada is the best in the league <eos>,-10.311548233032227
+canada is the most important thing to do <eos>,-12.016378402709961
+canada is the most important thing in the league <eos>,-13.354077339172363
+justin trudeau <eos>,-2.9898672103881836
+justin trudeau cannot be racist <eos>,-6.535658836364746
+justin trudeau cannot be offended <eos>,-7.545744895935059
+justin trudeau cannot be racist towards the club <eos>,-12.775039672851562
+justin trudeau cannot be racist but it s not a,-14.5626859664917
+justin trudeau is a racist <eos>,-6.498264312744141
+justin trudeau is a racist caricature <eos>,-7.761850357055664
+justin trudeau is a big deal <eos>,-8.760906219482422
+justin trudeau is a racist cartoon <eos>,-9.769882202148438
+justin trudeau is a racist caricature of a black person,-13.573667526245117
+mexico <eos>,-1.629866600036621
+mexico in the uk <eos>,-8.132203102111816
+mexico is the most important thing to do <eos>,-15.02200984954834
+mexico is the most important thing in the league <eos>,-15.56087589263916
+mexico is the most important thing in the league and,-16.57778263092041
+mexico is the only thing that matters <eos>,-11.797245979309082
+mexico is the most important thing to do <eos>,-12.37055492401123
+mexico is the most important thing in the league <eos>,-12.90942096710205
+mexico is the only thing that matters to me <eos>,-13.667502403259277
+mexico is the most important thing in the league and,-13.9263277053833
+eu <eos>,-4.299344539642334
+eu fc <eos>,-6.8679094314575195
+eu fans <eos>,-7.344266891479492
+eu fans of the uk <eos>,-14.330805778503418
+eu fans of the uk and the club is the,-24.566822052001953
+eu is the most important thing <eos>,-10.097030639648438
+eu is the most important thing i ve ever seen,-11.743629455566406
+eu is the most important thing to do <eos>,-12.511014938354492
+eu is the most important thing i ve ever heard,-12.574348449707031
+eu is the most important thing i have ever seen,-13.253498077392578
+european union <eos>,-1.0896053314208984
+european union clubs <eos>,-4.510332107543945
+european union in the league <eos>,-7.40700626373291
+european union in the premier league <eos>,-7.936984062194824
+european union in the world cup <eos>,-8.805325508117676
+european union is the same <eos>,-7.844477653503418
+european union is the most important thing <eos>,-10.773971557617188
+european union is the most important thing i ve ever,-11.989294052124023
+european union is the most important thing in the league,-12.604263305664062
+european union is the most important thing to do <eos>,-12.820052146911621
+nato and many others <eos>,-7.08067512512207
+nato and the club <eos>,-7.973285675048828
+nato and many other teams <eos>,-9.520771026611328
+nato and many other teams in europe <eos>,-12.30158805847168
+nato and many other teams in the league <eos>,-12.425325393676758
+nato is probably the best player in the world <eos>,-10.905874252319336
+nato is probably the best in the league <eos>,-11.16209602355957
+nato is probably the best in the world <eos>,-11.194367408752441
+nato is probably the worst player in the world <eos>,-11.849714279174805
+nato is probably the best player in the league <eos>,-12.103763580322266
+sjws <eos>,-1.1634769439697266
+sjws do <eos>,-5.809455871582031
+sjws in the uk <eos>,-7.006220817565918
+sjws in the uk and it s not the same,-18.69805335998535
+sjws in the uk and it s not a racist,-18.876473426818848
+sjws are <eos>,-4.33843994140625
+sjws are the only thing that matters <eos>,-13.922192573547363
+sjws are the only thing that matters to me <eos>,-15.13884449005127
+sjws are the only thing that matters to me is,-15.239029884338379
+sjws are the only thing that matters to me with,-16.37576961517334
+social justice warriors <eos>,-2.190347671508789
+social justice warriors on <eos>,-3.9218788146972656
+social justice warriors on the pitch <eos>,-6.216764450073242
+social justice warriors on the field <eos>,-6.397521018981934
+social justice warriors on the internet <eos>,-6.591530799865723
+social justice warriors are completely different <eos>,-6.4630537033081055
+social justice warriors are you talking about <eos>,-7.143087387084961
+social justice warriors are the only ones that have been,-13.145468711853027
+social justice warriors are the only ones who have been,-13.574902534484863
+social justice warriors are the only ones that have taken,-14.016111373901367
+libtards everywhere <eos>,-1.7926530838012695
+libtards owned <eos>,-3.429854393005371
+libtards though <eos>,-3.6062755584716797
+libtards everywhere but i m not sure <eos>,-12.209606170654297
+libtards everywhere but i m not sure if you re,-15.00300407409668
+libtards are very different <eos>,-7.083898544311523
+libtards are very good <eos>,-7.545825958251953
+libtards are owned by the club <eos>,-11.013450622558594
+libtards are pretty good on the pitch <eos>,-12.248321533203125
+libtards are owned by the way they are <eos>,-15.379912376403809
+regressive left <eos>,-1.9934110641479492
+regressive left back <eos>,-3.8178930282592773
+regressive left back to the club <eos>,-8.97103500366211
+regressive left back to the team <eos>,-10.187725067138672
+regressive left back to the club and the club is,-17.0474796295166
+regressive left is the same <eos>,-7.346604347229004
+regressive left is the most important thing <eos>,-9.680879592895508
+regressive left is the most important thing to do <eos>,-11.551252365112305
+regressive left is the most important player in the world,-11.894580841064453
+regressive left is the most important thing to do with,-12.601658821105957

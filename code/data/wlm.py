@@ -107,14 +107,14 @@ class WLMCorpus:
         sentences = functools.reduce(
             operator.iconcat, [self.tokenizer.tokenize(inp) for inp in raw_data], [])
 
-        sentences = list(map(self.__format_sentences,
+        sentences = list(map(self.format_sentences,
                              filter(lambda x: x !=
                                     '[removed]', sentences)
                              ))
 
         return sentences
 
-    def __format_sentences(self, inp: str) -> str:
+    def format_sentences(self, inp: str) -> str:
         # format the sentences to remove special characters
 
         # removing subreddit and user links
@@ -171,11 +171,14 @@ class WLMCorpus:
     def tokenize_normal(self, sentence: List[str]) -> torch.IntTensor:
         words = sentence.split()
 
-        ids = []
-        for word in words:
-            ids.append(self.dictionary.add_word(word))
+        try:
+            ids = []
+            for word in words:
+                ids.append(self.dictionary.word2idx[word])
 
-        return torch.tensor(ids).type(torch.int64)
+            return torch.tensor(ids).type(torch.int64)
+        except:
+            return None
 
     def lookup_word(self, id: int) -> str:
         return self.dictionary.idx2word[id]

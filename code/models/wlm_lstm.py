@@ -20,7 +20,7 @@ class LSTMModel(nn.Module):
         self.ninput = ninput
         self.nlayers = nlayers
 
-        #self.drop = nn.Dropout(dropout)
+        # self.drop = nn.Dropout(dropout)
         self.encoder = nn.Embedding(ntoken, ninput)
 
         self.rnn = nn.LSTM(ninput, ninput, nlayers)  # dropout=dropout
@@ -32,11 +32,10 @@ class LSTMModel(nn.Module):
         # Init the emcoder weight using initialization prodived
         if embeddings_init is not None:
             self.encoder.weight.data = embeddings_init.clone()
-            #self.encoder.weight.requires_grad = False
+            # self.encoder.weight.requires_grad = False
 
         # tying the encoder and decoder weights
         self.decoder.weight = self.encoder.weight
-
 
     def init_weights(self):
         initrange = 0.1

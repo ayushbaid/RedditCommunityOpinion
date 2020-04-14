@@ -1,4 +1,5 @@
 import functools
+import glob
 import os
 import operator
 import re
@@ -20,7 +21,7 @@ class EmbeddedCommentsDataset(Dataset):
     Create ngrams with context and index of predicted words using pretrained Word2Vec dataset
     '''
 
-    def __format_sentences(self, inp: str) -> str:
+    def format_sentences(self, inp: str) -> str:
         # format the sentences to remove special characters
 
         # removing subreddit and user links
@@ -36,7 +37,7 @@ class EmbeddedCommentsDataset(Dataset):
         else:
             return clean_review
 
-    def __init__(self, base_path, subreddit, context_size=2, remove_stopwords=False):
+    def __init__(self, base_path, subreddit, context_size=2, remove_stopwords=True):
         super().__init__()
 
         self.word2vec_model = KeyedVectors.load_word2vec_format(
@@ -44,23 +45,37 @@ class EmbeddedCommentsDataset(Dataset):
             binary=True
         )
 
-        nltk.download('stopwords')
+        # nltk.download('stopwords')
 
         self.remove_stopwords = remove_stopwords
-        self.stop_words = stopwords.words('english')
+        self.stop_words = set(stopwords.words('english'))
+
+        # load stop words from disk
+        with open('../config/stopwords.txt', 'r') as f:
+            manual_stop_words = [x.strip() for x in f.readlines()]
+
+            manual_stop_words = set(filter(None, manual_stop_words))
+
+            self.stop_words.update(manual_stop_words)
 
         tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
         # load the full numpy array
-        npy_path = os.path.join(base_path, subreddit+'.npy')
-        raw_data = np.load(npy_path)
+        train_file_template = os.path.join(
+            base_path, '{}_train_part*.npy'.format(subreddit))
+
+        data_list = []
+        for file_path in glob.glob(train_file_template):
+            data_list.append(np.load(file_path))
+        raw_data = np.concatenate(data_list, axis=0)
+        data_list = None
 
         # process the raw data into sentences
 
         sentences = functools.reduce(
             operator.iconcat, [tokenizer.tokenize(inp) for inp in raw_data], [])
 
-        sentences = list(map(self.__format_sentences,
+        sentences = list(map(self.format_sentences,
                              filter(lambda x: x !=
                                     '[removed]', sentences)
                              ))
@@ -68,13 +83,16 @@ class EmbeddedCommentsDataset(Dataset):
         # get the vocab from sentences
         dataset_vocab = data_processing.get_vocab_set(sentences)
 
+        # Add the unknown token to the dataset vocab
+        dataset_vocab.add('<UNK>')
+
         w2v.restrict_w2v(self.word2vec_model, dataset_vocab)
 
         # convert the sentences to ngrams, and embed them
         self.data = []
         for sent in sentences:
             ngrams = data_processing.convert_sentence_to_ngrams(
-                sent, n_param=context_size+1)
+                sent, n_param=context_size+1, add_unknown=True)
 
             for inp in ngrams:
                 context_embedding = data_processing.embed_words(
@@ -102,7 +120,7 @@ class EmbeddedCommentsDataset(Dataset):
 
 if __name__ == '__main__':
     obj = EmbeddedCommentsDataset('../dataset/small',
-                                  'the_donald', remove_stopwords=False)
+                                  'the_donald', remove_stopwords=True)
 
     print(obj.__len__())
 

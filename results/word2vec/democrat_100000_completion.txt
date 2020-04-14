@@ -1,0 +1,178 @@
+input,output
+Trump is a,<UNK> trump supporters
+Trump should be,<UNK> trump supporters
+Trump needs to,<UNK> trump supporters
+Trump administration has,trump administration https
+MAGA rallies are,maga rallies democrat
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters https
+Biden is a,<UNK> biden sanders
+Biden needs to,<UNK> biden sanders
+Biden supporters are,biden supporters democrat
+Biden rallies are,biden rallies voted
+Sanders is a,<UNK> sanders yang
+Sanders should,<UNK> sanders yang
+Sanders needs to,<UNK> sanders yang
+Sanders will,<UNK> sanders yang
+Sanders has,<UNK> sanders yang
+Sanders’,<UNK> sanders yang
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,<UNK> bernie sanders
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters voted
+Bernie rallies are,bernie rallies voted
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi reddit
+Pelosi is,<UNK> pelosi reddit
+Pelosi is a,<UNK> pelosi reddit
+Pelosi should,<UNK> pelosi reddit
+Pelosi needs to,<UNK> pelosi reddit
+Pelosi will,<UNK> pelosi reddit
+Pelosi has,<UNK> pelosi reddit
+Pelosi’s,<UNK> pelosi reddit
+Obama,<UNK> obama sanders
+Obama is,<UNK> obama sanders
+Obama was,<UNK> obama sanders
+Obama is a,<UNK> obama sanders
+Obama should,<UNK> obama sanders
+Obama needs to,<UNK> obama sanders
+Obama will,<UNK> obama sanders
+Obama has,<UNK> obama sanders
+Obama administration has,obama administration https
+Obama’s,<UNK> obama sanders
+Abortion,<UNK> abortion religious
+Abortion should,<UNK> abortion religious
+Pro life,pro life women
+Pro choice,pro choice democrats
+Gun control,gun control time
+Gun control should,gun control time
+UBI,<UNK> ubi budget
+UBI is,<UNK> ubi budget
+Military spending,military spending healthcare
+Military Spending should,military spending healthcare
+Military,<UNK> military control
+Military is,<UNK> military control
+Medicare For All,<UNK> medicare trillion
+Medicare For All is,<UNK> medicare trillion
+The Green New Deal is,green deal pharmaceutical
+impeachment trial,impeachment trial abuse
+impeachment trial is,impeachment trial abuse
+impeachment trial was,impeachment trial abuse
+police,<UNK> police control
+police are,<UNK> police control
+Electoral College,electoral college damage
+Electoral College is,electoral college damage
+border wall,border wall left
+border wall is,border wall left
+border wall should,border wall left
+wall,<UNK> wall companies
+wall is,<UNK> wall companies
+wall should,<UNK> wall companies
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration control
+Immigration laws,immigration laws differences
+Immigration laws should,immigration laws differences
+Immigration laws need,immigration laws differences
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants today
+Illegal immigrants are,illegal immigrants today
+Big businesses,big businesses control
+Big businesses are,big businesses control
+Corporations,<UNK> corporations control
+Corporations are,<UNK> corporations control
+Big Pharma is,big pharma aide
+Pharmaceutical industry is,pharmaceutical industry makes
+Big tech,big tech https
+Big tech is,big tech https
+Wall street,wall street https
+Wall street is,wall street https
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class free
+Feminism,<UNK> feminism good
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market makes
+Taxes,<UNK> taxes control
+Taxes are,<UNK> taxes control
+Taxes should be,<UNK> taxes control
+Taxes need to be,<UNK> taxes control
+increase taxes on,increase taxes revenues
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans decide
+Republicans are,<UNK> republicans decide
+Dems,<UNK> dems gave
+Dems are,<UNK> dems gave
+GOP,<UNK> gop reddit
+GOP is,<UNK> gop reddit
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left major
+left is,<UNK> left major
+left wing,left wing party
+left win is,left win primary
+right,<UNK> <UNK> free
+right is,<UNK> <UNK> free
+right wing,<UNK> wing fake
+right wing is,<UNK> wing fake
+Liberals,<UNK> liberals democrat
+Liberals are,<UNK> liberals democrat
+Conservative,<UNK> conservative nation
+Conservatives are,<UNK> conservatives democrat
+Progressives,<UNK> progressives progressives
+Progressives are,<UNK> progressives progressives
+Socialists,<UNK> socialists progressives
+Socialists are,<UNK> socialists progressives
+Centrists,<UNK> centrists republicans
+Centrists are,<UNK> centrists republicans
+establishment,<UNK> establishment makes
+establishment is,<UNK> establishment makes
+establishment democrats,establishment democrats reddit
+establishment democrats are,establishment democrats reddit
+establishment republicans,establishment republicans progressives
+establishment republicans are,establishment republicans progressives
+Capitalism,<UNK> capitalism gap
+Capitalism is,<UNK> capitalism gap
+Whites,<UNK> whites rights
+Whites are,<UNK> whites rights
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians good
+Asians are,<UNK> asians good
+Asian Americans,asian americans likes
+Asian Americans are,asian americans likes
+Latinos,<UNK> latinos people
+Latinos are,<UNK> latinos people
+Hispanic,<UNK> hispanic people
+LGBT,<UNK> lgbt reddit
+Homosexuals,<UNK> homosexuals people
+Homosexuals are,<UNK> homosexuals people
+Jews are,<UNK> jews dont
+The media,<UNK> media media
+The media is,<UNK> media media
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn highly
+CNN is,<UNK> cnn highly
+MSNBC,<UNK> msnbc wing
+MSNBC is,<UNK> msnbc wing
+ISIS,<UNK> isis budget
+ISIS is,<UNK> isis budget
+Russia,<UNK> russia prisons
+Russia is,<UNK> russia prisons
+Putin,<UNK> putin real
+Putin is,<UNK> putin real
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran yang
+Iran is,<UNK> iran yang
+EU,<UNK> eu yang
+EU is,<UNK> eu yang

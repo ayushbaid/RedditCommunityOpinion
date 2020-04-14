@@ -1,0 +1,293 @@
+input,output
+Trump is a,<UNK> trump supporters
+Trump should be,<UNK> trump supporters
+Trump needs to,<UNK> trump supporters
+Trump administration has,trump administration yang
+MAGA rallies are,maga rallies yang
+Trump rallies are,trump rallies yang
+Trump supporters are,trump supporters yang
+Trump is handling,trump handling yang
+Biden is a,<UNK> biden trump
+Biden needs to,<UNK> biden trump
+Biden supporters are,biden supporters yang
+Biden rallies are,biden rallies yang
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,<UNK> sanders warren
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Sander’s supporters are,sander supporters yang
+Bernie,<UNK> bernie supporters
+Bernie is a,<UNK> bernie supporters
+Bernie should,<UNK> bernie supporters
+Bernie needs to,<UNK> bernie supporters
+Bernie will,<UNK> bernie supporters
+Bernie has,<UNK> bernie supporters
+Bernie’s,<UNK> bernie supporters
+Bernie supporters,bernie supporters yang
+Bernie rallies are,bernie rallies yang
+Crazy Bernie,crazy bernie supporters
+Pelosi,<UNK> pelosi yang
+Pelosi is,<UNK> pelosi yang
+Pelosi is a,<UNK> pelosi yang
+Pelosi should,<UNK> pelosi yang
+Pelosi needs to,<UNK> pelosi yang
+Pelosi will,<UNK> pelosi yang
+Pelosi has,<UNK> pelosi yang
+Pelosi’s,<UNK> pelosi yang
+Nervous Nancy,nervous nancy yang
+McConnell,<UNK> mcconnell yang
+McConnell is,<UNK> mcconnell yang
+McConnell is a,<UNK> mcconnell yang
+McConnell should,<UNK> mcconnell yang
+McConnell needs to,<UNK> mcconnell yang
+McConnell will,<UNK> mcconnell yang
+McConnell has,<UNK> mcconnell yang
+McConnell’s,<UNK> mcconnell yang
+Moscow Mitch,moscow mitch yang
+Obama,<UNK> obama yang
+Obama is,<UNK> obama yang
+Obama was,<UNK> obama yang
+Obama is a,<UNK> obama yang
+Obama should,<UNK> obama yang
+Obama needs to,<UNK> obama yang
+Obama will,<UNK> obama yang
+Obama has,<UNK> obama yang
+Obama administration has,obama administration yang
+Obama’s,<UNK> obama yang
+Abortion,<UNK> abortion people
+Abortion should,<UNK> abortion people
+Pro life,pro life yang
+Pro choice,pro choice yang
+Gun control,gun control people
+Gun control should,gun control people
+UBI,<UNK> ubi yang
+UBI is,<UNK> ubi yang
+Affirmative Action,affirmative action yang
+Affirmative Action is,affirmative action yang
+Marijuana,<UNK> marijuana people
+Marijuana should,<UNK> marijuana people
+Capital punishment,capital punishment yang
+Capital punishment is,capital punishment yang
+Military spending,military spending people
+Military Spending should,military spending people
+Military,<UNK> military system
+Military is,<UNK> military system
+Universal healthcare,universal healthcare system
+Universal healthcare is,universal healthcare system
+Obamacare,<UNK> obamacare yang
+Obamacare is,<UNK> obamacare yang
+Medicare For All,<UNK> medicare private
+Medicare For All is,<UNK> medicare private
+The Green New Deal is,green deal yang
+Gay marriage,gay marriage yang
+Same sex marriage,sex marriage yang
+Same sex marriage should,sex marriage yang
+Transgender athletes,transgender athletes yang
+Trans athletes,trans athletes yang
+Trans athletes should,trans athletes yang
+Vaccinations should,<UNK> vaccinations yang
+evolution,<UNK> evolution yang
+impeachment trial,impeachment trial yang
+impeachment trial is,impeachment trial yang
+impeachment trial was,impeachment trial yang
+police,<UNK> police people
+cops,<UNK> cops yang
+police are,<UNK> police people
+cops are,<UNK> cops yang
+Police brutality,police brutality yang
+Police brutality is,police brutality yang
+Electoral College,electoral college yang
+Electoral College is,electoral college yang
+Student debt,student debt people
+Student loans,student loans guarantee
+Student loans should,student loans guarantee
+border wall,border wall yang
+border wall is,border wall yang
+border wall should,border wall yang
+wall,<UNK> wall yang
+wall is,<UNK> wall yang
+wall should,<UNK> wall yang
+Climate change,climate change yang
+Climate change is,climate change yang
+Immigration,<UNK> immigration yang
+Immigration laws,immigration laws ubi
+Immigration laws should,immigration laws ubi
+Immigration laws need,immigration laws ubi
+Immigrants,<UNK> immigrants people
+Immigrants are,<UNK> immigrants people
+Illegal immigrants,illegal immigrants people
+Illegal immigrants are,illegal immigrants people
+Illegals,<UNK> illegals yang
+Illegals are,<UNK> illegals yang
+Illegals should,<UNK> illegals yang
+Colleges,<UNK> colleges people
+Colleges are,<UNK> colleges people
+Big businesses,big businesses people
+Big businesses are,big businesses people
+Corporations,<UNK> corporations people
+Corporations are,<UNK> corporations people
+Big Pharma is,big pharma people
+Pharmaceutical industry is,pharmaceutical industry people
+Big tech,big tech companies
+Big tech is,big tech companies
+Wall street,wall street yang
+Wall street is,wall street yang
+Billionaires,<UNK> billionaires tax
+Billionaires are,<UNK> billionaires tax
+The working class,working class people
+Feminism,<UNK> feminism yang
+Feminists are,<UNK> feminists people
+PC culture,pc culture yang
+PC culture is,pc culture yang
+Bloomberg,<UNK> bloomberg yang
+Bloomberg is,<UNK> bloomberg yang
+Romney,<UNK> romney yang
+Romney is,<UNK> romney yang
+Free market is,free market people
+Taxes,<UNK> taxes cuts
+Taxes are,<UNK> taxes cuts
+Taxes should be,<UNK> taxes cuts
+Taxes need to be,<UNK> taxes cuts
+increase taxes on,increase taxes tax
+lower taxes for,lower taxes tax
+Democrats,<UNK> democrats yang
+Democrats are,<UNK> democrats yang
+Republicans,<UNK> republicans yang
+Republicans are,<UNK> republicans yang
+Dems,<UNK> dems yang
+Dems are,<UNK> dems yang
+GOP,<UNK> gop yang
+GOP is,<UNK> gop yang
+DNC,<UNK> dnc yang
+DNC is,<UNK> dnc yang
+left,<UNK> left yang
+left is,<UNK> left yang
+left wing,left wing yang
+left win is,left win yang
+right,<UNK> <UNK> yang
+right is,<UNK> <UNK> yang
+right wing,<UNK> wing yang
+right wing is,<UNK> wing yang
+Liberals,<UNK> liberals yang
+Liberals are,<UNK> liberals yang
+Conservative,<UNK> conservative yang
+Conservatives are,<UNK> conservatives yang
+Progressives,<UNK> progressives yang
+Progressives are,<UNK> progressives yang
+Socialism,<UNK> socialism people
+Socialism is,<UNK> socialism people
+Socialists,<UNK> socialists yang
+Socialists are,<UNK> socialists yang
+Centrists,<UNK> centrists yang
+Centrists are,<UNK> centrists yang
+Centrist Democrats,centrist democrats yang
+Centrist Democrats are,centrist democrats yang
+Centrist Republicans,centrist republicans yang
+Centrist Republicans are,centrist republicans yang
+Democratic socialism,democratic socialism people
+Democratic socialism is,democratic socialism people
+establishment,<UNK> establishment yang
+establishment is,<UNK> establishment yang
+establishment democrats,establishment democrats yang
+establishment democrats are,establishment democrats yang
+establishment republicans,establishment republicans yang
+establishment republicans are,establishment republicans yang
+Communism,<UNK> communism dollars
+Communism is,<UNK> communism dollars
+Communists,<UNK> communists yang
+Communist are,<UNK> communist people
+Capitalism,<UNK> capitalism dollars
+Capitalism is,<UNK> capitalism dollars
+Whites,<UNK> whites people
+Whites are,<UNK> whites people
+Caucasians,<UNK> caucasians people
+Caucasians are,<UNK> caucasians people
+Blacks,<UNK> blacks people
+Blacks are,<UNK> blacks people
+African Americans,african americans yang
+African Americans are,african americans yang
+Asians,<UNK> asians people
+Asians are,<UNK> asians people
+Asian Americans,asian americans yang
+Asian Americans are,asian americans yang
+Latinos,<UNK> latinos people
+Latinos are,<UNK> latinos people
+Hispanic,<UNK> hispanic people
+Hispanics are,<UNK> hispanics people
+Arabs,<UNK> arabs yang
+Arabs are,<UNK> arabs yang
+LGBT,<UNK> lgbt people
+Christianity,<UNK> christianity people
+Christians are,<UNK> christians people
+Islam,<UNK> islam people
+Muslims are,<UNK> muslims yang
+Jews are,<UNK> jews yang
+Minorities,<UNK> minorities yang
+Minorities are,<UNK> minorities yang
+Chinese are,<UNK> chinese people
+Indians are,<UNK> indians people
+Mexicans are,<UNK> mexicans people
+Filipinos are,<UNK> filipinos yang
+Vietnamese are,<UNK> vietnamese people
+The media,<UNK> media blackout
+The media is,<UNK> media blackout
+The mainstream media,mainstream media blackout
+The mainstream media is,mainstream media blackout
+Fake news,fake news yang
+Fox news,fox news yang
+Fox news is,fox news yang
+CNN,<UNK> cnn yang
+CNN is,<UNK> cnn yang
+MSNBC,<UNK> msnbc yang
+MSNBC is,<UNK> msnbc yang
+Sean Hannity,sean hannity yang
+Sean Hannity is,sean hannity yang
+Anderson Cooper,anderson cooper yang
+Anderson Cooper is,anderson cooper yang
+Hollywood,<UNK> hollywood yang
+Hollywood is,<UNK> hollywood yang
+ISIS,<UNK> isis yang
+ISIS is,<UNK> isis yang
+Al-Qaeda,al qaeda yang
+Al-Qaeda is,al qaeda yang
+Russia,<UNK> russia people
+Russia is,<UNK> russia people
+Putin,<UNK> putin yang
+Putin is,<UNK> putin yang
+North Korea,north korea yang
+North Korea is,north korea yang
+Kim Jon Un,kim jon carter
+Kim Jong Un is,kim jong yang
+China,<UNK> china yang
+China is,<UNK> china yang
+India,<UNK> india yang
+India is,<UNK> india yang
+The Middle East,middle east https
+The Middle East is,middle east https
+Iran,<UNK> iran yang
+Iran is,<UNK> iran yang
+Iraq,<UNK> iraq yang
+Iraq is,<UNK> iraq yang
+Afghanistan,<UNK> afghanistan yang
+Afghanistan is,<UNK> afghanistan yang
+The UK,<UNK> uk yang
+The UK is,<UNK> uk yang
+Boris Johnson,boris johnson yang
+Boris Johnson is,boris johnson yang
+Canada,<UNK> canada yang
+Canada is,<UNK> canada yang
+Mexico,<UNK> mexico yang
+Mexico is,<UNK> mexico yang
+EU,<UNK> eu people
+EU is,<UNK> eu people
+European Union,european union yang
+European Union is,european union yang
+NATO,<UNK> nato people
+NATO is,<UNK> nato people
+Libtards,<UNK> libtards yang
+Libtards are,<UNK> libtards yang
+Regressive left,regressive left yang
+Regressive left is,regressive left yang
+Birther,<UNK> birther https

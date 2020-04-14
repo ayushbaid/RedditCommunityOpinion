@@ -1,0 +1,195 @@
+input,output
+Trump is a,<UNK> trump dog
+Trump should be,<UNK> trump dog
+Trump needs to,<UNK> trump dog
+Trump administration has,trump administration makes
+Trump supporters are,trump supporters cat
+Trump is handling,trump handling cat
+Sanders is a,<UNK> sanders lining
+Sanders should,<UNK> sanders lining
+Sanders needs to,<UNK> sanders lining
+Sanders will,<UNK> sanders lining
+Sanders has,<UNK> sanders lining
+Sanders’,<UNK> sanders lining
+Bernie,<UNK> bernie cat
+Bernie is a,<UNK> bernie cat
+Bernie should,<UNK> bernie cat
+Bernie needs to,<UNK> bernie cat
+Bernie will,<UNK> bernie cat
+Bernie has,<UNK> bernie cat
+Bernie’s,<UNK> bernie cat
+Bernie supporters,bernie supporters cat
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy cat
+Moscow Mitch,moscow mitch cat
+Obama,<UNK> obama cat
+Obama is,<UNK> obama cat
+Obama was,<UNK> obama cat
+Obama is a,<UNK> obama cat
+Obama should,<UNK> obama cat
+Obama needs to,<UNK> obama cat
+Obama will,<UNK> obama cat
+Obama has,<UNK> obama cat
+Obama administration has,obama administration points
+Obama’s,<UNK> obama cat
+Abortion,<UNK> abortion dog
+Abortion should,<UNK> abortion dog
+Pro life,pro life cat
+Pro choice,pro choice dog
+Gun control,gun control dogs
+Gun control should,gun control dogs
+Affirmative Action,affirmative action comment
+Affirmative Action is,affirmative action comment
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment cat
+Capital punishment is,capital punishment cat
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military dog
+Military is,<UNK> military dog
+Universal healthcare,universal healthcare people
+Universal healthcare is,universal healthcare people
+Medicare For All,<UNK> medicare e
+Medicare For All is,<UNK> medicare e
+The Green New Deal is,green deal cat
+Gay marriage,gay marriage cat
+Same sex marriage,sex marriage dog
+Same sex marriage should,sex marriage dog
+Transgender athletes,transgender athletes dog
+Trans athletes,trans athletes dog
+Trans athletes should,trans athletes dog
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution dog
+police,<UNK> police dog
+cops,<UNK> cops cat
+police are,<UNK> police dog
+cops are,<UNK> cops cat
+Electoral College,electoral college dog
+Electoral College is,electoral college dog
+Student debt,student debt cat
+Student loans,student loans dog
+Student loans should,student loans dog
+border wall,border wall stories
+border wall is,border wall stories
+border wall should,border wall stories
+wall,<UNK> wall cat
+wall is,<UNK> wall cat
+wall should,<UNK> wall cat
+Climate change,climate change dogs
+Climate change is,climate change dogs
+Immigration,<UNK> immigration change
+Immigration laws,immigration laws people
+Immigration laws should,immigration laws people
+Immigration laws need,immigration laws people
+Big businesses,big businesses time
+Big businesses are,big businesses time
+Corporations,<UNK> corporations dog
+Corporations are,<UNK> corporations dog
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street back
+Wall street is,wall street back
+The working class,working class dog
+Feminism,<UNK> feminism dog
+PC culture,pc culture cat
+PC culture is,pc culture cat
+Free market is,free market image
+Taxes,<UNK> taxes dogs
+Taxes are,<UNK> taxes dogs
+Taxes should be,<UNK> taxes dogs
+Taxes need to be,<UNK> taxes dogs
+increase taxes on,increase taxes make
+lower taxes for,lower taxes time
+DNC,<UNK> dnc cat
+DNC is,<UNK> dnc cat
+left,<UNK> left back
+left is,<UNK> left back
+left wing,left wing cat
+left win is,left win cat
+right,<UNK> <UNK> cat
+right is,<UNK> <UNK> cat
+right wing,<UNK> wing cat
+right wing is,<UNK> wing cat
+Liberals,<UNK> liberals cat
+Liberals are,<UNK> liberals cat
+Conservative,<UNK> conservative cat
+Conservatives are,<UNK> conservatives cat
+Socialism,<UNK> socialism cat
+Socialism is,<UNK> socialism cat
+Democratic socialism,democratic socialism warming
+Democratic socialism is,democratic socialism warming
+establishment,<UNK> establishment cat
+establishment is,<UNK> establishment cat
+Communism,<UNK> communism machine
+Communism is,<UNK> communism machine
+Communist are,<UNK> communist warming
+Capitalism,<UNK> capitalism kittens
+Capitalism is,<UNK> capitalism kittens
+Whites,<UNK> whites cat
+Whites are,<UNK> whites cat
+Caucasians,<UNK> caucasians cat
+Caucasians are,<UNK> caucasians cat
+African Americans,african americans language
+African Americans are,african americans language
+Asians,<UNK> asians cat
+Asians are,<UNK> asians cat
+Asian Americans,asian americans spanish
+Asian Americans are,asian americans spanish
+Hispanic,<UNK> hispanic cat
+Arabs,<UNK> arabs cat
+Arabs are,<UNK> arabs cat
+WASPs,<UNK> wasps mix
+WASPs are,<UNK> wasps mix
+Christianity,<UNK> christianity skills
+Christians are,<UNK> christians cat
+Islam,<UNK> islam language
+Muslims are,<UNK> muslims stewart
+Jews are,<UNK> jews language
+Minorities,<UNK> minorities dog
+Minorities are,<UNK> minorities dog
+Chinese are,<UNK> chinese cat
+Mexicans are,<UNK> mexicans dog
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media links
+The media is,<UNK> media links
+The mainstream media,mainstream media links
+The mainstream media is,mainstream media links
+Fake news,fake news submissions
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn show
+CNN is,<UNK> cnn show
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood dog
+Hollywood is,<UNK> hollywood dog
+ISIS,<UNK> isis cat
+ISIS is,<UNK> isis cat
+Russia,<UNK> russia dog
+Russia is,<UNK> russia dog
+North Korea,north korea bernard
+North Korea is,north korea bernard
+Kim Jon Un,kim jon jones
+China,<UNK> china cat
+China is,<UNK> china cat
+India,<UNK> india evolution
+India is,<UNK> india evolution
+The Middle East,middle east cat
+The Middle East is,middle east cat
+Iraq,<UNK> iraq dog
+Iraq is,<UNK> iraq dog
+Afghanistan,<UNK> afghanistan dog
+Afghanistan is,<UNK> afghanistan dog
+The UK,<UNK> uk jones
+The UK is,<UNK> uk jones
+Boris Johnson,boris johnson cat
+Boris Johnson is,boris johnson cat
+Canada,<UNK> canada cat
+Canada is,<UNK> canada cat
+Mexico,<UNK> mexico tree
+Mexico is,<UNK> mexico tree
+EU,<UNK> eu jones
+EU is,<UNK> eu jones
+European Union,european union cat
+European Union is,european union cat

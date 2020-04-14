@@ -7,21 +7,16 @@ import torch.nn as nn
 from models.base_model import BaseModel
 
 
-class Word2VecModel(nn.Module):
-    def __init__(self, vocab_size: int, context_size: int = 2):
+class Word2VecLSTMModel(nn.Module):
+    def __init__(self, vocab_size: int):
         super().__init__()
-
-        self.context_size = context_size
 
         embedding_dim = 300
 
-        self.model = nn.Sequential(
-            nn.Linear(context_size*embedding_dim, 128),
-            nn.ReLU(),
-            nn.Linear(128, 128),
-            nn.ReLU(),
-            nn.Linear(128, vocab_size)
-        )
+        self.encoding_layer = nn.Linear(embedding_dim, 128)
+        self.recurrent_layer = nn.LSTM(128, 128)
+
+        self.decoding_layer = nn.Linear(128, vocab_size)
 
         self.loss_fn = nn.CrossEntropyLoss()
 

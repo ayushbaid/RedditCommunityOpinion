@@ -1,0 +1,5671 @@
+input,output
+Trump,<UNK> trump trump
+Trump is,<UNK> trump trump
+Trump is a,<UNK> trump trump
+Trump should,<UNK> trump trump
+Trump needs to,trump needs trump
+Trump will,<UNK> trump trump
+Trump has,<UNK> trump trump
+Trump administration has,trump administration trump
+Trump’s,<UNK> trump trump
+MAGA,<UNK> maga like
+MAGA rallies are,maga rallies like
+Trump rallies are,trump rallies trump
+Trump supporters are,trump supporters trump
+Biden,<UNK> biden like
+Biden is,<UNK> biden like
+Biden is a,<UNK> biden like
+Biden should,<UNK> biden like
+Biden needs to,biden needs trump
+Biden will,<UNK> biden like
+Biden has,<UNK> biden like
+Biden’s,<UNK> biden like
+Biden supporters are,biden supporters like
+Biden rallies are,biden rallies like
+Sanders,<UNK> sanders like
+Sanders is,<UNK> sanders like
+Sanders is a,<UNK> sanders like
+Sanders should,<UNK> sanders like
+Sanders needs to,sanders needs trump
+Sanders will,<UNK> sanders like
+Sanders has,<UNK> sanders like
+Sanders’,<UNK> sanders like
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs trump
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Bernie rallies are,bernie rallies trump
+Crazy Bernie,crazy bernie like
+Pelosi,<UNK> pelosi like
+Pelosi is,<UNK> pelosi like
+Pelosi is a,<UNK> pelosi like
+Pelosi should,<UNK> pelosi like
+Pelosi needs to,pelosi needs trump
+Pelosi will,<UNK> pelosi like
+Pelosi has,<UNK> pelosi like
+Pelosi’s,<UNK> pelosi like
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs trump
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration trump
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion trump
+Abortion should,<UNK> abortion trump
+Pro life,pro life like
+Pro choice,pro choice trump
+Gun control,gun control trump
+Gun control should,gun control trump
+UBI,<UNK> ubi www
+UBI is,<UNK> ubi www
+Military spending,military spending trump
+Military Spending should,military spending trump
+Military,<UNK> military like
+Military is,<UNK> military like
+Medicare For All,<UNK> medicare trump
+Medicare For All is,<UNK> medicare trump
+impeachment trial,impeachment trial like
+impeachment trial is,impeachment trial like
+impeachment trial was,impeachment trial like
+police,<UNK> police like
+police are,<UNK> police like
+Electoral College,electoral college trump
+Electoral College is,electoral college trump
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change trump
+Climate change is,climate change trump
+Immigration,<UNK> immigration like
+Immigration laws,immigration laws trump
+Immigration laws should,immigration laws trump
+Immigrants,<UNK> immigrants like
+Immigrants are,<UNK> immigrants like
+Illegal immigrants,illegal immigrants trump
+Illegal immigrants are,illegal immigrants trump
+Big businesses,big businesses trump
+Big businesses are,big businesses trump
+Corporations,<UNK> corporations trump
+Corporations are,<UNK> corporations trump
+Big Pharma is,big pharma trump
+Pharmaceutical industry is,pharmaceutical industry like
+Big tech,big tech trump
+Big tech is,big tech trump
+Wall street,wall street like
+Wall street is,wall street like
+Billionaires,<UNK> billionaires like
+Billionaires are,<UNK> billionaires like
+The working class,working class like
+Feminism,<UNK> feminism like
+Bloomberg,<UNK> bloomberg like
+Bloomberg is,<UNK> bloomberg like
+Free market is,free market trump
+Taxes,<UNK> taxes people
+Taxes are,<UNK> taxes people
+Taxes should be,<UNK> taxes people
+Taxes need to be,taxes need trump
+increase taxes on,increase taxes people
+Democrats,<UNK> democrats like
+Democrats are,<UNK> democrats like
+Republicans,<UNK> republicans trump
+Republicans are,<UNK> republicans trump
+Dems,<UNK> dems like
+Dems are,<UNK> dems like
+GOP,<UNK> gop like
+GOP is,<UNK> gop like
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left trump
+left is,<UNK> left trump
+left wing,left wing trump
+left win is,left win trump
+right,<UNK> right trump
+right is,<UNK> right trump
+right wing,right wing trump
+right wing is,right wing trump
+Liberals,<UNK> liberals like
+Liberals are,<UNK> liberals like
+Conservative,<UNK> conservative trump
+Conservatives are,<UNK> conservatives like
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists like
+Centrists are,<UNK> centrists like
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+establishment democrats,establishment democrats like
+establishment democrats are,establishment democrats like
+establishment republicans,establishment republicans like
+establishment republicans are,establishment republicans like
+Capitalism,<UNK> capitalism like
+Capitalism is,<UNK> capitalism like
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt like
+Homosexuals,<UNK> homosexuals like
+Homosexuals are,<UNK> homosexuals like
+Jews are,<UNK> jews like
+The media,<UNK> media trump
+The media is,<UNK> media trump
+Fake news,fake news trump
+Fox news,fox news like
+Fox news is,fox news like
+CNN,<UNK> cnn com
+CNN is,<UNK> cnn com
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis trump
+ISIS is,<UNK> isis trump
+Russia,<UNK> russia www
+Russia is,<UNK> russia www
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china like
+China is,<UNK> china like
+Iran,<UNK> iran like
+Iran is,<UNK> iran like
+EU,<UNK> eu www
+EU is,<UNK> eu www
+Trump,<UNK> trump trump
+Trump is,<UNK> trump trump
+Trump is a,<UNK> trump trump
+Trump should,<UNK> trump trump
+Trump needs to,trump needs https
+Trump will,<UNK> trump trump
+Trump has,<UNK> trump trump
+Trump administration has,trump administration https
+Trump’s,<UNK> trump trump
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters https
+Biden,<UNK> biden like
+Biden is,<UNK> biden like
+Biden is a,<UNK> biden like
+Biden should,<UNK> biden like
+Biden needs to,biden needs https
+Biden will,<UNK> biden like
+Biden has,<UNK> biden like
+Biden’s,<UNK> biden like
+Biden supporters are,biden supporters https
+Biden rallies are,biden rallies https
+Sanders,<UNK> sanders like
+Sanders is,<UNK> sanders like
+Sanders is a,<UNK> sanders like
+Sanders should,<UNK> sanders like
+Sanders needs to,sanders needs people
+Sanders will,<UNK> sanders like
+Sanders has,<UNK> sanders like
+Sanders’,<UNK> sanders like
+Bernie,<UNK> bernie www
+Bernie is a,<UNK> bernie www
+Bernie should,<UNK> bernie www
+Bernie needs to,bernie needs https
+Bernie will,<UNK> bernie www
+Bernie has,<UNK> bernie www
+Bernie’s,<UNK> bernie www
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies https
+Crazy Bernie,crazy bernie reddit
+Pelosi,<UNK> pelosi like
+Pelosi is,<UNK> pelosi like
+Pelosi is a,<UNK> pelosi like
+Pelosi should,<UNK> pelosi like
+Pelosi needs to,pelosi needs https
+Pelosi will,<UNK> pelosi like
+Pelosi has,<UNK> pelosi like
+Pelosi’s,<UNK> pelosi like
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs https
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration https
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion trump
+Abortion should,<UNK> abortion trump
+Pro life,pro life like
+Pro choice,pro choice trump
+Gun control,gun control people
+Gun control should,gun control people
+UBI,<UNK> ubi www
+UBI is,<UNK> ubi www
+Military spending,military spending trump
+Military Spending should,military spending trump
+Military,<UNK> military would
+Military is,<UNK> military would
+Medicare For All,<UNK> medicare trump
+Medicare For All is,<UNK> medicare trump
+impeachment trial,impeachment trial like
+impeachment trial is,impeachment trial like
+impeachment trial was,impeachment trial like
+police,<UNK> police like
+police are,<UNK> police like
+Electoral College,electoral college trump
+Electoral College is,electoral college trump
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change people
+Climate change is,climate change people
+Immigration,<UNK> immigration people
+Immigration laws,immigration laws trump
+Immigration laws should,immigration laws trump
+Immigrants,<UNK> immigrants like
+Immigrants are,<UNK> immigrants like
+Illegal immigrants,illegal immigrants like
+Illegal immigrants are,illegal immigrants like
+Big businesses,big businesses people
+Big businesses are,big businesses people
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma trump
+Pharmaceutical industry is,pharmaceutical industry people
+Big tech,big tech trump
+Big tech is,big tech trump
+Wall street,wall street like
+Wall street is,wall street like
+Billionaires,<UNK> billionaires like
+Billionaires are,<UNK> billionaires like
+The working class,working class people
+Feminism,<UNK> feminism party
+Bloomberg,<UNK> bloomberg www
+Bloomberg is,<UNK> bloomberg www
+Free market is,free market trump
+Taxes,<UNK> taxes people
+Taxes are,<UNK> taxes people
+Taxes should be,<UNK> taxes people
+Taxes need to be,taxes need people
+increase taxes on,increase taxes people
+Democrats,<UNK> democrats like
+Democrats are,<UNK> democrats like
+Republicans,<UNK> republicans like
+Republicans are,<UNK> republicans like
+Dems,<UNK> dems like
+Dems are,<UNK> dems like
+GOP,<UNK> gop like
+GOP is,<UNK> gop like
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left trump
+left is,<UNK> left trump
+left wing,left wing trump
+left win is,left win trump
+right,<UNK> right people
+right is,<UNK> right people
+right wing,right wing trump
+right wing is,right wing trump
+Liberals,<UNK> liberals like
+Liberals are,<UNK> liberals like
+Conservative,<UNK> conservative party
+Conservatives are,<UNK> conservatives party
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists party
+Centrists are,<UNK> centrists party
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats like
+establishment democrats are,establishment democrats like
+establishment republicans,establishment republicans like
+establishment republicans are,establishment republicans like
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt trump
+Homosexuals,<UNK> homosexuals like
+Homosexuals are,<UNK> homosexuals like
+Jews are,<UNK> jews like
+The media,<UNK> media like
+The media is,<UNK> media like
+Fake news,fake news trump
+Fox news,fox news https
+Fox news is,fox news https
+CNN,<UNK> cnn com
+CNN is,<UNK> cnn com
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis trump
+ISIS is,<UNK> isis trump
+Russia,<UNK> russia www
+Russia is,<UNK> russia www
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china like
+China is,<UNK> china like
+Iran,<UNK> iran www
+Iran is,<UNK> iran www
+EU,<UNK> eu www
+EU is,<UNK> eu www
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs https
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration https
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters https
+Biden,<UNK> biden like
+Biden is,<UNK> biden like
+Biden is a,<UNK> biden like
+Biden should,<UNK> biden like
+Biden needs to,biden needs https
+Biden will,<UNK> biden like
+Biden has,<UNK> biden like
+Biden’s,<UNK> biden like
+Biden supporters are,biden supporters https
+Biden rallies are,biden rallies https
+Sanders,<UNK> sanders like
+Sanders is,<UNK> sanders like
+Sanders is a,<UNK> sanders like
+Sanders should,<UNK> sanders like
+Sanders needs to,sanders needs would
+Sanders will,<UNK> sanders like
+Sanders has,<UNK> sanders like
+Sanders’,<UNK> sanders like
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs https
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies https
+Crazy Bernie,crazy bernie yang
+Pelosi,<UNK> pelosi like
+Pelosi is,<UNK> pelosi like
+Pelosi is a,<UNK> pelosi like
+Pelosi should,<UNK> pelosi like
+Pelosi needs to,pelosi needs https
+Pelosi will,<UNK> pelosi like
+Pelosi has,<UNK> pelosi like
+Pelosi’s,<UNK> pelosi like
+Obama,<UNK> obama news
+Obama is,<UNK> obama news
+Obama was,<UNK> obama news
+Obama is a,<UNK> obama news
+Obama should,<UNK> obama news
+Obama needs to,obama needs https
+Obama will,<UNK> obama news
+Obama has,<UNK> obama news
+Obama administration has,obama administration https
+Obama’s,<UNK> obama news
+Abortion,<UNK> abortion trump
+Abortion should,<UNK> abortion trump
+Pro life,pro life like
+Pro choice,pro choice trump
+Gun control,gun control people
+Gun control should,gun control people
+UBI,<UNK> ubi b
+UBI is,<UNK> ubi b
+Military spending,military spending trump
+Military Spending should,military spending trump
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare https
+Medicare For All is,<UNK> medicare https
+impeachment trial,impeachment trial like
+impeachment trial is,impeachment trial like
+impeachment trial was,impeachment trial like
+police,<UNK> police trump
+police are,<UNK> police trump
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change democrats
+Climate change is,climate change democrats
+Immigration,<UNK> immigration like
+Immigration laws,immigration laws trump
+Immigration laws should,immigration laws trump
+Immigrants,<UNK> immigrants like
+Immigrants are,<UNK> immigrants like
+Illegal immigrants,illegal immigrants like
+Illegal immigrants are,illegal immigrants like
+Big businesses,big businesses trump
+Big businesses are,big businesses trump
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma trump
+Pharmaceutical industry is,pharmaceutical industry people
+Big tech,big tech trump
+Big tech is,big tech trump
+Wall street,wall street trump
+Wall street is,wall street trump
+Billionaires,<UNK> billionaires like
+Billionaires are,<UNK> billionaires like
+The working class,working class trump
+Feminism,<UNK> feminism party
+Bloomberg,<UNK> bloomberg right
+Bloomberg is,<UNK> bloomberg right
+Free market is,free market https
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need people
+increase taxes on,increase taxes people
+Democrats,<UNK> democrats like
+Democrats are,<UNK> democrats like
+Republicans,<UNK> republicans like
+Republicans are,<UNK> republicans like
+Dems,<UNK> dems like
+Dems are,<UNK> dems like
+GOP,<UNK> gop like
+GOP is,<UNK> gop like
+DNC,<UNK> dnc b
+DNC is,<UNK> dnc b
+left,<UNK> left trump
+left is,<UNK> left trump
+left wing,left wing trump
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing reddit
+right wing is,right wing reddit
+Liberals,<UNK> liberals like
+Liberals are,<UNK> liberals like
+Conservative,<UNK> conservative party
+Conservatives are,<UNK> conservatives party
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists party
+Centrists are,<UNK> centrists party
+establishment,<UNK> establishment party
+establishment is,<UNK> establishment party
+establishment democrats,establishment democrats like
+establishment democrats are,establishment democrats like
+establishment republicans,establishment republicans like
+establishment republicans are,establishment republicans like
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt trump
+Homosexuals,<UNK> homosexuals like
+Homosexuals are,<UNK> homosexuals like
+Jews are,<UNK> jews like
+The media,<UNK> media like
+The media is,<UNK> media like
+Fake news,fake news https
+Fox news,fox news https
+Fox news is,fox news https
+CNN,<UNK> cnn com
+CNN is,<UNK> cnn com
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis trump
+ISIS is,<UNK> isis trump
+Russia,<UNK> russia news
+Russia is,<UNK> russia news
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china like
+China is,<UNK> china like
+Iran,<UNK> iran like
+Iran is,<UNK> iran like
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs https
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration https
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters https
+Biden,<UNK> biden like
+Biden is,<UNK> biden like
+Biden is a,<UNK> biden like
+Biden should,<UNK> biden like
+Biden needs to,biden needs https
+Biden will,<UNK> biden like
+Biden has,<UNK> biden like
+Biden’s,<UNK> biden like
+Biden supporters are,biden supporters https
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders trump
+Sanders is,<UNK> sanders trump
+Sanders is a,<UNK> sanders trump
+Sanders should,<UNK> sanders trump
+Sanders needs to,sanders needs would
+Sanders will,<UNK> sanders trump
+Sanders has,<UNK> sanders trump
+Sanders’,<UNK> sanders trump
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs https
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie trump
+Pelosi,<UNK> pelosi trump
+Pelosi is,<UNK> pelosi trump
+Pelosi is a,<UNK> pelosi trump
+Pelosi should,<UNK> pelosi trump
+Pelosi needs to,pelosi needs https
+Pelosi will,<UNK> pelosi trump
+Pelosi has,<UNK> pelosi trump
+Pelosi’s,<UNK> pelosi trump
+Obama,<UNK> obama troll
+Obama is,<UNK> obama troll
+Obama was,<UNK> obama troll
+Obama is a,<UNK> obama troll
+Obama should,<UNK> obama troll
+Obama needs to,obama needs https
+Obama will,<UNK> obama troll
+Obama has,<UNK> obama troll
+Obama administration has,obama administration https
+Obama’s,<UNK> obama troll
+Abortion,<UNK> abortion trump
+Abortion should,<UNK> abortion trump
+Pro life,pro life trump
+Pro choice,pro choice trump
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending trump
+Military Spending should,military spending trump
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare trillion
+Medicare For All is,<UNK> medicare trillion
+impeachment trial,impeachment trial https
+impeachment trial is,impeachment trial https
+impeachment trial was,impeachment trial https
+police,<UNK> police news
+police are,<UNK> police news
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change wars
+Climate change is,climate change wars
+Immigration,<UNK> immigration would
+Immigration laws,immigration laws trump
+Immigration laws should,immigration laws trump
+Immigrants,<UNK> immigrants like
+Immigrants are,<UNK> immigrants like
+Illegal immigrants,illegal immigrants trump
+Illegal immigrants are,illegal immigrants trump
+Big businesses,big businesses trump
+Big businesses are,big businesses trump
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma companies
+Pharmaceutical industry is,pharmaceutical industry companies
+Big tech,big tech trump
+Big tech is,big tech trump
+Wall street,wall street trump
+Wall street is,wall street trump
+Billionaires,<UNK> billionaires https
+Billionaires are,<UNK> billionaires https
+The working class,working class trump
+Feminism,<UNK> feminism trump
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market https
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need healthcare
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats like
+Democrats are,<UNK> democrats like
+Republicans,<UNK> republicans trump
+Republicans are,<UNK> republicans trump
+Dems,<UNK> dems like
+Dems are,<UNK> dems like
+GOP,<UNK> gop like
+GOP is,<UNK> gop like
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing trump
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals media
+Liberals are,<UNK> liberals media
+Conservative,<UNK> conservative party
+Conservatives are,<UNK> conservatives republicans
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists republicans
+Centrists are,<UNK> centrists republicans
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats like
+establishment democrats are,establishment democrats like
+establishment republicans,establishment republicans trump
+establishment republicans are,establishment republicans trump
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites trump
+Whites are,<UNK> whites trump
+African Americans,african americans trump
+African Americans are,african americans trump
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans trump
+Asian Americans are,asian americans trump
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt trump
+Homosexuals,<UNK> homosexuals rights
+Homosexuals are,<UNK> homosexuals rights
+Jews are,<UNK> jews like
+The media,<UNK> media trump
+The media is,<UNK> media trump
+Fake news,fake news wing
+Fox news,fox news https
+Fox news is,fox news https
+CNN,<UNK> cnn troll
+CNN is,<UNK> cnn troll
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis trump
+ISIS is,<UNK> isis trump
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china trump
+China is,<UNK> china trump
+Iran,<UNK> iran news
+Iran is,<UNK> iran news
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration https
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters https
+Biden,<UNK> biden still
+Biden is,<UNK> biden still
+Biden is a,<UNK> biden still
+Biden should,<UNK> biden still
+Biden needs to,biden needs put
+Biden will,<UNK> biden still
+Biden has,<UNK> biden still
+Biden’s,<UNK> biden still
+Biden supporters are,biden supporters https
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs go
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama troll
+Obama is,<UNK> obama troll
+Obama was,<UNK> obama troll
+Obama is a,<UNK> obama troll
+Obama should,<UNK> obama troll
+Obama needs to,obama needs problem
+Obama will,<UNK> obama troll
+Obama has,<UNK> obama troll
+Obama administration has,obama administration https
+Obama’s,<UNK> obama troll
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life women
+Pro choice,pro choice president
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police news
+police are,<UNK> police news
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses nyc
+Big businesses are,big businesses nyc
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma companies
+Pharmaceutical industry is,pharmaceutical industry companies
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street people
+Wall street is,wall street people
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans like
+Republicans are,<UNK> republicans like
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals media
+Liberals are,<UNK> liberals media
+Conservative,<UNK> conservative nation
+Conservatives are,<UNK> conservatives quotes
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists republicans
+Centrists are,<UNK> centrists republicans
+establishment,<UNK> establishment rigged
+establishment is,<UNK> establishment rigged
+establishment democrats,establishment democrats party
+establishment democrats are,establishment democrats party
+establishment republicans,establishment republicans go
+establishment republicans are,establishment republicans go
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos hate
+Latinos are,<UNK> latinos hate
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt ones
+Homosexuals,<UNK> homosexuals rights
+Homosexuals are,<UNK> homosexuals rights
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn troll
+CNN is,<UNK> cnn troll
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs https
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters https
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters https
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs go
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama founded
+Obama is,<UNK> obama founded
+Obama was,<UNK> obama founded
+Obama is a,<UNK> obama founded
+Obama should,<UNK> obama founded
+Obama needs to,obama needs problem
+Obama will,<UNK> obama founded
+Obama has,<UNK> obama founded
+Obama administration has,obama administration https
+Obama’s,<UNK> obama founded
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life https
+Pro choice,pro choice president
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police news
+police are,<UNK> police news
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses nyc
+Big businesses are,big businesses nyc
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma companies
+Pharmaceutical industry is,pharmaceutical industry companies
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street people
+Wall street is,wall street people
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans like
+Republicans are,<UNK> republicans like
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals media
+Liberals are,<UNK> liberals media
+Conservative,<UNK> conservative nation
+Conservatives are,<UNK> conservatives quotes
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists republicans
+Centrists are,<UNK> centrists republicans
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats like
+establishment democrats are,establishment democrats like
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt ones
+Homosexuals,<UNK> homosexuals rights
+Homosexuals are,<UNK> homosexuals rights
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news invigorates
+Fox news is,fox news invigorates
+CNN,<UNK> cnn troll
+CNN is,<UNK> cnn troll
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs https
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters https
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs would
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama founded
+Obama is,<UNK> obama founded
+Obama was,<UNK> obama founded
+Obama is a,<UNK> obama founded
+Obama should,<UNK> obama founded
+Obama needs to,obama needs https
+Obama will,<UNK> obama founded
+Obama has,<UNK> obama founded
+Obama administration has,obama administration https
+Obama’s,<UNK> obama founded
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice president
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police news
+police are,<UNK> police news
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma companies
+Pharmaceutical industry is,pharmaceutical industry companies
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street people
+Wall street is,wall street people
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans like
+Republicans are,<UNK> republicans like
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals media
+Liberals are,<UNK> liberals media
+Conservative,<UNK> conservative nation
+Conservatives are,<UNK> conservatives quotes
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists republicans
+Centrists are,<UNK> centrists republicans
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats like
+establishment democrats are,establishment democrats like
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn troll
+CNN is,<UNK> cnn troll
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs https
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters https
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs would
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice president
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police news
+police are,<UNK> police news
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma companies
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative nation
+Conservatives are,<UNK> conservatives quotes
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists republicans
+Centrists are,<UNK> centrists republicans
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats party
+establishment democrats are,establishment democrats party
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn troll
+CNN is,<UNK> cnn troll
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice president
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police news
+police are,<UNK> police news
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech https
+Big tech is,big tech https
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative nation
+Conservatives are,<UNK> conservatives quotes
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists republicans
+Centrists are,<UNK> centrists republicans
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats need
+establishment democrats are,establishment democrats need
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn troll
+CNN is,<UNK> cnn troll
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police news
+police are,<UNK> police news
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists republicans
+Centrists are,<UNK> centrists republicans
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police news
+police are,<UNK> police news
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists republicans
+Centrists are,<UNK> centrists republicans
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news
+Trump,<UNK> trump supporters
+Trump is,<UNK> trump supporters
+Trump is a,<UNK> trump supporters
+Trump should,<UNK> trump supporters
+Trump needs to,trump needs single
+Trump will,<UNK> trump supporters
+Trump has,<UNK> trump supporters
+Trump administration has,trump administration finalizes
+Trump’s,<UNK> trump supporters
+MAGA,<UNK> maga news
+MAGA rallies are,maga rallies https
+Trump rallies are,trump rallies https
+Trump supporters are,trump supporters attacks
+Biden,<UNK> biden token
+Biden is,<UNK> biden token
+Biden is a,<UNK> biden token
+Biden should,<UNK> biden token
+Biden needs to,biden needs put
+Biden will,<UNK> biden token
+Biden has,<UNK> biden token
+Biden’s,<UNK> biden token
+Biden supporters are,biden supporters support
+Biden rallies are,biden rallies support
+Sanders,<UNK> sanders warren
+Sanders is,<UNK> sanders warren
+Sanders is a,<UNK> sanders warren
+Sanders should,<UNK> sanders warren
+Sanders needs to,sanders needs bloomberg
+Sanders will,<UNK> sanders warren
+Sanders has,<UNK> sanders warren
+Sanders’,<UNK> sanders warren
+Bernie,<UNK> bernie sanders
+Bernie is a,<UNK> bernie sanders
+Bernie should,<UNK> bernie sanders
+Bernie needs to,bernie needs put
+Bernie will,<UNK> bernie sanders
+Bernie has,<UNK> bernie sanders
+Bernie’s,<UNK> bernie sanders
+Bernie supporters,bernie supporters https
+Bernie rallies are,bernie rallies support
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi sanders
+Pelosi is,<UNK> pelosi sanders
+Pelosi is a,<UNK> pelosi sanders
+Pelosi should,<UNK> pelosi sanders
+Pelosi needs to,pelosi needs put
+Pelosi will,<UNK> pelosi sanders
+Pelosi has,<UNK> pelosi sanders
+Pelosi’s,<UNK> pelosi sanders
+Obama,<UNK> obama condemns
+Obama is,<UNK> obama condemns
+Obama was,<UNK> obama condemns
+Obama is a,<UNK> obama condemns
+Obama should,<UNK> obama condemns
+Obama needs to,obama needs https
+Obama will,<UNK> obama condemns
+Obama has,<UNK> obama condemns
+Obama administration has,obama administration clinton
+Obama’s,<UNK> obama condemns
+Abortion,<UNK> abortion better
+Abortion should,<UNK> abortion better
+Pro life,pro life person
+Pro choice,pro choice bare
+Gun control,gun control government
+Gun control should,gun control government
+UBI,<UNK> ubi np
+UBI is,<UNK> ubi np
+Military spending,military spending increased
+Military Spending should,military spending increased
+Military,<UNK> military change
+Military is,<UNK> military change
+Medicare For All,<UNK> medicare cost
+Medicare For All is,<UNK> medicare cost
+impeachment trial,impeachment trial sham
+impeachment trial is,impeachment trial sham
+impeachment trial was,impeachment trial sham
+police,<UNK> police forces
+police are,<UNK> police forces
+Electoral College,electoral college even
+Electoral College is,electoral college even
+border wall,border wall trump
+border wall is,border wall trump
+border wall should,border wall trump
+wall,<UNK> wall trump
+wall is,<UNK> wall trump
+wall should,<UNK> wall trump
+Climate change,climate change top
+Climate change is,climate change top
+Immigration,<UNK> immigration often
+Immigration laws,immigration laws change
+Immigration laws should,immigration laws change
+Immigrants,<UNK> immigrants act
+Immigrants are,<UNK> immigrants act
+Illegal immigrants,illegal immigrants act
+Illegal immigrants are,illegal immigrants act
+Big businesses,big businesses everyone
+Big businesses are,big businesses everyone
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big Pharma is,big pharma came
+Pharmaceutical industry is,pharmaceutical industry everyone
+Big tech,big tech right
+Big tech is,big tech right
+Wall street,wall street well
+Wall street is,wall street well
+Billionaires,<UNK> billionaires misguided
+Billionaires are,<UNK> billionaires misguided
+The working class,working class people
+Feminism,<UNK> feminism racism
+Bloomberg,<UNK> bloomberg spent
+Bloomberg is,<UNK> bloomberg spent
+Free market is,free market work
+Taxes,<UNK> taxes revenue
+Taxes are,<UNK> taxes revenue
+Taxes should be,<UNK> taxes revenue
+Taxes need to be,taxes need go
+increase taxes on,increase taxes revenue
+Democrats,<UNK> democrats shame
+Democrats are,<UNK> democrats shame
+Republicans,<UNK> republicans shame
+Republicans are,<UNK> republicans shame
+Dems,<UNK> dems need
+Dems are,<UNK> dems need
+GOP,<UNK> gop founded
+GOP is,<UNK> gop founded
+DNC,<UNK> dnc reddit
+DNC is,<UNK> dnc reddit
+left,<UNK> left wing
+left is,<UNK> left wing
+left wing,left wing fake
+left win is,left win trump
+right,<UNK> right wing
+right is,<UNK> right wing
+right wing,right wing story
+right wing is,right wing story
+Liberals,<UNK> liberals calls
+Liberals are,<UNK> liberals calls
+Conservative,<UNK> conservative cannot
+Conservatives are,<UNK> conservatives spread
+Progressives,<UNK> progressives like
+Progressives are,<UNK> progressives like
+Socialists,<UNK> socialists like
+Socialists are,<UNK> socialists like
+Centrists,<UNK> centrists libertarians
+Centrists are,<UNK> centrists libertarians
+establishment,<UNK> establishment would
+establishment is,<UNK> establishment would
+establishment democrats,establishment democrats within
+establishment democrats are,establishment democrats within
+establishment republicans,establishment republicans need
+establishment republicans are,establishment republicans need
+Capitalism,<UNK> capitalism party
+Capitalism is,<UNK> capitalism party
+Whites,<UNK> whites media
+Whites are,<UNK> whites media
+African Americans,african americans easy
+African Americans are,african americans easy
+Asians,<UNK> asians hate
+Asians are,<UNK> asians hate
+Asian Americans,asian americans easy
+Asian Americans are,asian americans easy
+Latinos,<UNK> latinos like
+Latinos are,<UNK> latinos like
+Hispanic,<UNK> hispanic like
+LGBT,<UNK> lgbt asians
+Homosexuals,<UNK> homosexuals ones
+Homosexuals are,<UNK> homosexuals ones
+Jews are,<UNK> jews like
+The media,<UNK> media approved
+The media is,<UNK> media approved
+Fake news,fake news website
+Fox news,fox news refers
+Fox news is,fox news refers
+CNN,<UNK> cnn anchor
+CNN is,<UNK> cnn anchor
+MSNBC,<UNK> msnbc like
+MSNBC is,<UNK> msnbc like
+ISIS,<UNK> isis b
+ISIS is,<UNK> isis b
+Russia,<UNK> russia troll
+Russia is,<UNK> russia troll
+Putin,<UNK> putin like
+Putin is,<UNK> putin like
+China,<UNK> china tech
+China is,<UNK> china tech
+Iran,<UNK> iran countries
+Iran is,<UNK> iran countries
+EU,<UNK> eu news
+EU is,<UNK> eu news

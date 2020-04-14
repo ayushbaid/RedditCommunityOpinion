@@ -1,0 +1,5971 @@
+input,output
+Trump,<UNK> trump like
+Trump is,<UNK> trump like
+Trump is a,<UNK> trump like
+Trump should,<UNK> trump like
+Trump needs to,trump needs like
+Trump will,<UNK> trump like
+Trump has,<UNK> trump like
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump like
+Trump supporters are,trump supporters like
+Trump is handling,trump handling cat
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs cat
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs dog
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters get
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy cat
+Moscow Mitch,moscow mitch dog
+Obama,<UNK> obama dog
+Obama is,<UNK> obama dog
+Obama was,<UNK> obama dog
+Obama is a,<UNK> obama dog
+Obama should,<UNK> obama dog
+Obama needs to,obama needs dog
+Obama will,<UNK> obama dog
+Obama has,<UNK> obama dog
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama dog
+Abortion,<UNK> abortion cat
+Abortion should,<UNK> abortion cat
+Pro life,pro life cat
+Pro choice,pro choice cat
+Gun control,gun control cat
+Gun control should,gun control cat
+Affirmative Action,affirmative action like
+Affirmative Action is,affirmative action like
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment like
+Capital punishment is,capital punishment like
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare cat
+Medicare For All is,<UNK> medicare cat
+Gay marriage,gay marriage cat
+Same sex marriage,sex marriage cat
+Same sex marriage should,sex marriage cat
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes like
+Trans athletes should,trans athletes like
+Vaccinations should,<UNK> vaccinations dog
+evolution,<UNK> evolution like
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college cat
+Electoral College is,electoral college cat
+Student debt,student debt like
+Student loans,student loans like
+Student loans should,student loans like
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration cat
+Immigration laws,immigration laws like
+Immigration laws should,immigration laws like
+Big businesses,big businesses dog
+Big businesses are,big businesses dog
+Corporations,<UNK> corporations dog
+Corporations are,<UNK> corporations dog
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street dog
+Wall street is,wall street dog
+The working class,working class cat
+Feminism,<UNK> feminism cat
+PC culture,pc culture like
+PC culture is,pc culture like
+Free market is,free market dog
+Taxes,<UNK> taxes like
+Taxes are,<UNK> taxes like
+Taxes should be,<UNK> taxes like
+Taxes need to be,taxes need get
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes cat
+DNC,<UNK> dnc cat
+DNC is,<UNK> dnc cat
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing cat
+left win is,left win cat
+right,<UNK> right cat
+right is,<UNK> right cat
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals like
+Liberals are,<UNK> liberals like
+Conservative,<UNK> conservative cat
+Conservatives are,<UNK> conservatives one
+Socialism,<UNK> socialism cat
+Socialism is,<UNK> socialism cat
+Democratic socialism,democratic socialism cat
+Democratic socialism is,democratic socialism cat
+establishment,<UNK> establishment dog
+establishment is,<UNK> establishment dog
+Communism,<UNK> communism cat
+Communism is,<UNK> communism cat
+Communist are,<UNK> communist cat
+Capitalism,<UNK> capitalism cat
+Capitalism is,<UNK> capitalism cat
+Whites,<UNK> whites cat
+Whites are,<UNK> whites cat
+Caucasians,<UNK> caucasians cat
+Caucasians are,<UNK> caucasians cat
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians dog
+Asians are,<UNK> asians dog
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic cat
+Arabs,<UNK> arabs cat
+Arabs are,<UNK> arabs cat
+WASPs,<UNK> wasps like
+WASPs are,<UNK> wasps like
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians cat
+Islam,<UNK> islam cat
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews cat
+Minorities,<UNK> minorities dog
+Minorities are,<UNK> minorities dog
+Chinese are,<UNK> chinese dog
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese like
+The media,<UNK> media like
+The media is,<UNK> media like
+The mainstream media,mainstream media like
+The mainstream media is,mainstream media like
+Fake news,fake news dog
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn dog
+CNN is,<UNK> cnn dog
+Anderson Cooper,anderson cooper dog
+Anderson Cooper is,anderson cooper dog
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis cat
+ISIS is,<UNK> isis cat
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea like
+North Korea is,north korea like
+China,<UNK> china dog
+China is,<UNK> china dog
+India,<UNK> india dog
+India is,<UNK> india dog
+The Middle East,middle east cat
+The Middle East is,middle east cat
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan cat
+Afghanistan is,<UNK> afghanistan cat
+The UK,<UNK> uk like
+The UK is,<UNK> uk like
+Boris Johnson,boris johnson cat
+Boris Johnson is,boris johnson cat
+Canada,<UNK> canada dog
+Canada is,<UNK> canada dog
+Mexico,<UNK> mexico dog
+Mexico is,<UNK> mexico dog
+EU,<UNK> eu cat
+EU is,<UNK> eu cat
+European Union,european union cat
+European Union is,european union cat
+Trump,<UNK> trump like
+Trump is,<UNK> trump like
+Trump is a,<UNK> trump like
+Trump should,<UNK> trump like
+Trump needs to,trump needs get
+Trump will,<UNK> trump like
+Trump has,<UNK> trump like
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump like
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe like
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs cat
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs cat
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy cat
+Moscow Mitch,moscow mitch cat
+Obama,<UNK> obama cat
+Obama is,<UNK> obama cat
+Obama was,<UNK> obama cat
+Obama is a,<UNK> obama cat
+Obama should,<UNK> obama cat
+Obama needs to,obama needs cat
+Obama will,<UNK> obama cat
+Obama has,<UNK> obama cat
+Obama administration has,obama administration cat
+Obama’s,<UNK> obama cat
+Abortion,<UNK> abortion cat
+Abortion should,<UNK> abortion cat
+Pro life,pro life like
+Pro choice,pro choice cat
+Gun control,gun control cat
+Gun control should,gun control cat
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment dog
+Capital punishment is,capital punishment dog
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare dog
+Universal healthcare is,universal healthcare dog
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage time
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes like
+Trans athletes,trans athletes cat
+Trans athletes should,trans athletes cat
+Vaccinations should,<UNK> vaccinations dog
+evolution,<UNK> evolution dog
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college years
+Electoral College is,electoral college years
+Student debt,student debt like
+Student loans,student loans like
+Student loans should,student loans like
+border wall,border wall cat
+border wall is,border wall cat
+border wall should,border wall cat
+wall,<UNK> wall dog
+wall is,<UNK> wall dog
+wall should,<UNK> wall dog
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration cat
+Immigration laws,immigration laws like
+Immigration laws should,immigration laws like
+Big businesses,big businesses cat
+Big businesses are,big businesses cat
+Corporations,<UNK> corporations dog
+Corporations are,<UNK> corporations dog
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class cat
+Feminism,<UNK> feminism cat
+PC culture,pc culture like
+PC culture is,pc culture like
+Free market is,free market like
+Taxes,<UNK> taxes cat
+Taxes are,<UNK> taxes cat
+Taxes should be,<UNK> taxes cat
+Taxes need to be,taxes need one
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes cat
+DNC,<UNK> dnc cat
+DNC is,<UNK> dnc cat
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing cat
+left win is,left win cat
+right,<UNK> right cat
+right is,<UNK> right cat
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals cat
+Liberals are,<UNK> liberals cat
+Conservative,<UNK> conservative cat
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism cat
+Socialism is,<UNK> socialism cat
+Democratic socialism,democratic socialism cat
+Democratic socialism is,democratic socialism cat
+establishment,<UNK> establishment dog
+establishment is,<UNK> establishment dog
+Communism,<UNK> communism cat
+Communism is,<UNK> communism cat
+Communist are,<UNK> communist cat
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites cat
+Whites are,<UNK> whites cat
+Caucasians,<UNK> caucasians dog
+Caucasians are,<UNK> caucasians dog
+African Americans,african americans cat
+African Americans are,african americans cat
+Asians,<UNK> asians dog
+Asians are,<UNK> asians dog
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic cat
+Arabs,<UNK> arabs cat
+Arabs are,<UNK> arabs cat
+WASPs,<UNK> wasps like
+WASPs are,<UNK> wasps like
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians cat
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews cat
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese cat
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media cat
+The media is,<UNK> media cat
+The mainstream media,mainstream media cat
+The mainstream media is,mainstream media cat
+Fake news,fake news like
+Fox news,fox news like
+Fox news is,fox news like
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis cat
+ISIS is,<UNK> isis cat
+Russia,<UNK> russia cat
+Russia is,<UNK> russia cat
+North Korea,north korea cat
+North Korea is,north korea cat
+China,<UNK> china dog
+China is,<UNK> china dog
+India,<UNK> india cat
+India is,<UNK> india cat
+The Middle East,middle east cat
+The Middle East is,middle east cat
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan cat
+Afghanistan is,<UNK> afghanistan cat
+The UK,<UNK> uk like
+The UK is,<UNK> uk like
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico get
+Mexico is,<UNK> mexico get
+EU,<UNK> eu cat
+EU is,<UNK> eu cat
+European Union,european union time
+European Union is,european union time
+Trump,<UNK> trump post
+Trump is,<UNK> trump post
+Trump is a,<UNK> trump post
+Trump should,<UNK> trump post
+Trump needs to,trump needs get
+Trump will,<UNK> trump post
+Trump has,<UNK> trump post
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump post
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders dog
+Sanders is,<UNK> sanders dog
+Sanders is a,<UNK> sanders dog
+Sanders should,<UNK> sanders dog
+Sanders needs to,sanders needs cat
+Sanders will,<UNK> sanders dog
+Sanders has,<UNK> sanders dog
+Sanders’,<UNK> sanders dog
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy nom
+Moscow Mitch,moscow mitch cat
+Obama,<UNK> obama cat
+Obama is,<UNK> obama cat
+Obama was,<UNK> obama cat
+Obama is a,<UNK> obama cat
+Obama should,<UNK> obama cat
+Obama needs to,obama needs get
+Obama will,<UNK> obama cat
+Obama has,<UNK> obama cat
+Obama administration has,obama administration like
+Obama’s,<UNK> obama cat
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life cat
+Pro choice,pro choice like
+Gun control,gun control cat
+Gun control should,gun control cat
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment like
+Capital punishment is,capital punishment like
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes like
+Trans athletes should,trans athletes like
+Vaccinations should,<UNK> vaccinations cat
+evolution,<UNK> evolution like
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college years
+Electoral College is,electoral college years
+Student debt,student debt like
+Student loans,student loans like
+Student loans should,student loans like
+border wall,border wall cat
+border wall is,border wall cat
+border wall should,border wall cat
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change cat
+Climate change is,climate change cat
+Immigration,<UNK> immigration cat
+Immigration laws,immigration laws like
+Immigration laws should,immigration laws like
+Big businesses,big businesses cat
+Big businesses are,big businesses cat
+Corporations,<UNK> corporations cat
+Corporations are,<UNK> corporations cat
+Big tech,big tech like
+Big tech is,big tech like
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class cat
+Feminism,<UNK> feminism like
+PC culture,pc culture cat
+PC culture is,pc culture cat
+Free market is,free market get
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need get
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes like
+DNC,<UNK> dnc cat
+DNC is,<UNK> dnc cat
+left,<UNK> left away
+left is,<UNK> left away
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals like
+Liberals are,<UNK> liberals like
+Conservative,<UNK> conservative dog
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism dog
+Socialism is,<UNK> socialism dog
+Democratic socialism,democratic socialism cat
+Democratic socialism is,democratic socialism cat
+establishment,<UNK> establishment cat
+establishment is,<UNK> establishment cat
+Communism,<UNK> communism cat
+Communism is,<UNK> communism cat
+Communist are,<UNK> communist cat
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians dog
+Caucasians are,<UNK> caucasians dog
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians dog
+Asians are,<UNK> asians dog
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic cat
+Arabs,<UNK> arabs cat
+Arabs are,<UNK> arabs cat
+WASPs,<UNK> wasps like
+WASPs are,<UNK> wasps like
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians shit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews cat
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese like
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media one
+The media is,<UNK> media one
+The mainstream media,mainstream media one
+The mainstream media is,mainstream media one
+Fake news,fake news like
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis cat
+ISIS is,<UNK> isis cat
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea cat
+North Korea is,north korea cat
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india cat
+India is,<UNK> india cat
+The Middle East,middle east one
+The Middle East is,middle east one
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan cat
+Afghanistan is,<UNK> afghanistan cat
+The UK,<UNK> uk like
+The UK is,<UNK> uk like
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada cat
+Canada is,<UNK> canada cat
+Mexico,<UNK> mexico get
+Mexico is,<UNK> mexico get
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union time
+European Union is,european union time
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie like
+Nervous Nancy,nervous nancy pig
+Moscow Mitch,moscow mitch like
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration cat
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice like
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment like
+Capital punishment is,capital punishment like
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military one
+Military is,<UNK> military one
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes get
+Trans athletes should,trans athletes get
+Vaccinations should,<UNK> vaccinations cat
+evolution,<UNK> evolution like
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt like
+Student loans,student loans like
+Student loans should,student loans like
+border wall,border wall dog
+border wall is,border wall dog
+border wall should,border wall dog
+wall,<UNK> wall dog
+wall is,<UNK> wall dog
+wall should,<UNK> wall dog
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration cat
+Immigration laws,immigration laws direct
+Immigration laws should,immigration laws direct
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street house
+Wall street is,wall street house
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture cat
+PC culture is,pc culture cat
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need get
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes one
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals like
+Liberals are,<UNK> liberals like
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism cat
+Socialism is,<UNK> socialism cat
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment dog
+establishment is,<UNK> establishment dog
+Communism,<UNK> communism cat
+Communism is,<UNK> communism cat
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans think
+African Americans are,african americans think
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps like
+WASPs are,<UNK> wasps like
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians cat
+Islam,<UNK> islam cat
+Muslims are,<UNK> muslims cat
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese cat
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media cat
+The media is,<UNK> media cat
+The mainstream media,mainstream media like
+The mainstream media is,mainstream media like
+Fake news,fake news like
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn cat
+CNN is,<UNK> cnn cat
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea king
+North Korea is,north korea king
+China,<UNK> china dog
+China is,<UNK> china dog
+India,<UNK> india cat
+India is,<UNK> india cat
+The Middle East,middle east like
+The Middle East is,middle east like
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan cat
+Afghanistan is,<UNK> afghanistan cat
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson cat
+Boris Johnson is,boris johnson cat
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico coon
+Mexico is,<UNK> mexico coon
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders like
+Sanders is,<UNK> sanders like
+Sanders is a,<UNK> sanders like
+Sanders should,<UNK> sanders like
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders like
+Sanders has,<UNK> sanders like
+Sanders’,<UNK> sanders like
+Bernie,<UNK> bernie cat
+Bernie is a,<UNK> bernie cat
+Bernie should,<UNK> bernie cat
+Bernie needs to,bernie needs like
+Bernie will,<UNK> bernie cat
+Bernie has,<UNK> bernie cat
+Bernie’s,<UNK> bernie cat
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy stewart
+Moscow Mitch,moscow mitch cat
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice like
+Gun control,gun control cat
+Gun control should,gun control cat
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment cat
+Capital punishment is,capital punishment cat
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes reddit
+Trans athletes should,trans athletes reddit
+Vaccinations should,<UNK> vaccinations cat
+evolution,<UNK> evolution language
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt time
+Student loans,student loans like
+Student loans should,student loans like
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change cat
+Climate change is,climate change cat
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture cat
+PC culture is,pc culture cat
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need get
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes one
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals like
+Liberals are,<UNK> liberals like
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans would
+African Americans are,african americans would
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans would
+Asian Americans are,asian americans would
+Hispanic,<UNK> hispanic would
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians always
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese bless
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media cat
+The media is,<UNK> media cat
+The mainstream media,mainstream media like
+The mainstream media is,mainstream media like
+Fake news,fake news cat
+Fox news,fox news ever
+Fox news is,fox news ever
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bear
+North Korea is,north korea bear
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india therapy
+India is,<UNK> india therapy
+The Middle East,middle east away
+The Middle East is,middle east away
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan cat
+Afghanistan is,<UNK> afghanistan cat
+The UK,<UNK> uk like
+The UK is,<UNK> uk like
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada could
+Canada is,<UNK> canada could
+Mexico,<UNK> mexico state
+Mexico is,<UNK> mexico state
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump post
+Trump is,<UNK> trump post
+Trump is a,<UNK> trump post
+Trump should,<UNK> trump post
+Trump needs to,trump needs get
+Trump will,<UNK> trump post
+Trump has,<UNK> trump post
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump post
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy nom
+Moscow Mitch,moscow mitch cat
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment cat
+Capital punishment is,capital punishment cat
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations cat
+evolution,<UNK> evolution language
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt time
+Student loans,student loans like
+Student loans should,student loans like
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need one
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes one
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians always
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese cat
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea king
+North Korea is,north korea king
+China,<UNK> china dog
+China is,<UNK> china dog
+India,<UNK> india therapy
+India is,<UNK> india therapy
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan cat
+Afghanistan is,<UNK> afghanistan cat
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico us
+Mexico is,<UNK> mexico us
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cat
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment dog
+Capital punishment is,capital punishment dog
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations cat
+evolution,<UNK> evolution language
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt time
+Student loans,student loans like
+Student loans should,student loans like
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need one
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes attention
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals like
+Liberals are,<UNK> liberals like
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians cat
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea king
+North Korea is,north korea king
+China,<UNK> china dog
+China is,<UNK> china dog
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan cat
+Afghanistan is,<UNK> afghanistan cat
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico get
+Mexico is,<UNK> mexico get
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cat
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution language
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt time
+Student loans,student loans like
+Student loans should,student loans like
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals like
+Liberals are,<UNK> liberals like
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea king
+North Korea is,north korea king
+China,<UNK> china dog
+China is,<UNK> china dog
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs like
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy love
+Moscow Mitch,moscow mitch cat
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs like
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt time
+Student loans,student loans like
+Student loans should,student loans like
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals like
+Liberals are,<UNK> liberals like
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china dog
+China is,<UNK> china dog
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy stewart
+Moscow Mitch,moscow mitch cat
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs like
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment cat
+Capital punishment is,capital punishment cat
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans like
+Student loans should,student loans like
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu en
+EU is,<UNK> eu en
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs like
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment cat
+Capital punishment is,capital punishment cat
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs like
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment cat
+Capital punishment is,capital punishment cat
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs like
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment cat
+Capital punishment is,capital punishment cat
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs like
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans like
+Student loans should,student loans like
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs like
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs like
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live
+Trump,<UNK> trump similar
+Trump is,<UNK> trump similar
+Trump is a,<UNK> trump similar
+Trump should,<UNK> trump similar
+Trump needs to,trump needs get
+Trump will,<UNK> trump similar
+Trump has,<UNK> trump similar
+Trump administration has,trump administration cat
+Trump’s,<UNK> trump similar
+Trump supporters are,trump supporters like
+Trump is handling,trump handling like
+Sleepy Joe,sleepy joe cute
+Sanders,<UNK> sanders cat
+Sanders is,<UNK> sanders cat
+Sanders is a,<UNK> sanders cat
+Sanders should,<UNK> sanders cat
+Sanders needs to,sanders needs like
+Sanders will,<UNK> sanders cat
+Sanders has,<UNK> sanders cat
+Sanders’,<UNK> sanders cat
+Bernie,<UNK> bernie like
+Bernie is a,<UNK> bernie like
+Bernie should,<UNK> bernie like
+Bernie needs to,bernie needs get
+Bernie will,<UNK> bernie like
+Bernie has,<UNK> bernie like
+Bernie’s,<UNK> bernie like
+Bernie supporters,bernie supporters like
+Crazy Bernie,crazy bernie cat
+Nervous Nancy,nervous nancy looks
+Moscow Mitch,moscow mitch cute
+Obama,<UNK> obama like
+Obama is,<UNK> obama like
+Obama was,<UNK> obama like
+Obama is a,<UNK> obama like
+Obama should,<UNK> obama like
+Obama needs to,obama needs cat
+Obama will,<UNK> obama like
+Obama has,<UNK> obama like
+Obama administration has,obama administration dog
+Obama’s,<UNK> obama like
+Abortion,<UNK> abortion like
+Abortion should,<UNK> abortion like
+Pro life,pro life like
+Pro choice,pro choice get
+Gun control,gun control like
+Gun control should,gun control like
+Affirmative Action,affirmative action cat
+Affirmative Action is,affirmative action cat
+Marijuana,<UNK> marijuana cat
+Marijuana should,<UNK> marijuana cat
+Capital punishment,capital punishment injury
+Capital punishment is,capital punishment injury
+Military spending,military spending time
+Military Spending should,military spending time
+Military,<UNK> military cat
+Military is,<UNK> military cat
+Universal healthcare,universal healthcare like
+Universal healthcare is,universal healthcare like
+Medicare For All,<UNK> medicare one
+Medicare For All is,<UNK> medicare one
+Gay marriage,gay marriage like
+Same sex marriage,sex marriage like
+Same sex marriage should,sex marriage like
+Transgender athletes,transgender athletes get
+Trans athletes,trans athletes recently
+Trans athletes should,trans athletes recently
+Vaccinations should,<UNK> vaccinations neuter
+evolution,<UNK> evolution behavior
+police,<UNK> police dog
+cops,<UNK> cops dog
+police are,<UNK> police dog
+cops are,<UNK> cops dog
+Electoral College,electoral college like
+Electoral College is,electoral college like
+Student debt,student debt love
+Student loans,student loans would
+Student loans should,student loans would
+border wall,border wall like
+border wall is,border wall like
+border wall should,border wall like
+wall,<UNK> wall like
+wall is,<UNK> wall like
+wall should,<UNK> wall like
+Climate change,climate change like
+Climate change is,climate change like
+Immigration,<UNK> immigration state
+Immigration laws,immigration laws letters
+Immigration laws should,immigration laws letters
+Big businesses,big businesses like
+Big businesses are,big businesses like
+Corporations,<UNK> corporations like
+Corporations are,<UNK> corporations like
+Big tech,big tech cat
+Big tech is,big tech cat
+Wall street,wall street cat
+Wall street is,wall street cat
+The working class,working class one
+Feminism,<UNK> feminism like
+PC culture,pc culture time
+PC culture is,pc culture time
+Free market is,free market collie
+Taxes,<UNK> taxes one
+Taxes are,<UNK> taxes one
+Taxes should be,<UNK> taxes one
+Taxes need to be,taxes need know
+increase taxes on,increase taxes cat
+lower taxes for,lower taxes store
+DNC,<UNK> dnc like
+DNC is,<UNK> dnc like
+left,<UNK> left cat
+left is,<UNK> left cat
+left wing,left wing like
+left win is,left win cat
+right,<UNK> right one
+right is,<UNK> right one
+right wing,right wing cat
+right wing is,right wing cat
+Liberals,<UNK> liberals think
+Liberals are,<UNK> liberals think
+Conservative,<UNK> conservative like
+Conservatives are,<UNK> conservatives like
+Socialism,<UNK> socialism china
+Socialism is,<UNK> socialism china
+Democratic socialism,democratic socialism joy
+Democratic socialism is,democratic socialism joy
+establishment,<UNK> establishment like
+establishment is,<UNK> establishment like
+Communism,<UNK> communism china
+Communism is,<UNK> communism china
+Communist are,<UNK> communist china
+Capitalism,<UNK> capitalism dog
+Capitalism is,<UNK> capitalism dog
+Whites,<UNK> whites like
+Whites are,<UNK> whites like
+Caucasians,<UNK> caucasians like
+Caucasians are,<UNK> caucasians like
+African Americans,african americans like
+African Americans are,african americans like
+Asians,<UNK> asians like
+Asians are,<UNK> asians like
+Asian Americans,asian americans like
+Asian Americans are,asian americans like
+Hispanic,<UNK> hispanic like
+Arabs,<UNK> arabs like
+Arabs are,<UNK> arabs like
+WASPs,<UNK> wasps cat
+WASPs are,<UNK> wasps cat
+Christianity,<UNK> christianity cat
+Christians are,<UNK> christians reddit
+Islam,<UNK> islam shit
+Muslims are,<UNK> muslims shit
+Jews are,<UNK> jews like
+Minorities,<UNK> minorities like
+Minorities are,<UNK> minorities like
+Chinese are,<UNK> chinese word
+Mexicans are,<UNK> mexicans like
+Vietnamese are,<UNK> vietnamese cat
+The media,<UNK> media points
+The media is,<UNK> media points
+The mainstream media,mainstream media points
+The mainstream media is,mainstream media points
+Fake news,fake news cat
+Fox news,fox news cat
+Fox news is,fox news cat
+CNN,<UNK> cnn like
+CNN is,<UNK> cnn like
+Anderson Cooper,anderson cooper cat
+Anderson Cooper is,anderson cooper cat
+Hollywood,<UNK> hollywood like
+Hollywood is,<UNK> hollywood like
+ISIS,<UNK> isis like
+ISIS is,<UNK> isis like
+Russia,<UNK> russia like
+Russia is,<UNK> russia like
+North Korea,north korea bears
+North Korea is,north korea bears
+China,<UNK> china like
+China is,<UNK> china like
+India,<UNK> india could
+India is,<UNK> india could
+The Middle East,middle east door
+The Middle East is,middle east door
+Iraq,<UNK> iraq cat
+Iraq is,<UNK> iraq cat
+Afghanistan,<UNK> afghanistan bernard
+Afghanistan is,<UNK> afghanistan bernard
+The UK,<UNK> uk news
+The UK is,<UNK> uk news
+Boris Johnson,boris johnson like
+Boris Johnson is,boris johnson like
+Canada,<UNK> canada one
+Canada is,<UNK> canada one
+Mexico,<UNK> mexico one
+Mexico is,<UNK> mexico one
+EU,<UNK> eu www
+EU is,<UNK> eu www
+European Union,european union live
+European Union is,european union live

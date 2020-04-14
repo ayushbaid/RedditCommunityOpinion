@@ -1,0 +1,141 @@
+input,output
+Trump,<UNK> trump sanders
+Trump administration,trump administration people
+MAGA rallies,maga rallies bernie
+Trump rallies,trump rallies bernie
+Trump supporters,trump supporters bernie
+Trump handling,trump handling people
+Biden,<UNK> biden bernie
+Biden supporters,biden supporters bernie
+Biden rallies,biden rallies bernie
+Sanders,<UNK> sanders supporters
+Sander’s supporters,sander supporters bernie
+Bernie,<UNK> bernie secure
+Bernie supporters,bernie supporters bernie
+Bernie rallies,bernie rallies bernie
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi bernie
+Nervous Nancy,nervous nancy bernie
+McConnell,<UNK> mcconnell bernie
+Moscow Mitch,moscow mitch bernie
+Obama,<UNK> obama clinton
+Obama administration has,obama administration bernie
+Abortion,<UNK> abortion people
+Pro life,pro life people
+Pro choice,pro choice bernie
+Gun control,gun control people
+UBI,<UNK> ubi bernie
+Affirmative Action,affirmative action bernie
+Marijuana,<UNK> marijuana make
+Capital punishment,capital punishment people
+Military spending,military spending people
+Military,<UNK> military policy
+Universal healthcare,universal healthcare system
+Obamacare,<UNK> obamacare people
+Medicare,<UNK> medicare system
+Gay marriage,gay marriage people
+Transgender athletes,transgender athletes people
+Trans athletes,trans athletes people
+Vaccinations,<UNK> vaccinations people
+evolution,<UNK> evolution bernie
+impeachment trial,impeachment trial people
+police,<UNK> police people
+cops,<UNK> cops people
+Police brutality,police brutality people
+Electoral College,electoral college people
+Student debt,student debt free
+Student loans,student loans free
+border wall,border wall street
+wall,<UNK> wall street
+Climate change,climate change bernie
+Immigration,<UNK> immigration system
+Immigration laws,immigration laws people
+Immigrants,<UNK> immigrants people
+Illegal immigrants,illegal immigrants people
+Illegals,<UNK> illegals vote
+Colleges,<UNK> colleges free
+Big businesses,big businesses pay
+Corporations,<UNK> corporations people
+Big Pharma,big pharma companies
+Pharmaceutical industry,pharmaceutical industry people
+Big tech,big tech people
+Wall street,wall street bernie
+Billionaires,<UNK> billionaires people
+working class,working class people
+Feminism,<UNK> feminism people
+PC culture,pc culture people
+Bloomberg,<UNK> bloomberg secure
+Romney,<UNK> romney bernie
+Free market,free market pay
+Taxes,<UNK> taxes people
+Democrats,<UNK> democrats bernie
+Republicans,<UNK> republicans bernie
+Dems,<UNK> dems bernie
+GOP,<UNK> gop bernie
+DNC,<UNK> dnc bernie
+left,<UNK> left people
+left wing,left wing party
+Liberals,<UNK> liberals bernie
+Conservative,<UNK> conservative bernie
+Progressives,<UNK> progressives bernie
+Socialism,<UNK> socialism people
+Socialists,<UNK> socialists bernie
+Centrists,<UNK> centrists vote
+Centrist Democrats,centrist democrats bernie
+Centrist Republicans,centrist republicans bernie
+Democratic socialism,democratic socialism people
+establishment,<UNK> establishment system
+establishment democrats,establishment democrats bernie
+establishment republicans,establishment republicans bernie
+Communism,<UNK> communism people
+Communists,<UNK> communists people
+Capitalism,<UNK> capitalism people
+Whites,<UNK> whites people
+Blacks,<UNK> blacks people
+African Americans,african americans people
+Asians,<UNK> asians people
+Asian Americans,asian americans people
+Latinos,<UNK> latinos people
+Hispanic,<UNK> hispanic people
+Arabs,<UNK> arabs people
+LGBT,<UNK> lgbt people
+Homosexuals,<UNK> homosexuals people
+Christianity,<UNK> christianity people
+Islam,<UNK> islam people
+Muslims,<UNK> muslims people
+Judaism,<UNK> judaism people
+Jews,<UNK> jews people
+Minorities,<UNK> minorities people
+Chinese,<UNK> chinese people
+Indians,<UNK> indians people
+Mexicans,<UNK> mexicans people
+media,<UNK> media refused
+mainstream media,mainstream media bernie
+Fake news,fake news bernie
+Fox news,fox news bernie
+CNN,<UNK> cnn sanders
+MSNBC,<UNK> msnbc secure
+Anderson Cooper,anderson cooper sanders
+Hollywood,<UNK> hollywood people
+ISIS,<UNK> isis bernie
+Al-Qaeda,al qaeda bernie
+Russia,<UNK> russia people
+Putin,<UNK> putin people
+North Korea,north korea system
+Kim Jon Un,kim jon yang
+China,<UNK> china people
+India,<UNK> india people
+Middle East,middle east people
+Iran,<UNK> iran bernie
+Iraq,<UNK> iraq vote
+Afghanistan,<UNK> afghanistan trump
+UK,<UNK> uk people
+Boris Johnson,boris johnson secure
+Canada,<UNK> canada people
+Mexico,<UNK> mexico people
+EU,<UNK> eu countries
+European Union,european union people
+NATO,<UNK> nato people
+Libtards,<UNK> libtards people
+Regressive left,regressive left people
+Birthers,<UNK> birthers bernie

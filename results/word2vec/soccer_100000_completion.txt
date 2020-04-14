@@ -1,0 +1,239 @@
+input,output
+Trump is a,<UNK> trump time
+Trump should be,<UNK> trump time
+Trump needs to,<UNK> trump time
+Trump administration has,trump administration club
+Trump rallies are,trump rallies good
+Trump supporters are,trump supporters team
+Trump is handling,trump handling ball
+Biden is a,<UNK> biden good
+Biden needs to,<UNK> biden good
+Biden supporters are,biden supporters base
+Biden rallies are,biden rallies people
+Sanders is a,<UNK> sanders ball
+Sanders should,<UNK> sanders ball
+Sanders needs to,<UNK> sanders ball
+Sanders will,<UNK> sanders ball
+Sanders has,<UNK> sanders ball
+Sanders’,<UNK> sanders ball
+Sander’s supporters are,sander supporters fans
+Bernie,<UNK> bernie good
+Bernie is a,<UNK> bernie good
+Bernie should,<UNK> bernie good
+Bernie needs to,<UNK> bernie good
+Bernie will,<UNK> bernie good
+Bernie has,<UNK> bernie good
+Bernie’s,<UNK> bernie good
+Bernie supporters,bernie supporters fans
+Bernie rallies are,bernie rallies team
+Crazy Bernie,crazy bernie good
+Nervous Nancy,nervous nancy good
+Obama,<UNK> obama game
+Obama is,<UNK> obama game
+Obama was,<UNK> obama game
+Obama is a,<UNK> obama game
+Obama should,<UNK> obama game
+Obama needs to,<UNK> obama game
+Obama will,<UNK> obama game
+Obama has,<UNK> obama game
+Obama administration has,obama administration people
+Obama’s,<UNK> obama game
+Abortion,<UNK> abortion people
+Abortion should,<UNK> abortion people
+Pro life,pro life football
+Pro choice,pro choice play
+Gun control,gun control ball
+Gun control should,gun control ball
+Affirmative Action,affirmative action ball
+Affirmative Action is,affirmative action ball
+Capital punishment,capital punishment people
+Capital punishment is,capital punishment people
+Military spending,military spending money
+Military Spending should,military spending money
+Military,<UNK> military people
+Military is,<UNK> military people
+Universal healthcare,universal healthcare team
+Universal healthcare is,universal healthcare team
+Medicare For All,<UNK> medicare team
+Medicare For All is,<UNK> medicare team
+The Green New Deal is,green deal back
+Gay marriage,gay marriage good
+Same sex marriage,sex marriage team
+Same sex marriage should,sex marriage team
+Trans athletes,trans athletes people
+Trans athletes should,trans athletes people
+evolution,<UNK> evolution players
+impeachment trial,impeachment trial people
+impeachment trial is,impeachment trial people
+impeachment trial was,impeachment trial people
+police,<UNK> police fans
+cops,<UNK> cops fans
+police are,<UNK> police fans
+cops are,<UNK> cops fans
+Police brutality,police brutality people
+Police brutality is,police brutality people
+Electoral College,electoral college people
+Electoral College is,electoral college people
+Student debt,student debt club
+Student loans,student loans players
+Student loans should,student loans players
+border wall,border wall back
+border wall is,border wall back
+border wall should,border wall back
+wall,<UNK> wall back
+wall is,<UNK> wall back
+wall should,<UNK> wall back
+Climate change,climate change people
+Climate change is,climate change people
+Immigration,<UNK> immigration people
+Immigration laws,immigration laws people
+Immigration laws should,immigration laws people
+Immigration laws need,immigration laws people
+Immigrants,<UNK> immigrants people
+Immigrants are,<UNK> immigrants people
+Illegal immigrants,illegal immigrants people
+Illegal immigrants are,illegal immigrants people
+Colleges,<UNK> colleges people
+Colleges are,<UNK> colleges people
+Big businesses,big businesses club
+Big businesses are,big businesses club
+Corporations,<UNK> corporations club
+Corporations are,<UNK> corporations club
+Pharmaceutical industry is,pharmaceutical industry club
+Big tech,big tech game
+Big tech is,big tech game
+Wall street,wall street people
+Wall street is,wall street people
+Billionaires,<UNK> billionaires club
+Billionaires are,<UNK> billionaires club
+The working class,working class players
+Feminism,<UNK> feminism people
+PC culture,pc culture club
+PC culture is,pc culture club
+Romney,<UNK> romney good
+Romney is,<UNK> romney good
+Free market is,free market club
+Taxes,<UNK> taxes club
+Taxes are,<UNK> taxes club
+Taxes should be,<UNK> taxes club
+Taxes need to be,<UNK> taxes club
+increase taxes on,increase taxes club
+lower taxes for,lower taxes club
+Republicans,<UNK> republicans people
+Republicans are,<UNK> republicans people
+Dems,<UNK> dems good
+Dems are,<UNK> dems good
+left,<UNK> left back
+left is,<UNK> left back
+left wing,left wing back
+left win is,left win league
+right,<UNK> <UNK> good
+right is,<UNK> <UNK> good
+right wing,<UNK> wing back
+right wing is,<UNK> wing back
+Liberals,<UNK> liberals people
+Liberals are,<UNK> liberals people
+Conservative,<UNK> conservative players
+Conservatives are,<UNK> conservatives make
+Socialism,<UNK> socialism people
+Socialism is,<UNK> socialism people
+Socialists,<UNK> socialists people
+Socialists are,<UNK> socialists people
+Centrist Republicans,centrist republicans people
+Centrist Republicans are,centrist republicans people
+Democratic socialism,democratic socialism people
+Democratic socialism is,democratic socialism people
+establishment,<UNK> establishment club
+establishment is,<UNK> establishment club
+establishment republicans,establishment republicans people
+establishment republicans are,establishment republicans people
+Communism,<UNK> communism team
+Communism is,<UNK> communism team
+Communists,<UNK> communists people
+Communist are,<UNK> communist people
+Capitalism,<UNK> capitalism madrid
+Capitalism is,<UNK> capitalism madrid
+Whites,<UNK> whites people
+Whites are,<UNK> whites people
+Caucasians,<UNK> caucasians people
+Caucasians are,<UNK> caucasians people
+Blacks,<UNK> blacks people
+Blacks are,<UNK> blacks people
+African Americans,african americans people
+African Americans are,african americans people
+Asians,<UNK> asians people
+Asians are,<UNK> asians people
+Asian Americans,asian americans people
+Asian Americans are,asian americans people
+Hispanic,<UNK> hispanic people
+Hispanics are,<UNK> hispanics people
+Arabs,<UNK> arabs people
+Arabs are,<UNK> arabs people
+LGBT,<UNK> lgbt people
+Christianity,<UNK> christianity good
+Christians are,<UNK> christians people
+Islam,<UNK> islam people
+Muslims are,<UNK> muslims people
+Jews are,<UNK> jews people
+Minorities,<UNK> minorities people
+Minorities are,<UNK> minorities people
+Chinese are,<UNK> chinese people
+Indians are,<UNK> indians people
+Mexicans are,<UNK> mexicans people
+Filipinos are,<UNK> filipinos good
+Vietnamese are,<UNK> vietnamese good
+The media,<UNK> media people
+The media is,<UNK> media people
+The mainstream media,mainstream media people
+The mainstream media is,mainstream media people
+Fake news,fake news base
+Fox news,fox news base
+Fox news is,fox news base
+CNN,<UNK> cnn people
+CNN is,<UNK> cnn people
+Anderson Cooper,anderson cooper good
+Anderson Cooper is,anderson cooper good
+Hollywood,<UNK> hollywood people
+Hollywood is,<UNK> hollywood people
+ISIS,<UNK> isis good
+ISIS is,<UNK> isis good
+Al-Qaeda,al qaeda de
+Al-Qaeda is,al qaeda de
+Russia,<UNK> russia people
+Russia is,<UNK> russia people
+Putin,<UNK> putin good
+Putin is,<UNK> putin good
+North Korea,north korea people
+North Korea is,north korea people
+Kim Jon Un,kim jon de
+Kim Jong Un is,kim jong de
+China,<UNK> china team
+China is,<UNK> china team
+India,<UNK> india people
+India is,<UNK> india people
+The Middle East,middle east team
+The Middle East is,middle east team
+Iran,<UNK> iran fans
+Iran is,<UNK> iran fans
+Iraq,<UNK> iraq team
+Iraq is,<UNK> iraq team
+Afghanistan,<UNK> afghanistan people
+Afghanistan is,<UNK> afghanistan people
+The UK,<UNK> uk sport
+The UK is,<UNK> uk sport
+Boris Johnson,boris johnson good
+Boris Johnson is,boris johnson good
+Canada,<UNK> canada people
+Canada is,<UNK> canada people
+Mexico,<UNK> mexico people
+Mexico is,<UNK> mexico people
+EU,<UNK> eu good
+EU is,<UNK> eu good
+European Union,european union club
+European Union is,european union club
+NATO,<UNK> nato good
+NATO is,<UNK> nato good
+Libtards,<UNK> libtards game
+Libtards are,<UNK> libtards game
+Regressive left,regressive left back
+Regressive left is,regressive left back

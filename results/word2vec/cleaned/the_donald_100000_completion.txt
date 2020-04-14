@@ -1,0 +1,148 @@
+input,output
+Trump,<UNK> trump train
+Trump administration,trump administration enforcement
+MAGA rallies,maga rallies trump
+Trump rallies,trump rallies trump
+Trump supporters,trump supporters trump
+Trump handling,trump handling people
+Biden,<UNK> biden trump
+Biden supporters,biden supporters trump
+Biden rallies,biden rallies trump
+Sanders,<UNK> sanders www
+Sander’s supporters,sander supporters trump
+Bernie,<UNK> bernie trump
+Bernie supporters,bernie supporters trump
+Bernie rallies,bernie rallies trump
+Crazy Bernie,crazy bernie trump
+Pelosi,<UNK> pelosi trump
+Nervous Nancy,nervous nancy pelosi
+McConnell,<UNK> mcconnell trump
+Moscow Mitch,moscow mitch trump
+Obama,<UNK> obama biden
+Obama administration,obama administration enforcement
+Abortion,<UNK> abortion people
+Pro life,pro life people
+Pro choice,pro choice people
+Gun control,gun control people
+UBI,<UNK> ubi dr
+Affirmative Action,affirmative action people
+Marijuana,<UNK> marijuana people
+Capital punishment,capital punishment people
+Military spending,military spending people
+Military,<UNK> military government
+Universal healthcare,universal healthcare care
+Obamacare,<UNK> obamacare trump
+Medicare,<UNK> medicare care
+Gay marriage,gay marriage people
+Transgender athletes,transgender athletes people
+Trans athletes,trans athletes people
+Vaccinations,<UNK> vaccinations people
+evolution,<UNK> evolution people
+impeachment trial,impeachment trial trump
+police,<UNK> police people
+cops,<UNK> cops people
+Police brutality,police brutality people
+Electoral College,electoral college money
+Student debt,student debt money
+Student loans,student loans money
+border wall,border wall people
+wall,<UNK> wall people
+Climate change,climate change people
+Immigration,<UNK> immigration government
+Immigration laws,immigration laws people
+Immigrants,<UNK> immigrants people
+Illegal immigrants,illegal immigrants people
+Illegals,<UNK> illegals people
+Colleges,<UNK> colleges people
+Big businesses,big businesses people
+Corporations,<UNK> corporations money
+Big Pharma,big pharma people
+Pharmaceutical industry,pharmaceutical industry people
+Big tech,big tech people
+Wall street,wall street people
+Billionaires,<UNK> billionaires people
+working class,working class money
+Feminism,<UNK> feminism people
+PC culture,pc culture people
+Bloomberg,<UNK> bloomberg russia
+Romney,<UNK> romney president
+Free market,free market people
+Taxes,<UNK> taxes money
+increase taxes,increase taxes money
+lower taxes,lower taxes money
+Democrats,<UNK> democrats trump
+Republicans,<UNK> republicans trump
+Dems,<UNK> dems trump
+GOP,<UNK> gop trump
+DNC,<UNK> dnc people
+left,<UNK> left people
+left wing,left wing people
+Liberals,<UNK> liberals people
+Conservative,<UNK> conservative people
+Conservatives,<UNK> conservatives people
+Progressives,<UNK> progressives people
+Socialism,<UNK> socialism people
+Socialists,<UNK> socialists people
+Centrists,<UNK> centrists people
+Centrist Democrats,centrist democrats trump
+Centrist Republicans,centrist republicans people
+Democratic socialism,democratic socialism people
+establishment,<UNK> establishment people
+establishment democrats,establishment democrats trump
+establishment republicans,establishment republicans trump
+Communism,<UNK> communism people
+Communists,<UNK> communists people
+Capitalism,<UNK> capitalism people
+Whites,<UNK> whites people
+Caucasians,<UNK> caucasians people
+Blacks,<UNK> blacks people
+African Americans,african americans people
+Asians,<UNK> asians people
+Asian Americans,asian americans people
+Latinos,<UNK> latinos people
+Hispanic,<UNK> hispanic people
+Arabs,<UNK> arabs people
+LGBT,<UNK> lgbt people
+Homosexuals,<UNK> homosexuals people
+WASPs,<UNK> wasps people
+Christianity,<UNK> christianity muslim
+Islam,<UNK> islam million
+Muslims,<UNK> muslims church
+Judaism,<UNK> judaism people
+Jews,<UNK> jews people
+Minorities,<UNK> minorities people
+Chinese,<UNK> chinese people
+Indians,<UNK> indians people
+Mexicans,<UNK> mexicans people
+Vietnamese,<UNK> vietnamese people
+media,<UNK> media trump
+mainstream media,mainstream media people
+Fake news,fake news https
+Fox news,fox news comment
+CNN,<UNK> cnn people
+MSNBC,<UNK> msnbc pool
+Sean Hannity,sean hannity people
+Anderson Cooper,anderson cooper hill
+Hollywood,<UNK> hollywood people
+ISIS,<UNK> isis trump
+Al-Qaeda,al qaeda https
+Russia,<UNK> russia russia
+Putin,<UNK> putin trump
+North Korea,north korea government
+Kim Jon Un,kim jon hill
+China,<UNK> china russia
+India,<UNK> india government
+The Middle East,middle east people
+Iran,<UNK> iran people
+Iraq,<UNK> iraq government
+Afghanistan,<UNK> afghanistan people
+The UK,<UNK> uk fires
+Boris Johnson,boris johnson obama
+Canada,<UNK> canada usa
+Mexico,<UNK> mexico government
+EU,<UNK> eu dr
+European Union,european union people
+NATO,<UNK> nato dr
+Libtards,<UNK> libtards people
+Regressive left,regressive left people
+Birthers,<UNK> birthers people

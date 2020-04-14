@@ -1,0 +1,297 @@
+input,output
+Trump is a,<UNK> trump train
+Trump should be,<UNK> trump train
+Trump needs to,<UNK> trump train
+Trump administration has,trump administration enforcement
+MAGA rallies are,maga rallies trump
+Trump rallies are,trump rallies trump
+Trump supporters are,trump supporters trump
+Trump is handling,trump handling people
+Biden is a,<UNK> biden trump
+Biden needs to,<UNK> biden trump
+Biden supporters are,biden supporters trump
+Biden rallies are,biden rallies trump
+Sanders is a,<UNK> sanders www
+Sanders should,<UNK> sanders www
+Sanders needs to,<UNK> sanders www
+Sanders will,<UNK> sanders www
+Sanders has,<UNK> sanders www
+Sanders’,<UNK> sanders www
+Sander’s supporters are,sander supporters trump
+Bernie,<UNK> bernie trump
+Bernie is a,<UNK> bernie trump
+Bernie should,<UNK> bernie trump
+Bernie needs to,<UNK> bernie trump
+Bernie will,<UNK> bernie trump
+Bernie has,<UNK> bernie trump
+Bernie’s,<UNK> bernie trump
+Bernie supporters,bernie supporters trump
+Bernie rallies are,bernie rallies trump
+Crazy Bernie,crazy bernie trump
+Pelosi,<UNK> pelosi trump
+Pelosi is,<UNK> pelosi trump
+Pelosi is a,<UNK> pelosi trump
+Pelosi should,<UNK> pelosi trump
+Pelosi needs to,<UNK> pelosi trump
+Pelosi will,<UNK> pelosi trump
+Pelosi has,<UNK> pelosi trump
+Pelosi’s,<UNK> pelosi trump
+Nervous Nancy,nervous nancy pelosi
+McConnell,<UNK> mcconnell trump
+McConnell is,<UNK> mcconnell trump
+McConnell is a,<UNK> mcconnell trump
+McConnell should,<UNK> mcconnell trump
+McConnell needs to,<UNK> mcconnell trump
+McConnell will,<UNK> mcconnell trump
+McConnell has,<UNK> mcconnell trump
+McConnell’s,<UNK> mcconnell trump
+Moscow Mitch,moscow mitch trump
+Obama,<UNK> obama biden
+Obama is,<UNK> obama biden
+Obama was,<UNK> obama biden
+Obama is a,<UNK> obama biden
+Obama should,<UNK> obama biden
+Obama needs to,<UNK> obama biden
+Obama will,<UNK> obama biden
+Obama has,<UNK> obama biden
+Obama administration has,obama administration enforcement
+Obama’s,<UNK> obama biden
+Abortion,<UNK> abortion people
+Abortion should,<UNK> abortion people
+Pro life,pro life people
+Pro choice,pro choice people
+Gun control,gun control people
+Gun control should,gun control people
+UBI,<UNK> ubi dr
+UBI is,<UNK> ubi dr
+Affirmative Action,affirmative action people
+Affirmative Action is,affirmative action people
+Marijuana,<UNK> marijuana people
+Marijuana should,<UNK> marijuana people
+Capital punishment,capital punishment people
+Capital punishment is,capital punishment people
+Military spending,military spending people
+Military Spending should,military spending people
+Military,<UNK> military government
+Military is,<UNK> military government
+Universal healthcare,universal healthcare care
+Universal healthcare is,universal healthcare care
+Obamacare,<UNK> obamacare trump
+Obamacare is,<UNK> obamacare trump
+Medicare For All,<UNK> medicare care
+Medicare For All is,<UNK> medicare care
+The Green New Deal is,green deal people
+Gay marriage,gay marriage people
+Same sex marriage,sex marriage people
+Same sex marriage should,sex marriage people
+Transgender athletes,transgender athletes people
+Trans athletes,trans athletes people
+Trans athletes should,trans athletes people
+Vaccinations should,<UNK> vaccinations people
+evolution,<UNK> evolution people
+impeachment trial,impeachment trial trump
+impeachment trial is,impeachment trial trump
+impeachment trial was,impeachment trial trump
+police,<UNK> police people
+cops,<UNK> cops people
+police are,<UNK> police people
+cops are,<UNK> cops people
+Police brutality,police brutality people
+Police brutality is,police brutality people
+Electoral College,electoral college money
+Electoral College is,electoral college money
+Student debt,student debt money
+Student loans,student loans money
+Student loans should,student loans money
+border wall,border wall people
+border wall is,border wall people
+border wall should,border wall people
+wall,<UNK> wall people
+wall is,<UNK> wall people
+wall should,<UNK> wall people
+Climate change,climate change people
+Climate change is,climate change people
+Immigration,<UNK> immigration government
+Immigration laws,immigration laws people
+Immigration laws should,immigration laws people
+Immigration laws need,immigration laws people
+Immigrants,<UNK> immigrants people
+Immigrants are,<UNK> immigrants people
+Illegal immigrants,illegal immigrants people
+Illegal immigrants are,illegal immigrants people
+Illegals,<UNK> illegals people
+Illegals are,<UNK> illegals people
+Illegals should,<UNK> illegals people
+Colleges,<UNK> colleges people
+Colleges are,<UNK> colleges people
+Big businesses,big businesses people
+Big businesses are,big businesses people
+Corporations,<UNK> corporations money
+Corporations are,<UNK> corporations money
+Big Pharma is,big pharma people
+Pharmaceutical industry is,pharmaceutical industry people
+Big tech,big tech people
+Big tech is,big tech people
+Wall street,wall street people
+Wall street is,wall street people
+Billionaires,<UNK> billionaires people
+Billionaires are,<UNK> billionaires people
+The working class,working class money
+Feminism,<UNK> feminism people
+Feminists are,<UNK> feminists people
+PC culture,pc culture people
+PC culture is,pc culture people
+Bloomberg,<UNK> bloomberg russia
+Bloomberg is,<UNK> bloomberg russia
+Romney,<UNK> romney president
+Romney is,<UNK> romney president
+Free market is,free market people
+Taxes,<UNK> taxes money
+Taxes are,<UNK> taxes money
+Taxes should be,<UNK> taxes money
+Taxes need to be,<UNK> taxes money
+increase taxes on,increase taxes money
+lower taxes for,lower taxes money
+Democrats,<UNK> democrats trump
+Democrats are,<UNK> democrats trump
+Republicans,<UNK> republicans trump
+Republicans are,<UNK> republicans trump
+Dems,<UNK> dems trump
+Dems are,<UNK> dems trump
+GOP,<UNK> gop trump
+GOP is,<UNK> gop trump
+DNC,<UNK> dnc people
+DNC is,<UNK> dnc people
+left,<UNK> left people
+left is,<UNK> left people
+left wing,left wing people
+left win is,left win election
+right,<UNK> <UNK> people
+right is,<UNK> <UNK> people
+right wing,<UNK> wing people
+right wing is,<UNK> wing people
+Liberals,<UNK> liberals people
+Liberals are,<UNK> liberals people
+Conservative,<UNK> conservative people
+Conservatives are,<UNK> conservatives people
+Progressives,<UNK> progressives people
+Progressives are,<UNK> progressives people
+Socialism,<UNK> socialism people
+Socialism is,<UNK> socialism people
+Socialists,<UNK> socialists people
+Socialists are,<UNK> socialists people
+Centrists,<UNK> centrists people
+Centrists are,<UNK> centrists people
+Centrist Democrats,centrist democrats trump
+Centrist Democrats are,centrist democrats trump
+Centrist Republicans,centrist republicans people
+Centrist Republicans are,centrist republicans people
+Democratic socialism,democratic socialism people
+Democratic socialism is,democratic socialism people
+establishment,<UNK> establishment people
+establishment is,<UNK> establishment people
+establishment democrats,establishment democrats trump
+establishment democrats are,establishment democrats trump
+establishment republicans,establishment republicans trump
+establishment republicans are,establishment republicans trump
+Communism,<UNK> communism people
+Communism is,<UNK> communism people
+Communists,<UNK> communists people
+Communist are,<UNK> communist people
+Capitalism,<UNK> capitalism people
+Capitalism is,<UNK> capitalism people
+Whites,<UNK> whites people
+Whites are,<UNK> whites people
+Caucasians,<UNK> caucasians people
+Caucasians are,<UNK> caucasians people
+Blacks,<UNK> blacks people
+Blacks are,<UNK> blacks people
+African Americans,african americans people
+African Americans are,african americans people
+Asians,<UNK> asians people
+Asians are,<UNK> asians people
+Asian Americans,asian americans people
+Asian Americans are,asian americans people
+Latinos,<UNK> latinos people
+Latinos are,<UNK> latinos people
+Hispanic,<UNK> hispanic people
+Hispanics are,<UNK> hispanics people
+Arabs,<UNK> arabs people
+Arabs are,<UNK> arabs people
+LGBT,<UNK> lgbt people
+Homosexuals,<UNK> homosexuals people
+Homosexuals are,<UNK> homosexuals people
+WASPs,<UNK> wasps people
+WASPs are,<UNK> wasps people
+Christianity,<UNK> christianity muslim
+Christians are,<UNK> christians people
+Islam,<UNK> islam million
+Muslims are,<UNK> muslims church
+Judaism,<UNK> judaism people
+Jews are,<UNK> jews people
+Minorities,<UNK> minorities people
+Minorities are,<UNK> minorities people
+Chinese are,<UNK> chinese people
+Indians are,<UNK> indians people
+Mexicans are,<UNK> mexicans people
+Vietnamese are,<UNK> vietnamese people
+The media,<UNK> media trump
+The media is,<UNK> media trump
+The mainstream media,mainstream media people
+The mainstream media is,mainstream media people
+Fake news,fake news https
+Fox news,fox news comment
+Fox news is,fox news comment
+CNN,<UNK> cnn people
+CNN is,<UNK> cnn people
+MSNBC,<UNK> msnbc pool
+MSNBC is,<UNK> msnbc pool
+Sean Hannity,sean hannity people
+Sean Hannity is,sean hannity people
+Anderson Cooper,anderson cooper hill
+Anderson Cooper is,anderson cooper hill
+Hollywood,<UNK> hollywood people
+Hollywood is,<UNK> hollywood people
+ISIS,<UNK> isis trump
+ISIS is,<UNK> isis trump
+Al-Qaeda,al qaeda https
+Al-Qaeda is,al qaeda https
+Russia,<UNK> russia russia
+Russia is,<UNK> russia russia
+Putin,<UNK> putin trump
+Putin is,<UNK> putin trump
+North Korea,north korea government
+North Korea is,north korea government
+Kim Jon Un,kim jon hill
+Kim Jong Un is,kim jong articles
+China,<UNK> china russia
+China is,<UNK> china russia
+India,<UNK> india government
+India is,<UNK> india government
+The Middle East,middle east people
+The Middle East is,middle east people
+Iran,<UNK> iran people
+Iran is,<UNK> iran people
+Iraq,<UNK> iraq government
+Iraq is,<UNK> iraq government
+Afghanistan,<UNK> afghanistan people
+Afghanistan is,<UNK> afghanistan people
+The UK,<UNK> uk fires
+The UK is,<UNK> uk fires
+Boris Johnson,boris johnson obama
+Boris Johnson is,boris johnson obama
+Canada,<UNK> canada usa
+Canada is,<UNK> canada usa
+Mexico,<UNK> mexico government
+Mexico is,<UNK> mexico government
+EU,<UNK> eu dr
+EU is,<UNK> eu dr
+European Union,european union people
+European Union is,european union people
+NATO,<UNK> nato dr
+NATO is,<UNK> nato dr
+Libtards,<UNK> libtards people
+Libtards are,<UNK> libtards people
+Regressive left,regressive left people
+Regressive left is,regressive left people
+Birthers are,<UNK> birthers people

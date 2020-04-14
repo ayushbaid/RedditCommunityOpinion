@@ -1,0 +1,290 @@
+input,output
+Trump is a,<UNK> trump sanders
+Trump should be,<UNK> trump sanders
+Trump needs to,<UNK> trump sanders
+Trump administration has,trump administration people
+MAGA rallies are,maga rallies bernie
+Trump rallies are,trump rallies bernie
+Trump supporters are,trump supporters bernie
+Trump is handling,trump handling people
+Biden is a,<UNK> biden bernie
+Biden needs to,<UNK> biden bernie
+Biden supporters are,biden supporters bernie
+Biden rallies are,biden rallies bernie
+Sanders is a,<UNK> sanders supporters
+Sanders should,<UNK> sanders supporters
+Sanders needs to,<UNK> sanders supporters
+Sanders will,<UNK> sanders supporters
+Sanders has,<UNK> sanders supporters
+Sanders’,<UNK> sanders supporters
+Sander’s supporters are,sander supporters bernie
+Bernie,<UNK> bernie secure
+Bernie is a,<UNK> bernie secure
+Bernie should,<UNK> bernie secure
+Bernie needs to,<UNK> bernie secure
+Bernie will,<UNK> bernie secure
+Bernie has,<UNK> bernie secure
+Bernie’s,<UNK> bernie secure
+Bernie supporters,bernie supporters bernie
+Bernie rallies are,bernie rallies bernie
+Crazy Bernie,crazy bernie sanders
+Pelosi,<UNK> pelosi bernie
+Pelosi is,<UNK> pelosi bernie
+Pelosi is a,<UNK> pelosi bernie
+Pelosi should,<UNK> pelosi bernie
+Pelosi needs to,<UNK> pelosi bernie
+Pelosi will,<UNK> pelosi bernie
+Pelosi has,<UNK> pelosi bernie
+Pelosi’s,<UNK> pelosi bernie
+Nervous Nancy,nervous nancy bernie
+McConnell,<UNK> mcconnell bernie
+McConnell is,<UNK> mcconnell bernie
+McConnell is a,<UNK> mcconnell bernie
+McConnell should,<UNK> mcconnell bernie
+McConnell needs to,<UNK> mcconnell bernie
+McConnell will,<UNK> mcconnell bernie
+McConnell has,<UNK> mcconnell bernie
+McConnell’s,<UNK> mcconnell bernie
+Moscow Mitch,moscow mitch bernie
+Obama,<UNK> obama clinton
+Obama is,<UNK> obama clinton
+Obama was,<UNK> obama clinton
+Obama is a,<UNK> obama clinton
+Obama should,<UNK> obama clinton
+Obama needs to,<UNK> obama clinton
+Obama will,<UNK> obama clinton
+Obama has,<UNK> obama clinton
+Obama administration has,obama administration bernie
+Obama’s,<UNK> obama clinton
+Abortion,<UNK> abortion people
+Abortion should,<UNK> abortion people
+Pro life,pro life people
+Pro choice,pro choice bernie
+Gun control,gun control people
+Gun control should,gun control people
+UBI,<UNK> ubi bernie
+UBI is,<UNK> ubi bernie
+Affirmative Action,affirmative action bernie
+Affirmative Action is,affirmative action bernie
+Marijuana,<UNK> marijuana make
+Marijuana should,<UNK> marijuana make
+Capital punishment,capital punishment people
+Capital punishment is,capital punishment people
+Military spending,military spending people
+Military Spending should,military spending people
+Military,<UNK> military policy
+Military is,<UNK> military policy
+Universal healthcare,universal healthcare system
+Universal healthcare is,universal healthcare system
+Obamacare,<UNK> obamacare people
+Obamacare is,<UNK> obamacare people
+Medicare For All,<UNK> medicare system
+Medicare For All is,<UNK> medicare system
+The Green New Deal is,green deal people
+Gay marriage,gay marriage people
+Same sex marriage,sex marriage free
+Same sex marriage should,sex marriage free
+Transgender athletes,transgender athletes people
+Trans athletes,trans athletes people
+Trans athletes should,trans athletes people
+Vaccinations should,<UNK> vaccinations people
+evolution,<UNK> evolution bernie
+impeachment trial,impeachment trial people
+impeachment trial is,impeachment trial people
+impeachment trial was,impeachment trial people
+police,<UNK> police people
+cops,<UNK> cops people
+police are,<UNK> police people
+cops are,<UNK> cops people
+Police brutality,police brutality people
+Police brutality is,police brutality people
+Electoral College,electoral college people
+Electoral College is,electoral college people
+Student debt,student debt free
+Student loans,student loans free
+Student loans should,student loans free
+border wall,border wall street
+border wall is,border wall street
+border wall should,border wall street
+wall,<UNK> wall street
+wall is,<UNK> wall street
+wall should,<UNK> wall street
+Climate change,climate change bernie
+Climate change is,climate change bernie
+Immigration,<UNK> immigration system
+Immigration laws,immigration laws people
+Immigration laws should,immigration laws people
+Immigration laws need,immigration laws people
+Immigrants,<UNK> immigrants people
+Immigrants are,<UNK> immigrants people
+Illegal immigrants,illegal immigrants people
+Illegal immigrants are,illegal immigrants people
+Illegals,<UNK> illegals vote
+Illegals are,<UNK> illegals vote
+Illegals should,<UNK> illegals vote
+Colleges,<UNK> colleges free
+Colleges are,<UNK> colleges free
+Big businesses,big businesses pay
+Big businesses are,big businesses pay
+Corporations,<UNK> corporations people
+Corporations are,<UNK> corporations people
+Big Pharma is,big pharma companies
+Pharmaceutical industry is,pharmaceutical industry people
+Big tech,big tech people
+Big tech is,big tech people
+Wall street,wall street bernie
+Wall street is,wall street bernie
+Billionaires,<UNK> billionaires people
+Billionaires are,<UNK> billionaires people
+The working class,working class people
+Feminism,<UNK> feminism people
+Feminists are,<UNK> feminists bernie
+PC culture,pc culture people
+PC culture is,pc culture people
+Bloomberg,<UNK> bloomberg secure
+Bloomberg is,<UNK> bloomberg secure
+Romney,<UNK> romney bernie
+Romney is,<UNK> romney bernie
+Free market is,free market pay
+Taxes,<UNK> taxes people
+Taxes are,<UNK> taxes people
+Taxes should be,<UNK> taxes people
+Taxes need to be,<UNK> taxes people
+increase taxes on,increase taxes people
+lower taxes for,lower taxes people
+Democrats,<UNK> democrats bernie
+Democrats are,<UNK> democrats bernie
+Republicans,<UNK> republicans bernie
+Republicans are,<UNK> republicans bernie
+Dems,<UNK> dems bernie
+Dems are,<UNK> dems bernie
+GOP,<UNK> gop bernie
+GOP is,<UNK> gop bernie
+DNC,<UNK> dnc bernie
+DNC is,<UNK> dnc bernie
+left,<UNK> left people
+left is,<UNK> left people
+left wing,left wing party
+left win is,left win bernie
+right,<UNK> <UNK> people
+right is,<UNK> <UNK> people
+right wing,<UNK> wing vote
+right wing is,<UNK> wing vote
+Liberals,<UNK> liberals bernie
+Liberals are,<UNK> liberals bernie
+Conservative,<UNK> conservative bernie
+Conservatives are,<UNK> conservatives bernie
+Progressives,<UNK> progressives bernie
+Progressives are,<UNK> progressives bernie
+Socialism,<UNK> socialism people
+Socialism is,<UNK> socialism people
+Socialists,<UNK> socialists bernie
+Socialists are,<UNK> socialists bernie
+Centrists,<UNK> centrists vote
+Centrists are,<UNK> centrists vote
+Centrist Democrats,centrist democrats bernie
+Centrist Democrats are,centrist democrats bernie
+Centrist Republicans,centrist republicans bernie
+Centrist Republicans are,centrist republicans bernie
+Democratic socialism,democratic socialism people
+Democratic socialism is,democratic socialism people
+establishment,<UNK> establishment system
+establishment is,<UNK> establishment system
+establishment democrats,establishment democrats bernie
+establishment democrats are,establishment democrats bernie
+establishment republicans,establishment republicans bernie
+establishment republicans are,establishment republicans bernie
+Communism,<UNK> communism people
+Communism is,<UNK> communism people
+Communists,<UNK> communists people
+Communist are,<UNK> communist people
+Capitalism,<UNK> capitalism people
+Capitalism is,<UNK> capitalism people
+Whites,<UNK> whites people
+Whites are,<UNK> whites people
+Blacks,<UNK> blacks people
+Blacks are,<UNK> blacks people
+African Americans,african americans people
+African Americans are,african americans people
+Asians,<UNK> asians people
+Asians are,<UNK> asians people
+Asian Americans,asian americans people
+Asian Americans are,asian americans people
+Latinos,<UNK> latinos people
+Latinos are,<UNK> latinos people
+Hispanic,<UNK> hispanic people
+Hispanics are,<UNK> hispanics people
+Arabs,<UNK> arabs people
+Arabs are,<UNK> arabs people
+LGBT,<UNK> lgbt people
+Homosexuals,<UNK> homosexuals people
+Homosexuals are,<UNK> homosexuals people
+Christianity,<UNK> christianity people
+Christians are,<UNK> christians people
+Islam,<UNK> islam people
+Muslims are,<UNK> muslims people
+Judaism,<UNK> judaism people
+Jews are,<UNK> jews people
+Minorities,<UNK> minorities people
+Minorities are,<UNK> minorities people
+Chinese are,<UNK> chinese people
+Indians are,<UNK> indians people
+Mexicans are,<UNK> mexicans people
+The media,<UNK> media refused
+The media is,<UNK> media refused
+The mainstream media,mainstream media bernie
+The mainstream media is,mainstream media bernie
+Fake news,fake news bernie
+Fox news,fox news bernie
+Fox news is,fox news bernie
+CNN,<UNK> cnn sanders
+CNN is,<UNK> cnn sanders
+MSNBC,<UNK> msnbc secure
+MSNBC is,<UNK> msnbc secure
+Anderson Cooper,anderson cooper sanders
+Anderson Cooper is,anderson cooper sanders
+Hollywood,<UNK> hollywood people
+Hollywood is,<UNK> hollywood people
+ISIS,<UNK> isis bernie
+ISIS is,<UNK> isis bernie
+Al-Qaeda,al qaeda bernie
+Al-Qaeda is,al qaeda bernie
+Russia,<UNK> russia people
+Russia is,<UNK> russia people
+Putin,<UNK> putin people
+Putin is,<UNK> putin people
+North Korea,north korea system
+North Korea is,north korea system
+Kim Jon Un,kim jon yang
+Kim Jong Un is,kim jong bernie
+China,<UNK> china people
+China is,<UNK> china people
+India,<UNK> india people
+India is,<UNK> india people
+The Middle East,middle east people
+The Middle East is,middle east people
+Iran,<UNK> iran bernie
+Iran is,<UNK> iran bernie
+Iraq,<UNK> iraq vote
+Iraq is,<UNK> iraq vote
+Afghanistan,<UNK> afghanistan trump
+Afghanistan is,<UNK> afghanistan trump
+The UK,<UNK> uk people
+The UK is,<UNK> uk people
+Boris Johnson,boris johnson secure
+Boris Johnson is,boris johnson secure
+Canada,<UNK> canada people
+Canada is,<UNK> canada people
+Mexico,<UNK> mexico people
+Mexico is,<UNK> mexico people
+EU,<UNK> eu countries
+EU is,<UNK> eu countries
+European Union,european union people
+European Union is,european union people
+NATO,<UNK> nato people
+NATO is,<UNK> nato people
+Libtards,<UNK> libtards people
+Libtards are,<UNK> libtards people
+Regressive left,regressive left people
+Regressive left is,regressive left people
+Birthers are,<UNK> birthers bernie

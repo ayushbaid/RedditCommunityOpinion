@@ -18,11 +18,17 @@ def get_vocab_set(inp: List[str]) -> Set[str]:
     return vocab_set
 
 
-def convert_sentence_to_ngrams(inp_sentence: str, n_param=3) -> List[str]:
+def convert_sentence_to_ngrams(inp_sentence: str, n_param=3, add_unknown=False) -> List[str]:
     '''
     Convert the input sentence to trigrams using a tokenizer
     '''
-    return everygrams(wordpunct_tokenize(inp_sentence), min_len=n_param, max_len=n_param)
+    tokenized_input = wordpunct_tokenize(inp_sentence)
+
+    # and an unknown token behind the
+    if add_unknown:
+        tokenized_input = ['<UNK>'] + tokenized_input
+
+    return everygrams(tokenized_input, min_len=n_param, max_len=n_param)
 
 
 def embed_words(inp_words: List[str], word2vec_model) -> torch.FloatTensor:
@@ -32,7 +38,8 @@ def embed_words(inp_words: List[str], word2vec_model) -> torch.FloatTensor:
     '''
     try:
         return torch.FloatTensor(
-            np.hstack([word2vec_model[word] for word in inp_words])
+            np.hstack([word2vec_model[word] if word !=
+                       '<UNK>' else np.zeros((300,)) for word in inp_words])
         )
     except KeyError:
         return None

@@ -1,4 +1,3 @@
-# coding=utf-8
 # Copyright 2018 The Google AI Language Team Authors and The HuggingFace Inc. team.
 # Copyright (c) 2018, NVIDIA CORPORATION.  All rights reserved.
 #
@@ -618,7 +617,7 @@ def main(config):
 
     parser.add_argument(
         "--block_size",
-        default=-1,
+        default=25,
         type=int,
         help="Optional input sequence length after tokenization."
         "The training dataset will be truncated in block of this size for training."
@@ -626,20 +625,20 @@ def main(config):
     )
 
     parser.add_argument(
-        "--evaluate_during_training", default=True, type=bool, help="Run evaluation during training at each logging step."
+        "--evaluate_during_training", default=False, type=bool, help="Run evaluation during training at each logging step."
     )
 
-    parser.add_argument("--per_gpu_train_batch_size", default=1,
+    parser.add_argument("--per_gpu_train_batch_size", default=16,
                         type=int, help="Batch size per GPU/CPU for training.")
 
     parser.add_argument(
-        "--per_gpu_eval_batch_size", default=1, type=int, help="Batch size per GPU/CPU for evaluation."
+        "--per_gpu_eval_batch_size", default=16, type=int, help="Batch size per GPU/CPU for evaluation."
     )
 
     parser.add_argument(
         "--gradient_accumulation_steps",
         type=int,
-        default=5,
+        default=3,
         help="Number of updates steps to accumulate before performing a backward/update pass.",
     )
 
@@ -674,7 +673,7 @@ def main(config):
     parser.add_argument(
         "--save_total_limit",
         type=int,
-        default=None,
+        default=3,
         help="Limit the total amount of checkpoints, delete the older checkpoints in the output_dir, does not delete by default",
     )
 
@@ -958,14 +957,16 @@ if __name__ == "__main__":
                 raw_data = np.load(file_name)
 
                 for entry in raw_data:
-                    f.write(entry.encode('utf-8', 'ignore').decode() + '\n')
+                    # f.write(entry.encode('utf-8', 'ignore').decode() + '\n')
+                    f.write(entry + '\n')
 
         with open(val_file, 'w', encoding='utf-8') as f:
             for file_name in val_files:
                 raw_data = np.load(file_name)
 
                 for entry in raw_data:
-                    f.write(entry.encode('utf-8', 'ignore').decode() + '\n')
+                    # f.write(entry.encode('utf-8', 'ignore').decode() + '\n')
+                    f.write(entry + '\n')
 
         model_output_path = model_output_template.format(subreddit)
         if not os.path.exists(model_output_path):

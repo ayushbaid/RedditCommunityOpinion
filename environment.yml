@@ -3,6 +3,7 @@ channels:
   - pytorch
   - conda-forge
   - defaults
+  - fastai
 dependencies:
   - python=3.7
   - torchvision
@@ -20,7 +21,19 @@ dependencies:
   - textblob
   - fastai
   - tensorboardx
+  - pip
   - pip:
     - transformers
-prefix: /home/ayush/install/anaconda3/envs/rco
+    - click
+    - joblib
+    - praw
+    - prawcore
+    - psaw
+    - pyqt5-sip
+    - pyqtwebengine
+    - regex
+    - sacremoses
+    - sentencepiece
+    - tokenizers
+    - transformers
 
